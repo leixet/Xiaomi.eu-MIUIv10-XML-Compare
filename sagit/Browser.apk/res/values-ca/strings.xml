@@ -824,7 +824,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Check your %s1proxy settings%s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Clear cache (%s1Settings%s2 - Clear data).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Clear cache and cookies (%s1Settings%s2 - Clear data, your account info may be lost).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Esborra memòria cau i galetes (%s1Configuració%s2 - Esborra dades, la informació del vostre compte es podria perdre).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Esborreu la memòria cau i les galetes (es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Esborra la memòria cau.</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
@@ -1295,7 +1295,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="share_page_text">Mireu el que he compartit: %1$s @MIUI| %2$s</string>
   <string name="share_video">Share video</string>
   <string name="short_video_description">Video channel</string>
-  <string name="short_video_tip">Look! Fun video</string>
+  <string name="short_video_tip">Mireu! Vídeo divertit</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Recollirem i utilitzarem les vostres dades personals si voleu utilitzar els nostres serveis.
 A continuació, es detallen les dades que recollirem:
 1. URLs segurs: recollirem les URL dels llocs web que visiteu mentre utilitzeu els nostres serveis.
