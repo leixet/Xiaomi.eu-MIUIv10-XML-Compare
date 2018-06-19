@@ -19,7 +19,7 @@
   <string name="bugreport_tool_log_dumping_title">Creating bug report</string>
   <string name="close_feedback_main">Hide</string>
   <string name="cta_cancel">Cancel</string>
-  <string name="cta_confirm">OK</string>
+  <string name="cta_confirm">D\'acord</string>
   <string name="cta_dialog_content">This app needs to connect to the internet to work normally.</string>
   <string name="cta_dialog_title">Internet connection</string>
   <string name="cta_not_show_again">"Don't show again"</string>
@@ -202,7 +202,7 @@
   <string name="michat_service_unavailiable">"Couldn't get info, try again later"</string>
   <string name="michat_skillset_business_type_title">Select service</string>
   <string name="michat_skillset_product_title">Select product</string>
-  <string name="michat_transfer_message">Looking for a person to help you…</string>
+  <string name="michat_transfer_message">S\'està cercant a una persona que us ajudi…</string>
   <string name="michat_try_again">Try again</string>
   <string name="michat_type_list_null">"Couldn't get info, try again later"</string>
   <string name="michat_type_picture">Image</string>
@@ -250,7 +250,7 @@
   <string name="network_errortip_server">A server error occurred, try again later</string>
   <string name="network_errortip_timeout">Connection timed out, try again later</string>
   <string name="network_errortip_unknow">"We're trying to fix it…"</string>
-  <string name="network_unavailable_dialog_button_ok">OK</string>
+  <string name="network_unavailable_dialog_button_ok">D\'acord</string>
   <string name="network_unavailable_dialog_content">Your report will be sent when you have a data connection.</string>
   <string name="network_unavailable_dialog_title">"Can't connect to the network"</string>
   <string name="non_system_app_select">Downloaded apps</string>
