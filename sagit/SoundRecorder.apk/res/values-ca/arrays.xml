@@ -10,18 +10,18 @@
     <item>AMR</item>
   </string-array>
   <string-array name="record_scenes_entries">
-    <item>Music</item>
-    <item>Voice</item>
+    <item>Música</item>
+    <item>Veu</item>
   </string-array>
   <string-array name="interview_record_scenes_entries">
-    <item>Music</item>
-    <item>Voice</item>
-    <item>Interview</item>
+    <item>Música</item>
+    <item>Veu</item>
+    <item>Entrevista</item>
   </string-array>
   <string-array name="hd_record_scenes_entries">
-    <item>Music</item>
-    <item>Voice</item>
-    <item>Interview</item>
+    <item>Música</item>
+    <item>Veu</item>
+    <item>Entrevista</item>
     <item>HD</item>
   </string-array>
   <string-array name="record_scenes_values">
@@ -31,21 +31,21 @@
     <item>4</item>
   </string-array>
   <string-array name="record_scenes_summaries">
-    <item>Record music with better quality</item>
-    <item>Move the mic closer to the source of the sound for better quality</item>
-    <item>Place the phone between 2 people to record their conversation clearly</item>
-    <item>High dynamic range technology allows the microphone to capture more detailed sound</item>
+    <item>Enregistra utilitzant 2 canals, escolta el so estèreo en els auriculars</item>
+    <item>Moveu el micròfon prop de la font de so per obtenir millor qualitat</item>
+    <item>Col·loqueu el telèfon entre dues persones per enregistrar-les clarament a ambdues</item>
+    <item>La distància màxima efectiva del micròfon és de 10 metres</item>
   </string-array>
   <string-array name="record_scenes_summaries_stereo">
-    <item>Record through 2 channels, listen to stereo sound in the earphones</item>
-    <item>Move the mic closer to the source of the sound for better quality</item>
-    <item>Place the phone between 2 people to record their conversation clearly</item>
-    <item>High dynamic range technology allows the microphone to capture more detailed sound</item>
+    <item>Enregistra utilitzant 2 canals, escolta el so estèreo en els auriculars</item>
+    <item>Moveu el micròfon prop de la font de so per obtenir millor qualitat</item>
+    <item>Col·loqueu el telèfon entre dues persones per enregistrar-les clarament a ambdues</item>
+    <item>La tecnologia d\'alt rang dinàmic permet al micròfon capturar un so més detallat</item>
   </string-array>
   <string-array name="record_quality_entries">
-    <item>High</item>
-    <item>Standard</item>
-    <item>Low</item>
+    <item>Alta</item>
+    <item>Normal</item>
+    <item>Baixa</item>
   </string-array>
   <string-array name="record_quality_values">
     <item>1</item>
@@ -53,9 +53,9 @@
     <item>3</item>
   </string-array>
   <string-array name="record_quality_summaries">
-    <item>MP3, ~192kbit/s, ~90MB/h</item>
-    <item>MP3, ~100kbit/s, ~45MB/h</item>
-    <item>MP3, ~75kbit/s, ~32MB/h</item>
+    <item>MP3, ~ 192kbit/s, ~90MB/h</item>
+    <item>MP3, ~ 100kbit/s, ~45MB/h</item>
+    <item>MP3, ~ 75kbit/s, ~32MB/h</item>
   </string-array>
   <string-array name="record_locale_language">
     <item>fa</item>
