@@ -26,32 +26,32 @@
     <item>%1$s</item>
   </string-array>
   <string-array name="day_time_space">
-    <item>Night</item>
-    <item>Early morning</item>
-    <item>Morning</item>
-    <item>Midday</item>
-    <item>Afternoon</item>
-    <item>Late afternoon</item>
-    <item>Evening</item>
+    <item>Nit</item>
+    <item>Primera hora del matí</item>
+    <item>Matí</item>
+    <item>Migdia</item>
+    <item>Tarda</item>
+    <item>Última hora de la tarda</item>
+    <item>Vespre</item>
   </string-array>
   <string-array name="detail_font_size">
-    <item>Small</item>
-    <item>Regular</item>
-    <item>Large</item>
+    <item>Petita</item>
+    <item>Normal</item>
+    <item>Gran</item>
   </string-array>
   <string-array name="express_status_all">
-    <item>On the way</item>
-    <item>Dispatching</item>
-    <item>Sent</item>
-    <item>Unknown</item>
-    <item>Recevied</item>
-    <item>Rejected</item>
-    <item>Returned</item>
-    <item>Unknown</item>
+    <item>De camí</item>
+    <item>En tramitació</item>
+    <item>Entregat</item>
+    <item>Desconegut</item>
+    <item>Rebut</item>
+    <item>Rebutjat</item>
+    <item>En devolució</item>
+    <item>Desconegut</item>
   </string-array>
   <string-array name="express_status_detail">
-    <item>On the way</item>
-    <item>Dispatching</item>
+    <item>De camí</item>
+    <item>En tramitació</item>
   </string-array>
   <string-array name="express_status_detail_flag">
     <item>0</item>
@@ -68,8 +68,8 @@
     <item>-1</item>
   </string-array>
   <string-array name="stock_color_schema">
-    <item>Red - up, green - down</item>
-    <item>Green - up, red - down</item>
+    <item>Vermell - amunt, verd - avall</item>
+    <item>Verd - amunt, vermell - avall</item>
   </string-array>
   <string-array name="alipay_CountryCodes">
     <item>93,AF</item>
