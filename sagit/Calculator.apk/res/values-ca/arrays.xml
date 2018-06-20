@@ -21,27 +21,27 @@
     <item>=</item>
   </string-array>
   <string-array name="operatorDescs">
-    <item>left parenthesis</item>
-    <item>right parenthesis</item>
+    <item>parèntesi esquerre</item>
+    <item>parèntesi dret</item>
     <item>factorial</item>
-    <item>natural logarithm</item>
-    <item>logarithm</item>
-    <item>square root</item>
-    <item>divided by</item>
-    <item>multiplied by</item>
-    <item>plus</item>
-    <item>minus</item>
-    <item> point </item>
-    <item>power</item>
+    <item>logaritme natural</item>
+    <item>logaritme</item>
+    <item>arrel quadrada</item>
+    <item>dividit entre</item>
+    <item>multiplicat per</item>
+    <item>més</item>
+    <item>menys</item>
+    <item>punt</item>
+    <item>potència</item>
     <item>tangent</item>
-    <item>sine</item>
-    <item>cosine</item>
+    <item>sinus</item>
+    <item>cosinus</item>
     <item>pi</item>
-    <item>equals</item>
+    <item>és igual a</item>
   </string-array>
   <string-array name="mortgage_repayment">
-    <item>Equal installments</item>
-    <item>Decreasing installments</item>
+    <item>Quotes iguals</item>
+    <item>Quotes decreixents</item>
   </string-array>
   <string-array name="unit_data_order_currency_">
     <item>USD</item>
