@@ -13,7 +13,7 @@
   <string name="accounts">Comptes i sincronització</string>
   <string name="acct_not_synced">"Aquest compte no s'està sincronitzant. Pot ser que el vostre calendari no estigui actualitzat."</string>
   <string name="acessibility_selected_marker_description">Esdeveniment seleccionat</string>
-  <string name="action_bar_date_button_title">Calculate date</string>
+  <string name="action_bar_date_button_title">Calcula la data</string>
   <string name="action_bar_more_menu_view_description">Més</string>
   <string name="action_bar_return">Retorna</string>
   <string name="action_text_card_manager">Canal</string>
@@ -43,10 +43,10 @@
   <string name="alert_reminder_expired">Caducat</string>
   <string name="alert_title">Notificacions del calendari</string>
   <string name="anniversary_event_title">Commemoració: %1$s</string>
-  <string name="anniversary_secondary_tag">Anniversary</string>
+  <string name="anniversary_secondary_tag">Aniversari</string>
   <string name="app_label">Calendari</string>
   <string name="app_name">comú</string>
-  <string name="birthday_born">birth date</string>
+  <string name="birthday_born">data de naixement</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
   <string name="birthday_event_description_a_week_ago">Fa una setmana</string>
   <string name="birthday_event_description_a_week_later">Falta una setmana per</string>
@@ -96,7 +96,7 @@
   <string name="countdown_event_title">[Countdown]%1$s</string>
   <string name="countdown_notify_before_3_day_title">[Countdown]%1$s en 3 dies</string>
   <string name="countdown_notify_title">[Countdown]%1$s</string>
-  <string name="countdown_secondary_tag">Countdown</string>
+  <string name="countdown_secondary_tag">Compte enrere</string>
   <string name="countdown_today">Avui</string>
   <string name="create_an_account_desc">"El Calendari funciona millor amb un compte Mi.
 
@@ -119,7 +119,7 @@
   <string name="date_calculate_description">Coneixeu quina data és abans o després d\'un cert dia</string>
   <string name="date_calculate_direction">Direcció</string>
   <string name="date_calculate_direction_content_description">La adreça actual és %1s</string>
-  <string name="date_calculate_hint">Learn what date it is after a number of days</string>
+  <string name="date_calculate_hint">Saber la data després d\'un nombre de dies</string>
   <string name="date_calculate_result">Resultat</string>
   <string name="date_calculate_tab">Calcula la data</string>
   <string name="date_calculate_today">0 dies</string>
@@ -129,8 +129,8 @@
   <string name="date_interval_start">Des de</string>
   <string name="date_interval_tab">Interval</string>
   <string name="date_interval_text_to">A %1$s</string>
-  <string name="date_jump_hint">Jump to a certain day directly</string>
-  <string name="date_jump_title">Jump to date</string>
+  <string name="date_jump_hint">Aneu directament a un dia</string>
+  <string name="date_jump_title">Vés a la data</string>
   <string name="date_pattern_mm_dd">d-M</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">"(avui)"</string>
@@ -160,7 +160,7 @@
   <string name="edit_event_birthday_import_from_contact">Importa aniversaris dels contactes</string>
   <string name="edit_event_birthday_name_empty_hint">Introduïu un nom</string>
   <string name="edit_event_birthday_name_hint">Nom</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Recorda-ho també 3 dies abans</string>
   <string name="edit_event_birthday_reminder_time">Hora de recordatori</string>
   <string name="edit_event_calendar_label">Calendari</string>
   <string name="edit_event_choose_date">Trieu la data</string>
@@ -446,9 +446,9 @@
   <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
   <string name="phone_num">电话</string>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
+  <string name="prefDefault_alerts_vibrateWhen">mai</string>
+  <string name="prefDefault_alerts_vibrate_false">mai</string>
+  <string name="prefDefault_alerts_vibrate_true">sempre</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
   <string name="pref_error_no_ringtone_select">To de trucada per defecte</string>
   <string name="pref_reminder_time">Moment de recordatori</string>
