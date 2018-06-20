@@ -279,11 +279,11 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="perm_location">Ubicació</string>
   <string name="perm_read_call_log">Llegir el registre de trucades</string>
   <string name="perm_read_contacts">Llegir contactes</string>
-  <string name="perm_read_phone_state">"Read phone's status"</string>
-  <string name="perm_read_sms">Read SMS</string>
+  <string name="perm_read_phone_state">"Llegir l'estat del telèfon"</string>
+  <string name="perm_read_sms">Llegir SMS</string>
   <string name="perm_storage">Read and write on external storage</string>
-  <string name="platform_chooser_item_android_mi">Mi phone</string>
-  <string name="platform_chooser_item_android_others">Other brands</string>
+  <string name="platform_chooser_item_android_mi">Telèfon Mi</string>
+  <string name="platform_chooser_item_android_others">Altres marques</string>
   <string name="platform_chooser_item_ios">Importa des d\'un dispositiu iOS</string>
   <string name="platform_chooser_title">Trieu un dispositiu antic</string>
   <string name="progress_backup_hint">S\'està fent una còpia de seguretat…</string>
@@ -356,8 +356,8 @@ Allibera %s com a mínim. "</string>
   <string name="start_restore">Restaura</string>
   <string name="state_mounting">S\'està accedint a l\'emmagatzematge de l\'encaminador…</string>
   <string name="state_waiting">Un moment…</string>
-  <string name="storage_sd_card">SD card</string>
-  <string name="storage_usb">USB drive</string>
+  <string name="storage_sd_card">Targeta SD</string>
+  <string name="storage_usb">Unitat USB</string>
   <string name="succ_description">Amb èxit</string>
   <string name="succeed">Completada</string>
   <string name="summary_err_backup_encrypting">Inicia la sessió al Compte Mi.</string>
@@ -398,7 +398,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant…</string>
   <string name="trans_button_cancel">Cancel·la</string>
   <string name="trans_calculating">S\'està calculant…</string>
-  <string name="trans_calculating_app_sd_description">Data on SD card</string>
+  <string name="trans_calculating_app_sd_description">Dades de la targeta SD</string>
   <string name="trans_calculating_media_description">Media files</string>
   <string name="trans_calculating_tip">Calculating %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
