@@ -31,17 +31,17 @@
     <item>Z</item>
   </string-array>
   <string-array name="account_user_gender_name">
-    <item>Male</item>
-    <item>Female</item>
+    <item>Home</item>
+    <item>Dona</item>
   </string-array>
   <string-array name="education">
-    <item>Middle school</item>
-    <item>Prep school</item>
-    <item>High school</item>
-    <item>Vocational school</item>
-    <item>"Bachelor's degree"</item>
-    <item>"Master's degree"</item>
-    <item>"Doctor's degree"</item>
+    <item>Secundària</item>
+    <item>Escola de repàs</item>
+    <item>Batxillerat</item>
+    <item>Escola complementària</item>
+    <item>"Universitat"</item>
+    <item>"Màster"</item>
+    <item>"Doctorat"</item>
   </string-array>
   <string-array name="income">
     <item>&lt; USD 300</item>
