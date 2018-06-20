@@ -36,9 +36,9 @@
     <item>60</item>
   </string-array>
   <string-array name="screenrecorder_settings_orientation">
-    <item>Auto</item>
-    <item>Portrait</item>
-    <item>Landscape</item>
+    <item>Automàtica</item>
+    <item>Vertical</item>
+    <item>Horitzontal</item>
   </string-array>
   <string-array name="screenrecorder_settings_orientation_values">
     <item>0</item>
@@ -71,9 +71,9 @@
     <item>480</item>
   </string-array>
   <string-array name="screenrecorder_settings_sound">
-    <item>Mute</item>
-    <item>Mic</item>
-    <item>System sounds</item>
+    <item>Sense so</item>
+    <item>So del micròfon</item>
+    <item>Altaveu</item>
   </string-array>
   <string-array name="screenrecorder_settings_sound_values">
     <item>0</item>
