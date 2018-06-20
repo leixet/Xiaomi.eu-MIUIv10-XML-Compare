@@ -251,17 +251,17 @@
     <item>PERMISSION_ACCESS_LOCATION</item>
   </string-array>
   <string-array name="cta_permission_names">
-    <item>access network</item>
-    <item>read SMS</item>
-    <item>modify SMS</item>
-    <item>receive SMS</item>
-    <item>send SMS</item>
-    <item>call phone</item>
-    <item>read contacts</item>
-    <item>modify contacts</item>
-    <item>read call log</item>
-    <item>modify call log</item>
-    <item>access camera</item>
-    <item>access location</item>
+    <item>accedir a la xarxa</item>
+    <item>llegir SMS</item>
+    <item>modificar SMS</item>
+    <item>rebre SMS</item>
+    <item>enviar SMS</item>
+    <item>trucar a un telèfon</item>
+    <item>llegir contactes</item>
+    <item>modificar contactes</item>
+    <item>llegir el registre de trucades</item>
+    <item>modificar el registre de trucades</item>
+    <item>accedir a la càmera</item>
+    <item>accedir a la ubicació</item>
   </string-array>
 </resources>
