@@ -100,16 +100,16 @@
     <item>@string/mediasize_standard_japan</item>
   </string-array>
   <string-array name="color_mode_labels">
-    <item>Black &amp; White</item>
+    <item>Blanc i negre</item>
     <item>Color</item>
   </string-array>
   <string-array name="duplex_mode_labels">
-    <item>None</item>
-    <item>Long edge</item>
-    <item>Short edge</item>
+    <item>Cap</item>
+    <item>Vora llarga</item>
+    <item>Vora curta</item>
   </string-array>
   <string-array name="orientation_labels">
-    <item>Portrait</item>
-    <item>Landscape</item>
+    <item>Vertical</item>
+    <item>Apaïsat</item>
   </string-array>
 </resources>
