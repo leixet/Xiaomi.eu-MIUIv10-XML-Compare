@@ -208,6 +208,8 @@
   <string name="change_to_face_mode">Ordena per persones</string>
   <string name="change_to_photo_mode">Ordena per àlbums</string>
   <string name="change_to_visible">Voleu restaurar aquesta persona?</string>
+  <string name="checked">Selected</string>
+  <string name="checked_something">Selected %s</string>
   <string name="choose_baby_sexy">Gènere</string>
   <string name="choose_owner_relation">Relació</string>
   <string name="choose_people">"Trieu l'àlbum d'una persona"</string>
@@ -751,6 +753,7 @@
   <string name="enable_face_album_summary">Ordena automàticament les fotos per les persones que hi apareixen</string>
   <string name="enable_face_album_title">Ordena per persones</string>
   <string name="enabling_face_feature">Un moment…</string>
+  <string name="enter_choice_mode">Entered Share dialog</string>
   <string name="enter_email_hint">Introduïu l\'adreça de correu</string>
   <string name="error_album_not_exist">"L'àlbum no existeix"</string>
   <string name="error_build_thumbnail_action">Baixa l\'arxiu original</string>
@@ -814,6 +817,7 @@
   <string name="error_unknown_msg">S\'ha produït un error. Envieu-nos el vostre feedback.</string>
   <string name="error_unknown_tip">S\'ha produït un error.</string>
   <string name="exit">Surt</string>
+  <string name="exit_choice_mode">Left Share dialog</string>
   <string name="exit_share">Surt de l\'àlbum</string>
   <string name="exit_share_failed">"No es pot sortir de %1$s"</string>
   <string name="exit_share_in_process">S\'està sortint&#8230;</string>
@@ -848,6 +852,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="fancy_color_desc">Colors</string>
   <string name="fast_share_auto_render">Embelleix</string>
   <string name="fast_share_auto_render_finish">Embellit</string>
+  <string name="feature_guidance_photo_effects">Photo effects</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter_bi_memory">Memòria</string>
   <string name="filter_bi_mono">Mono</string>
@@ -950,6 +955,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="image_invalid_path">La ruta no és vàlida</string>
   <string name="image_not_found">"No es pot trobar la imatge"</string>
   <string name="image_quota_fulfiled">Massa imatges. Esborreu-ne algunes i torneu a provar-ho.</string>
+  <string name="image_with_time">Photo taken on %s</string>
+  <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
   <string name="impunity_declaration_settings">Notificació de connexió a Internet</string>
   <string name="impunity_declaration_summary">Mostra una notificació de connexió a Internet cada vegada que s\'obre l\'aplicació Galeria</string>
   <string name="initializing_cloud">S\'està inicialitzant…</string>
@@ -1443,6 +1450,7 @@ per personalitzar la galeria"</string>
   <string name="sticker_words">Paraules</string>
   <string name="storage_description_primary">Emmagatzematge intern</string>
   <string name="storage_description_sdcard">Targeta SD</string>
+  <string name="storage_description_usb">USB storage</string>
   <string name="storage_description_xspace">Dades d\'aplicacions duals</string>
   <string name="storage_no_space">No hi ha prou espai</string>
   <string name="sub_discard_confirm_message">Voleu desar els canvis?</string>
@@ -1508,6 +1516,8 @@ per personalitzar la galeria"</string>
   <string name="turn_off_and_move">Desactiva i mou</string>
   <string name="turn_on_and_remove">Activa i mou</string>
   <string name="turn_on_sync">Activa la sincronització</string>
+  <string name="unchecked">Deselected</string>
+  <string name="unchecked_something">Deselected %s</string>
   <string name="unpublish_failed">"No s'ha pogut anul·lar la publicació"</string>
   <string name="unpublish_succeeded">Publicació d\'àlbum retirada</string>
   <string name="unpublishing">S\'està cancel·lant&#8230;</string>
@@ -1614,6 +1624,8 @@ per personalitzar la galeria"</string>
   <string name="video_editor_watermark">Watermark</string>
   <string name="video_err">"No es pot reproduir el vídeo"</string>
   <string name="video_not_exist">"El vídeo no existeix"</string>
+  <string name="video_with_time">Video taken on %s</string>
+  <string name="video_with_time_and_location">Video taken on %1$s. Location: %2$s.</string>
   <string name="view_by_gallery_tip">Galeria de MIUI</string>
   <string name="view_face_album">Veure àlbum</string>
   <string name="view_more_face_desc">View more people</string>
