@@ -200,7 +200,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
 1. Utilitzar un compte diferent.
 2. Moure els elements al Primer espai."</string>
   <string name="micloud_main_multi_user_error_title">Error de Mi Cloud</string>
-  <string name="micloud_main_network_abnormal">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="micloud_main_network_abnormal">No s\'ha pogut connectar a la xarxa</string>
   <string name="micloud_main_network_error">"No s'ha pogut connectar a la xarxa "</string>
   <string name="micloud_main_query_again">Envieu una altra sol·licitud</string>
   <string name="micloud_main_query_error_message">"No es pot garantir si la sincronització està acabada"</string>
