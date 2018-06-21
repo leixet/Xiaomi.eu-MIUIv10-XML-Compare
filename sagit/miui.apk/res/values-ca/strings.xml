@@ -15,6 +15,7 @@
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">Aniversari</string>
+  <string name="cancel_description">Cancel</string>
   <string name="check_phone_error_title">Sincronització desactivada</string>
   <string name="check_phone_io_error">"No es pot connectar a la xarxa"</string>
   <string name="chinese_day_1">初一</string>
@@ -89,6 +90,7 @@
   <string name="chinese_symbol_animals_tiger">虎</string>
   <string name="clearable_edittext_clear_description">esborra</string>
   <string name="close">Tanca</string>
+  <string name="confirm_description">Confirm</string>
   <string name="copyright">Drets d\'autor</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
@@ -326,7 +328,9 @@
   <string name="date_picker_label_year"></string>
   <string name="date_time_done">Fet</string>
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
+  <string name="delete_description">Delete</string>
   <string name="deselect_all">Anul·la la selecció</string>
+  <string name="deselect_all_description">Deselect all</string>
   <string name="early_morning">AM</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
@@ -483,6 +487,7 @@
   <string name="search_input_description">cerca</string>
   <string name="search_mode_button_back_description">enrere</string>
   <string name="select_all">Selecciona-ho tot</string>
+  <string name="select_all_description">Select all</string>
   <string name="select_item">Selecciona elements</string>
   <string name="send">Envia</string>
   <string name="send_sms_for_sync_notice">La vostra companyia podria cobrar-vos el SMS usat per activar aquest servei.</string>
