@@ -907,6 +907,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_phone">Telèfon</string>
   <string name="preference_phone_more_title">Configuració de trucada</string>
   <string name="preference_remove_duplicate">Combinar contactes duplicats</string>
+  <string name="preference_show_firewall_calllog">Show blocked calls in call history</string>
   <string name="preference_show_yellowpage_tab_description">És possible que les pàgines grogues no funcionin correctament quan aquesta funció estigui desactivada.</string>
   <string name="preference_show_yellowpage_tab_title">Mostra les pàgines grogues</string>
   <string name="preference_simple_mode_description">Mostra imatges i altra informació de contacte a la vista de llista</string>
