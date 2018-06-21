@@ -2088,6 +2088,9 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>1</item>
     <item>2</item>
   </string-array>
+  <string-array name="poco_device_list">
+    <item>beryllium</item>
+  </string-array>
   <string-array name="power_mode_entries">
     <item>Rendiment</item>
     <item>Equilibrat</item>
