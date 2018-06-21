@@ -264,8 +264,8 @@
   <string name="global_football_no_match">No hi ha programat cap partit de futbol per avui.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_import">Import</string>
-  <string name="guide_card_primary_text">Import friend birthday</string>
-  <string name="guide_card_second_text">Batch import, buddy birthday is not missing</string>
+  <string name="guide_card_primary_text">"Import your friends' birthdays"</string>
+  <string name="guide_card_second_text">Never miss important dates</string>
   <string name="guide_card_title">Import birthdays</string>
   <string name="hint_attendees">Convidats</string>
   <string name="hint_description">Descripció</string>
