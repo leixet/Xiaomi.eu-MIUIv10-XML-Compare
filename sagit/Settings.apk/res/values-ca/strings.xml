@@ -1495,6 +1495,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Mostra\'n més</string>
   <string name="device_miui_version">Versió MIUI</string>
+  <string name="device_miui_version_for_POCO">MIUI version (For POCO)</string>
   <string name="device_miui_version_update">Actualització de MIUI disponible</string>
   <string name="device_name">Nom del dispositiu</string>
   <string name="device_name_input_error">"No s'ha pogut desar el nom del dispositiu"</string>
@@ -2276,6 +2277,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="key_combination_power_back">Encesa + enrere</string>
   <string name="key_combination_power_home">Encesa + inici</string>
   <string name="key_combination_power_menu">Encesa + menú</string>
+  <string name="key_fsg_dialog_message">"You're using full screen gestures for navigation. Button-related features aren't available now. Switch to buttons?"</string>
+  <string name="key_fsg_dialog_negative">Cancel</string>
+  <string name="key_fsg_dialog_positive">Switch to buttons</string>
   <string name="key_gesture_function_dialog_message">%1$s és una drecera per a %2$s. Voleu reemplaça-la amb %3$s?</string>
   <string name="key_gesture_function_dialog_negative">Cancel·la</string>
   <string name="key_gesture_function_dialog_positive">Reemplaça</string>
@@ -2810,6 +2814,9 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_vibrate">Vibració</string>
   <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
+  <string name="miui_lab_ai_cloud_closed">"AI preloading isn't available yet."</string>
+  <string name="miui_lab_ai_preload_desc">AI preloading increases app launch speed</string>
+  <string name="miui_lab_ai_preload_title">AI preloading</string>
   <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
   <string name="miui_lab_drive_mode_title">Car mode</string>
   <string name="miui_lab_feature_applied">S\'ha aplicat</string>
@@ -2822,8 +2829,6 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_lab_super_resolution_desc">Make images crisper</string>
   <string name="miui_lab_super_resolution_title">Super resolution</string>
-  <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les accions</string>
-  <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
   <string name="miui_touch_filtered_warning">If an app is blocking a permissions dialog, drag the overlapping item away or close the app.</string>
   <string name="miui_updater">Actualització del sistema</string>
@@ -4767,7 +4772,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
   <string name="super_resolution_maintain">"Super resolution isn't available yet."</string>
   <string name="super_resolution_no_app_tips">Download WeChat and Toutiao first.</string>
-  <string name="super_resolution_reboot_tips">Restart apps to make this feature work after you turn it on.</string>
+  <string name="super_resolution_reboot_tips">This feature allows to make blurry images in WeChat and Toutiao crisper. Launch apps again after you turn this feature on.</string>
   <string name="super_resolution_title">Super resolution</string>
   <string name="supl_not_set">&lt;No s\'ha configurat&gt;</string>
   <string name="supplicant_state_label">Mode suplicant:</string>
@@ -4856,6 +4861,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="talkback_title">TalkBack</string>
   <string name="tap_to_wake">Toca per activar-lo</string>
   <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
+  <string name="taplus_title">Taplus</string>
   <string name="telephony_monitor_switch">Monitor de telefonia</string>
   <string name="telephony_monitor_switch_summary">El monitor de telefonia recopilarà registres quan detecti un problema amb la funcionalitat de telefonia/mòdem i notificarà a l\'usuari per informar del problema</string>
   <string name="telephony_monitor_toast">Per aplicar el canvi del monitor de telefonia, reinicieu el dispositiu</string>
@@ -5587,6 +5593,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_cellular_data_fallback_summary">Utilitzeu dades mòbils quan la xarxa Wi-Fi no tingui accés a Internet. Es pot aplicar l\'ús de dades.</string>
   <string name="wifi_cellular_data_fallback_title">Canvia a dades mòbils automàticament</string>
   <string name="wifi_certificate">Certificat</string>
+  <string name="wifi_click_login_wlan">Requires login/authorization</string>
   <string name="wifi_click_share_wlan">Toqueu per compartir la contrasenya</string>
   <string name="wifi_config_info">Configura Wi-Fi</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">"La Wi-Fi no torna a activar-se automàticament"</string>
