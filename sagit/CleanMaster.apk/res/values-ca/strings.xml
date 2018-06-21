@@ -617,6 +617,8 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_msg_time_long">yyyy-MM-dd</string>
+  <string name="wechat_msg_time_short">MM-dd</string>
   <string name="wechat_qq_activity_title">Neteja intensiva</string>
   <string name="wechat_qq_celan_tab_file">Fitxers</string>
   <string name="wechat_qq_celan_tab_image">Images</string>
@@ -625,6 +627,7 @@
   <string name="wechat_qq_chat_files">Historial de xat</string>
   <string name="wechat_qq_deep_clean_button_text">Neteja intensiva</string>
   <string name="wechat_qq_normal_files">Paperera</string>
+  <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>
