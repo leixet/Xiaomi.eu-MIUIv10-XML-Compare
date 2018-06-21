@@ -26,10 +26,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="config_suggest_suffix_title">Estalvi de bateria (recomanat)</string>
   <string name="confirm">D\'acord</string>
   <string name="current_cloud_addr_is">L\'adreça del servidor de control del núvol és:</string>
-  <string name="disable_hide_mode">Desactiva l\'estalvi de bateria</string>
-  <string name="disable_hide_mode_warning">"En desactivar l'estalvi de bateria pot augmentar el consum d'energia del dispositiu."</string>
   <string name="empty_title_apps_container_list">Sense aplicacions</string>
-  <string name="enable_hide_mode">Activa l\'estalvi de bateria</string>
   <string name="enable_sleep_mode">Activeu el mode suspensió per optimitzar l\'ús de la bateria a la nit</string>
   <string name="error_filename_too_long">Nom de fitxer massa llarg.</string>
   <string name="extreme_power_config_mode_category">Mode extrem</string>
