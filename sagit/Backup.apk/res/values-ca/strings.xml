@@ -157,7 +157,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="files_backup_info">Tots els fitxers de la targeta SD (incloent fotos, cançons, vídeos, dades d\'aplicacions, etc.)</string>
   <string name="findlost_contact">Restaura els contactes</string>
   <string name="findlost_contact_online">Restaura els contactes des de Mi Cloud</string>
-  <string name="flash_drive_backup_btn">Back up to USB drive</string>
+  <string name="flash_drive_backup_btn">Còpia de seguretat per USB</string>
   <string name="flash_drive_backup_note">"Back up apps to a USB drive.
 Make sure the USB drive has enough storage space before you start."</string>
   <string name="flash_drive_backup_restore">USB backups</string>
