@@ -46,7 +46,7 @@
   <string name="anniversary_secondary_tag">Aniversari</string>
   <string name="app_label">Calendari</string>
   <string name="app_name">comú</string>
-  <string name="birthday_born">data de naixement</string>
+  <string name="birthday_born">Data de naixement</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
   <string name="birthday_event_description_a_week_ago">Fa una setmana</string>
   <string name="birthday_event_description_a_week_later">Falta una setmana per</string>
@@ -64,7 +64,7 @@
   <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
   <string name="birthday_notification_type_term_lunar"></string>
   <string name="birthday_saved">S\'ha desat l\'aniversari</string>
-  <string name="birthday_term">aniversari</string>
+  <string name="birthday_term">Aniversari</string>
   <string name="book_card_free">Gratis</string>
   <string name="book_card_rating_text">|   %1$s opinions</string>
   <string name="button_day">Dia</string>
