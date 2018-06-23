@@ -56,7 +56,7 @@
   <string name="add_fav_channel">Afegeix als preferits</string>
   <string name="add_fav_channel_hint">Afegeix més canals favorits</string>
   <string name="add_more">Afegeix més dispositius d\'infraroig</string>
-  <string name="add_new_box">Afegeix un descodificador</string>
+  <string name="add_new_box">Add smart box</string>
   <string name="add_new_control">Afegeix comandament</string>
   <string name="add_new_stb">Afegeix un descodificador</string>
   <string name="add_new_tv">Afegeix TV&#8230;</string>
@@ -101,8 +101,8 @@
   <string name="app_install_dialog_searching">S\'està cercant aplicacions…</string>
   <string name="app_installing">S\'està instal·lant…</string>
   <string name="app_lastest">Darrer</string>
-  <string name="app_listitem_installing">S\'està instal·lant</string>
-  <string name="app_listitem_waiting">S\'està esperant per la instal·lació</string>
+  <string name="app_listitem_installing">S\'està instal·lant…</string>
+  <string name="app_listitem_waiting">Holding…</string>
   <string name="app_local">Local</string>
   <string name="app_manager_get_data_failed">"No s'ha pogut obtenir la informació de l'aplicació"</string>
   <string name="app_manager_no_data">No s\'ha trobat cap aplicació</string>
