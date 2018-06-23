@@ -127,6 +127,10 @@
     <item>Notícies</item>
     <item>Programes d\'estil de vida</item>
   </string-array>
+  <string-array name="user_notification_tab">
+    <item>\@与我相关</item>
+    <item>系统通知</item>
+  </string-array>
   <string-array name="passport_alphabet_table">
     <item>\#</item>
     <item>A</item>
@@ -155,9 +159,5 @@
     <item>X</item>
     <item>Y</item>
     <item>Z</item>
-  </string-array>
-  <string-array name="user_notification_tab">
-    <item>\@与我相关</item>
-    <item>系统通知</item>
   </string-array>
 </resources>
