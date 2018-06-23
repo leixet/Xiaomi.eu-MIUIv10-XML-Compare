@@ -367,8 +367,8 @@ Proveu el següent per solucionar el problema:
   <string name="epg_user_my_favorite_channel">Canals favorits</string>
   <string name="episode_intro_title_text">Resum d\'episodi</string>
   <string name="episode_title">Episodi %1$d</string>
-  <string name="episodes_list">Episodis seleccionats</string>
-  <string name="error_input_dialogue_guide">Introduïu el codi de 4 dígits</string>
+  <string name="episodes_list">Filter videos</string>
+  <string name="error_input_dialogue_guide">Sembla que el codi no és correcte</string>
   <string name="exit">Surt</string>
   <string name="external_app">Instal·la aplicació</string>
   <string name="external_photo">Mostra fotos</string>
