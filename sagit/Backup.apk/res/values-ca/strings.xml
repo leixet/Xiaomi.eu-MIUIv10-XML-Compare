@@ -441,8 +441,8 @@ Allibera %s com a mínim. "</string>
   <string name="trans_failed_details_page_title">Transferències fallides</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
   <string name="trans_generate_qrcode_failed">"Couldn't generate QR code. Try again."</string>
-  <string name="trans_generating_qrcode">Generating QR code…</string>
-  <string name="trans_install_guide_button_start">Start</string>
+  <string name="trans_generating_qrcode">S\'està generant el codi QR…</string>
+  <string name="trans_install_guide_button_start">Inicia</string>
   <string name="trans_install_guide_page_title">Install Mi Mover on your old phone</string>
   <string name="trans_install_guide_scan_install_tip">"Scan this QR code with your old phone
 to download and install Mi Mover."</string>
@@ -461,7 +461,7 @@ to download and install Mi Mover."</string>
   <string name="trans_intro_desc_9_method_1_dec">Go to Home screen &gt; Tools &gt; Feedback.</string>
   <string name="trans_intro_desc_9_method_1_title">1. Share your feedback using the \"Feedback\" app.</string>
   <string name="trans_intro_desc_9_method_2_dec">Send your feedback to miui-mover@xiaomi.com.</string>
-  <string name="trans_intro_desc_9_method_2_title">2. Send us an email</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Envieu-nos un email</string>
   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Report issues in QQ</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
