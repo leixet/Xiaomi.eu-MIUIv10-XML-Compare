@@ -459,7 +459,7 @@ to download and install Mi Mover."</string>
   <string name="trans_intro_desc_7">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu a instal·lar l\'aplicació en un dispositiu nou.</string>
   <string name="trans_intro_desc_8">"Les dades de l'aplicació WeChat i l'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d'una transferència amb èxit."</string>
   <string name="trans_intro_desc_9_method_1_dec">Go to Home screen &gt; Tools &gt; Feedback.</string>
-  <string name="trans_intro_desc_9_method_1_title">1. Share your feedback using the \"Feedback\" app.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Compartiu els vostres comentaris utilitzant l\'aplicació \"Feedback\".</string>
   <string name="trans_intro_desc_9_method_2_dec">Send your feedback to miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Envieu-nos un email</string>
   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
@@ -497,7 +497,7 @@ Esborreu almenys %s."</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_open_camera_failed_message">Reboot your device or check whether Mi Mover is allowed to use &lt;b&gt;Camera&lt;/b&gt;.</string>
   <string name="trans_open_camera_failed_title">"Couldn't connect to Camera"</string>
-  <string name="trans_open_location_button">Turn on</string>
+  <string name="trans_open_location_button">Activa</string>
   <string name="trans_open_location_message">Turn on location services to get the list of available WLAN networks.</string>
   <string name="trans_open_location_title">Turn on location services</string>
   <string name="trans_operate_func_one">Mètode A</string>
@@ -560,7 +560,7 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_show_qr_code_tips">Escaneja el codi QR utilitzant el dispositiu antic</string>
   <string name="trans_start_failed_message">"No s'ha pogut iniciar la transferència, torneu-ho a provar o reinicieu el dispositiu."</string>
   <string name="trans_start_failed_title">"No s'ha pogut iniciar la transferència"</string>
-  <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Valora Mi Home</string>
   <string name="trans_success_dialog_market_comment_title">"Your new device feels like home now.
 Did you like Mi Mover?"</string>
   <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
