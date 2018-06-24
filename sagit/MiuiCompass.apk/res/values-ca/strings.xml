@@ -16,7 +16,7 @@
   <string name="calibrate_failed">Ha fallat el calibratge d\'altitud</string>
   <string name="calibrate_failed_no_location">"No es pot calibrar"</string>
   <string name="calibrate_failed_timeout">"No es pot connectar al servidor"</string>
-  <string name="calibrate_rotate_again">Try again</string>
+  <string name="calibrate_rotate_again">Torneu-ho a intentar</string>
   <string name="calibrate_success">S\'ha calibrat</string>
   <string name="calibrate_tip">Moveu el dispositiu per girar la pilota al voltant del cercle</string>
   <string name="calibrate_title">Calibratge de la brúixola</string>
