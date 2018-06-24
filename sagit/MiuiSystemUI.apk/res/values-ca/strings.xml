@@ -601,7 +601,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="face_data_input_camera_ok">Loading camera…</string>
   <string name="face_data_input_cancel">Cancel</string>
   <string name="face_data_input_cancel_msg">"Couldn't add face data"</string>
-  <string name="face_data_input_msg">Situeu la vostra cara dins del marc</string>
+  <string name="face_data_input_msg">Col·loqueu la cara dins del marc</string>
   <string name="face_data_input_ok">Done</string>
   <string name="face_data_input_ok_msg">Turn on screen to unlock device using your face data.</string>
   <string name="face_data_input_ok_msg_angle">"Unlock the device with your face when the screen is on.
