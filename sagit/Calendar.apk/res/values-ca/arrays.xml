@@ -366,7 +366,7 @@
   </string-array>
   <string-array name="prefValues_alerts_vibrateWhen">
     <item>sempre</item>
-    <item>silenciós</item>
+    <item>en silenci</item>
     <item>mai</item>
   </string-array>
   <string-array name="preferences_default_reminder_values">
