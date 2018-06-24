@@ -365,9 +365,9 @@
     <item>郭德纲</item>
   </string-array>
   <string-array name="prefValues_alerts_vibrateWhen">
-    <item>always</item>
-    <item>silent</item>
-    <item>never</item>
+    <item>sempre</item>
+    <item>silenciós</item>
+    <item>mai</item>
   </string-array>
   <string-array name="preferences_default_reminder_values">
     <item>0</item>
