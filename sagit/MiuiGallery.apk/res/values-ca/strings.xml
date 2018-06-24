@@ -1593,7 +1593,7 @@ per personalitzar la galeria"</string>
   <string name="video_editor_smart_effect_fastslow">Motion</string>
   <string name="video_editor_smart_effect_freesze">Stop motion</string>
   <string name="video_editor_smart_effect_halo">Halo</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Aquest efecte queda millor a vídeos amb un rati de refresc gran.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Aquest efecte queda millor a vídeos amb molts fotogrames.</string>
   <string name="video_editor_smart_effect_movie">Movie</string>
   <string name="video_editor_smart_effect_none">None</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
