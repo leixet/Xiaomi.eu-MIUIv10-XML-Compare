@@ -84,7 +84,7 @@
   <string name="dislike">Elimina</string>
   <string name="double_click_to_exit_activity">Tap again to exit</string>
   <string name="explorer_activity_title">Wallpaper Carousel</string>
-  <string name="from_migallerylockscreen">Des de carrusel de fons de pantalla MIUI</string>
+  <string name="from_migallerylockscreen">From Mi Wallpaper Carousel</string>
   <string name="get_account_no_permission">如需登录，请设置允许访问用户账户权限</string>
   <string name="homepaperchanged">@string/theme_apply_success</string>
   <string name="hour_1">Cada hora</string>
@@ -108,7 +108,7 @@
   <string name="lockscreen_magazine_summary">Categories</string>
   <string name="lockscreen_magazine_system_title">Per defecte</string>
   <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
-  <string name="lockscreen_wallpaper_changed">S\'ha actualitzat el fons de pantalla de bloqueig</string>
+  <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
   <string name="look_str">Popular</string>
   <string name="main_fragment_title_discover">Discover</string>
   <string name="main_fragment_title_home">Recommendations</string>
@@ -334,11 +334,11 @@ To activate your account, follow the
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="passport_yes">Yes</string>
-  <string name="platform_unavailable_qq">Instal·leu Viber</string>
-  <string name="platform_unavailable_qzone">Instal·leu WhatsApp</string>
+  <string name="platform_unavailable_qq">Install QQ first</string>
+  <string name="platform_unavailable_qzone">Install Qzone</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
   <string name="platform_unavailable_wechatmoment">Instal·leu Wechat</string>
-  <string name="platform_unavailable_weibo">Instal·leu Telegram</string>
+  <string name="platform_unavailable_weibo">Install Weibo</string>
   <string name="prv_end">" \"&lt;CDATA&gt;No more items to view&lt;/CDATA&gt;\" "</string>
   <string name="prv_loading">" \"&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;\" "</string>
   <string name="prv_nodata">" \"&lt;CDATA&gt;No data&lt;/CDATA&gt;\" "</string>
