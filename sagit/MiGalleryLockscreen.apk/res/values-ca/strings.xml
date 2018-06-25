@@ -35,7 +35,7 @@
   <string name="ad_pop_btn_hidden">隐藏</string>
   <string name="ad_pop_des">应用下载中：</string>
   <string name="add_launch_hint_text">Add Home screen shortcut</string>
-  <string name="app_name">Carrusel de fons de pantalla</string>
+  <string name="app_name">Mi Wallpaper Carousel</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="apply">Aplica</string>
   <string name="apply_to_above_all">Set both</string>
@@ -62,7 +62,7 @@
   <string name="current_connection_invalid">Espereu fins que el dispositiu es connecti a la xarxa</string>
   <string name="current_data_invalid">S\'ha produït un error</string>
   <string name="current_network_invalid">Cal que primer us connecteu a la xarxa</string>
-  <string name="current_no_more_pictures">"No hi ha més fotos"</string>
+  <string name="current_no_more_pictures">"That's all for now"</string>
   <string name="current_permission_network_denied">Permetre al carrusel de fons de pantalla accedir a la xarxa</string>
   <string name="day">Una vegada al dia</string>
   <string name="declaration">Obtenir nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
