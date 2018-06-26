@@ -464,7 +464,7 @@ està a punt de passar»</string>
   <string name="download_status_pending">En espera</string>
   <string name="download_success">Completada</string>
   <string name="download_title">Baixades</string>
-  <string name="download_video">Download video</string>
+  <string name="download_video">Baixa el vídeo</string>
   <string name="download_wait_connect">S\'està esperant la connexió</string>
   <string name="edit">Edita</string>
   <string name="edit_bookmark">Edita el marcador</string>
@@ -1058,7 +1058,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="permission_notification">envia les notificacions</string>
   <string name="permissions_prompt_message">%s vol </string>
   <string name="play_pause_video">Play or pause video</string>
-  <string name="play_video">Play video</string>
+  <string name="play_video">Reprodueix el vídeo</string>
   <string name="popup_video">Popup video</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
@@ -1293,8 +1293,8 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Mireu lo que he compartit! @MIUI</string>
   <string name="share_page_text">Mireu el que he compartit: %1$s @MIUI| %2$s</string>
-  <string name="share_video">Share video</string>
-  <string name="short_video_description">Video channel</string>
+  <string name="share_video">Comparteix el vídeo</string>
+  <string name="short_video_description">Canal de vídeo</string>
   <string name="short_video_tip">Mireu! Vídeo divertit</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Recollirem i utilitzarem les vostres dades personals si voleu utilitzar els nostres serveis.
 A continuació, es detallen les dades que recollirem:
