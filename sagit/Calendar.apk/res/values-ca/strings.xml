@@ -263,10 +263,10 @@
   <string name="global_football_final">FINAL</string>
   <string name="global_football_no_match">No hi ha programat cap partit de futbol per avui.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
-  <string name="guide_card_import">Import</string>
+  <string name="guide_card_import">Importació</string>
   <string name="guide_card_primary_text">"Import your friends' birthdays"</string>
-  <string name="guide_card_second_text">Never miss important dates</string>
-  <string name="guide_card_title">Import birthdays</string>
+  <string name="guide_card_second_text">Mai perdreu les dates importants</string>
+  <string name="guide_card_title">Importació d\'aniversaris</string>
   <string name="hint_attendees">Convidats</string>
   <string name="hint_description">Descripció</string>
   <string name="hint_what">Nom de l\'esdeveniment</string>
