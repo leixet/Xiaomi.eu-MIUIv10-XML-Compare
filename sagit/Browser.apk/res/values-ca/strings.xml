@@ -479,7 +479,7 @@ està a punt de passar»</string>
   <string name="enable_geolocation_confirm_message">Si desactiveu els serveis d\'ubicació es veuran afectades les recomanacions que rebeu.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
-  <string name="enter_infoflow_guide">Slide up to see news</string>
+  <string name="enter_infoflow_guide">Llisca cap amunt per veure notícies</string>
   <string name="enter_the_group_name">Introduïu el nom del grup</string>
   <string name="enter_the_password">Introduïu la contrasenya</string>
   <string name="enter_the_user_name">Introduïu el nom d\'usuari</string>
@@ -493,7 +493,7 @@ està a punt de passar»</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
-  <string name="exit_fullscreen">Exit fullscreen</string>
+  <string name="exit_fullscreen">Surt de pantalla completa</string>
   <string name="favorite">Afegeix-ho als preferits</string>
   <string name="file_dir">Canvia de carpeta</string>
   <string name="file_name">"Nom: "</string>
