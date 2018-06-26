@@ -499,7 +499,7 @@ Esborreu almenys %s."</string>
   <string name="trans_open_camera_failed_title">"Couldn't connect to Camera"</string>
   <string name="trans_open_location_button">Activa</string>
   <string name="trans_open_location_message">Turn on location services to get the list of available WLAN networks.</string>
-  <string name="trans_open_location_title">Turn on location services</string>
+  <string name="trans_open_location_title">Activa els serveis d\'ubicació</string>
   <string name="trans_operate_func_one">Mètode A</string>
   <string name="trans_operate_func_two">Mètode B</string>
   <string name="trans_operate_new_phone_tips">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover
