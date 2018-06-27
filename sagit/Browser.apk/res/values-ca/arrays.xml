@@ -43,6 +43,10 @@
     <item>Missatge del navegador</item>
     <item>Seguiu les Olimpíades amb Mi</item>
   </string-array>
+  <string-array name="suggestion_topic_tips">
+    <item>Watching Focus</item>
+    <item>Central Issue</item>
+  </string-array>
   <string-array name="suggestion_weather_condition_message">
     <item>Serè</item>
     <item>Parcialment ennuvolat</item>
