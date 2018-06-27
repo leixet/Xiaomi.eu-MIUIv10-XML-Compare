@@ -1014,6 +1014,7 @@ Taxa de mostreig"</string>
   <string name="cancel_action">Cancel·la</string>
   <string name="cancel_alert">Voleu descartar els canvis?</string>
   <string name="cancel_button">Cancel·la</string>
+  <string name="cancel_description">Cancel</string>
   <string name="cancel_download_buton_text">Cancel·la</string>
   <string name="cant_sync_dialog_message">S\'ha desactivat la sincronització d\'aquest element. Per canviar-ho, activeu temporalment les dades en segon pla i la sincronització automàtica.</string>
   <string name="cant_sync_dialog_title">No es pot sincronitzar manualment</string>
@@ -1162,6 +1163,7 @@ Taxa de mostreig"</string>
   <string name="confirm_action">D\'acord</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Afegeix</string>
   <string name="confirm_convert_to_fbe_warning">Voleu esborrar les dades d\'usuari i xifrar-les?</string>
+  <string name="confirm_description">Confirm</string>
   <string name="confirm_download_cancelation_dialog_message">Voleu cancel·la la baixada?</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
@@ -1850,6 +1852,7 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració de %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"No s'ha pogut desactivar troba el dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_shut_down_find_device_title">"No s'ha pogut desactivar Localitza el dispositiu"</string>
+  <string name="fallback_home_title">Just a sec…</string>
   <string name="fcc_equipment_id">ID de l\'equip</string>
   <string name="file_privacy_password_role_instruction">Els vostres fitxers privats es desaran aquí.</string>
   <string name="filter">Filtre</string>
