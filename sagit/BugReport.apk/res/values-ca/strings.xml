@@ -270,6 +270,8 @@
   <string name="related_question_answer_details">Problema relacionat</string>
   <string name="reply">Respon</string>
   <string name="reply_failed">"No es pot respondre"</string>
+  <string name="reply_option_log_hint">可选</string>
+  <string name="reply_select_log_hint">选择日志文件</string>
   <string name="reply_successful">S\'ha respost correctament</string>
   <string name="report_miui">Notifica un error</string>
   <string name="request_empty_data">Sense dades</string>
