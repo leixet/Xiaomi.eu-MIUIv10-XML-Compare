@@ -172,7 +172,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_label_balance">Saldo</string>
   <string name="mibi_label_giftcard">Targeta de regal</string>
   <string name="mibi_label_pay_remain">Quantitat deguda: %1$s Mi Credits</string>
-  <string name="mibi_license_message">"Sou a punt d'utilitzar Mi Credit, que és un servei proporcionat per Xiaomi Inc. Abans de poder utilitzar aquest servei, heu d'acceptar les Condicions de servei que s'indiquen a %1$s. Premeu D'acord si accepteu els termes i condicions descrits a %1$s. Necessitareu connectar-vos a Internet i localitzar el vostre dispositiu per utilitzar Mi Credit."</string>
   <string name="mibi_license_message_span">Acord d\'usuari de Mi Credit</string>
   <string name="mibi_license_title">Termes i condicions</string>
   <string name="mibi_list_item_bottom_hint">"Heu arribat al final d'aquesta llista"</string>
