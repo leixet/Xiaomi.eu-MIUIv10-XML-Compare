@@ -1715,7 +1715,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voice_service_cannot_call_notification_title">"Can't make calls in the current network"</string>
   <string name="voice_service_switch_summary">Turn on to be able to use VoLTE call functionality in VoLTE networks</string>
   <string name="voice_service_switch_title">Use VoLTE call services</string>
-  <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn if VoLTE is not supported in your area.
+  <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
 
 If you see _ in your status bar, VoLTE calls aren\'t available. If you can\'t make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
 
@@ -1777,9 +1777,9 @@ This tablet doesn\'t have an earpiece. You can switch to hands-free mode or use 
   <string name="wapi_password_length_is_min">La contrasenya no pot tenir menys de 8 caràcters</string>
   <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
   <string name="wapi_yes">sí</string>
-  <string name="wfcmode_mobile_preferred">Cellular prefer</string>
+  <string name="wfcmode_mobile_preferred">Prefer mobile networks</string>
   <string name="wfcmode_wifi_only">WLAN only</string>
-  <string name="wfcmode_wifi_preferred">WLAN prefer</string>
+  <string name="wfcmode_wifi_preferred">Prefer WLAN</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>
@@ -1839,7 +1839,7 @@ Comproveu la validesa dels certificats"</string>
 L\'emmagatzematge de credencials no es pot activar"</string>
   <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
   <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
-  <string name="wificall_switch_summary">Your device can switch between WLAN and VoLTE when connection is poor</string>
+  <string name="wificall_switch_summary">Your device will switch between WLAN and VoLTE when connection is poor</string>
   <string name="wificall_switch_title">Make calls using WLAN</string>
   <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
