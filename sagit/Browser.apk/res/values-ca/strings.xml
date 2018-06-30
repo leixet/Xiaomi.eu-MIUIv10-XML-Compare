@@ -402,7 +402,7 @@ està a punt de passar»</string>
   <string name="data_traffic_goto">Free data traffic</string>
   <string name="data_traffic_prompt_free_data">Using your mobile data connection to browse videos will increase your data usage. Please get free data traffic.</string>
   <string name="data_traffic_prompt_message">L\'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d\'ús de dades del vostre pla, l\'operador us podria cobrar despeses addicionals.</string>
-  <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
+  <string name="data_traffic_prompt_title">Using data usage</string>
   <string name="data_traffic_stop">Stop</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Elimina</string>
