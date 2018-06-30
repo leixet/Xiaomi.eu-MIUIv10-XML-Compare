@@ -159,7 +159,7 @@
   <string name="select_account_prompt">Sincronitzar notes</string>
   <string name="set_alarm_description">Estableix alarma</string>
   <string name="snippet_audio_stub">Voice note</string>
-  <string name="snippet_image_stub">[Imatge]</string>
+  <string name="snippet_image_stub">Image note</string>
   <string name="snippet_image_template">[Imatge %1$s]</string>
   <string name="sns_action_send">Envia</string>
   <string name="sns_choose_quality_high">Alta (%1$s)</string>
