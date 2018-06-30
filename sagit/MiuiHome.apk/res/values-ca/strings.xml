@@ -243,7 +243,7 @@
   <string name="open_personal_assistant_dialog_desc">"No podreu fer servir el cofre d'aplicacions i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
   <string name="open_personal_assistant_dialog_desc_international">"You won't be able to use App vault cards (Stocks, Shortcuts, etc.) and receive updates after you turn this feature off."</string>
   <string name="open_personal_assistant_dialog_title">Desactiva el cofre d\'aplicacions</string>
-  <string name="open_personal_assistant_title">Activa el cofre d\'aplicacions</string>
+  <string name="open_personal_assistant_title">App vault</string>
   <string name="out_of_space">No queda més espai en aquesta pantalla</string>
   <string name="permdesc_install_shortcut">Permet a una aplicació afegir dreceres sense la intervenció de l\'usuari.</string>
   <string name="permdesc_install_widget">Permet a una aplicació afegir ginys sense la intervenció de l\'usuari.</string>
