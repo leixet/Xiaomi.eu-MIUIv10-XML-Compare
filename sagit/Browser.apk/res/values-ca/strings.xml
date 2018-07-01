@@ -703,7 +703,7 @@ està a punt de passar»</string>
   <string name="mw_color_picker_dialog_title">Seleccioneu un color</string>
   <string name="mw_color_picker_hue">To</string>
   <string name="mw_color_picker_saturation">Saturació</string>
-  <string name="mw_color_picker_value">Value</string>
+  <string name="mw_color_picker_value">Valor</string>
   <string name="mw_common_google_play_services_enable_button">Activa</string>
   <string name="mw_common_google_play_services_enable_text">"%1$s no funcionarà si no activeu els serveis de Google Play."</string>
   <string name="mw_common_google_play_services_enable_title">Activació dels serveis de Google Play</string>
@@ -1251,7 +1251,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="save_file">Desa el fitxer %s</string>
   <string name="save_file_already_exist_alert_message">Ja existeix un fitxer amb el mateix nom, el voleu substituir?</string>
   <string name="save_file_already_exist_alert_title">Voleu substituir el fitxer?</string>
-  <string name="save_file_suffix">file</string>
+  <string name="save_file_suffix">fitxer</string>
   <string name="save_form_data_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="save_image_failed">"No s'ha pogut desar la imatge"</string>
   <string name="save_image_success">Imatge desada</string>
@@ -1362,7 +1362,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
   <string name="suggest_access_item_site_mark">LLOCS</string>
-  <string name="suggest_access_item_topic_mark">TOPIC</string>
+  <string name="suggest_access_item_topic_mark">TEMA</string>
   <string name="suggest_access_item_video_mark">VÍDEOS</string>
   <string name="suggest_access_item_weather_mark">El TEMPS</string>
   <string name="suggest_access_item_yellow_mark">PÀGINES GROGUES</string>
@@ -1383,10 +1383,10 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
   <string name="suggestion_lottery_period">RONDA %s</string>
-  <string name="suggestion_more_button_text">SEE MORE</string>
-  <string name="suggestion_more_news">MORE NEWS</string>
-  <string name="suggestion_more_news_start_title_text">Related News</string>
-  <string name="suggestion_topic_subtitle_hyphen">Focus</string>
+  <string name="suggestion_more_button_text">MOSTRA\'N MÉS</string>
+  <string name="suggestion_more_news">MÉS NOTÍCIES</string>
+  <string name="suggestion_more_news_start_title_text">Notícies relacionades</string>
+  <string name="suggestion_topic_subtitle_hyphen">Enfocament</string>
   <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
   <string name="suggestion_translation_more">MOSTRA\'N MÉS</string>
   <string name="switchText">SÍ</string>
@@ -1405,7 +1405,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="temp_refuse">No, gràcies</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
-  <string name="title_notice_push">Turn on push</string>
+  <string name="title_notice_push">Activa la tramesa automàtica</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
   <string name="transfer_prompt_0">Reprodueix el vídeo</string>
