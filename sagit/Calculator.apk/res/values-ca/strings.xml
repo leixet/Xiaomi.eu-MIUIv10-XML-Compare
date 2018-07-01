@@ -114,8 +114,8 @@
   <string name="home_title_calculator">Calculadora</string>
   <string name="husband">丈夫</string>
   <string name="income_type"></string>
-  <string name="install">Install</string>
-  <string name="install_scanner_to_continued_use">Scanner is uninstalled. Install again?</string>
+  <string name="install">Instal·la</string>
+  <string name="install_scanner_to_continued_use">L\'escàner està desinstal·lat. Voleu tornar-lo a instal·lar?</string>
   <string name="item_title_aa_payment">Pagament a escot</string>
   <string name="item_title_area_conversion">Àrea</string>
   <string name="item_title_calculator">Calculadora</string>
@@ -189,7 +189,7 @@
   <string name="mother">妈妈</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiplica</string>
-  <string name="negDesc">Switch between temperatures below and above zero</string>
+  <string name="negDesc">Canvia entre temperatures per sota i per sobre zero</string>
   <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca necessita connectar-se a Internet i accedir als serveis d\'ubicació per funcionar.</string>
   <string name="network_confirm_title">Es requereixen permisos</string>
   <string name="percentDesc">percentatge</string>
@@ -223,14 +223,14 @@
   <string name="radian">rad</string>
   <string name="rate_data_provider">Els tipus d\'interès són proporcionats per hexun.com</string>
   <string name="reciprocal">1/X</string>
-  <string name="reciprocalDesc">Reciprocal</string>
+  <string name="reciprocalDesc">Recíproc</string>
   <string name="relationship_cross_check_suggestion">TA称呼我</string>
   <string name="relationship_default_separator_text">的</string>
   <string name="relationship_default_text">我</string>
   <string name="reverceDesc">arc</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">parèntesi dret</string>
-  <string name="scannerDesc">Scanner</string>
+  <string name="scannerDesc">Escàner</string>
   <string name="scanner_had_been_uninstalled">Scanner is uninstalled</string>
   <string name="secondFunction">2nd</string>
   <string name="secondFunctionDesc">Switch to the second function</string>
