@@ -128,7 +128,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="enable_encrypt_summery2">"Les còpies de seguretat s'encriptaran automàticament. Cal que inicieu la sessió al Compte Mi per accedir a les còpies de seguretat encriptades."</string>
   <string name="enable_encrypt_title">Còpies de seguretat encriptades</string>
   <string name="enable_encrypt_xiaomi_account">Aquesta còpia de seguretat va ser creada per %1$s. Per restaurar-la, elimineu el compte actual i inicieu la sessió com a %2$s.</string>
-  <string name="err_acquire_system_service">"Couldn't start system service."</string>
+  <string name="err_acquire_system_service">"No s'ha pogut iniciar el servei del sistema."</string>
   <string name="err_authentication_failed">"No s'ha pogut autenticar"</string>
   <string name="err_bakfile_broken">"No es pot utilitzar aquesta còpia de seguretat."</string>
   <string name="err_bakfile_not_exist">"No existeix el fitxer de còpia de seguretat."</string>
@@ -164,8 +164,8 @@ Assegureu-vos que la memòria USB té prou capacitat abans de començar."</strin
   <string name="flash_drive_backup_restore">Còpies de seguretat USB</string>
   <string name="flash_drive_connection_failed">Memòria USB desconnectada</string>
   <string name="flash_drive_restore_btn">Restaura des de la memòria USB</string>
-  <string name="flash_drive_search_backup_files">"Searching for the USB backup…
-Don\'t change or rename backup files."</string>
+  <string name="flash_drive_search_backup_files">"S\'està cercant la còpia de seguretat USB…
+No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="guarded_mode_dialog_backup_message">"Les còpies de seguretat no estan permeses al mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Estàs al mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"No es pot utilitzar Mi Mover al mode de Convidat."</string>
@@ -209,7 +209,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
   <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
-  <string name="lack_perm_msg">Mi Mover needs the following permissions: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Mi Mover necessita els següents permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Es requereixen permisos</string>
   <string name="list_footer_tip_title">Consells:</string>
   <string name="loading_data">S\'estan carregant dades</string>
@@ -401,7 +401,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_calculating">S\'està calculant…</string>
   <string name="trans_calculating_app_sd_description">Dades de la targeta SD</string>
   <string name="trans_calculating_media_description">Fitxers multimèdia</string>
-  <string name="trans_calculating_tip">Calculating %s…</string>
+  <string name="trans_calculating_tip">S\'està calculant %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
   <string name="trans_connect_failed_device_incompatible">"El dispositiu no és compatible. Cancel·la la transferència i torna-ho a provar."</string>
@@ -441,13 +441,13 @@ Allibera %s com a mínim. "</string>
   <string name="trans_disconnected_tips_title">S\'ha desconnectat el dispositiu remot</string>
   <string name="trans_failed_details_page_title">Transferències fallides</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
-  <string name="trans_generate_qrcode_failed">"Couldn't generate QR code. Try again."</string>
+  <string name="trans_generate_qrcode_failed">"No s'ha pogut generar el codi QR. Torneu-ho a provar."</string>
   <string name="trans_generating_qrcode">S\'està generant el codi QR…</string>
   <string name="trans_install_guide_button_start">Inicia</string>
-  <string name="trans_install_guide_page_title">Install Mi Mover on your old phone</string>
-  <string name="trans_install_guide_scan_install_tip">"Scan this QR code with your old phone
-to download and install Mi Mover."</string>
-  <string name="trans_install_guide_step1_content">Scan the QR code with your old phone to download and install \"Mi Mover\".</string>
+  <string name="trans_install_guide_page_title">Instal·leu Mi Mover al telèfon antic</string>
+  <string name="trans_install_guide_scan_install_tip">"Escanejeu aquest codi QR amb el telèfon antic
+per baixar i instal·lar Mi Mover."</string>
+  <string name="trans_install_guide_step1_content">Escanejeu el codi QR amb el telèfon antic per baixar i instal·lar «Mi Mover».</string>
   <string name="trans_install_guide_step1_title">Pas 1</string>
   <string name="trans_install_guide_step2_content">After the installation is complete, tap \"Start\" below.</string>
   <string name="trans_install_guide_step2_title">Pas 2</string>
