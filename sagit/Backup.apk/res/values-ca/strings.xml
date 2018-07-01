@@ -449,28 +449,28 @@ Allibera %s com a mínim. "</string>
 per baixar i instal·lar Mi Mover."</string>
   <string name="trans_install_guide_step1_content">Escanejeu el codi QR amb el telèfon antic per baixar i instal·lar «Mi Mover».</string>
   <string name="trans_install_guide_step1_title">Pas 1</string>
-  <string name="trans_install_guide_step2_content">After the installation is complete, tap \"Start\" below.</string>
+  <string name="trans_install_guide_step2_content">Un cop finalitzada la instal·lació, toqueu el botó «Inicia».</string>
   <string name="trans_install_guide_step2_title">Pas 2</string>
   <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa WLAN i toqueu \"Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
   <string name="trans_intro_desc_3">Cancel·leu la transferència, sortiu de Mi Mover i començareu de nou. Els fitxers duplicats es sobreescriuran durant la nova transferència.</string>
   <string name="trans_intro_desc_4">"El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu seguir utilitzant les dades mòbils. Tanmateix, alguns dispositius més nous (per exemple el Mi 6) poden connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
-  <string name="trans_intro_desc_4_market">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils."</string>
   <string name="trans_intro_desc_5">L\'espai d\'emmagatzematge en dispositius antics s\'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb - 1 Gb d\'emmagatzematge disponible al vostre telèfon antic abans d\'iniciar una transferència.</string>
   <string name="trans_intro_desc_6">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
   <string name="trans_intro_desc_7">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu a instal·lar l\'aplicació en un dispositiu nou.</string>
   <string name="trans_intro_desc_8">"Les dades de l'aplicació WeChat i l'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d'una transferència amb èxit."</string>
-  <string name="trans_intro_desc_9_method_1_dec">Go to Home screen &gt; Tools &gt; Feedback.</string>
+  <string name="trans_intro_desc_9_method_1_dec">Aneu a la pantalla d\'inici &gt; Eines &gt; Comentaris.</string>
   <string name="trans_intro_desc_9_method_1_title">1. Compartiu els vostres comentaris utilitzant l\'aplicació \"Comentaris\".</string>
-  <string name="trans_intro_desc_9_method_2_dec">Send your feedback to miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_dec">Envieu els vostres comentaris a miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Envieu-nos un correu</string>
-  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
-  <string name="trans_intro_desc_9_method_3_title">3. Report issues in QQ</string>
+  <string name="trans_intro_desc_9_method_3_dec">"Grup QQ de Mi Mover: 687338378"</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Informa dels problemes en QQ</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
   <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
   <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
   <string name="trans_intro_desc_new">"Toqueu «Sóc un destinatari». Es generarà un codi QR."</string>
   <string name="trans_intro_desc_old">"Toqueu «Sóc un remitent». Escanegeu el codi QR en el nou telèfon, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i premeu «Envia»."</string>
-  <string name="trans_intro_desc_old_market">Tap \"Start\". Scan the QR code on the new phone, wait until Mi Mover figures out which files to send, and tap \"Send\".</string>
+  <string name="trans_intro_desc_old_market">Toqueu «Inicia». Escanejeu el codi QR al telèfon nou, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i toqueu «Envia».</string>
   <string name="trans_intro_desc_private">"El Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos de Mi Cloud en un dispositiu nou."</string>
   <string name="trans_intro_question_1">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu iOS?</string>
   <string name="trans_intro_question_2">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu Android?</string>
@@ -481,7 +481,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_question_7">"%d. Per què no s'inicien algunes aplicacions en el nou dispositiu?"</string>
   <string name="trans_intro_question_8">"%d. Per què no s'ha transferit totalment l'historial de WeChat?"</string>
   <string name="trans_intro_question_9">"%d. Quins elements no es poden transferir?"</string>
-  <string name="trans_intro_question_9_market">%d. Feedback.</string>
+  <string name="trans_intro_question_9_market">%d. Comentaris.</string>
   <string name="trans_intro_title">PMF</string>
   <string name="trans_intro_title_account">Comptes i contrasenyes:</string>
   <string name="trans_intro_title_multiapp">Dades d\'aplicacions duals:</string>
@@ -493,7 +493,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_my_device">El meu dispositiu</string>
   <string name="trans_native_no_space">"No hi ha prou espai al dispositiu.
 Esborreu almenys %s."</string>
-  <string name="trans_old_phone_low_space_msg">"Mi Mover needs some storage space to package the transferred data, but it looks like there isn't enough space available on the old device. Free up space in \"Security\" or transfer only important items."</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Mover necessita espai d'emmagatzematge per comprimir les dades a transferir, i sembla que no hi ha prou espai disponible al dispositiu antic. Allibereu espai amb «Seguretat» o transferiu només els elements importants."</string>
   <string name="trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_open_camera_failed_message">Reboot your device or check whether Mi Mover is allowed to use &lt;b&gt;Camera&lt;/b&gt;.</string>
