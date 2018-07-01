@@ -231,9 +231,9 @@
   <string name="rightParen">)</string>
   <string name="rightParenDesc">parèntesi dret</string>
   <string name="scannerDesc">Escàner</string>
-  <string name="scanner_had_been_uninstalled">Scanner is uninstalled</string>
-  <string name="secondFunction">2nd</string>
-  <string name="secondFunctionDesc">Switch to the second function</string>
+  <string name="scanner_had_been_uninstalled">L\'escàner està desinstal·lat</string>
+  <string name="secondFunction">2on</string>
+  <string name="secondFunctionDesc">Canvia a la segona funció</string>
   <string name="settingsDesc">configuració</string>
   <string name="sin">sin</string>
   <string name="sinDesc">sinus</string>
@@ -243,7 +243,7 @@
   <string name="sqrt">√</string>
   <string name="sqrtDesc">arrel quadrada</string>
   <string name="start_calculate"></string>
-  <string name="switchDesc">Switch</string>
+  <string name="switchDesc">Canvia</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangent</string>
   <string name="tan_mathematical_value">tan</string>
