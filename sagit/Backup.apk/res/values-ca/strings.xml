@@ -579,14 +579,14 @@ i s\'ha activat Mi Mover"</string>
   <string name="unknown_hint">Desconeguda</string>
   <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB té prou espai d\'emmagatzematge.
 Transferiu només elements importants."</string>
-  <string name="usb_restore_select_data_too_large">"Backup files are big. It might take a while to restore them.
-Restoring only important items will be faster."</string>
-  <string name="usb_trans_native_no_space">"Only %s is available on your device.
-Free up space or make multiple smaller transfers."</string>
-  <string name="usb_trans_old_phone_low_space_msg">"Additional storage is required to package your backups. There's not enough storage space to continue the transfer. You can free up space and delete unnecessary files in Security or try tranfering only important items."</string>
+  <string name="usb_restore_select_data_too_large">"Els fitxers de còpia de seguretat són grans. Pot trigar un temps en restaurar-se
+Restaureu només elements importants, serà més ràpid."</string>
+  <string name="usb_trans_native_no_space">"Només resten %s al vostre dispositiu.
+Allibereu espai o feu diverses transferències més petites."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Es necessita emmagatzematge addicional per empaquetar les còpies de seguretat. No hi ha prou espai d'emmagatzematge per continuar amb la transferència. Podeu alliberar espai i eliminar fitxers innecessaris a Seguretat o intentar transferir només elements importants."</string>
   <string name="usb_trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
-  <string name="usb_trans_select_data_no_space">"Only %s is available on your USB drive.
-Free up space or transfer only important items."</string>
+  <string name="usb_trans_select_data_no_space">"Només resten %s a la vostra unitat USB.
+Allibereu espai o transferiu només elements importants."</string>
   <string name="user_name">ID d\'Apple o correu</string>
   <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
@@ -595,11 +595,11 @@ Free up space or transfer only important items."</string>
   <string name="view_password_description">Mostra la contrasenya</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_bytes_unit">%1$s B</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_kilobytes_unit">%1$s kB</string>
+  <string name="xiaomi_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
