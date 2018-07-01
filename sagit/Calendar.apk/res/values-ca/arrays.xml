@@ -387,24 +387,24 @@
     <item>2</item>
   </string-array>
   <string-array name="timezone_values">
-    <item>Pacific/Majuro</item>
-    <item>Pacific/Midway</item>
-    <item>Pacific/Honolulu</item>
-    <item>America/Anchorage</item>
-    <item>America/Los_Angeles</item>
-    <item>America/Tijuana</item>
-    <item>America/Phoenix</item>
-    <item>America/Chihuahua</item>
-    <item>America/Denver</item>
-    <item>America/Costa_Rica</item>
-    <item>America/Chicago</item>
-    <item>America/Mexico_City</item>
-    <item>America/Regina</item>
-    <item>America/Bogota</item>
-    <item>America/New_York</item>
-    <item>America/Caracas</item>
-    <item>America/Barbados</item>
-    <item>America/Halifax</item>
+    <item>Pacífic/Majuro</item>
+    <item>Pacífic/Midway</item>
+    <item>Pacífic/Honolulu</item>
+    <item>Amèrica/Anchorage</item>
+    <item>Amèrica/Los_Angeles</item>
+    <item>Amèrica/Tijuana</item>
+    <item>Amèrica/Phoenix</item>
+    <item>Amèrica/Chihuahua</item>
+    <item>Amèrica/Denver</item>
+    <item>Amèrica/Costa_Rica</item>
+    <item>Amèrica/Chicago</item>
+    <item>Amèrica/Ciutat_de_Mèxic</item>
+    <item>Amèrica/Regina</item>
+    <item>Amèrica/Bogotà</item>
+    <item>Amèrica/Nova_York</item>
+    <item>Amèrica/Caracas</item>
+    <item>Amèrica/Barbados</item>
+    <item>Amèrica/Halifax</item>
     <item>Amèrica/Manaus</item>
     <item>Amèrica/Santiago</item>
     <item>Amèrica/St Johns</item>
@@ -455,23 +455,23 @@
     <item>Àsia/Hong Kong</item>
     <item>Àsia/Macau</item>
     <item>Àsia/Singapur</item>
-    <item>Asia/Irkutsk</item>
-    <item>Asia/Kuala_Lumpur</item>
-    <item>Australia/Perth</item>
-    <item>Asia/Taipei</item>
-    <item>Asia/Seoul</item>
-    <item>Asia/Tokyo</item>
-    <item>Asia/Yakutsk</item>
-    <item>Australia/Adelaide</item>
-    <item>Australia/Darwin</item>
-    <item>Australia/Brisbane</item>
-    <item>Australia/Hobart</item>
-    <item>Australia/Sydney</item>
-    <item>Asia/Vladivostok</item>
-    <item>Pacific/Guam</item>
-    <item>Asia/Magadan</item>
-    <item>Pacific/Auckland</item>
-    <item>Pacific/Fiji</item>
-    <item>Pacific/Tongatapu</item>
+    <item>Àsia/Irkutsk</item>
+    <item>Àsia/Kuala_Lumpur</item>
+    <item>Austràlia/Perth</item>
+    <item>Àsia/Taipei</item>
+    <item>Àsia/Seül</item>
+    <item>Àsia/Tòquio</item>
+    <item>Àsia/Yakutsk</item>
+    <item>Austràlia/Adelaida</item>
+    <item>Austràlia/Darwin</item>
+    <item>Austràlia/Brisbane</item>
+    <item>Austràlia/Hobart</item>
+    <item>Austràlia/Sydney</item>
+    <item>Àsia/Vladivostok</item>
+    <item>Pacífic/Guam</item>
+    <item>Àsia/Magadan</item>
+    <item>Pacífic/Auckland</item>
+    <item>Pacífic/Fiji</item>
+    <item>Pacífic/Tongatapu</item>
   </string-array>
 </resources>
