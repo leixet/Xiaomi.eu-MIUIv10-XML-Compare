@@ -326,10 +326,10 @@
   <string name="com_taobao_tae_sdk_back_message">返回</string>
   <string name="com_taobao_tae_sdk_cart_title">购物车</string>
   <string name="com_taobao_tae_sdk_close_message">关闭</string>
-  <string name="com_taobao_tae_sdk_loading_progress_message">加载中</string>
+  <string name="com_taobao_tae_sdk_loading_progress_message">S\'està carregant</string>
   <string name="com_taobao_tae_sdk_login_progress_message">登录中</string>
   <string name="com_taobao_tae_sdk_logout_fail_message">登出失败</string>
-  <string name="com_taobao_tae_sdk_more_message">更多</string>
+  <string name="com_taobao_tae_sdk_more_message">Més</string>
   <string name="com_taobao_tae_sdk_network_not_available_message">网络无法连接</string>
   <string name="com_taobao_tae_sdk_qr_login_title_bar_text">淘宝账号登录</string>
   <string name="com_taobao_tae_sdk_system_exception">系统异常</string>
@@ -398,12 +398,12 @@ està a punt de passar»</string>
   <string name="custom_head_pull_down_text">Enter infoFlow</string>
   <string name="data_monitor">Monitor d\'ús de dades</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
-  <string name="data_traffic_continue">Continue</string>
-  <string name="data_traffic_goto">Free data traffic</string>
-  <string name="data_traffic_prompt_free_data">Using your mobile data connection to browse videos will increase your data usage. Please get free data traffic.</string>
+  <string name="data_traffic_continue">Continua</string>
+  <string name="data_traffic_goto">Trànsit de dades gratuït</string>
+  <string name="data_traffic_prompt_free_data">L\'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà l\'ús de dades. Obteniu trànsit de dades gratuït.</string>
   <string name="data_traffic_prompt_message">L\'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d\'ús de dades del vostre pla, l\'operador us podria cobrar despeses addicionals.</string>
-  <string name="data_traffic_prompt_title">Using data usage</string>
-  <string name="data_traffic_stop">Stop</string>
+  <string name="data_traffic_prompt_title">Ús de dades mòbils</string>
+  <string name="data_traffic_stop">Atura</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Elimina</string>
   <string name="delete_bookmark_action_warning">Voleu elimina els marcadors?</string>
@@ -549,10 +549,10 @@ està a punt de passar»</string>
   <string name="homepage_more_sites">Més llocs web</string>
   <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">Destacat</string>
-  <string name="hot_words_item_ads_mark">Ads</string>
+  <string name="hot_words_item_ads_mark">Anuncis</string>
   <string name="ignore_add_pwa_dialog_today">"Avui no ho mostris"</string>
   <string name="in_secureaccess">El navegador s\'ha canviat al Mode segur</string>
-  <string name="info_flow_description">Info channel</string>
+  <string name="info_flow_description">Canal d\'informació</string>
   <string name="isReplacePage">El fitxer ja existeix, el voleu reemplaçar?</string>
   <string name="is_first_history_item">Aquesta és la primera pàgina de l\'historial de navegació</string>
   <string name="is_first_tab">Aquesta és la primera pestanya</string>
@@ -584,7 +584,7 @@ està a punt de passar»</string>
   <string name="menu_title_open_file_management">Obre el gestor de fitxers</string>
   <string name="menu_title_pause_all">Atura-ho tot</string>
   <string name="menu_title_resume_all">Inicia-ho tot</string>
-  <string name="message_notice_push">Experience my personal information</string>
+  <string name="message_notice_push">Experimenteu la meva informació personal</string>
   <string name="miui_autologin_bar_error">"No es pot iniciar sessió"</string>
   <string name="miui_autologin_bar_title">Inici de sessió amb el compte Mi</string>
   <string name="miui_bookmark_action_bar_add_group_title">Afegeix un grup</string>
@@ -878,16 +878,16 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
           &lt;li&gt;El vostre proveïdor de serveis d\'Internet
         &lt;/ul&gt;"</string>
   <string name="mw_no_matches">Cap coincidència</string>
-  <string name="mw_notification_category_browser">Browser</string>
-  <string name="mw_notification_category_content_suggestions">Content Suggestions</string>
-  <string name="mw_notification_category_downloads">Downloads</string>
+  <string name="mw_notification_category_browser">Navegador</string>
+  <string name="mw_notification_category_content_suggestions">Suggeriments de contingut</string>
+  <string name="mw_notification_category_downloads">Baixades</string>
   <string name="mw_notification_category_fullscreen_controls">Full screen site controls</string>
   <string name="mw_notification_category_group_general">General</string>
-  <string name="mw_notification_category_incognito">Incognito</string>
-  <string name="mw_notification_category_media">Media</string>
-  <string name="mw_notification_category_screen_capture">Screen Capture</string>
-  <string name="mw_notification_category_sites">Sites</string>
-  <string name="mw_notification_hidden_text">Contents hidden</string>
+  <string name="mw_notification_category_incognito">Incògnit</string>
+  <string name="mw_notification_category_media">Multimèdia</string>
+  <string name="mw_notification_category_screen_capture">Captura de pantalla</string>
+  <string name="mw_notification_category_sites">Llocs</string>
+  <string name="mw_notification_hidden_text">Contingut ocult</string>
   <string name="mw_ntp_title_no_suggestions">Això és tot per ara</string>
   <string name="mw_older">Anterior</string>
   <string name="mw_opening_file_error">No es pot obrir el fitxer seleccionat</string>
@@ -1005,7 +1005,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_search_menu_title">Cerca</string>
   <string name="mw_snippets_disabled_generic_prompt">Obtén contingut personalitzat</string>
   <string name="mw_snippets_disabled_signed_out_instructions">Per obtenir contingut personalitzat suggerit per Google, inicieu sessió a Chrome.</string>
-  <string name="mw_status_bar_notification_info_overflow">999+</string>
+  <string name="mw_status_bar_notification_info_overflow">+999</string>
   <string name="mw_time_picker_dialog_am">AM</string>
   <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
   <string name="mw_time_picker_dialog_minute_second_separator">:</string>
@@ -1032,7 +1032,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
-  <string name="network_not_available_comment">No internet connection, unable to comment</string>
+  <string name="network_not_available_comment">Sense connexió a Internet, no es poden fer comentaris</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Connecta a aquesta xarxa</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Hi ha una xarxa Wi-Fi oberta disponible</string>
   <string name="next_button_label">Següent</string>
@@ -1065,9 +1065,9 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pay_success_toast">S\'ha pagat correctament</string>
   <string name="permission_notification">envia les notificacions</string>
   <string name="permissions_prompt_message">%s vol </string>
-  <string name="play_pause_video">Play or pause video</string>
+  <string name="play_pause_video">Reprodueix o pausa el vídeo</string>
   <string name="play_video">Reprodueix el vídeo</string>
-  <string name="popup_video">Popup video</string>
+  <string name="popup_video">Vídeo emergent</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
   <string name="pref_accept_quicklink_push">Servei de notícies</string>
@@ -1139,7 +1139,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_nav_mode_summary_pad">Tauleta</string>
   <string name="pref_nav_mode_summary_phone">Telèfon</string>
   <string name="pref_nav_mode_title">Mode del navegador</string>
-  <string name="pref_navscreen_layoutstate_title">Multi-window management</string>
+  <string name="pref_navscreen_layoutstate_title">Gestió de finestres múltiples</string>
   <string name="pref_notifications_hint">Notificacions</string>
   <string name="pref_notifications_receive">Notificacions</string>
   <string name="pref_notifications_title">Notificacions</string>
@@ -1223,7 +1223,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="readmode_recommend_message">"Ja heu llegit aquest llibre. :)"</string>
   <string name="readmode_refresh">Actualitza</string>
   <string name="readmodelist_bookmarks_to_show">Llista de lectura</string>
-  <string name="refresh_description">Refresh</string>
+  <string name="refresh_description">Refresca</string>
   <string name="refuse_permissions_request">Rebutja</string>
   <string name="remember_passwords_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="remove_bookmark">Esborra el marcador</string>
@@ -1263,7 +1263,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="save_to_camera_success">S\'ha desat a càmera</string>
   <string name="scanner_uninstalled_text">Per fer-lo servir, instal·leu l\'escàner</string>
   <string name="scanner_uninstalled_title">L\'escàner s\'ha desinstal·lat</string>
-  <string name="screenshot_loading_dialog_title">Capturing</string>
+  <string name="screenshot_loading_dialog_title">S\'està capturant</string>
   <string name="sdcard_error">Comproveu la vostra targeta SD</string>
   <string name="search">Cerca</string>
   <string name="search_baidu">Baidu</string>
