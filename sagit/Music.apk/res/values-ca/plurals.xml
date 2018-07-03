@@ -17,10 +17,6 @@
     <item quantity="other">El reproductor pararà a %d minuts</item>
     <item quantity="one">El reproductor pararà a %d minut</item>
   </plurals>
-  <plurals name="Nrecognize_switch_off_alert_message">
-    <item quantity="other">Heu triat no trobar les caràtules dels àlbums i les lletres de les cançons locals automàticament. Voleu eliminar informació per %d cançons?</item>
-    <item quantity="one">Heu triat no trobar les caràtules dels àlbums i les lletres de les cançons locals automàticament. Voleu eliminar informació per %d cançó?</item>
-  </plurals>
   <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">"Creat el %1$s 
 %2$d cançons en total"</item>
@@ -116,5 +112,9 @@ Note: File will be deleted from this device as well."</item>
   <plurals name="songs_count">
     <item quantity="other">%d cançons</item>
     <item quantity="one">%d cançó</item>
+  </plurals>
+  <plurals name="video_play_count">
+    <item quantity="other">%1$s views</item>
+    <item quantity="one">%1$s view</item>
   </plurals>
 </resources>
