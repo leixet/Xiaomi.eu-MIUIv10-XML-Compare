@@ -1838,6 +1838,7 @@ For more details, contact your organization's admin."</string>
   <string name="every_day">Every day</string>
   <string name="experimental_category_title">Experimental</string>
   <string name="experimental_preference">(Experimental)</string>
+  <string name="extended_power_menu">Extended power menu</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
   <string name="external_source_switch_title">Allow from this source</string>
@@ -3861,7 +3862,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_off_apps_title">"Don't use Reading mode"</string>
   <string name="screen_paper_mode_range_title">Settings</string>
   <string name="screen_paper_mode_set_apps_title">Reading mode apps</string>
-  <string name="screen_paper_mode_summary">"Reduce display's blue light emission"</string>
+  <string name="screen_paper_mode_summary">Reading mode makes the colors of your display warmer allowing your eyes to relax.</string>
   <string name="screen_paper_mode_time_summary">Schedule time to turn Reading mode on and off</string>
   <string name="screen_paper_mode_time_title">Schedule</string>
   <string name="screen_paper_mode_title">Reading mode</string>
