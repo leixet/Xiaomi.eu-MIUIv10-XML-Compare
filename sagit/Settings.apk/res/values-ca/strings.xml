@@ -184,6 +184,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
   <string name="add_facerecoginition_text">Afegeix dades facials</string>
   <string name="add_fingerprint_cancel_button_text">Back</string>
+  <string name="add_fingerprint_dirty_fingerprint">Make sure the surface of the screen is clean. Try recording your fingerprint again.</string>
   <string name="add_fingerprint_done_msg">Ara podeu desbloquejar aquest dispositiu amb l\'empremta.</string>
   <string name="add_fingerprint_done_title">"Ja podeu començar!"</string>
   <string name="add_fingerprint_edge_instruction_msg">Moveu el dit perquè el sensor pugui enregistrar les vores de l\'empremta.</string>
@@ -192,6 +193,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_finished_button_text">Fet</string>
   <string name="add_fingerprint_instruction_msg">El sensor d\'empremtes està integrat al botó Inici del dispositiu.</string>
   <string name="add_fingerprint_instruction_title">Afegiu una empremta</string>
+  <string name="add_fingerprint_move_fast">Keep your finger on the screen a bit longer</string>
   <string name="add_fingerprint_name_suggest_text">Nom de l\'empremta dactilar</string>
   <string name="add_fingerprint_put_finger_edge_msg">Traieu el dit i torneu-lo a posar a sobre del lector.</string>
   <string name="add_fingerprint_put_finger_msg">Poseu el dit en el lector fins que noteu una vibració.</string>
@@ -1837,6 +1839,7 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="every_day">Cada dia</string>
   <string name="experimental_category_title">Experimental</string>
   <string name="experimental_preference">(Experimental)</string>
+  <string name="extended_power_menu">Extended power menu</string>
   <string name="external_code_size_label">Codi a la memòria externa</string>
   <string name="external_data_size_label">Dades a la memòria externa</string>
   <string name="external_source_switch_title">Permet d\'aquesta font</string>
@@ -2094,18 +2097,18 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="got_it">Entesos</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="gxzw_add_fingerprint_continue">Continue</string>
-  <string name="gxzw_add_fingerprint_edge_message">Move your finger so the sensor could record the edges of your fingerprint.</string>
-  <string name="gxzw_add_fingerprint_edge_title">Move your finger slightly</string>
-  <string name="gxzw_add_fingerprint_finish">Finish</string>
-  <string name="gxzw_add_fingerprint_indicate">Press harder here</string>
+  <string name="gxzw_add_fingerprint_edge_message">Move your finger to record the edges of your fingerprint</string>
+  <string name="gxzw_add_fingerprint_edge_title">Adjust your grip</string>
+  <string name="gxzw_add_fingerprint_finish">Done!</string>
+  <string name="gxzw_add_fingerprint_indicate">Press this area lightly</string>
   <string name="gxzw_add_fingerprint_know">Got it</string>
-  <string name="gxzw_add_fingerprint_message">Keep fingers and screen surface clean</string>
+  <string name="gxzw_add_fingerprint_message">Make sure both your finger and the screen are clean</string>
   <string name="gxzw_add_fingerprint_move_indicate">Move your finger slightly</string>
-  <string name="gxzw_add_fingerprint_move_message">"Can't record the remaining areas of your fingerprint. Move your finger slightly"</string>
-  <string name="gxzw_add_fingerprint_move_title">Move your finger slightly</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Press a bit harder and lift your finger after you feel vibration. Repeat several times.</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Press harder and lift after vibration</string>
-  <string name="gxzw_add_fingerprint_title">Add fingerprint</string>
+  <string name="gxzw_add_fingerprint_move_message">Move your finger to record all parts of your fingerprint</string>
+  <string name="gxzw_add_fingerprint_move_title">Move your finger a little</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Press the screen and lift your finger after you feel vibration. Repeat several times.</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Press and lift after vibration</string>
+  <string name="gxzw_add_fingerprint_title">Add your fingerprint</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
   <string name="handy_mode_enable">Operació amb una mà</string>
   <string name="handy_mode_size">Pantalla</string>
@@ -2553,6 +2556,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_choose_your_pin_header">Estableix el PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">«Configura el PIN 
  pel segon espai»</string>
+  <string name="lockpassword_choose_your_pin_title">Enter 4-16 digits</string>
   <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
   <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
   <string name="lockpassword_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
@@ -4421,7 +4425,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="sim_lock_settings_summary_on">Bloquejat</string>
   <string name="sim_lock_settings_title">Bloqueig de la SIM</string>
   <string name="sim_management_title">Targetes SIM i xarxes mòbils</string>
-  <string name="sim_management_title_cr_kolbi">Targetes SIM i xarxes mòbils</string>
+  <string name="sim_management_title_singlesim">SIM card &amp; mobile networks</string>
   <string name="sim_multi_sims_summary">Trieu la SIM per a les dades mòbils.</string>
   <string name="sim_multi_sims_title">S\'han detectat diverses SIM</string>
   <string name="sim_name_hint">Introduïu el nom de la SIM</string>
