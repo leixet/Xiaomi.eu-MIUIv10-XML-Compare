@@ -5,6 +5,8 @@
   <string name="action_mode_switcher_grid_description">Vista en mosaic</string>
   <string name="action_mode_switcher_list_description">Vista de llista</string>
   <string name="action_settings_description">Obre la configuració</string>
+  <string name="actionbar_close_description">Close</string>
+  <string name="actionbar_home_description">Back</string>
   <string name="add_account_desc">Voleu sincronitzar les vostres notes amb el vostre compte Mi?</string>
   <string name="alarm_bar_title">Recordatori</string>
   <string name="alert_action_edit_anyway">Continua editant</string>
@@ -56,7 +58,6 @@
   <string name="dlg_unhide_message">S\'està mostrant&#8230;</string>
   <string name="done">Fet</string>
   <string name="edit_header_done_description">Fet</string>
-  <string name="edit_header_home_description">Enrere</string>
   <string name="edit_header_lock_description">Hidden note</string>
   <string name="empty_folder_import_notes">Import notes</string>
   <string name="empty_folder_no_notes">No notes here</string>
@@ -96,6 +97,7 @@
   <string name="menu_delete_forever">Elimina per sempre</string>
   <string name="menu_folders">Carpetes</string>
   <string name="menu_hide">​​Amaga</string>
+  <string name="menu_more_description">More</string>
   <string name="menu_move_parent_folder">Carpeta superior</string>
   <string name="menu_move_to">Mou a</string>
   <string name="menu_new_folder">Nova carpeta</string>
@@ -204,10 +206,10 @@
   <string name="toast_reach_text_limit_checkbox">"No es pot afegir la casella de selecció perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_truncate">Aquesta nota és massa llarga. S\'ha retallat text del final perquè hi càpiga.</string>
   <string name="toast_refuse_to_record_when_in_call">"Can't use this feature during calls"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">"Can't use this feature with Split screen"</string>
   <string name="toolbar_check_description">Afegeix casella de selecció</string>
   <string name="toolbar_delete_description">Elimina aquesta nota</string>
   <string name="toolbar_gallery_description">Afegeix imatge</string>
-  <string name="toolbar_more_description">Més</string>
   <string name="toolbar_redo_description">Refés</string>
   <string name="toolbar_share_description">Comparteix aquesta nota</string>
   <string name="toolbar_text_description">Text style</string>
