@@ -13,7 +13,7 @@
   <string name="action_item_favorite">Preferit</string>
   <string name="action_item_hide">Amaga</string>
   <string name="action_item_hifi">Auriculars i efectes d\'àudio</string>
-  <string name="action_item_play_all">Reprodueix tot</string>
+  <string name="action_item_play_all">Shuffle all</string>
   <string name="action_item_play_next">Play later</string>
   <string name="action_item_remove">Treu</string>
   <string name="action_item_remove_from_favorite">Treu dels preferits</string>
@@ -179,13 +179,12 @@
   <string name="dialog_cannot_resume">"Baixada interrompuda. No es pot reprendre."</string>
   <string name="dialog_clear_history">Voleu esborrar la llista de cançons reproduïdes recentment?</string>
   <string name="dialog_confirm_delete_checkbox_message">Suprimeix també els arxius locals</string>
-  <string name="dialog_failed_body">\"Proveu a baixar-ho més tard
-          o voleu eliminar el fitxer de la cua?\"</string>
+  <string name="dialog_failed_body">Try downloading later or remove the file from the queue?</string>
   <string name="dialog_file_already_exists">"No es pot baixar. Aquest fitxer ja existeix."</string>
   <string name="dialog_file_missing_body">"No s'ha pogut trobar el fitxer descarregat."</string>
   <string name="dialog_file_missing_title">"No es pot obrir el fitxer"</string>
-  <string name="dialog_insufficient_space_on_cache">"No hi ha prou espai en l'emmagatzematge intern"</string>
-  <string name="dialog_insufficient_space_on_external">"No hi ha prou espai en l'emmagatzematge extern"</string>
+  <string name="dialog_insufficient_space_on_cache">"Can't complete download, not enough internal storage left."</string>
+  <string name="dialog_insufficient_space_on_external">"Can't finish download. Not enough space on the SD card."</string>
   <string name="dialog_media_not_found">"No es pot baixar. La targeta SD no està disponible."</string>
   <string name="dialog_queued_body">Aquest fitxer està en cua per a futures baixades.</string>
   <string name="dialog_song_sort_type">Tipus d\'ordenació</string>
@@ -235,7 +234,7 @@
   <string name="download_connect_wifi_dialog_message">You need Wi-Fi to download this song. Connect now?</string>
   <string name="download_connect_wifi_dialog_title">Connect to Wi-Fi</string>
   <string name="download_done_btn">Baixat</string>
-  <string name="download_error">Ha fallat</string>
+  <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">No hi ha prou espai</string>
   <string name="download_fail_to_fetch_info">"No s'ha pogut baixar, torneu-ho a provar"</string>
   <string name="download_filesize_unknown">Desconegut</string>
@@ -432,13 +431,13 @@
   <string name="higher_quality_music">Música d\'alta qualitat</string>
   <string name="higher_quality_music_summary">Escolta i baixa música a major taxa de bits</string>
   <string name="home_tab_local">La meva música</string>
-  <string name="home_tab_online">Descobreix</string>
+  <string name="home_tab_online">Online music</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_pro">Hungama Pro</string>
-  <string name="hungama_subscribe_message">Heu de pagar aquesta cançó per baixar-la</string>
-  <string name="hungama_subscribe_positive_button">Paga</string>
-  <string name="hungama_subscribe_title">Baixa</string>
+  <string name="hungama_subscribe_message">Buy PRO membership to download music in high quality.</string>
+  <string name="hungama_subscribe_positive_button">Buy PRO membership</string>
+  <string name="hungama_subscribe_title">PRO membership</string>
   <string name="i_know">D\'acord</string>
   <string name="id_namespace">hungama</string>
   <string name="impunity_declaration_content">Heu de llegir i estar d\'acord amb el nostre &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar el producte.</string>
@@ -557,7 +556,7 @@
   <string name="no_downloads">Sense baixades</string>
   <string name="no_duration">--:--</string>
   <string name="no_favorites_songs">Buit</string>
-  <string name="no_file_picker_find">"L'explorador de fitxers no està instal·lat en aquest dispositiu"</string>
+  <string name="no_file_picker_find">"File Manager isn't installed."</string>
   <string name="no_local_songs">Buit</string>
   <string name="no_local_songs_selected">"No es poden enviar les cançons perquè no han estat baixades"</string>
   <string name="no_local_source_find">"No s'ha pogut trobar la cançó"</string>
@@ -679,7 +678,7 @@
   <string name="request_share_info">Un moment…</string>
   <string name="request_subscription_status">Un moment…</string>
   <string name="restart_immediate">Reinicia</string>
-  <string name="retry">Torna-ho a intentar</string>
+  <string name="retry">Try again</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu-ho a provar."</string>
   <string name="retry_download">Torna-ho a provar</string>
   <string name="ringtone_not_support">"Aquest format de cançó no és compatible"</string>
@@ -809,7 +808,7 @@
   <string name="text_separator">|</string>
   <string name="ticket_summary">Compreu entrades per a espectacles, concerts, obres de teatre i altres esdeveniments</string>
   <string name="ticket_title">Mostra les entrades</string>
-  <string name="time_to_upgrade">Actualitza Música Mi</string>
+  <string name="time_to_upgrade">An update is available</string>
   <string name="title_online_fm_recommend">FM recomanats</string>
   <string name="title_online_recommend">Llistes de reproducció recomanades</string>
   <string name="title_search_history">Històric de cerca</string>
@@ -828,7 +827,7 @@
   <string name="uninterruptedPlayIntervalSeconds">300</string>
   <string name="unknown_album_name">Àlbum desconegut</string>
   <string name="unknown_artist_name">Artista desconegut</string>
-  <string name="update_now">Actualitza ara</string>
+  <string name="update_now">UPDATE NOW</string>
   <string name="upgrade_music">Actualitza Música</string>
   <string name="upgrade_music_message">Les actualitzacions estan a punt. Reinicieu per actualitzar.</string>
   <string name="upgrading_in_backstage">Updating in the background…</string>
