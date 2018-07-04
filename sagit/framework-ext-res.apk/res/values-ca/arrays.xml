@@ -56,6 +56,7 @@
     <item>com.xiaomi.mipicks</item>
     <item>com.xiaomi.smarthome</item>
     <item>com.kiteguard</item>
+    <item>com.xiaomi.discover</item>
   </string-array>
   <string-array name="keyguard_whitelist">
     <item>com.google.android.talk</item>
@@ -103,6 +104,7 @@
     <item>com.android.htmlviewer</item>
     <item>com.miui.greenguard</item>
     <item>com.kiteguard</item>
+    <item>com.xiaomi.discover</item>
   </string-array>
   <array name="boot_msg_text"></array>
   <array name="config_virtualKeyUpPattern"></array>
@@ -1314,6 +1316,7 @@
     <item>com.miui.greenguard</item>
     <item>com.miui.miwallpaper</item>
     <item>com.miui.contentextension</item>
+    <item>com.xiaomi.mimobile.cloudsim</item>
   </string-array>
   <string-array name="process_disable_trim_list">
     <item>com.miui.home</item>
