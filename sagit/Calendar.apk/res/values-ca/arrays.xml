@@ -329,15 +329,6 @@
     <item>重度</item>
     <item>严重</item>
   </string-array>
-  <string-array name="entryvalues_settings_debug">
-    <item>无</item>
-    <item>导出并发送日志</item>
-    <item>生成日志至文件管理器</item>
-  </string-array>
-  <string-array name="fortune_gender">
-    <item>男</item>
-    <item>女</item>
-  </string-array>
   <string-array name="fortune_random_birthday">
     <item>01-01-1992</item>
     <item>04-02-2013</item>
@@ -351,40 +342,10 @@
     <item>08-01-1980</item>
     <item>10-01-1982</item>
   </string-array>
-  <string-array name="fortune_random_name">
-    <item>王伟</item>
-    <item>李东</item>
-    <item>孙辉</item>
-    <item>李俊</item>
-    <item>周永</item>
-    <item>郑健</item>
-    <item>黄海</item>
-    <item>郑飞飞</item>
-    <item>程杰</item>
-    <item>宋小宝</item>
-    <item>郭德纲</item>
-  </string-array>
   <string-array name="prefValues_alerts_vibrateWhen">
     <item>sempre</item>
     <item>en silenci</item>
     <item>mai</item>
-  </string-array>
-  <string-array name="preferences_default_reminder_values">
-    <item>0</item>
-    <item>5</item>
-    <item>10</item>
-    <item>15</item>
-    <item>30</item>
-    <item>60</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>10080</item>
-  </string-array>
-  <string-array name="preferences_week_start_day_values">
-    <item>-1</item>
-    <item>7</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="timezone_values">
     <item>Pacífic/Majuro</item>
