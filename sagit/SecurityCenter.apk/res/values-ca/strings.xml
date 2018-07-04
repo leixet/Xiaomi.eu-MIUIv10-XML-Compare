@@ -1326,6 +1326,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="notification_masked_item">Amaga les notificacions</string>
   <string name="notification_masked_subtitle">Amaga les notificacions d\'aplicacions protegides amb bloqueig de l\'aplicació</string>
   <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
+  <string name="notify_channel_name_security">System security</string>
   <string name="notify_daily_data_usage_body">Per limitar l\'ús de dades automàticament, establir el pla de dades mensual.</string>
   <string name="notify_daily_limit_body">Tocar per establir el límit de dades.</string>
   <string name="notify_daily_limit_title">Usats %s avui</string>
