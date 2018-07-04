@@ -112,7 +112,7 @@
   <string name="feedback_status_save_log_info_failed">"No s'ha pogut canviar l'URL del fitxer adjunt"</string>
   <string name="feedback_status_submit_attachment">S\'ha enviat un fitxer adjunt amb èxit</string>
   <string name="feedback_status_submit_bbs_failed">"No s'ha pogut enviar el contingut dels comentaris"</string>
-  <string name="feedback_status_submit_feedback_failed">"No s'ha pogut enviar els comentaris"</string>
+  <string name="feedback_status_submit_feedback_failed">"No s'han pogut enviar els comentaris"</string>
   <string name="feedback_status_supplement">Descriviu el problema detalladament</string>
   <string name="feedback_status_supplement_more">Afegeix un comentari</string>
   <string name="feedback_status_upload_log_failed">"No s'han pogut carregar els fitxers adjunts"</string>
