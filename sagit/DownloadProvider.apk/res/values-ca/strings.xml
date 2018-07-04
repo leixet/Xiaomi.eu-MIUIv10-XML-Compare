@@ -8,10 +8,6 @@
   <string name="button_queue_for_wifi">Cua</string>
   <string name="button_start_now">Inicia ara</string>
   <string name="button_wait_for_wifi">Espera</string>
-  <string name="channel_active">下载中</string>
-  <string name="channel_complete">下载完成</string>
-  <string name="channel_insufficient_space">空间不足</string>
-  <string name="channel_waiting">等待中</string>
   <string name="dialog_button_cancel">Cancel·la</string>
   <string name="dialog_button_ok">D\'acord</string>
   <string name="dialog_content_limit0">Restringeix les baixades</string>
@@ -19,9 +15,7 @@
   <string name="dialog_data_limit_button1">A l\'espera d\'una conexió Wi-Fi</string>
   <string name="dialog_data_limit_button2">Baixa-ho ara</string>
   <string name="dialog_data_limit_msg1">S\'utilitzaran %s de dades mòbils per baixar aquest arxiu. Voleu baixar-lo ara?</string>
-  <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
   <string name="dialog_data_limit_msg3">Canvia el límit</string>
-  <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
   <string name="dialog_data_limit_title">Avís d\'ús de dades</string>
   <string name="dialog_insufficient_space_on_cache">No hi ha prou espai en l\'emmagatzematge intern de baixada</string>
   <string name="dialog_insufficient_space_on_external">No hi ha prou espai en l\'emmagatzematge extern</string>
@@ -35,7 +29,6 @@
   <string name="download_apk_desktop_running">S\'està baixant</string>
   <string name="download_error">Han fallat</string>
   <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_queued">A la cua</string>
   <string name="download_remaining">Falten %s</string>
   <string name="download_running">En progrés</string>
