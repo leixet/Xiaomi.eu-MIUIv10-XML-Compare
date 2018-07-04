@@ -116,7 +116,6 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="delete_backup_title">Suprimeix la còpia de seguretat</string>
   <string name="delete_failed_backup_confirm">Aquesta còpia de seguretat conté errors.</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_description">Sense encriptar</string>
   <string name="disable_encrypt_title">Desactiva l\'encriptatge</string>
@@ -207,7 +206,6 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
-  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
   <string name="lack_perm_msg">Mi Mover necessita els següents permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Es requereixen permisos</string>
@@ -398,15 +396,11 @@ Allibera %s com a mínim. "</string>
   <string name="trans_backingup">S\'està fent una còpia de seguretat…</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant…</string>
   <string name="trans_button_cancel">Cancel·la</string>
-  <string name="trans_button_exit">Exit</string>
-  <string name="trans_button_stay">Stay</string>
   <string name="trans_calculating">S\'està calculant…</string>
   <string name="trans_calculating_app_sd_description">Dades de la targeta SD</string>
   <string name="trans_calculating_media_description">Fitxers multimèdia</string>
   <string name="trans_calculating_tip">S\'està calculant %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
-  <string name="trans_cancel_selection_message">If you exit Mi Mover, the ongoing transfer will be interrupted. Wait until the transfer is complete.</string>
-  <string name="trans_cancel_selection_title">Stay in Mi Mover</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
   <string name="trans_connect_failed_device_incompatible">"El dispositiu no és compatible. Cancel·la la transferència i torna-ho a provar."</string>
   <string name="trans_connect_failed_message">"No s'ha pogut connectar, torneu-ho a provar o reinicieu el dispositiu. A l'altre dispositiu, aneu a Configuració &gt; Configuració addicional &gt; Mi Mover, toqueu [Sóc un emissor], o bé torneu a executar Mi Mover després de reiniciar-lo."</string>
@@ -552,8 +546,6 @@ Se sobreescriuran els fitxers semblants del dispositiu nou"</string>
 Seleccioneu només elements importants per fer la transferència més ràpida."</string>
   <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre les dades.</string>
   <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
-  <string name="trans_select_notification_message">Tap to view</string>
-  <string name="trans_select_notification_title">Mi Mover is working…</string>
   <string name="trans_sender">"Sóc un emissor"</string>
   <string name="trans_sender_connectting">Confirma-ho en el dispositiu nou</string>
   <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
@@ -581,7 +573,6 @@ i s\'ha activat Mi Mover"</string>
   <string name="trans_waiting_for_sender">S\'està esperant que el dispositiu antic es connecti…</string>
   <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir dades."</string>
   <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
-  <string name="unit_byte">B</string>
   <string name="unknown_hint">Desconeguda</string>
   <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB té prou espai d\'emmagatzematge.
 Transferiu només elements importants."</string>
@@ -600,7 +591,6 @@ Allibereu espai o transferiu només elements importants."</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_password_description">Mostra la contrasenya</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$s B</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
