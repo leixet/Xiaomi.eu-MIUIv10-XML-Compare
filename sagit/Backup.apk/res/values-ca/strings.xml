@@ -550,6 +550,7 @@ Se sobreescriuran els fitxers semblants del dispositiu nou"</string>
 Seleccioneu només elements importants per fer la transferència més ràpida."</string>
   <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre les dades.</string>
   <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
+  <string name="trans_select_notification_message">Toca per mostrar</string>
   <string name="trans_sender">"Sóc un emissor"</string>
   <string name="trans_sender_connectting">Confirma-ho en el dispositiu nou</string>
   <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
