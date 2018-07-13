@@ -652,6 +652,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_notification_category_browser">Navegador</string>
   <string name="mw_notification_category_content_suggestions">Suggeriments de contingut</string>
   <string name="mw_notification_category_downloads">Baixades</string>
+  <string name="mw_notification_category_fullscreen_controls">Controls de pantalla completa del lloc</string>
   <string name="mw_notification_category_group_general">General</string>
   <string name="mw_notification_category_incognito">Incògnit</string>
   <string name="mw_notification_category_media">Multimèdia</string>
