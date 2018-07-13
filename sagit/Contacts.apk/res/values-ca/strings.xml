@@ -204,6 +204,7 @@
   <string name="contact_detail_calllog_empty">No hi ha historial</string>
   <string name="contact_detail_entry_pay">Paga</string>
   <string name="contact_detail_entry_pay_dialog_title">Seleccioneu el número de telèfon</string>
+  <string name="contact_detail_entry_pay_request">Sol·licitud de diners</string>
   <string name="contact_detail_menu_delete_miprofile">Esborra la targeta</string>
   <string name="contact_detail_miprofile_accept">Intercanviar targetes de contacte</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"No s'han pogut intercanviar les targetes de contacte"</string>
@@ -363,6 +364,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marca per afegir una trucada</string>
+  <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Utilitza el teclat per marcar</string>
   <string name="dialer_addAnotherCall">Afegeix trucada</string>
   <string name="dialer_copy_view_delete_description">Esborra el número copiat</string>
@@ -506,6 +508,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_contact_card_button">Importar contacte</string>
   <string name="import_failure_no_vcard_file">No hi ha fitxers vCard a la targeta SD.</string>
   <string name="import_from_onekey_migrate">Importa amb Mi Mover</string>
+  <string name="import_from_other_device">Importar des d\'un altre dispositiu</string>
   <string name="import_from_sdcard">Importa des de emmagatzematge</string>
   <string name="import_from_sim">Importa des de la targeta SIM</string>
   <string name="import_from_sim1">Importa des de SIM 1</string>
@@ -536,6 +539,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="keep_local_btn">"Utilitzeu l'emmagatzematge intern del telèfon"</string>
   <string name="label_custom_type">Personalitzat</string>
   <string name="label_no_duplicate_contacts">No s\'han trobat duplicats</string>
+  <string name="label_notes">Notes</string>
   <string name="label_sip_address">Trucada internet</string>
   <string name="launcherDialer">Telèfon</string>
   <string name="listCustomView">Contactes a vista personalitzada</string>
