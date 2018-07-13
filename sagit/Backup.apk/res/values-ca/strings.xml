@@ -396,11 +396,15 @@ Allibera %s com a mínim. "</string>
   <string name="trans_backingup">S\'està fent una còpia de seguretat…</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant…</string>
   <string name="trans_button_cancel">Cancel·la</string>
+  <string name="trans_button_exit">Surt</string>
+  <string name="trans_button_stay">Roman</string>
   <string name="trans_calculating">S\'està calculant…</string>
   <string name="trans_calculating_app_sd_description">Dades de la targeta SD</string>
   <string name="trans_calculating_media_description">Fitxers multimèdia</string>
   <string name="trans_calculating_tip">S\'està calculant %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
+  <string name="trans_cancel_selection_message">Si sortiu de Mi Mover, la transferència en curs s\'interromprà. Espereu fins que finalitzi la transferència.</string>
+  <string name="trans_cancel_selection_title">Roman al Mi Mover</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
   <string name="trans_connect_failed_device_incompatible">"El dispositiu no és compatible. Cancel·la la transferència i torna-ho a provar."</string>
   <string name="trans_connect_failed_message">"No s'ha pogut connectar, torneu-ho a provar o reinicieu el dispositiu. A l'altre dispositiu, aneu a Configuració &gt; Configuració addicional &gt; Mi Mover, toqueu [Sóc un emissor], o bé torneu a executar Mi Mover després de reiniciar-lo."</string>
