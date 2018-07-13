@@ -180,6 +180,7 @@
   <string name="member_cost">Anual</string>
   <string name="menu_all_task_pause">Pausa-ho tot</string>
   <string name="menu_all_task_start">Inicia-ho tot</string>
+  <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">Configuració de les baixades</string>
   <string name="menu_title_fileexplore">Explorador</string>
   <string name="menu_title_pause_all">Pausa-ho tot</string>
