@@ -28,9 +28,9 @@
     <item>Avui (dades)</item>
     <item>El mes passat (dades)</item>
     <item>Aquest mes (dades)</item>
-    <item>Wi-Fi d\'ahir</item>
-    <item>Wi-Fi d\'avui</item>
-    <item>Wi-Fi del darrer mes</item>
+    <item>Wi-Fi ahir</item>
+    <item>Wi-Fi avui</item>
+    <item>Wi-Fi el mes passat</item>
     <item>Wi-Fi d\'aquest mes</item>
   </string-array>
   <string-array name="traffic_type">
@@ -42,7 +42,7 @@
     <item>"Ús Wi-Fi "</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
-    <item>Mostra una advertència</item>
+    <item>Mostra l\'avís</item>
     <item>Adverteix i desactiva les dades mòbils</item>
   </string-array>
   <string-array name="roaming_network_type">
