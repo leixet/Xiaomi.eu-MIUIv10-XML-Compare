@@ -115,4 +115,12 @@
     <item quantity="other">%1$d segons</item>
     <item quantity="one">%1$d segon</item>
   </plurals>
+  <plurals name="wechat_video_time_p1">
+    <item quantity="one">%1$s:</item>
+    <item quantity="other">%1$s:</item>
+  </plurals>
+  <plurals name="wechat_video_time_p2">
+    <item quantity="one">%1$s</item>
+    <item quantity="other">%1$s</item>
+  </plurals>
 </resources>
