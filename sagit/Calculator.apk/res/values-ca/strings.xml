@@ -149,6 +149,7 @@
   <string name="mortgage_details">Detalls de la hipoteca</string>
   <string name="mortgage_hint_accumulation_fund">Introduïu una quantitat</string>
   <string name="mortgage_hint_commercial">Introduïu una quantitat</string>
+  <string name="mortgage_hint_loan">Introduïu la quantitat</string>
   <string name="mortgage_input_error">Introduïu una quantitat</string>
   <string name="mortgage_interest_amount">Quantitat d\'interès</string>
   <string name="mortgage_item_repayment">Mètode de pagament</string>
