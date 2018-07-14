@@ -176,10 +176,8 @@
   <string name="timer_item_label_hint">Nom del temporitzador</string>
   <string name="timer_new_item">Afegeix temporitzador</string>
   <string name="timer_notify_text">Ajorna o ignora l\'alarma.</string>
-  <string name="timer_pause_hint">Pausa</string>
   <string name="timer_pause_timer">Pausa el temporitzador</string>
   <string name="timer_running">El temporitzador s\'està executant</string>
-  <string name="timer_running_hint">Continua</string>
   <string name="timer_start_alarm">"S'ha acabat el temps!"</string>
   <string name="timer_start_timer">Inicia el temporitzador</string>
   <string name="timer_title">Temporitzador</string>
