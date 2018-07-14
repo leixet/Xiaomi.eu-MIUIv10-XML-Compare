@@ -99,12 +99,12 @@
     <item>Cada dia</item>
     <item>Dies feiners</item>
     <item>Entre setmana</item>
-    <item>Personalitzada</item>
+    <item>Personalitzat</item>
   </string-array>
   <string-array name="alarm_repeat_type_no_workdays">
     <item>Un cop</item>
     <item>Cada dia</item>
     <item>Entre setmana</item>
-    <item>Personalitzada</item>
+    <item>Personalitzat</item>
   </string-array>
 </resources>
