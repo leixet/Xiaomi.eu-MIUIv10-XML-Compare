@@ -43,7 +43,7 @@
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Mostra l\'avís</item>
-    <item>Adverteix i desactiva les dades mòbils</item>
+    <item>Avisa i desactiva les dades mòbils</item>
   </string-array>
   <string-array name="roaming_network_type">
     <item>Sempre</item>
