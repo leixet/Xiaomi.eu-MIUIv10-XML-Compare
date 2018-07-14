@@ -3,7 +3,7 @@
 <resources>
   <string name="activity_title_ad">Publicitat</string>
   <string name="activity_title_apk">Paquets</string>
-  <string name="activity_title_brightness_image">Subexposades i sobreexposades</string>
+  <string name="activity_title_brightness_image">Sub i sobreexposades</string>
   <string name="activity_title_cache">Memòria cau</string>
   <string name="activity_title_cache_data">Dades d\'aplicació</string>
   <string name="activity_title_deep_apk">Elimina APK</string>
@@ -16,7 +16,7 @@
   <string name="activity_title_news">Notícies</string>
   <string name="activity_title_privacy_cache">Memòria cau privada</string>
   <string name="activity_title_residual">Residuals</string>
-  <string name="activity_title_scanfinish">S\'ha completat l\'anàlisi</string>
+  <string name="activity_title_scanfinish">S\'ha completat l\'escaneig</string>
   <string name="activity_title_screenshot">Captures de pantalla</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="activity_title_similar_image">Fotos duplicades</string>
