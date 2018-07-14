@@ -64,14 +64,14 @@
     <item>Estat</item>
     <item>Nom de l\'aplicació</item>
     <item>Freqüència d\'ús</item>
-    <item>Emmagatzematge usat</item>
+    <item>Emmagatzematge utilitzat</item>
     <item>Data d\'instal·lació</item>
   </string-array>
   <string-array name="sort_title">
     <item>Ordena per estat</item>
     <item>Ordena per nom de l\'aplicació</item>
     <item>Ordena per freqüència d\'ús</item>
-    <item>Ordena per l\'emmagatzematge usat</item>
+    <item>Ordena per l\'emmagatzematge utilitzat</item>
     <item>Ordena per data d\'instal·lació</item>
   </string-array>
   <string-array name="key_app_info">
