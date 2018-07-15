@@ -166,7 +166,7 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="one">S\'han esborrat %d virus</item>
   </plurals>
   <plurals name="hints_auto_start_enable_title">
-    <item quantity="other">%d aplicacions poden iniciar automàticament</item>
+    <item quantity="other">%d aplicacions es poden iniciar automàticament</item>
     <item quantity="one">%d aplicació es pot iniciar automàticament</item>
   </plurals>
   <plurals name="hints_auto_start_disable_title">
