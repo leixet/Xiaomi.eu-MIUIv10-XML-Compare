@@ -270,12 +270,12 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="one">S\'ha afegit %d joc</item>
   </plurals>
   <plurals name="app_manager_permission_summary_accept">
-    <item quantity="other">%d permisos permesos</item>
+    <item quantity="other">S\'han permès %d permisos</item>
     <item quantity="one">S\'ha permès %d permís</item>
   </plurals>
   <plurals name="app_manager_permission_summary_ask">
-    <item quantity="other">Sol·licitant %d permisos</item>
-    <item quantity="one">Sol·licitant %d permís</item>
+    <item quantity="other">Sol·licita %d permisos</item>
+    <item quantity="one">Sol·licita %d permís</item>
   </plurals>
   <plurals name="app_manager_start_count">
     <item quantity="other">%d vegades</item>
@@ -307,6 +307,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   </plurals>
   <plurals name="gb_signed_days_sum">
     <item quantity="other">S\'ha registrat %d dies seguits</item>
-    <item quantity="one">S\'ha registrat %d cop</item>
+    <item quantity="one">S\'ha registrat %d vegada</item>
   </plurals>
 </resources>
