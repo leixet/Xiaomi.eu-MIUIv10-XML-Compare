@@ -26,12 +26,12 @@
     <item quantity="one">%d número</item>
   </plurals>
   <plurals name="hints_traffic_enable_title">
-    <item quantity="other">Sense rastreig d\'us de dades a %d aplicacions</item>
-    <item quantity="one">Sense rastreig d\'us de dades a %d aplicació</item>
+    <item quantity="other">Sense seguiment d\'us de dades a %d aplicacions</item>
+    <item quantity="one">Sense seguiment d\'us de dades a %d aplicació</item>
   </plurals>
   <plurals name="hints_traffic_disable_title">
-    <item quantity="other">Rastreig d\'us de dades a %d aplicacions</item>
-    <item quantity="one">Rastreig d\'us de dades a %d aplicació</item>
+    <item quantity="other">Seguiment d\'us de dades a %d aplicacions</item>
+    <item quantity="one">Seguiment d\'us de dades a %d aplicació</item>
   </plurals>
   <plurals name="traffic_setting_app_count">
     <item quantity="other">%d aplicacions</item>
