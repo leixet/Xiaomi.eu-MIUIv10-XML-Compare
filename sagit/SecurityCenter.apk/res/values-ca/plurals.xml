@@ -282,16 +282,16 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="one">%d vegada</item>
   </plurals>
   <plurals name="app_usage_day">
-    <item quantity="other">No ho heu fet servir durant %d dies</item>
+    <item quantity="other">S\'ha utilitzat fa %d dies</item>
     <item quantity="one">S\'ha utilitzat fa %d dia</item>
   </plurals>
   <plurals name="app_usage_month">
-    <item quantity="other">No ho ha fet servir durant %d mes</item>
-    <item quantity="one">No ho ha fet servir durant %d mes</item>
+    <item quantity="other">S\'ha utilitzat fa %d mesos</item>
+    <item quantity="one">S\'ha utilitzat fa %d mes</item>
   </plurals>
   <plurals name="app_usage_year">
-    <item quantity="other">No ho ha fet servir durant %d anys</item>
-    <item quantity="one">No ho ha fet servir durant %d any</item>
+    <item quantity="other">S\'ha utilitzat fa %d anys</item>
+    <item quantity="one">S\'ha utilitzat fa %d any</item>
   </plurals>
   <plurals name="install_game_count_title">
     <item quantity="other">S\'han afegit %d jocs</item>
