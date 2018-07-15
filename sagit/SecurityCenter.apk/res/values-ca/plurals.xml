@@ -305,4 +305,8 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">Resten %d dies abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
     <item quantity="one">Resta %d dia abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
   </plurals>
+  <plurals name="gb_signed_days_sum">
+    <item quantity="other">S\'ha registrat %d dies seguits</item>
+    <item quantity="one">S\'ha registrat %d cop</item>
+  </plurals>
 </resources>
