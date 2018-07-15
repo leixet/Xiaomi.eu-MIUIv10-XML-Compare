@@ -605,6 +605,9 @@ La vostra operadora podria cobrar-li càrrecs addicionals si torneu a activar le
   <string name="dialog_restrict_positive">Cancel·la</string>
   <string name="dialog_roaming_message">Voleu permetre que aquesta aplicació utilitzi dades mòbils en itinerància a l\'estranger?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
+  <string name="dialog_roaming_warning_checkbox">"No ho tornis a mostrar"</string>
+  <string name="dialog_roaming_warning_message">El vostre operador us cobrarà de més després d\'activar la itinerància de dades. Voleu continuar de totes maneres?</string>
+  <string name="dialog_roaming_warning_ok">Activa</string>
   <string name="dialog_text">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
   <string name="dialog_title_attention">Atenció</string>
   <string name="dialog_title_auto_start_declare">Quant a inici automàtic</string>
