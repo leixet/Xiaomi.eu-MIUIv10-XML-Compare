@@ -238,8 +238,8 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="one">%d aplicació no bloquejada</item>
   </plurals>
   <plurals name="number_masked_text">
-    <item quantity="other">S\'han amagat %d notificacions</item>
-    <item quantity="one">S\'ha amagat %d notificació</item>
+    <item quantity="other">S\'han ocultat %d notificacions</item>
+    <item quantity="one">S\'ha ocultat %d notificació</item>
   </plurals>
   <plurals name="number_to_mask_text">
     <item quantity="other">%d notificacions són visibles</item>
@@ -255,7 +255,7 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   </plurals>
   <plurals name="section_clear_acc_item_right_tips">
     <item quantity="other">S\'esperen %d aplicacions bloquejades per ser netejades</item>
-    <item quantity="one">S\'espera %d aplicació bloquejada per ser netejada</item>
+    <item quantity="one">S\'està esperant %d aplicació bloquejada per ser netejada</item>
   </plurals>
   <plurals name="section_security_defend_item_right_tips">
     <item quantity="other">%d virus suprimits</item>
