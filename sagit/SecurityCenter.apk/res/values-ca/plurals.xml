@@ -261,6 +261,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">%d virus suprimits</item>
     <item quantity="one">%d virus suprimit</item>
   </plurals>
+  <plurals name="optimize_result_button_add_score">
+    <item quantity="other">+%d</item>
+    <item quantity="one">+%d</item>
+  </plurals>
   <plurals name="add_game_notification_title">
     <item quantity="other">S\'han afegit %d jocs</item>
     <item quantity="one">S\'ha afegit %d joc</item>
