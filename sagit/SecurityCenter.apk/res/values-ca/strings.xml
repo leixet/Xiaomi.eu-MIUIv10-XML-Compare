@@ -74,6 +74,7 @@
   <string name="add_whitelist">Afegeix a excepcions</string>
   <string name="address">Adreça</string>
   <string name="address_choose_hint">%1$s, %2$s i %3$d altres ubicacions</string>
+  <string name="adjust_sms_cmd"><u>Ajusta la plantilla de SMS de calibratge</u></string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa un mes</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualitzat fa una setmana</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Actualitzat fa 1 setmana</string>
@@ -92,6 +93,7 @@
   <string name="antispam_notificaiton_type_show_none">Mai</string>
   <string name="antispam_notification_setting_title">Notificacions</string>
   <string name="antispam_xpace_text">Canvieu al primer espai per establir una llista de bloqueig</string>
+  <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Triar definicions</string>
   <string name="antivirus_choose_engine_settings">Configuració de definicions de virus</string>
   <string name="antivirus_choose_engine_title">Definicions</string>
@@ -165,6 +167,7 @@
   <string name="app_manager_defaults_setting">Aplicacions per defecte</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Emmagatzematge</string>
+  <string name="app_manager_details_title">Informació de l\'aplicació</string>
   <string name="app_manager_details_traffic_title">Ús de dades mòbils</string>
   <string name="app_manager_disable">"No ho permetis"</string>
   <string name="app_manager_disable_dlg_text">Si desactiveu aquesta aplicació, és possible que altres aplicacions no funcionin correctament.</string>
@@ -190,12 +193,14 @@
   <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
   <string name="app_manager_install_other_app">Instal·la aplicacions de fonts desconegudes</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
+  <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
   <string name="app_manager_mobile_slot1">Dades mòbils (SIM 1)</string>
   <string name="app_manager_mobile_slot2">Dades mòbils (SIM 2)</string>
   <string name="app_manager_net_control_title">Restricció d\'ús de dades</string>
   <string name="app_manager_net_mobile">Dades mòbils</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">No</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
@@ -229,6 +234,7 @@
   <string name="app_manager_start_by">Iniciat per %s</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
+  <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall">Desinstal·la</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
@@ -237,6 +243,7 @@
   <string name="app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
   <string name="app_manager_unstall_application">Desinstal·la</string>
   <string name="app_managere_not_have_app">Buit</string>
+  <string name="app_manger_des_separator">",\u0020"</string>
   <string name="app_mobile">Mòbil</string>
   <string name="app_name">Bloquejador d\'aplicacions</string>
   <string name="app_name_na">Ús de dades</string>
@@ -280,6 +287,7 @@
   <string name="auto_back_booster">Atura l\'acceleració</string>
   <string name="auto_booster_suc">S\'ha accelerat amb èxit</string>
   <string name="auto_clean_close">Les neteges automàtiques estan desactivades</string>
+  <string name="auto_handle_title">GENERAL</string>
   <string name="auto_import_games">Poseu tots els vostres jocs en un sol lloc</string>
   <string name="auto_task_condition_choose_battery_level_down">Quan la bateria assoleixi un nivell determinat</string>
   <string name="auto_task_condition_choose_end_time">Hora de finalització</string>
@@ -439,6 +447,7 @@
   <string name="button_text_reject">Rebutjar</string>
   <string name="button_text_update_now">Actualitzar</string>
   <string name="button_to_setting">Configuració</string>
+  <string name="byteShort">B</string>
   <string name="call_address">Llista de bloqueig d\'àrea</string>
   <string name="call_and_contact">Trucades i contactes</string>
   <string name="call_blacklist">Llista de bloqueig de trucades</string>
@@ -583,6 +592,8 @@ La vostra operadora podria cobrar-li càrrecs addicionals si torneu a activar le
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància en ultramar, només les aplicacions que heu afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància en ultramar no s'ha activat per a %1$s"</string>
+  <string name="dialog_button_ignore">Ignora</string>
+  <string name="dialog_button_yes">Sí</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
