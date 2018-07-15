@@ -53,6 +53,7 @@
   <string name="activity_title_root_manager">Accés root</string>
   <string name="activity_title_root_note">Sobre l\'accés root</string>
   <string name="activity_title_settings">Configuració</string>
+  <string name="activity_title_virus">Vírus</string>
   <string name="activity_title_virus_settings">Configuració</string>
   <string name="activity_title_white_list">Excepcions</string>
   <string name="ad_btn_default_text">Més informació</string>
