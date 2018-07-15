@@ -254,12 +254,12 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="one">%d aplicació trobada</item>
   </plurals>
   <plurals name="section_clear_acc_item_right_tips">
-    <item quantity="other">S\'esperen %d aplicacions bloquejades per ser netejades</item>
-    <item quantity="one">S\'està esperant %d aplicació bloquejada per ser netejada</item>
+    <item quantity="other">%d aplicacions bloquejades pendents de ser esborrades</item>
+    <item quantity="one">%d aplicació bloquejada pendent de ser esborrada</item>
   </plurals>
   <plurals name="section_security_defend_item_right_tips">
-    <item quantity="other">%d virus suprimits</item>
-    <item quantity="one">%d virus suprimit</item>
+    <item quantity="other">S\'han suprimit %d virus</item>
+    <item quantity="one">S\'ha suprimit %d virus</item>
   </plurals>
   <plurals name="optimize_result_button_add_score">
     <item quantity="other">+%d</item>
@@ -271,7 +271,7 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">%d permisos permesos</item>
-    <item quantity="one">%d permís permès</item>
+    <item quantity="one">S\'ha permès %d permís</item>
   </plurals>
   <plurals name="app_manager_permission_summary_ask">
     <item quantity="other">Sol·licitant %d permisos</item>
