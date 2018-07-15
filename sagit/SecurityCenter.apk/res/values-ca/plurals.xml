@@ -70,8 +70,8 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="one">"%d aplicació no pot utilitzar dades mòbils en itinerància"</item>
   </plurals>
   <plurals name="hints_roaming_found_app_count_title">
-    <item quantity="other">%d aplicacions trobades</item>
-    <item quantity="one">%d aplicació trobada</item>
+    <item quantity="other">S\'han trobat %d aplicacions</item>
+    <item quantity="one">S\'ha trobat %d aplicació</item>
   </plurals>
   <plurals name="network_restrict_count">
     <item quantity="other">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicacions"</item>
@@ -91,7 +91,7 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   </plurals>
   <plurals name="deep_clean_auto_memory_clean">
     <item quantity="other">En %1$d minuts</item>
-    <item quantity="one">En %1$d min</item>
+    <item quantity="one">En %1$d minut</item>
   </plurals>
   <plurals name="quick_optimize_summary_text">
     <item quantity="other">S\'han resolt %d problemes de bateria</item>
