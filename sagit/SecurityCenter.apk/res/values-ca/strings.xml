@@ -847,6 +847,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gs_game_performance">Rendiment</string>
   <string name="gs_game_shortcut">Millora la vostra experiència de joc</string>
   <string name="gs_gamebox">Dreceres en el joc</string>
+  <string name="gs_gamebox_detail">Mostra el tauler de dreceres en el joc</string>
   <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
   <string name="gs_open_game_booster">Augment de velocitat</string>
   <string name="gs_open_game_booster_summary">Augmenta la velocitat de la xarxa per als jocs</string>
