@@ -789,9 +789,13 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gamebox_qq_not_find">Instal·leu QQ i torneu-ho a provar.</string>
   <string name="gamebox_type_close">"No ho mostris"</string>
   <string name="gamebox_type_float">Drecera fixa</string>
+  <string name="gamebox_type_gesture">Llisca per mostrar</string>
+  <string name="gamebox_wechat_not_find">Instal·leu WeChat i torneu-ho a provar.</string>
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
   <string name="gateway_exception_title">Provar router</string>
+  <string name="gb_ad_game_size">MB</string>
+  <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Contesta</string>
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
