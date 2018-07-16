@@ -742,6 +742,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="fod_button_password">Introduïu la contrasenya</string>
   <string name="fod_finger_notice_title">Col·loqueu el dit a la pantalla</string>
   <string name="fod_finger_windows_tips">Verifica l\'empremta digital</string>
+  <string name="fod_tips_split_screen_more_than_half">Introduïu la contrasenya</string>
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
@@ -785,6 +786,9 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gamebooster_main_activity_back">Enrere</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
+  <string name="gamebox_qq_not_find">Instal·leu QQ i torneu-ho a provar.</string>
+  <string name="gamebox_type_close">"No ho mostris"</string>
+  <string name="gamebox_type_float">Drecera fixa</string>
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
   <string name="gateway_exception_title">Provar router</string>
