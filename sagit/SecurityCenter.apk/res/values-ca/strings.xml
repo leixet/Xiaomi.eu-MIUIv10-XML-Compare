@@ -799,6 +799,11 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gb_description_image_button_answer">Contesta</string>
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
+  <string name="gb_get_gift_right_now">Registra\'t ara</string>
+  <string name="gb_have_signed">Registrat avui</string>
+  <string name="gb_msg_completely_shielded">Amaga els missatges</string>
+  <string name="gb_msg_completely_shielded_summary">Amaga</string>
+  <string name="gb_msg_not_shielded_summary">Mostra</string>
   <string name="gb_network_status_bad">S\'ha produït un error de connexió.</string>
   <string name="gb_new_feature">Nova característica</string>
   <string name="gb_sign_gift_button_text">Rep</string>
