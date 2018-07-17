@@ -24,4 +24,8 @@
     <item>Esborra</item>
     <item>Esborra-ho i avisa\'m</item>
   </string-array>
+  <array name="dialog_delete_loading_res">
+    </array>
+  <array name="dialog_delete_finish_res">
+    </array>
 </resources>
