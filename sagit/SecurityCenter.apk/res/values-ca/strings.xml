@@ -871,9 +871,11 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="hints_scanning">S\'està escanejant&#8230;</string>
   <string name="hints_scanning_text">S\'està escanejant&#8230;</string>
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
+  <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">Virus (app)</string>
   <string name="hints_virus_app_summary">%s (aplicacions)</string>
   <string name="hints_virus_lib_update_default_summary">Ultima actualització desconeguda</string>
+  <string name="hot">Popular</string>
   <string name="hot_today">Popular avui</string>
   <string name="i_know">Entesos!</string>
   <string name="im">MI</string>
