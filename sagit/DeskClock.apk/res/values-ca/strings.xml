@@ -171,6 +171,7 @@
   <string name="timer_clock_alert_text">Estableix el temporitzador</string>
   <string name="timer_continue">Continua</string>
   <string name="timer_continue_timer">Reprèn el temporitzador</string>
+  <string name="timer_end_time">El cronòmetre s\'aturarà en %s</string>
   <string name="timer_got_it">D\'acord</string>
   <string name="timer_item_duration_display">%1$d min %2$d seg</string>
   <string name="timer_item_label_hint">Nom del temporitzador</string>
