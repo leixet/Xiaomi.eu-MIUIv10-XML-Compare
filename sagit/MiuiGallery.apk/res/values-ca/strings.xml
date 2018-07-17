@@ -1124,6 +1124,7 @@ per personalitzar la galeria"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Voleu baixar les bandes sonores utilitzant les dades mòbils?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Utilitza les dades mòbils</string>
   <string name="video_editor_res_not_load_dialog_msg">Baixeu les bandes sonores per utilitzar aquesta característica (més de 20MB).</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Aquest efecte queda millor a vídeos amb molts fotogrames.</string>
   <string name="video_editor_template_family">Família</string>
   <string name="video_editor_template_forbidden_tips">"No es pot fer això utilitzant una plantilla"</string>
   <string name="video_editor_text_default">Per defecte</string>
