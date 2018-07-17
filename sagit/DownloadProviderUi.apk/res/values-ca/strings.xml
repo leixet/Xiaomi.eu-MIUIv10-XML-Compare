@@ -283,6 +283,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="search_hot_anime">Dibuixos animats</string>
   <string name="search_hot_movie">Pel·lícules</string>
   <string name="search_hot_recommend">Recomanat</string>
+  <string name="search_hot_source">Popular</string>
   <string name="search_hot_tv">Programes de televisió</string>
   <string name="search_hot_variety">Entreteniment</string>
   <string name="search_hotwords">Paraules clau</string>
@@ -308,6 +309,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="shortcut_dialog_create">Crea</string>
   <string name="shortcut_dialog_title">Voleu crear una drecera en la pantalla d\'inici?</string>
   <string name="show_more">Mostra\'n %s més</string>
+  <string name="sniff_associate_text">Popular</string>
   <string name="sniff_bt_text">Fitxer torrent</string>
   <string name="sniff_btn_text">Origen</string>
   <string name="sniff_cannot_use">"No es pot utilitzar la cerca global, toqueu l'enllaç per baixar"</string>
