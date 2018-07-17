@@ -6,6 +6,7 @@
   <string name="SMTP_username_text">Nom d\'usuari</string>
   <string name="accessibility_guide_first">A la següent pantalla, seleccioneu «Serveis» per activar la configuració automàtica de la bustia 139</string>
   <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
+  <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_failure">Temps de sessió esgotat</string>
@@ -46,6 +47,7 @@
   <string name="account_settings_mail_check_frequency_label">Freqüència de sincronització</string>
   <string name="account_settings_mibill_resolve_label">Analitzar declaracions email</string>
   <string name="account_settings_name_label">El seu nom</string>
+  <string name="account_settings_notifications">Notificacions</string>
   <string name="account_settings_notify_label">Notificacions de correu electrònic</string>
   <string name="account_settings_notify_summary">Envia una notificació quan arribi email</string>
   <string name="account_settings_param">Configuració del compte</string>
@@ -89,6 +91,7 @@
   <string name="account_setup_exchange_certificate_title">Certificat de client</string>
   <string name="account_setup_exchange_device_id_label">ID del dispositiu mòbil</string>
   <string name="account_setup_exchange_no_certificate">Cap</string>
+  <string name="account_setup_failed_auth_required">"Els mètodes d'autenticació no són compatibles amb el servidor."</string>
   <string name="account_setup_failed_certificate_inaccessible">El certificat és vàlid o inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Es requereix un certificat de client. Vols connectar amb el servidor amb un certificat de client?</string>
   <string name="account_setup_failed_check_credentials_message">El servidor ha contestat amb un error. Comproveu el nom d\'usuari i la contrasenya i torneu a provar-ho.</string>
@@ -119,6 +122,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefix de la ruta IMAP</string>
   <string name="account_setup_incoming_password_label">Contrasenya</string>
+  <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Tipus de seguretat</string>
   <string name="account_setup_incoming_security_none_label">Cap</string>
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accepta tots els certificats)</string>
@@ -147,6 +151,7 @@
   <string name="account_setup_options_mail_window_label">Període de sincronització</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Mantenir per</string>
   <string name="account_setup_options_title">Configuració del compte</string>
+  <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Necessites iniciar sessió</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
   <string name="account_setup_security_policies_required_fmt">Cal que permeteu que el servidor %s controli de manera remota algunes funcions de seguretat del dispositiu Android. Voleu acabar de configurar aquest compte?</string>
@@ -181,11 +186,13 @@
   <string name="att_download_failed_title">"No s'ha pogut baixar l'adjunt"</string>
   <string name="att_file_not_exists">"No s'ha trobat %s"</string>
   <string name="att_mgr_no_attachment">Buit</string>
+  <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Nom</string>
   <string name="att_mgr_title_order_rev_date">Data</string>
   <string name="att_mgr_title_order_sender">Remitent</string>
   <string name="att_mgr_title_order_size">Mida del fitxer</string>
   <string name="attached_message">Missatge adjunt</string>
+  <string name="attachment_application_msword">Document</string>
   <string name="attachment_application_vnd_ms_excel">Full de càlcul</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentació</string>
   <string name="attachment_audio">Àudio</string>
@@ -200,6 +207,7 @@
   <string name="attachment_open_SecurityException_title">"No es pot obrir el fitxer"</string>
   <string name="attachment_size_exceed_limit">"Sembla que la mida va superar el límit del servidor"</string>
   <string name="attachment_stop_all">Aturar</string>
+  <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Per desgràcia, no es pot guardar o obrir aquest tipus de fitxer adjunt."</string>
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
@@ -321,6 +329,7 @@
   <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
+  <string name="conversation_content_provider">Proveïdor de contingut de conversa</string>
   <string name="conversation_detail_hide">Amaga</string>
   <string name="conversation_detail_show">Detalls</string>
   <string name="conversation_folder_moved">Es va moure a %1$s</string>
@@ -344,6 +353,8 @@
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Avui, %1$s</string>
+  <string name="debug_mode_preferencecategory">Configura la sortida del registre</string>
+  <string name="debug_mode_settings">Configuració del mode de depuració</string>
   <string name="default_">PER DEFECTE</string>
   <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
@@ -437,6 +448,7 @@
   <string name="file_rar_not_support">"No es poden obrir fitxers rar encriptats"</string>
   <string name="file_save_path_dialog_cancel">D\'acord</string>
   <string name="file_save_path_dialog_ok">Canvia-ho ara</string>
+  <string name="file_save_term">Termes d\'emmagatzematge de fitxers</string>
   <string name="filtered_tag">"[%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Feu clic en aquest accés directe, a continuació, «%s» s\'enviarà a tots els destinataris.</string>
   <string name="float_window_content">Detecta que s\'està utilitzant la bústia, feu clic a Confirma per a que s\'ompli automàticament l\'acompte de correu 139 i la contrasenya.</string>
@@ -478,6 +490,7 @@
   <string name="folder_trash_name_en1">Missatges eliminats</string>
   <string name="folder_trash_name_en2">Missatge eliminat</string>
   <string name="folder_trash_name_en3">[Gmail]/Paperera</string>
+  <string name="forever">Sempre</string>
   <string name="forward">Reenvia</string>
   <string name="forward_attachment">Reenvia</string>
   <string name="forward_attribution">---------- Missatge reenviat ----------De: %1$s Data: %2$s Assumpte: %3$s Per: %4$s</string>
@@ -554,6 +567,10 @@
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>
+  <string name="mailbox_name_server_outbox">Safata de sortida</string>
+  <string name="mailbox_name_server_sent">Enviat</string>
+  <string name="mailbox_name_server_starred">Favorits</string>
+  <string name="mailbox_name_server_trash">Paperera</string>
   <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>
@@ -687,6 +704,9 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="oauth_login_usr_proxy">Inicia sessió mitjançant un servidor intermediari</string>
   <string name="ok">D\'acord</string>
   <string name="okay_action">D\'acord</string>
+  <string name="one_day">1 dia</string>
+  <string name="one_month">1 mes</string>
+  <string name="one_week">1 setmana</string>
   <string name="open_calendar_and_contacts_permission">Permeteu que el correu accedeixi als contactes i a la informació del calendari a Configuració</string>
   <string name="open_external_storage_and_calendar_permission">Permeteu que el correu accedeixi a la informació d\'emmagatzematge i del calendari a la Configuració</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permeteu que el correu accedeixi a la informació d\'emmagatzematge, contactes i calendari a la Configuració</string>
