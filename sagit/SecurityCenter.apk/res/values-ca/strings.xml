@@ -48,9 +48,9 @@
   <string name="activity_title_permission_manager">Permisos</string>
   <string name="activity_title_permissions_manager">Permisos</string>
   <string name="activity_title_power_manager">Ús de bateria</string>
-  <string name="activity_title_root_acquired">Permetre accés root</string>
+  <string name="activity_title_root_acquired">Permet l\'accés root</string>
   <string name="activity_title_root_manager">Accés root</string>
-  <string name="activity_title_root_note">Sobre l\'accés root</string>
+  <string name="activity_title_root_note">Quant a l\'accés root</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="activity_title_virus">Vírus</string>
   <string name="activity_title_virus_settings">Configuració</string>
