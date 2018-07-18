@@ -7,12 +7,11 @@
   <string name="Setting_lock">Configuració</string>
   <string name="Settings_title_anti_spam">Configuració de llista de bloqueig</string>
   <string name="Settings_title_anti_virus">Configuració d\'antivirus</string>
-  <string name="Settings_title_garbage_cleanup">Configuració de netejador</string>
+  <string name="Settings_title_garbage_cleanup">Configuració del netejador</string>
   <string name="Settings_title_network_assistants">Configuració d\'ús de dades</string>
   <string name="Settings_title_power_center">Configuració de bateria</string>
   <string name="about_autostart">Quant a l\'inici automàtic</string>
   <string name="ac_enter_applock">Entra al bloquejador d\'aplicacions</string>
-  <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_mask_all_apps">Amaga per a totes les aplicacions</string>
   <string name="ac_notification_contentText">Toqueu per activar-lo</string>
@@ -1882,6 +1881,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
   <string name="summary_background_connection">Heu restringit la connexió en segon pla per aquesta aplicació. Toqueu per solucionar-ho.</string>
+  <string name="summary_block_calls_from_cantacts">"Esteu utilitzant la llista de bloqueig. Toqueu per solucionar-ho."</string>
+  <string name="summary_block_calls_from_strangers">Només permeteu trucades de la llista de contactes. Toqueu per solucionar-ho.</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
   <string name="summary_cloud_account">Obtenir el màxim del seu dispositiu Mi</string>
   <string name="summary_cloud_service">Sincronitzeu fotos, contactes i altres entre tots els vostres dispositius</string>
@@ -1892,6 +1893,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_data_flow">Evitar sobrepassar el límit mensual del seu pla de dades</string>
   <string name="summary_default_app">"%s no s'ha configurat com a aplicació per defecte del sistema"</string>
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
+  <string name="summary_do_not_disturb">"Esteu utilitzant el mode No molesteu. Toqueu per solucionar-ho."</string>
+  <string name="summary_eye_shield">"Esteu utilitzant el mode de lectura. Toqueu per solucionar-ho."</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
@@ -1909,6 +1912,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_permission_root">El dispositiu i dades personals són més vulnerables als atacs des d\'aplicacions que tenen accés root</string>
   <string name="summary_power_optimizer">"Reduir el rendiment del teu dispositiu"</string>
   <string name="summary_realname_verify">Verifica la seva identitat per fer pagaments més segurs.</string>
+  <string name="summary_restrict_data_usage">Heu restringit l\'ús de dades per aquesta aplicació. Toqueu per solucionar-ho.</string>
   <string name="summary_show_notification">Afegeix els controls del Centre de Seguretat a l\'àrea de notificacions</string>
   <string name="summary_telecom_operator">Obtenir del seu proveïdor de telefonia les seves estadístiques mensuals d\'ús de dades</string>
   <string name="summary_usb">Prevenir que el malware sigui transmès via USB</string>
@@ -1920,6 +1924,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sys_app_prot_cracked_confirm">D\'acord</string>
   <string name="sys_cpu_title">Ús de la CPU</string>
   <string name="sys_freememory_title">Disponible</string>
+  <string name="sys_title_gamebooster_unit_gb">GB</string>
+  <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="system_application">Aplicacions del Sistema</string>
   <string name="tab_blacklist">Llista negra</string>
@@ -1927,7 +1933,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tab_call">Trucades</string>
   <string name="tab_gift">Regals</string>
   <string name="tab_guide">Guia</string>
+  <string name="tab_sms">SMS</string>
   <string name="tab_title">Llista de bloqueig</string>
+  <string name="tc_cmd_invalid">La plantilla és invàlida</string>
   <string name="tc_diagnostic_all_error_notification_summary">Premi per informar d\'algun problema</string>
   <string name="tc_diagnostic_all_error_notification_title">"No s'ha pogut fer un diagnòstic complet"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Premi per ajustar el tipus de xarxa</string>
@@ -1953,6 +1961,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultat: No s'ha pogut completar el diagnòstic&lt;br/&gt;&lt;br/&gt;Notifica sobre aquest tema per ajudar a millorar les eines de diagnòstic de MIUI&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultat: Ubicació incorrecta&lt;br/&gt;&lt;br/&gt;Estableix ubicació: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicació actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">"No s'ha trobat la xarxa de l'operador"</string>
+  <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Error</font>"</string>
   <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Cap connexió de xarxa&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;No s'ha pogut obtenir informació&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correcte&lt;/font&gt;"</string>
@@ -1966,6 +1975,10 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_diagnostic_upload_button">Informa</string>
   <string name="tc_diagnostic_upload_no_network">Gràcies pels seus comentaris! L\'informe es presentarà quan es connecti a la xarxa.</string>
   <string name="tc_diagnostic_upload_success">Gràcies pels vostres comentaris!</string>
+  <string name="tc_get_cmd_error">"No s'ha pogut obtenir la plantilla"</string>
+  <string name="tc_parse_error">"No s'ha pogut analitzar l'SMS"</string>
+  <string name="tc_receive_timeout">Temps de calibratge excedit</string>
+  <string name="tc_send_sms_error">"No s'ha pogut enviar l'SMS"</string>
   <string name="tc_sms_report_direction">Sol·licitar codi (SMS)</string>
   <string name="tc_sms_report_do_report">Envia</string>
   <string name="tc_sms_report_get_default">"No incorrereu en càrrecs pels missatges utilitzats per obtenir la informació d'ús de dades del vostre operador."</string>
@@ -1999,6 +2012,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_sms_report_type">Tipus d\'informe</string>
   <string name="tc_sms_report_upload_success">"Informe SMS d'ús de dades remès. Ens posem amb això!"</string>
   <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
+  <string name="tc_web_correct_error">"No s'ha pogut calibrar"</string>
   <string name="ten_percent_total_pkg">%s (10%% de les dades mensuals)</string>
   <string name="tether_custom_dialog_title">Límit de dades mòbils</string>
   <string name="tether_limit_dialog_title">Límit de dades mòbils</string>
@@ -2009,6 +2023,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tether_over_limit_warning_notify_message">Desactiva el punt d\'accés portàtil.</string>
   <string name="tether_over_limit_warning_notify_title">S\'ha arribat al límit de dades del punt d\'accés</string>
   <string name="text_button">D\'acord</string>
+  <string name="text_cycle_day">%s</string>
   <string name="thermal_tips_message">Jugar a jocs en mode de rendiment pot provocar problemes de sobreescalfament.</string>
   <string name="thermal_tips_title">Atenció</string>
   <string name="third_application">Aplicacions instal·lades</string>
