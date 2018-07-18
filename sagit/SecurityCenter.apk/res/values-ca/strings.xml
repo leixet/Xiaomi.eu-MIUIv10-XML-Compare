@@ -63,8 +63,8 @@
   <string name="adb_install_open_error">"No s'ha pogut permetre, comproveu la vostra connexió de xarxa"</string>
   <string name="adb_install_reject_notiy">"No va permetre la instal·lació de %s a través de l'USB"</string>
   <string name="adb_install_reject_notiy_desc">Pot permetre la instal·lació a través d\'USB a Opcions per a desenvolupadors</string>
-  <string name="adb_login_xiaomi_account">Primer inicia la sessió al seu compte Mi</string>
-  <string name="add_done">S\'ha afegit amb èxit</string>
+  <string name="adb_login_xiaomi_account">Primer inicia la sessió al compte Mi</string>
+  <string name="add_done">S\'ha afegit correctament</string>
   <string name="add_game">Afegeix un joc</string>
   <string name="add_game_notification_summary">Toqueu per iniciar i augmentar la velocitat</string>
   <string name="add_miservice_dialog_content">"%s us requereix perquè afegiu l'estructura de serveis MIUI a la llista d'excepcions. Pot rebre notificacions de les aplicacions MIUI incorporades i altres de tercers."</string>
