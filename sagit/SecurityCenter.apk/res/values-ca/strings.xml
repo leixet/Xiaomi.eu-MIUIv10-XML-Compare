@@ -1126,6 +1126,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
+  <string name="midrop_post_notification_contentText">"Proveu Mi Drop. És ràpid i sense anuncis."</string>
+  <string name="midrop_post_notification_contentTitle">Necessiteu transferir fitxers?</string>
   <string name="mixed_need_to_confirm">Torneu a introduir-la per confirmar</string>
   <string name="mixed_password_confirmed_header_confirm">S\'ha establert amb èxit. Toqueu per confirmar.</string>
   <string name="mixed_password_confirmed_header_continue">S\'ha establert amb èxit. Toqueu «Següent».</string>
@@ -1200,6 +1202,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="network_speed_for_apps_title">Connexió</string>
   <string name="network_speed_for_apps_total">Velocitat de connexió</string>
   <string name="network_test_speed">Prova de velocitat Wi-Fi</string>
+  <string name="network_traffic_warning_text">" MIUI no pot calcular les estadístiques d'ús de dades per a les aplicacions de sistemes individuals aquí. Podreu veure la informació relacionada amb l'ús de dades als detalls de l'aplicació en cas que aquesta aplicació utilitzi activament les dades mòbils."</string>
+  <string name="network_traffic_warning_title">Ús de dades per a les aplicacions del sistema</string>
   <string name="networkchanged_exception_summary">Ha canviat la connexió de xarxa. Si us plau provi una altra vegada.</string>
   <string name="networkchanged_exception_title">Connexió canviada</string>
   <string name="never">1 cop</string>
@@ -1219,6 +1223,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="notification_masked_item">Amaga les notificacions</string>
   <string name="notification_masked_subtitle">Amaga les notificacions d\'aplicacions protegides amb bloqueig de l\'aplicació</string>
   <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
+  <string name="notify_channel_name_security">Seguretat del sistema</string>
   <string name="notify_daily_data_usage_body">Per limitar l\'ús de dades automàticament, establir el pla de dades mensual.</string>
   <string name="notify_daily_limit_body">Tocar per establir el límit de dades.</string>
   <string name="notify_daily_limit_title">Usats %s avui</string>
@@ -1249,6 +1254,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="om_cpu_overload_proc_title">Problemes</string>
   <string name="om_cpu_usage_warn_title_text">"Aquesta aplicació pot alentir
 el vostre dispositiu"</string>
+  <string name="om_formatted_percent_string">%s%%</string>
   <string name="om_ill_proc_activity_title">Problemes</string>
   <string name="om_ill_proc_handle_uninstall_prompt">Desinstal·leu aquesta apli per solucionar problemes d\'ús de la bateria.</string>
   <string name="om_ill_proc_handle_unstaill_title">Voleu desinstal·lar %s?</string>
@@ -1273,6 +1279,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="om_media_scan_timeout_proc_detail">El servidor multimèdia treballa en segon pla. Podeu restringir-ne l\'activitat.</string>
   <string name="om_media_scan_timeout_proc_name">Servidor multimèdia</string>
   <string name="om_memory_clean_cleaning_text">S\'està accelerant…</string>
+  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Per accelerar la velocitat restringiu l\'activitat en segon pla</string>
   <string name="om_notify_cpu_load_too_high_title">L\'ús de CPU de %s és massa alt</string>
   <string name="om_notify_need_clean_memory_summary">Esborreu la memòria cau per augmentar la velocitat</string>
@@ -1290,6 +1297,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="om_settings_notify_manage">Notificacions</string>
   <string name="om_settings_speed_up_auto">Augment de velocitat automàtic</string>
   <string name="om_settings_title">Configuració d\'optimització</string>
+  <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">No s\'ha trobat l\'aplicació</string>
   <string name="open_app">Obre</string>
   <string name="open_callwait">Activat</string>
