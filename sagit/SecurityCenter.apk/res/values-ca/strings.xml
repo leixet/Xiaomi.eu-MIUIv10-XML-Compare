@@ -60,7 +60,7 @@
   <string name="ad_update_time_unKnown">Última actualització desconeguda</string>
   <string name="adb_install_no_network">Connecta\'t a la xarxa i torna-ho a provar</string>
   <string name="adb_install_open">S\'està permetent…</string>
-  <string name="adb_install_open_error">"No s'ha pogut permetre, comprovi la seva connexió a la xarxa"</string>
+  <string name="adb_install_open_error">"No s'ha pogut permetre, comproveu la vostra connexió de xarxa"</string>
   <string name="adb_install_reject_notiy">"No va permetre la instal·lació de %s a través de l'USB"</string>
   <string name="adb_install_reject_notiy_desc">Pot permetre la instal·lació a través d\'USB a Opcions per a desenvolupadors</string>
   <string name="adb_login_xiaomi_account">Primer inicia la sessió al seu compte Mi</string>
