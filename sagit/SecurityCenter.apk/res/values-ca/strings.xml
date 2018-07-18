@@ -1305,6 +1305,12 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="open_now">Permet a l\'aplicació utilitzar les dades mòbils</string>
   <string name="operator_diagnostic">Diagnòstic d\'operador</string>
   <string name="operator_mi_sim">SIM Mi</string>
+  <string name="operator_name_cmcc">China Mobile</string>
+  <string name="operator_name_telcom">China Telecom</string>
+  <string name="operator_name_unicom">China Unicom</string>
+  <string name="operator_number_cmcc">10086</string>
+  <string name="operator_number_telcom">10000</string>
+  <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">Augment de velocitat</string>
   <string name="optimize_result_ads_close_text">Anunci</string>
   <string name="optimize_result_available_memory_info">Memòria disponible</string>
@@ -1379,6 +1385,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pc_install_manager">Instal·lació a través d\'USB</string>
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
   <string name="per_month_pkg_traffic_settings">Establir límit de dades</string>
+  <string name="percent_text_formatted">%s%%</string>
   <string name="permission_action_accept">D\'acord</string>
   <string name="permission_action_prompt">Avisa\'m</string>
   <string name="permission_action_reject">Denegar</string>
@@ -1408,6 +1415,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="power_btn_analyze">Analitza l\'ús de la bateria</string>
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
+  <string name="power_center_back">Enrere</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
@@ -1479,6 +1487,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_category_half_year_package_tile">Paquet de dades semestral</string>
   <string name="pref_category_title_module_settings">Configuració de regles</string>
   <string name="pref_category_title_other">Configuració addicional</string>
+  <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_confirm_operator_setting">Assegureu-vos que la informació que heu introduït es correcte</string>
   <string name="pref_correction_setting">Configuració de la plantilla de configuració</string>
   <string name="pref_correction_setting_switch">Utilitza una plantilla de calibratge personalitzada</string>
@@ -1872,6 +1881,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
+  <string name="summary_background_connection">Heu restringit la connexió en segon pla per aquesta aplicació. Toqueu per solucionar-ho.</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
   <string name="summary_cloud_account">Obtenir el màxim del seu dispositiu Mi</string>
   <string name="summary_cloud_service">Sincronitzeu fotos, contactes i altres entre tots els vostres dispositius</string>
@@ -2003,6 +2013,10 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="thermal_tips_title">Atenció</string>
   <string name="third_application">Aplicacions instal·lades</string>
   <string name="three_percent_total_pkg">%s (3%% de les dades mensuals)</string>
+  <string name="timeshow_h">%.1fh</string>
+  <string name="timeshow_h_int">%dh</string>
+  <string name="timeshow_m">%dm</string>
+  <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"No coneix el seu límit?"</string>
   <string name="tips_message">"Per veure els detalls del vostre pla, marqueu %2$s (%1$s)."</string>
   <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>
@@ -2010,9 +2024,13 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_app_lock_disable">Aplicacions bloquejades</string>
   <string name="title_app_update">Actualitzacions disponibles</string>
   <string name="title_auto_update">Actualització automàtica</string>
+  <string name="title_background_connection">"No es pot utilitzar %s en segon pla?"</string>
+  <string name="title_block_calls_from_cantacts">Trobes a faltar trucades de la teva llista de contactes?</string>
+  <string name="title_block_calls_from_strangers">Trobes a faltar trucades importants?</string>
   <string name="title_chain_start">Restringeix l\'inici de la cadena</string>
   <string name="title_cleaner_cloudscan">Puja noms de carpeta</string>
   <string name="title_cloud_account">Compte Mi</string>
+  <string name="title_cloud_service">Mi Cloud</string>
   <string name="title_cloud_space_almost_full">Emmagatzematge en el núvol gairebé ple, pot ser que no es puguin sincronitzar alguns elements</string>
   <string name="title_cloud_space_full">Emmagatzematge en el núvol ple, no es poden sincronitzar les fotos</string>
   <string name="title_cmcc_app_check">"La verificació no ha estat completada"</string>
@@ -2023,6 +2041,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_dev_no">Opcions de desenvolupador activades</string>
   <string name="title_dev_yes">Opcions de desenvolupador desactivades</string>
   <string name="title_device_not_root">"L'accés arrel no s'ha concedit"</string>
+  <string name="title_do_not_disturb">"No pots escoltar el to de trucada?"</string>
+  <string name="title_eye_shield">"El color de la pantalla no es veu bé?"</string>
   <string name="title_find_device">Troba el dispositiu</string>
   <string name="title_flow_notification">Informe d\'ús de dades</string>
   <string name="title_flow_purchase">Hora de recarregar</string>
@@ -2050,6 +2070,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_permission_yes">Gestor de permisos activat</string>
   <string name="title_power_optimizer">Estalvi de bateria</string>
   <string name="title_realname_verify">Verificació d\'ID</string>
+  <string name="title_restrict_data_usage">"%s no es pot connectar al internet?"</string>
   <string name="title_show_notification">Control a àrea de notificacions</string>
   <string name="title_system_auto_download">Les actualitzacions es baixaran automàticament</string>
   <string name="title_telecom_operator">Utilitza dades de saldo de l\'operador</string>
@@ -2152,6 +2173,7 @@ Dades extres en ús"</string>
   <string name="unlock_set_unlock_pattern_summary">Connecteu almenys 4 punts</string>
   <string name="unlock_set_unlock_pattern_title">Patró</string>
   <string name="unlock_set_unlock_pin_summary">Introduïu 4 dígits</string>
+  <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">Analitzant dades&#8230;</string>
   <string name="usage_sorted_activity_lable">Ús de dades</string>
   <string name="usage_sorted_empty_text">Buit</string>
@@ -2177,6 +2199,7 @@ Dades extres en ús"</string>
   <string name="user_define_title">Afegeix criteris</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
+  <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Advertència</string>
   <string name="virus_wait_network_dialog_message">"El telèfon no està connectat a la xarxa Wi-Fi. Voleu utilitzar la connexió de dades mòbils?"</string>
   <string name="wakepath_confirm_start_activity">Voleu permetre a %1$s obrir %2$s?</string>
@@ -2203,4 +2226,5 @@ Dades extres en ús"</string>
   <string name="xunyou_net_booster_detail">Utilitzeu els serveis d\'augment de la velocitat de Xunyou per als jocs</string>
   <string name="xunyou_pay_webview">Serveis Xunyou</string>
   <string name="xunyou_server_expired">La sessió ha expirat.</string>
+  <string name="yuan">CNY</string>
 </resources>
