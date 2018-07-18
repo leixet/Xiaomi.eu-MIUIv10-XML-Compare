@@ -12,11 +12,12 @@
   <string name="Settings_title_power_center">Configuració de bateria</string>
   <string name="about_autostart">Quant a l\'inici automàtic</string>
   <string name="ac_enter_applock">Entra al bloquejador d\'aplicacions</string>
-  <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
+  <string name="ac_firstUseApplock_subTitle">Utilitzeu les millors eines de seguretat del sistema</string>
+  <string name="ac_firstUseApplock_title">Definiu una contrasenya per protegir les vostres aplicacions</string>
   <string name="ac_mask_all_apps">Amaga per a totes les aplicacions</string>
-  <string name="ac_notification_contentText">Toqueu per activar-lo</string>
-  <string name="ac_notification_contentTitle">Protegeix les aplicacions amb el bloqueig d\'aplicacions</string>
-  <string name="ac_post_notification_contentText">Obtén protecció al nivell del sistema</string>
+  <string name="ac_notification_contentText">Toqueu per activar-ho</string>
+  <string name="ac_notification_contentTitle">Protegeix les aplicacions amb el bloquejador d\'aplicacions</string>
+  <string name="ac_post_notification_contentText">Aconseguiu una protecció al nivell del sistema</string>
   <string name="ac_post_notification_contentTitle">Activa el bloquejador d\'aplicacions</string>
   <string name="ac_pre_notification_contentText">Protegeix la vostra informació personal</string>
   <string name="ac_pre_notification_contentTitle">Proveu el bloquejador d\'aplicacions</string>
