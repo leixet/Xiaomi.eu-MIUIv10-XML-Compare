@@ -58,7 +58,7 @@
   <string name="ad_btn_default_text">Més informació</string>
   <string name="ad_update_time">Darrera actualització: %s</string>
   <string name="ad_update_time_unKnown">Última actualització desconeguda</string>
-  <string name="adb_install_no_network">Connectat a la xarxa i torna-ho a provar</string>
+  <string name="adb_install_no_network">Connecta\'t a la xarxa i torna-ho a provar</string>
   <string name="adb_install_open">S\'està permetent…</string>
   <string name="adb_install_open_error">"No s'ha pogut permetre, comprovi la seva connexió a la xarxa"</string>
   <string name="adb_install_reject_notiy">"No va permetre la instal·lació de %s a través de l'USB"</string>
