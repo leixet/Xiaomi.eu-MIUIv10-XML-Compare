@@ -74,13 +74,13 @@
   <string name="address">Adreça</string>
   <string name="address_choose_hint">%1$s, %2$s i %3$d altres ubicacions</string>
   <string name="adjust_sms_cmd"><u>Ajusta la plantilla de SMS de calibratge</u></string>
-  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa més d\'un mes</string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa un mes</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualitzat fa una setmana</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Actualitzat fa 1 setmana</string>
   <string name="adjust_traffic_carrier_summary_today">Actualitzat avui a la(s)  %s</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualitzat fa 2 dies</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
-  <string name="adjust_traffic_data">Establir ús de dades</string>
+  <string name="adjust_traffic_data">Estableix l\'ús de dades</string>
   <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
   <string name="already_close_gamebooster">L\'accelerador de velocitat dels jocs està desactivat</string>
