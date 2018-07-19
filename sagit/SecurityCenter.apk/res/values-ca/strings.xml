@@ -106,10 +106,10 @@
   <string name="antivirus_monitor_virus_advice">Aquesta aplicació pot contenir un virus, suprimiu-la</string>
   <string name="antivirus_none_engine_dialog_ok">D\'acord</string>
   <string name="antivirus_not_wlan">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar de totes maneres?"</string>
-  <string name="antivirus_privacy_dialog_cloudscan">Pujar noms i detalls d\'aplicacions</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Pujar i escanejar noms i detalls d\'aplicacions usant definicions de virus en línia.</string>
+  <string name="antivirus_privacy_dialog_cloudscan">Puja noms i detalls d\'aplicacions</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Puja i escaneja els noms i detalls de les aplicacions mitjançant les definicions de virus en línia.</string>
   <string name="antivirus_privacy_dialog_ok">D\'acord</string>
-  <string name="antivirus_privacy_dialog_summary">"Aquesta funcionalitat encripta i puja el ID del teu dispositiu als servidors de Tencent i AVL (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">"Aquesta característica xifra i puja l'identificador del vostre dispositiu als servidors Avast, AVL i Tencent (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">mostra la política de privadesa</string>
   <string name="antivirus_privacy_dialog_title">Política de privadesa</string>
   <string name="antivirus_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit l'accés a internet. Voleu permetre a seguretat connectar-se a internet?"</string>
