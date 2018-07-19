@@ -69,12 +69,12 @@
   <string name="add_game_notification_summary">Toqueu per iniciar i augmentar la velocitat</string>
   <string name="add_miservice_dialog_content">"%s requereix què afegiu l'estructura de serveis MIUI a la llista d'excepcions. Pot rebre notificacions de les aplicacions MIUI incorporades i altres de tercers."</string>
   <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
-  <string name="add_to_whitelist_button">Excepcions en les dades en itinerància</string>
+  <string name="add_to_whitelist_button">Excepcions d\'itinerància de dades</string>
   <string name="add_whitelist">Afegeix a excepcions</string>
   <string name="address">Adreça</string>
   <string name="address_choose_hint">%1$s, %2$s i %3$d altres ubicacions</string>
   <string name="adjust_sms_cmd"><u>Ajusta la plantilla de SMS de calibratge</u></string>
-  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa un mes</string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa més d\'un mes</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualitzat fa una setmana</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Actualitzat fa 1 setmana</string>
   <string name="adjust_traffic_carrier_summary_today">Actualitzat avui a la(s)  %s</string>
