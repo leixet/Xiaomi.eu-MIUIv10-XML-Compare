@@ -112,9 +112,9 @@
   <string name="antivirus_privacy_dialog_summary">"Aquesta característica xifra i puja l'identificador del vostre dispositiu als servidors Avast, AVL i Tencent (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">mostra la política de privadesa</string>
   <string name="antivirus_privacy_dialog_title">Política de privadesa</string>
-  <string name="antivirus_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit l'accés a internet. Voleu permetre a seguretat connectar-se a internet?"</string>
+  <string name="antivirus_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que Seguretat es connecti a Internet?"</string>
   <string name="antivirus_toast_already_update">Actualitzat</string>
-  <string name="antivirus_toast_network_unavailable">"No es pot connectar a la xarxa"</string>
+  <string name="antivirus_toast_network_unavailable">"No s'ha pogut connectar a la xarxa"</string>
   <string name="antivirus_toast_update_failed">"No s'ha pogut actualitzar"</string>
   <string name="antivirus_toast_update_success">S\'ha actualitzat correctament</string>
   <string name="antivirus_toast_updating">S\'està actualitzant…</string>
