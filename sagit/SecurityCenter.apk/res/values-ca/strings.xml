@@ -170,8 +170,8 @@
   <string name="app_manager_details_traffic_title">Ús de dades</string>
   <string name="app_manager_disable">"No ho permetis"</string>
   <string name="app_manager_disable_dlg_text">Si desactiveu aquesta aplicació, és possible que altres aplicacions no funcionin correctament.</string>
-  <string name="app_manager_disable_dlg_title">Voleu desactivar l\'aplicació del sistema?</string>
-  <string name="app_manager_disable_text">Desactiva</string>
+  <string name="app_manager_disable_dlg_title">Voleu inhabilitar l\'aplicació del sistema?</string>
+  <string name="app_manager_disable_text">Inhabilita</string>
   <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="app_manager_dlg_cancel">Cancel·la</string>
