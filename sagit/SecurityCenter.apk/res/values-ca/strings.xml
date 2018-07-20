@@ -193,10 +193,10 @@
   <string name="app_manager_install_other_app">Instal·la aplicacions de fonts desconegudes</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
   <string name="app_manager_memory">RAM</string>
-  <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
+  <string name="app_manager_menu_clear_data">Esborra les dades</string>
   <string name="app_manager_mobile_slot1">Dades mòbils (SIM 1)</string>
   <string name="app_manager_mobile_slot2">Dades mòbils (SIM 2)</string>
-  <string name="app_manager_net_control_title">Restricció d\'ús de dades</string>
+  <string name="app_manager_net_control_title">Restringeix l\'ús de dades</string>
   <string name="app_manager_net_mobile">Dades mòbils</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
