@@ -161,13 +161,13 @@
   <string name="app_manager_data_size">Dades d\'usuari</string>
   <string name="app_manager_default_cleared">Esborrat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
-  <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
+  <string name="app_manager_default_open_summary">Heu decidit executar aquesta aplicació per defecte per a algunes accions.</string>
   <string name="app_manager_default_open_title">Esborra els valors per defecte</string>
   <string name="app_manager_defaults_setting">Aplicacions per defecte</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Emmagatzematge</string>
   <string name="app_manager_details_title">Informació de l\'aplicació</string>
-  <string name="app_manager_details_traffic_title">Ús de dades mòbils</string>
+  <string name="app_manager_details_traffic_title">Ús de dades</string>
   <string name="app_manager_disable">"No ho permetis"</string>
   <string name="app_manager_disable_dlg_text">Si desactiveu aquesta aplicació, és possible que altres aplicacions no funcionin correctament.</string>
   <string name="app_manager_disable_dlg_title">Voleu desactivar l\'aplicació del sistema?</string>
