@@ -202,7 +202,7 @@
   <string name="app_manager_not_allow">No</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
-  <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
+  <string name="app_manager_notify_keyguard">Bloca la pantalla</string>
   <string name="app_manager_open_show_all_apps_immediate">Mostrar tots els resultats</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
@@ -217,14 +217,12 @@
   <string name="app_manager_pref_ads">Recomanacions</string>
   <string name="app_manager_reset_app_preferences">Reinicia les preferències de les aplicacions</string>
   <string name="app_manager_reset_app_preferences_button">Reinicia les aplicacions</string>
-  <string name="app_manager_reset_app_preferences_desc">"Es reiniciaran totes les preferències de:
-
- \"&lt;li&gt;Aplicacions desactivades&lt;/li&gt;\"
- \"&lt;li&gt;Notificacions d\'aplicacions desactivades&lt;/li&gt;\"
- \"&lt;li&gt;Aplicacions per defecte&lt;/li&gt;\"
- \"&lt;li&gt;Restriccions de dades en segon pla per a aplicacions&lt;/li&gt;\"
-
- No es perdran les dades de les aplicacions."</string>
+  <string name="app_manager_reset_app_preferences_desc">Es reiniciaran totes les preferències de:\n\n
+<li>Aplicacions desactivades</li>\n
+ <li>Notificacions d\'aplicacions desactivades</li>\n
+ <li>Aplicacions per defecte</li>\n
+ <li>Restriccions de dades en segon pla per a aplicacions</li>\n\n
+ No es perdran les dades de les aplicacions.</string>
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_search_prompt">"No s'ha pogut trobar cap resultat? Proveu de mostrar els resultats de totes les aplicacions."</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
