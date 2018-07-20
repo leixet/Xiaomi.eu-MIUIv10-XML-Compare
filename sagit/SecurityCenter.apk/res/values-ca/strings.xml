@@ -271,7 +271,7 @@
   <string name="apps_item_sms_title">Configuració de missatgeria per defecte</string>
   <string name="apps_item_summary_sms">%s té accés als seus missatges, pot causar problemes de seguretat</string>
   <string name="apps_item_summary_system_rooted">S\'ha permès l\'accés administrador. Restaureu la configuració per defecte per evitar riscos de seguretat.</string>
-  <string name="apps_item_summary_system_update">Alguns errors van ser corregits en la versió nova de fer pagaments més segura.</string>
+  <string name="apps_item_summary_system_update">Alguns errors s\'han solucionat a la nova versió per fer que els pagaments siguin més segurs.</string>
   <string name="apps_item_title_system">Actualització del sistema</string>
   <string name="apps_item_virus_cleanup_success">S\'ha netejat amb èxit</string>
   <string name="apps_item_virus_cleanup_text">Esborra</string>
