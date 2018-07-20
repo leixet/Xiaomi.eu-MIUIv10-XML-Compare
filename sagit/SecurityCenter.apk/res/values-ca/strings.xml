@@ -226,11 +226,11 @@
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_search_prompt">"No s'ha pogut trobar cap resultat? Proveu de mostrar els resultats de totes les aplicacions."</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
-  <string name="app_manager_show_all_apps_opened">S\'està mostrant els resultats de totes les aplicacions…</string>
+  <string name="app_manager_show_all_apps_opened">S\'estan mostrant els resultats de totes les aplicacions…</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
-  <string name="app_manager_title">Administra les aplicacions</string>
+  <string name="app_manager_title">Gestiona les aplicacions</string>
   <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall">Desinstal·la</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
