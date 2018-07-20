@@ -2847,6 +2847,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notification_show_lights_title">Parpelleig del llum</string>
   <string name="notification_sound_default">So de notificació per defecte</string>
   <string name="notification_sound_dialog_title">So de notificació per defecte</string>
+  <string name="notification_sound_title">So de notificació per defecte</string>
   <string name="notification_suggestion_summary">Mostra o oculta el contingut de la notificació</string>
   <string name="notification_suggestion_title">Controla notificacions de pantalla bloq.</string>
   <string name="notification_summary_level">Nivell %d</string>
