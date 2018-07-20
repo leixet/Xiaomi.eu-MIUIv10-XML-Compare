@@ -357,6 +357,7 @@
   <string name="local_page_artist_more">Més cançons de %s</string>
   <string name="local_page_custom_subtitle">Noves cançons cada dia</string>
   <string name="local_page_custom_title">Per a vós</string>
+  <string name="local_page_playlist">Llistes de reproducció</string>
   <string name="local_page_song_download_history">Baixades</string>
   <string name="lrc_search_failed">"No s'han pogut trobar les lletres"</string>
   <string name="lrc_searching">S\'està cercant&#8230;</string>
