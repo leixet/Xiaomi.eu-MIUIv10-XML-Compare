@@ -416,11 +416,11 @@
   <string name="btn_text_goto_power_rank">Mostra la classificació de la bateria</string>
   <string name="btn_text_goto_setup">Vés a la configuració</string>
   <string name="btn_text_network_speed_detail">Connexió</string>
-  <string name="btn_text_open_now">Activar</string>
+  <string name="btn_text_open_now">Activa</string>
   <string name="btn_text_optimize_extend_battery_time">Afegeix %s</string>
   <string name="btn_text_optimize_manually">Optimitza manualment</string>
   <string name="btn_text_optimize_now">Optimitza</string>
-  <string name="btn_text_power_cleanup">Neteja intensiva</string>
+  <string name="btn_text_power_cleanup">Neteja profunda</string>
   <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_save_power">Refreda</string>
   <string name="btn_text_quick_scan">Escaneja</string>
@@ -467,7 +467,7 @@
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_qq_title">Netejador QQ</string>
   <string name="card_main_deepclean_summary">Elimineu fitxers innecessaris</string>
-  <string name="card_main_deepclean_title">Neteja intensiva</string>
+  <string name="card_main_deepclean_title">Neteja profunda</string>
   <string name="card_main_deepclean_wechat_action">Esborra</string>
   <string name="card_main_deepclean_wechat_summary">Esborrar la memòria cau del WeChat per alliberar espai</string>
   <string name="card_main_deepclean_wechat_title">Memòria cau del WeChat</string>
