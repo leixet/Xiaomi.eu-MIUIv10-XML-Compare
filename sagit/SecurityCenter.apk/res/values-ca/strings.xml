@@ -348,13 +348,13 @@
   <string name="back_sound_success">S\'ha establert amb èxit</string>
   <string name="back_sound_support">"La xarxa del vostre operador no és compatible amb aquesta configuració."</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
-  <string name="background_traffic">Fons %s</string>
+  <string name="background_traffic">Segon pla %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
-  <string name="battery_capacity_title">Bateria</string>
+  <string name="battery_capacity_title">Capacitat de la bateria</string>
   <string name="battery_charge_estimating">S\'està calculant…</string>
   <string name="battery_charge_full">Carregat</string>
-  <string name="battery_charging_prompt">S\'està carregant </string>
-  <string name="battery_desc_apps">Bateria utilitzada per les aplicacions</string>
+  <string name="battery_charging_prompt">S\'està carregant</string>
+  <string name="battery_desc_apps">Bateria utilitzada per l\'aplicació</string>
   <string name="battery_desc_bluetooth">Bateria utilitzada pel Bluetooth</string>
   <string name="battery_desc_display">Bateria utilitzada per la pantalla i la retroil·luminació</string>
   <string name="battery_desc_other_apps">Energia consumida per altres aplicacions</string>
