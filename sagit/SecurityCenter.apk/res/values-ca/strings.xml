@@ -404,9 +404,9 @@
   <string name="boostering">S\'està augmentant la velocitat…</string>
   <string name="boosting">S\'està augmentant la velocitat…</string>
   <string name="boot_reminder">Encendre el dispositiu a una hora programada</string>
-  <string name="boot_time">Encesa: %1$s</string>
-  <string name="boot_time_day">Encesa: %2$s %1$dd</string>
-  <string name="boot_time_day_tomorrow">Encesa: %1$s</string>
+  <string name="boot_time">Activa a les %1$s</string>
+  <string name="boot_time_day">Activa el %1$dd a les %2$s</string>
+  <string name="boot_time_day_tomorrow">Activa demà a les %1$s</string>
   <string name="brand_diagnostic">Diagnòstics de l\'operador</string>
   <string name="btn_back">Enrere</string>
   <string name="btn_finish_diagnostic">D\'acord</string>
