@@ -374,10 +374,10 @@
   <string name="battery_stats_gps_on_label">GPS actiu</string>
   <string name="battery_stats_on_battery">%1$s de bateria</string>
   <string name="battery_stats_phone_signal_label">Senyal de xarxa mòbil</string>
-  <string name="battery_stats_screen_on_label">Pantalla encesa</string>
-  <string name="battery_stats_wake_lock_label">Despertar</string>
+  <string name="battery_stats_screen_on_label">Pantalla activada</string>
+  <string name="battery_stats_wake_lock_label">Despert</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
-  <string name="battery_status_good">Funcionant normalment</string>
+  <string name="battery_status_good">Funciona amb normalitat</string>
   <string name="battery_status_overheat">Sobreescalfat</string>
   <string name="battery_status_unknown">Error desconegut</string>
   <string name="battery_temperature_title">Temperatura</string>
@@ -385,7 +385,7 @@
   <string name="best_booster_status">La velocitat de joc és la millor disponible ara.</string>
   <string name="bg_network_exception_title">Connexió en segon pla restringida</string>
   <string name="bind_xiaomi_account_cancel">Cancel·la</string>
-  <string name="bind_xiaomi_account_confirm">Afegir</string>
+  <string name="bind_xiaomi_account_confirm">Afegeix</string>
   <string name="bind_xiaomi_account_dialog_summery">"Estàs a punt d'afegir el compte Mi %s. Si oblida la seva contrasenya, pot utilitzar aquest compte per restablir-la. Si finalitza la sessió el compte s'elimina automàticament."</string>
   <string name="bind_xiaomi_account_success">El compte Mi s\'ha afegit correctament</string>
   <string name="bind_xiaomi_account_summary">Per restablir la seva contrasenya utilitzeu el compte Mi</string>
