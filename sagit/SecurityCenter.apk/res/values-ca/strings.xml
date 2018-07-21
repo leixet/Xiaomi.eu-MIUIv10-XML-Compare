@@ -450,8 +450,8 @@
   <string name="call_blacklist">Llista de bloqueig de trucades</string>
   <string name="call_cloud_block">Llista de bloqueig del núvol</string>
   <string name="call_contact_block">Bloqueja trucades dels contactes</string>
-  <string name="call_delete_hint">Voleu eliminar totes les trucades bloquejades d\'aquest número?</string>
-  <string name="call_delete_title">Elimina la trucada</string>
+  <string name="call_delete_hint">Voleu suprimir totes les trucades bloquejades d\'aquest número?</string>
+  <string name="call_delete_title">Suprimeix l\'historial de trucades</string>
   <string name="call_oversea_block">Bloqueja trucades des de l\'estranger</string>
   <string name="call_prefix">Llista de bloqueig de prefixos</string>
   <string name="call_private">Bloqueja trucades de números ocults</string>
@@ -462,11 +462,11 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
-  <string name="card_main_applock_summary">Protegiu missatges, fotos i altres elements amb una contrasenya.</string>
+  <string name="card_main_applock_summary">Protegiu les aplicacions seleccionades amb una contrasenya.</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
-  <string name="card_main_deepclean_action">Neteja</string>
+  <string name="card_main_deepclean_action">Esborra</string>
   <string name="card_main_deepclean_qq_title">Netejador QQ</string>
-  <string name="card_main_deepclean_summary">Elimineu fitxers innecessaris</string>
+  <string name="card_main_deepclean_summary">Suprimeix fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja profunda</string>
   <string name="card_main_deepclean_wechat_action">Esborra</string>
   <string name="card_main_deepclean_wechat_summary">Esborrar la memòria cau del WeChat per alliberar espai</string>
