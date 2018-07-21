@@ -386,17 +386,17 @@
   <string name="bg_network_exception_title">Connexió en segon pla restringida</string>
   <string name="bind_xiaomi_account_cancel">Cancel·la</string>
   <string name="bind_xiaomi_account_confirm">Afegeix</string>
-  <string name="bind_xiaomi_account_dialog_summery">"Estàs a punt d'afegir el compte Mi %s. Si oblida la seva contrasenya, pot utilitzar aquest compte per restablir-la. Si finalitza la sessió el compte s'elimina automàticament."</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Esteu a punt d'afegir el compte Mi <xliff:g id="ACCOUNT">%s</xliff:g>. Si oblideu la vostra contrasenya, podeu utilitzar aquest compte per restablir-la. Si finalitza la sessió el compte s'elimina automàticament."</string>
   <string name="bind_xiaomi_account_success">El compte Mi s\'ha afegit correctament</string>
-  <string name="bind_xiaomi_account_summary">Per restablir la seva contrasenya utilitzeu el compte Mi</string>
+  <string name="bind_xiaomi_account_summary">Utilitzeu el compte Mi per restablir la vostra contrasenya</string>
   <string name="bind_xiaomi_account_title">Afegeix un compte Mi</string>
   <string name="birthday">Aniversari</string>
   <string name="bl_no_blacklist">No hi ha números bloquejats.</string>
   <string name="bl_no_block_call">No hi ha trucades bloquejades.</string>
   <string name="bl_no_block_sms">No hi ha missatges bloquejats.</string>
   <string name="blacklist_prefix_add_hint">Bloqueja tots els números que tinguin aquest prefix</string>
-  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-  <string name="block_phone_number">Trucades: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">Missatges: <font color="#5fab1b">%d</font></string>
+  <string name="block_phone_number">Trucades: <apli color="#5fab1b">%d</apli></string>
   <string name="boost_done">S\'ha accelerat amb èxit</string>
   <string name="boost_stop">Desactiva l\'accelerador de velocitat</string>
   <string name="booster_immediately">Accelera</string>
