@@ -410,7 +410,7 @@
   <string name="brand_diagnostic">Diagnòstics de l\'operador</string>
   <string name="btn_back">Enrere</string>
   <string name="btn_finish_diagnostic">D\'acord</string>
-  <string name="btn_start_diagnostic">Comprova la xarxa</string>
+  <string name="btn_start_diagnostic">Prova la xarxa</string>
   <string name="btn_stop_diagnostic">Atura</string>
   <string name="btn_text_already_opened">Encès</string>
   <string name="btn_text_goto_power_rank">Veure la classificació de la bateria</string>
