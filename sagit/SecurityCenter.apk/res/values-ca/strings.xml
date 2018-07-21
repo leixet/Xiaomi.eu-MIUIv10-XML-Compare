@@ -423,7 +423,7 @@
   <string name="btn_text_power_cleanup">Neteja intensiva</string>
   <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_save_power">Refreda</string>
-  <string name="btn_text_quick_scan">Escanejar</string>
+  <string name="btn_text_quick_scan">Escaneja</string>
   <string name="btn_text_stop">Atura</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
@@ -677,7 +677,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="enable_network">Activa xarxa primer</string>
   <string name="every_day">Cada dia</string>
   <string name="examination_score_100">Tot sembla correcte!</string>
-  <string name="examination_score_60_0">Analitza-ho ara</string>
+  <string name="examination_score_60_0">Escaneja-ho ara</string>
   <string name="examination_score_80_100">Es poden optimitzar pocs elements</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
