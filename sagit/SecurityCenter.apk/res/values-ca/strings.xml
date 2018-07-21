@@ -489,14 +489,14 @@
   <string name="card_main_xspace_action">Crea</string>
   <string name="card_main_xspace_summary">Creeu comptes duals per a qualsevol aplicació</string>
   <string name="card_main_xspace_title">Aplicacions duals</string>
-  <string name="card_sms_report">Notifica via SMS</string>
+  <string name="card_sms_report">Informeu mitjançant SMS</string>
   <string name="card_tc_failed">"No s'ha pogut calibrar"</string>
-  <string name="card_tc_failed_content">"Possibles raons:
-1. Els operadors responen més lentament al principi i al final d\'un mes. Intenteu-ho de nou en un parell de dies.
-2. Es requereix una plantilla de sol·licitud de xarxa quan es calibra per primera vegada. Connecteu-vos a la xarxa i torneu-ho a provar.
-3. Es possible que l\'operador no admeti l\'enviament d\'SMS amb les dades restants i el saldo del telèfon. Poseu-vos en contacte amb l\'operador per obtenir més informació.
-4. Hi pot haver un error en les dades de l\'operador. Proveu el diagnòstic de l\'operador per resoldre això.
-5. Res d\'això li ha ajudat? Toqueu «Informa via SMS» per enviar els comentaris a Xiaomi en un SMS."</string>
+  <string name="card_tc_failed_content">Possibles raons:\n
+        1. Els operadors responen més lentament al principi i al final d\'un mes. Intenteu-ho de nou en un parell de dies.\n
+        2. Es requereix una plantilla de sol·licitud de xarxa quan es calibra per primera vegada. Connecteu-vos a la xarxa i torneu-ho a provar.\n
+        3. Es possible que l\'operador no admeti l\'enviament d\'SMS amb les dades restants i el saldo del telèfon. Poseu-vos en contacte amb l\'operador per obtenir més informació.\n
+        4. Hi pot haver un error en les dades de l\'operador. Proveu el diagnòstic de l\'operador per resoldre això.\n
+        5. Res d\'això li ha ajudat? Toqueu «Informa via SMS» per enviar els comentaris a Xiaomi en un SMS.    </string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
   <string name="charging_text_battery_perfect">Càrrega completa</string>
