@@ -478,12 +478,12 @@
   <string name="card_main_netcheck_action">Prova</string>
   <string name="card_main_netcheck_summary">Proveu la connexió si teniu problemes de xarxa</string>
   <string name="card_main_netcheck_title">Prova de xarxa</string>
-  <string name="card_main_optimize_manage_action">Accelera</string>
-  <string name="card_main_optimize_manage_summary">Netegeu la memòria cau per accelerar el dispositiu</string>
-  <string name="card_main_optimize_manage_title">Accelera la velocitat</string>
+  <string name="card_main_optimize_manage_action">Accelera ara</string>
+  <string name="card_main_optimize_manage_summary">Esborreu la memòria cau per accelerar el dispositiu</string>
+  <string name="card_main_optimize_manage_title">Augmenta la velocitat</string>
   <string name="card_main_overscroll_tips">Seguretat en el seu millor moment</string>
   <string name="card_main_private_space_action">Crea</string>
-  <string name="card_main_private_space_summary">Utilitzar el Segon espai és com tenir 2 dispositius</string>
+  <string name="card_main_private_space_summary">L\'ús del segon espai és com tenir 2 dispositius</string>
   <string name="card_main_private_space_title">Segon espai</string>
   <string name="card_main_sectool_title">Eines</string>
   <string name="card_main_xspace_action">Crea</string>
