@@ -632,7 +632,7 @@
   <string name="dlg_move_to_white">Afegeix a excepcions</string>
   <string name="dlg_no_block">"Voleu desbloquejar aquest número de telèfon?
 S\'afegirà a les excepcions, però els elements bloquejats anterioment no apareixeran a l\'historial de trucades."</string>
-  <string name="dlg_no_block_ok">Desbloqujea</string>
+  <string name="dlg_no_block_ok">Desbloqueja</string>
   <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
   <string name="dlg_remove_address_blacklist">Voleu eliminar aquesta ubicació de la llista de bloqueig?</string>
