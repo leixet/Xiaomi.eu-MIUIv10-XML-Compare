@@ -590,18 +590,18 @@
   <string name="dialog_button_ignore">Ignora</string>
   <string name="dialog_button_yes">Sí</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració i Aplicacions.</string>
-  <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que s'acabi?"</string>
+  <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
-  <string name="dialog_restrict_all_mobile_summary">%s La connexió de dades mòbils es restringirà a totes les aplicacions després d\'això.</string>
-  <string name="dialog_restrict_all_mobile_title">Restringeix la connexió %s de dades mòbils</string>
+  <string name="dialog_restrict_all_mobile_summary"><xliff:g id="slot_num" example="SIM 1">%s</xliff:g> La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
+  <string name="dialog_restrict_all_mobile_title">Restringeix la connexió de dades mobils <xliff:g id="slot_num" example="SIM 1">%s</xliff:g></string>
   <string name="dialog_restrict_all_wlan_summary">La connexió Wi-Fi es restringirà a totes les aplicacions després d\'això.</string>
   <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringeix</string>
   <string name="dialog_restrict_positive">Cancel·la</string>
   <string name="dialog_roaming_message">Voleu permetre que aquesta aplicació utilitzi dades mòbils en itinerància a l\'estranger?</string>
-  <string name="dialog_roaming_title">Itinerància en ultramar</string>
+  <string name="dialog_roaming_title">Itinerància a l\'estranger</string>
   <string name="dialog_roaming_warning_checkbox">"No ho tornis a mostrar"</string>
-  <string name="dialog_roaming_warning_message">El vostre operador us cobrarà de més després d\'activar la itinerància de dades. Voleu continuar de totes maneres?</string>
+  <string name="dialog_roaming_warning_message">L\'operador us cobrarà una tarifa després d\'activar la itinerància de dades internacionals. Activar de totes maneres?</string>
   <string name="dialog_roaming_warning_ok">Activa</string>
   <string name="dialog_title_attention">Atenció</string>
   <string name="dialog_title_auto_start_declare">Quant a inici automàtic</string>
