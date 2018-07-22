@@ -584,12 +584,13 @@
   <string name="descx_quick_scan_preparation">Un moment…</string>
   <string name="detail_app_button">Informació de l\'aplicació</string>
   <string name="details_subtitle">Detalls d\'us</string>
-  <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància en ultramar, només les aplicacions que heu afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
-  <string name="dialog_app_roaming_title">"La itinerància en ultramar no s'ha activat per a %1$s"</string>
+  <string name="diagnostic_attention_dialog_message">"El diagnòstic per <xliff:g id="operation_name" example="China Unicom(SIM 1)">%1$s</xliff:g> està en curs. Espereu que acabi i torneu-ho a provar."</string>
+  <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
+  <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
   <string name="dialog_button_ignore">Ignora</string>
   <string name="dialog_button_yes">Sí</string>
-  <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
-  <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
+  <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració i Aplicacions.</string>
+  <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que s'acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
   <string name="dialog_restrict_all_mobile_summary">%s La connexió de dades mòbils es restringirà a totes les aplicacions després d\'això.</string>
   <string name="dialog_restrict_all_mobile_title">Restringeix la connexió %s de dades mòbils</string>
