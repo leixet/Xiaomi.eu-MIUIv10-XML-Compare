@@ -635,8 +635,8 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="dlg_no_block_ok">Desbloqueja</string>
   <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
-  <string name="dlg_remove_address_blacklist">Voleu eliminar aquesta ubicació de la llista de bloqueig?</string>
-  <string name="dlg_remove_address_whitelist">Voleu eliminar aquesta ubicació de les excepcions?</string>
+  <string name="dlg_remove_address_blacklist">Voleu suprimir aquesta ubicació de la llista de bloqueig?</string>
+  <string name="dlg_remove_address_whitelist">Voleu suprimir aquesta ubicació de les excepcions?</string>
   <string name="dlg_remove_blacklist">Voleu eliminar aquests números de la llista de bloqueig?</string>
   <string name="dlg_remove_blacklist_ing">S\'està eliminant&#8230;</string>
   <string name="dlg_remove_blacklist_title">Suprimeix</string>
