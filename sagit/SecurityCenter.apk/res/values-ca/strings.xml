@@ -637,12 +637,12 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
   <string name="dlg_remove_address_blacklist">Voleu suprimir aquesta ubicació de la llista de bloqueig?</string>
   <string name="dlg_remove_address_whitelist">Voleu suprimir aquesta ubicació de les excepcions?</string>
-  <string name="dlg_remove_blacklist">Voleu eliminar aquests números de la llista de bloqueig?</string>
-  <string name="dlg_remove_blacklist_ing">S\'està eliminant&#8230;</string>
+  <string name="dlg_remove_blacklist">Voleu suprimir aquests números de la llista de bloqueig?</string>
+  <string name="dlg_remove_blacklist_ing">S\'està suprimint…</string>
   <string name="dlg_remove_blacklist_title">Suprimeix</string>
   <string name="dlg_remove_ok">Suprimeix</string>
-  <string name="dlg_remove_whitelist">Voleu treure aquests números del llistat d\'excepcions?</string>
-  <string name="dlg_remove_whitelist_ing">S\'està eliminant&#8230;</string>
+  <string name="dlg_remove_whitelist">Voleu suprimir aquests números d\'excepcions?</string>
+  <string name="dlg_remove_whitelist_ing">S\'està suprimint…</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
   <string name="dlg_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que l'aplicació es connecti a Internet?"</string>
   <string name="dlg_title_not_open_stranger_identify">Identifica els desconeguts</string>
