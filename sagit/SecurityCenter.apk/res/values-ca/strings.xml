@@ -558,17 +558,15 @@
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
   <string name="data_usage_limit_body">Toqueu per activar les dades mòbils.</string>
   <string name="data_usage_mobile_dialog_title">"Ja heu utilitzat 5 GB de dades mòbils. MIUI ha desactivat les dades mòbils."</string>
-  <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
-  <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
-  <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
+  <string name="data_usage_mobile_limit_title">S\'ha arribat al límit de dades mòbils</string>
+  <string name="data_usage_no_total_package_body">Toqueu per establir el límit de dades</string>
+  <string name="data_usage_no_total_package_body_dual">No hi ha cap límit de dades establert per a %s</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
-  <string name="data_usage_protected_dialog_message">"MIUI ha desactivat les dades mòbils per evitar que es generin càrrecs addicionals per l\'operadora.
-
-La vostra operadora podria cobrar-li càrrecs addicionals si torneu a activar les dades mòbils."</string>
+  <string name="data_usage_protected_dialog_message">MIUI ha desactivat les dades mòbils per evitar que es generin càrrecs addicionals per l\'operadora.\n\n La vostra operadora podria cobrar-li càrrecs addicionals si torneu a activar les dades mòbils.</string>
   <string name="data_usage_protected_notify_message">MIUI ha desactivat les dades mòbils per evitar que es generin càrrecs addicionals per a la operadora.</string>
   <string name="data_usage_protected_notify_title">"Ja heu utilitzat 5 GB de dades mòbils"</string>
-  <string name="data_usage_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
-  <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
+  <string name="data_usage_warning_body">Toqueu per mostrar els detalls de l\'ús de dades.</string>
+  <string name="data_usage_warning_body_notify">Toqueu per mostrar els detalls</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
   <string name="databooster_tips_message">Activeu-lo per restringir totes les targetes SIM, excepte per a la targeta de dades. Desactiveu aquesta funció si es produeixen errors en els jocs que trieu.</string>
   <string name="databooster_tips_title">Atenció</string>
