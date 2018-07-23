@@ -674,8 +674,8 @@
   <string name="every_day">Cada dia</string>
   <string name="examination_score_100">Tot es veu bé!</string>
   <string name="examination_score_60_0">Escaneja-ho ara</string>
-  <string name="examination_score_80_100">Es poden optimitzar alguns elements</string>
-  <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
+  <string name="examination_score_80_100">Uns pocs elements poden ser optimitzats</string>
+  <string name="examination_score_80_60">Alguns elements poden ser optimitzats</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
   <string name="exception_dialog_message">"No s'han pogut calcular les estadístiques d'ús de dades a causa d'un error. Sense estadístiques exactes, l'aplicació Seguretat no podrà controlar l'ús de dades. Voleu reiniciar-la per restaurar aquesta funció?"</string>
   <string name="exception_dialog_ok_button">Reinicia</string>
