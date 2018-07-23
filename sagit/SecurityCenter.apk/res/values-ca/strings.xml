@@ -630,8 +630,7 @@
   <string name="dlg_keyword_ok">Desa</string>
   <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració i Telèfon.</string>
   <string name="dlg_move_to_white">Afegeix a excepcions</string>
-  <string name="dlg_no_block">"Voleu desbloquejar aquest número de telèfon?
-S\'afegirà a les excepcions, però els elements bloquejats anterioment no apareixeran a l\'historial de trucades."</string>
+  <string name="dlg_no_block">Voleu desbloquejar aquest número de telèfon?\nS\'afegirà a les excepcions, però els elements bloquejats anterioment no apareixeran a l\'historial de trucades.</string>
   <string name="dlg_no_block_ok">Desbloqueja</string>
   <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
@@ -645,7 +644,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="dlg_remove_whitelist_ing">S\'està suprimint…</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
   <string name="dlg_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que l'aplicació es connecti a Internet?"</string>
-  <string name="dlg_title_not_open_stranger_identify">Identifica els desconeguts</string>
+  <string name="dlg_title_not_open_stranger_identify">Identificador de trucades</string>
   <string name="dlg_update_btn_contiue">Continua</string>
   <string name="dlg_update_btn_open">Permet</string>
   <string name="dlg_update_data_content">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar de totes maneres?"</string>
