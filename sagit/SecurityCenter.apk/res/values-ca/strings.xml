@@ -648,7 +648,7 @@
   <string name="dlg_update_btn_contiue">Continua</string>
   <string name="dlg_update_btn_open">Permet</string>
   <string name="dlg_update_data_content">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar de totes maneres?"</string>
-  <string name="dlg_update_date_title">Advertència</string>
+  <string name="dlg_update_date_title">Avís</string>
   <string name="dlg_update_updating">S\'està actualitzant…</string>
   <string name="dlg_white_address_antispam_message">Voleu afegir aquesta ubicació a les excepcions?</string>
   <string name="dlg_white_antispam_hint">Llista d\'excepcions</string>
