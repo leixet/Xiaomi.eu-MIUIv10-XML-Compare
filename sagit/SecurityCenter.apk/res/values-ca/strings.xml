@@ -651,10 +651,10 @@
   <string name="dlg_update_date_title">Avís</string>
   <string name="dlg_update_updating">S\'està actualitzant…</string>
   <string name="dlg_white_address_antispam_message">Voleu afegir aquesta ubicació a les excepcions?</string>
-  <string name="dlg_white_antispam_hint">Llista d\'excepcions</string>
+  <string name="dlg_white_antispam_hint">Excepcions</string>
   <string name="dlg_white_antispam_message">Voleu afegir aquest número a les excepcions?</string>
   <string name="dns_exception_summary">"Comproveu la configuració DNS del seu router"</string>
-  <string name="dns_exception_title">Comprovar ajustos DNS</string>
+  <string name="dns_exception_title">Comproveu la configuració de DNS</string>
   <string name="do_clean">S\'està esborrant…</string>
   <string name="domestic_roaming_setting">Itinerància nacional</string>
   <string name="dont_bore">"No deixeu que els botons i les notificacions us distreguin"</string>
