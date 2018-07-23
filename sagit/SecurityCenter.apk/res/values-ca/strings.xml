@@ -665,7 +665,7 @@
   <string name="email">Correu electrònic</string>
   <string name="empty_app">No hi ha aplicacions</string>
   <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
-  <string name="empty_title_garbage_virus_white_list">Mantingueu els resultats a la llista per ometre\'ls durant el següent anàlisi</string>
+  <string name="empty_title_garbage_virus_white_list">Mantingueu els resultats a la llista per ometre\'ls durant el següent escaneig</string>
   <string name="empty_title_manual_item_white_list">No hi ha excepcions.</string>
   <string name="empty_title_perm_apps">Cap aplicació té aquest permís.</string>
   <string name="empty_title_permission_apps_list">No hi ha aplicacions.</string>
