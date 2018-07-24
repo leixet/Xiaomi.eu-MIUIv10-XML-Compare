@@ -709,7 +709,7 @@
   <string name="firewall_fragment_nonesys_listempty">Buit</string>
   <string name="firewall_fragment_sys_listempty">Buit</string>
   <string name="firewall_mobile">Dades mòbils</string>
-  <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant dades mòbils quan aquest interruptor està desactivat."</string>
+  <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant dades mòbils quan aquest interruptor estigui desactivat."</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
   <string name="firewall_network_restrict_notify_mobile">Dades mòbils</string>
