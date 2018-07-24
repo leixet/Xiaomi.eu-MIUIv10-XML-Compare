@@ -698,9 +698,9 @@
   <string name="fingerprint_remind_dialog_title">Desbloqueig per empremta</string>
   <string name="fingerprint_to_lock">Desbloqueja amb empremta</string>
   <string name="fingerprint_verify_failed">"No s'ha pogut verificar l'empremta"</string>
-  <string name="fingerprint_verify_succeed">Comprovació correcta</string>
-  <string name="fingerprint_verify_try_agin">"No s'ha pogut escanejar,tornar a provar"</string>
-  <string name="firewall_activity_lable">Restringir l\'ús de dades per a l\'aplicació</string>
+  <string name="fingerprint_verify_succeed">S\'ha verificat l\'empremta</string>
+  <string name="fingerprint_verify_try_agin">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
+  <string name="firewall_activity_lable">Restringeix l\'ús de dades per l\'aplicació</string>
   <string name="firewall_allow_all">Permet que totes les aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_allow_data">Permet l\'ús de dades mòbils</string>
   <string name="firewall_allow_network">Permet</string>
