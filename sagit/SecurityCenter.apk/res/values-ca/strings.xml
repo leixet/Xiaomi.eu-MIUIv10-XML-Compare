@@ -711,7 +711,7 @@
   <string name="firewall_mobile">Dades mòbils</string>
   <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant dades mòbils quan aquest interruptor estigui desactivat."</string>
   <string name="firewall_network_allow">S\'ha permès a <xliff:g id="app_name" example="Facebook">%1$s</xliff:g> utilitzar la connexió <xliff:g id="network_type" example="Wi-Fi">%2$s</xliff:g></string>
-  <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
+  <string name="firewall_network_restrict_notify_message">Toqueu per canviar la configuració.</string>
   <string name="firewall_network_restrict_notify_mobile">Dades mòbils</string>
   <string name="firewall_partial">Permet que algunes aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_restrict_all">Restringeix la connexió per a totes les aplicacions utilitzant el següent mètode</string>
