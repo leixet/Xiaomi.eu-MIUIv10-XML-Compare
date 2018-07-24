@@ -722,15 +722,15 @@
   <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_rule_group_title_roaming">Itinerància a l\'estranger</string>
   <string name="firewall_system_title">Ús de dades per a les aplicacions del sistema</string>
-  <string name="firewall_temp_rule_reason">%2$s va restringir la connexió a Internet per a %1$s</string>
+  <string name="firewall_temp_rule_reason"><xliff:g id="app_name2" example="SecurityCenter">%2$s</xliff:g> va restringir la connexió a Internet per a <xliff:g id="app_name" example="Facebook">%1$s</xliff:g>​</string>
   <string name="firewall_wifi">Wi-Fi</string>
-  <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat"</string>
+  <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant Wi-Fi quan aquest interruptor estigui desactivat."</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="fod_authentication_shift_button">Cancel·la</string>
   <string name="fod_button_finger">Utilitza l\'empremta</string>
   <string name="fod_button_password">Introduïu la contrasenya</string>
   <string name="fod_finger_notice_title">Col·loqueu el dit a la pantalla</string>
-  <string name="fod_finger_windows_tips">Verifica l\'empremta digital</string>
+  <string name="fod_finger_windows_tips">Verifica l\'empremta</string>
   <string name="fod_tips_split_screen_more_than_half">Introduïu la contrasenya</string>
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
