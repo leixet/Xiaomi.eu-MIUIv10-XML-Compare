@@ -241,7 +241,6 @@
   <string name="app_manager_unstall_application">Desinstal·la</string>
   <string name="app_managere_not_have_app">Buit</string>
   <string name="app_manger_des_separator">",\u0020"</string>
-  <string name="app_mobile">Mòbil</string>
   <string name="app_name">Bloquejador d\'aplicacions</string>
   <string name="app_name_na">Ús de dades</string>
   <string name="app_name_securitycenter">Seguretat</string>
@@ -1195,7 +1194,6 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="network_speed_for_apps_title">Connexió</string>
   <string name="network_speed_for_apps_total">Velocitat de connexió</string>
   <string name="network_test_speed">Prova de velocitat Wi-Fi</string>
-  <string name="network_traffic_warning_text">" MIUI no pot calcular les estadístiques d'ús de dades per a les aplicacions de sistemes individuals aquí. Podreu veure la informació relacionada amb l'ús de dades als detalls de l'aplicació en cas que aquesta aplicació utilitzi activament les dades mòbils."</string>
   <string name="network_traffic_warning_title">Ús de dades per a les aplicacions del sistema</string>
   <string name="networkchanged_exception_summary">Ha canviat la connexió de xarxa. Si us plau provi una altra vegada.</string>
   <string name="networkchanged_exception_title">Connexió canviada</string>
