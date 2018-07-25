@@ -738,7 +738,7 @@
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
   <string name="forget_password_button_text_normal">He oblidat la contrasenya</string>
-  <string name="forget_pattern">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_pattern"><u>He oblidat la contrasenya</u></string>
   <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
   <string name="free_send_net_booster_busniess">Obtén un augment de velocitat Xunlei gratuït</string>
   <string name="free_send_net_booster_busniess_tip">Toqueu per rebre\'l</string>
@@ -748,7 +748,7 @@
   <string name="free_time_traffic_settings">Límit de dades en hora vall</string>
   <string name="free_time_traffic_title">Introduir límit de dades en hora vall</string>
   <string name="free_traffic_settings">Configuració d\'ús de dades en hora vall</string>
-  <string name="function_close">Apagat</string>
+  <string name="function_close">Desactivat</string>
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
