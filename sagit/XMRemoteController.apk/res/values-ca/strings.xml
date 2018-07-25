@@ -139,6 +139,7 @@
   <string name="cannot_be_used_in_current_mode">"No es pot utilitzar &lt;%1$s &gt; en el mode actual"</string>
   <string name="carrier_data">Informació del proveïdor</string>
   <string name="cast_screen">TV Mi</string>
+  <string name="catalyst_debugjs">Depura a Chrome</string>
   <string name="catalyst_debugjs_off">Atura la depuració en Chrome</string>
   <string name="catalyst_element_inspector">Mostra l\'inspector</string>
   <string name="catalyst_element_inspector_off">Amaga l\'inspector</string>
@@ -463,18 +464,26 @@ Proveu el següent per solucionar el problema:
   <string name="key_health_dehumidity">Deshumidifica</string>
   <string name="key_hybrid_switch">Canvia entre modes</string>
   <string name="key_lr_wind_mode">Balanceig horitzontal</string>
+  <string name="key_mute">Silenci</string>
   <string name="key_next">Següent</string>
   <string name="key_pause">Pausa</string>
   <string name="key_play">Reprodueix</string>
   <string name="key_pre">Anterior</string>
   <string name="key_press_vibrate">Vibra en prémer</string>
   <string name="key_rew">Rebobina</string>
+  <string name="key_shutter">Càmera</string>
   <string name="key_stop">Atura</string>
+  <string name="key_switch_dehumidity">Opcions de deshumidificació</string>
+  <string name="key_switch_display">Canvia entre pantalles</string>
+  <string name="key_ud_wind_mode">Balanceig vertical</string>
+  <string name="key_voice">Àudio</string>
   <string name="ky_receive_audio_preferred">Reconeix els espectacles que escolteu automàticament</string>
   <string name="ky_receive_audio_watching_tv">Esteu veient</string>
+  <string name="laboratory">Experimental</string>
   <string name="last_bak_time">Darrera còpia de seguretat %1$s</string>
   <string name="last_use_frame">Fa %1$s</string>
   <string name="launch_milive_tips">S\'està iniciant la transmissió en directe…</string>
+  <string name="legal_terms">Termes i condicions</string>
   <string name="less_than_10m">&lt; 10 m</string>
   <string name="living_room">Sala d\'estar</string>
   <string name="loading_brand">Obtenint informació&#8230;</string>
@@ -483,7 +492,10 @@ Proveu el següent per solucionar el problema:
   <string name="loading_get">Un moment…</string>
   <string name="loading_hint">Un moment…</string>
   <string name="loading_ir_data">Un moment…</string>
+  <string name="loading_more">Un moment…</string>
   <string name="loading_share_info_err">"No s'ha pogut carregar les dades"</string>
+  <string name="local_apk">APK locals</string>
+  <string name="local_video">Vídeos locals</string>
   <string name="locate_current_place">Cercant la ubicació actual</string>
   <string name="location_select">Canvia el nom del dispositiu</string>
   <string name="login">Inicia la sessió</string>
@@ -575,6 +587,7 @@ Deixeu-lo quan %1$s reaccioni"</string>
   <string name="match_tv_name_source">Entrada</string>
   <string name="match_tv_name_volume">Volum +</string>
   <string name="match_tv_name_volume_dec">Abaixa el volum</string>
+  <string name="match_tv_name_volume_inc">Apuja el volum</string>
   <string name="match_type_selection_des">Seleccioneu el dispositiu per emparellar</string>
   <string name="match_type_selection_title">Tipus</string>
   <string name="match_voh_intro_open">Allibereu quan s\'engegui el projector</string>
@@ -596,9 +609,17 @@ Deixeu-lo quan %1$s reaccioni"</string>
   <string name="milink_screenshot_pic">Captures de pantalla</string>
   <string name="milink_view_screenshot">Desat a la galeria, premeu per veure-ho</string>
   <string name="mishopsdk_progress_loading">s\'està carregant...</string>
+  <string name="mistore_ad">Anunci de la Botiga Mi</string>
   <string name="mitv">TV Mi</string>
   <string name="mitv_assistant_setting_version">Versió de l\'assistent de TV Mi %1$s</string>
+  <string name="mitv_no_device">"Els dispositius no estan connectats. Assegureu-vos que el Mi TV/Mi Box i el telèfon estiguin connectats a la mateixa xarxa Wi-Fi."</string>
+  <string name="mitv_not_connected">"El dispositiu no està connectat. Connecteu el telèfon i el TV a la mateixa xarxa Wi-Fi."</string>
+  <string name="mitv_show_director">%s | Director</string>
+  <string name="mitv_show_similar_recommendation">Recomanacions</string>
+  <string name="mitv_show_update_to_issuedate">S\'ha actualitzat a l\'episodi %s</string>
+  <string name="mitv_show_update_to_number">S\'ha actualitzat a l\'ep. %d</string>
   <string name="mitv_video">Mi TV en línia</string>
+  <string name="mode">Mode</string>
   <string name="model_name">Model de dispositiu</string>
   <string name="month">Mes</string>
   <string name="month_day_format">dd MMM</string>
@@ -606,6 +627,7 @@ Deixeu-lo quan %1$s reaccioni"</string>
   <string name="more_fav_channel">Més preferits</string>
   <string name="more_function">Més funcions</string>
   <string name="more_hot_programs">Més espectacles&#8230;</string>
+  <string name="movie_tag">Etiquetes del vídeo</string>
   <string name="msg_camera_framework_bug">"No s\'ha pogut accedir a la càmera.
 Comproveu els permisos o reinicieu el dispositiu."</string>
   <string name="mute">Silencia</string>
@@ -621,6 +643,7 @@ Comproveu els permisos o reinicieu el dispositiu."</string>
   <string name="my_setting">Configuració</string>
   <string name="my_store">La meva botiga</string>
   <string name="my_video_title">Els meus vídeos</string>
+  <string name="name_ch_dec">Canal -</string>
   <string name="nearby">A prop</string>
   <string name="network_access_accept">Permet l\'accés a la xarxa</string>
   <string name="network_access_hint">Aquestes característiques només funcionen amb accés a la xarxa</string>
@@ -628,8 +651,10 @@ Comproveu els permisos o reinicieu el dispositiu."</string>
   <string name="network_no_connection">"No es pot connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
   <string name="network_ok">No s\'han detectat problemes</string>
   <string name="network_unstable">· Teniu una connexió estable</string>
+  <string name="newly_added_in_7_days">S\'ha afegit durant 7 dies</string>
   <string name="next_remote">Comandament següent</string>
   <string name="next_step">Següent</string>
+  <string name="no">No</string>
   <string name="no_backup">No s\'ha trobat cap còpia de seguretat</string>
   <string name="no_brand_service">Marca actualment no disponible</string>
   <string name="no_current_play">"Reproducció en curs:- "</string>
@@ -644,6 +669,7 @@ Comproveu els permisos o reinicieu el dispositiu."</string>
   <string name="no_save_brand_service">Afegeix altra vegada aquest comandament</string>
   <string name="no_video">"No s'ha pogut trobar resultats"</string>
   <string name="none">Buit</string>
+  <string name="none_apk_note">Cap APK</string>
   <string name="not_login">No s\'ha iniciat sessió</string>
   <string name="not_respond">Sense resposta</string>
   <string name="not_updated_yet">"Encara no s'ha actualitzat"</string>
@@ -733,6 +759,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_innetdate_agree">Comprova</string>
+  <string name="passport_get_innetdate_disagree">No</string>
   <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Sembla&lt;/font&gt; que l\'operador ha reciclat el número %s. Voleu comprovar quan el número estigui en línia?</string>
   <string name="passport_get_innetdate_title">Comprova quan el número està en línia</string>
   <string name="passport_get_verify_code">Obtén codi</string>
@@ -755,11 +782,13 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
   <string name="passport_login_other_account">Un altre compte</string>
   <string name="passport_login_prompt">Un únic compte Mi. Tots els serveis Mi.</string>
+  <string name="passport_login_recycle_account_no">No</string>
   <string name="passport_login_recycle_account_yes">Sí</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Altres maneres d\'iniciar la sessió &lt;/u&gt;</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
   <string name="passport_next">Següent</string>
+  <string name="passport_no">No</string>
   <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="passport_password_phone_login">Inicia sessió amb el Compte Mi</string>
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
@@ -785,6 +814,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_failed">"No es pot configurar el compte"</string>
   <string name="passport_reg_new_account">Crea un compte</string>
   <string name="passport_reg_prompt">"No teniu un compte Mi? Creeu-ne un de franc."</string>
+  <string name="passport_reg_recycle_account_no">No</string>
   <string name="passport_reg_recycle_account_yes">Sí</string>
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
@@ -970,6 +1000,9 @@ Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="search_more_failed">"No s'ha pogut carregar resultats"</string>
   <string name="search_no_device">"No s'ha pogut trobar dispositius"</string>
   <string name="search_no_result">No s\'ha trobat res</string>
+  <string name="search_page_all_app_result">Mostra-ho tot</string>
+  <string name="search_page_clear_history">Esborra l\'historial</string>
+  <string name="search_rank">Introduïu les paraules clau</string>
   <string name="search_video_app_hint">Cerca</string>
   <string name="sel_dpad_mode">Seleccioneu un mode</string>
   <string name="select_all">Selecciona-ho tot</string>
@@ -982,6 +1015,7 @@ Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="select_stb_tips">Enllaça un descodificador</string>
   <string name="service_info">Informació de servei</string>
   <string name="setting_airkan">PANTALLA SENSE CABLES</string>
+  <string name="setting_common">GENERAL</string>
   <string name="setting_sharerc">Compartit per la gent</string>
   <string name="setting_sharerc_tips">Accepta un comandament compartit de algú del voltant</string>
   <string name="setting_version">Versió %1$s de Control Mi</string>
@@ -1020,6 +1054,7 @@ Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="share_level_title">Qui pot veure el comandament?</string>
   <string name="share_media_actor">"Repartiment: "</string>
   <string name="share_media_area">"País: "</string>
+  <string name="share_media_director">"Director: "</string>
   <string name="share_media_score">"Comentaris: "</string>
   <string name="share_popup_desc">Utilitza comandaments compartits per controlar dispositius propers</string>
   <string name="share_popup_single_desc">Utilitza comandaments compartits per controlar el %1$s proper</string>
@@ -1043,6 +1078,7 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="sharerc_tips">Després que compartiu aquest comandament, la gent del voltant podrà utilitzar-lo.</string>
   <string name="shortcut_pop_desc">Sembla que utilitzeu Control Mi força sovint. Voleu crear una drecera a la pantalla inicial?</string>
   <string name="shortcut_pop_title">Drecera</string>
+  <string name="show_all_episodes">Tots els episodis</string>
   <string name="show_remote_when_lock_screen">Mostra el comandament quan la pantalla estigui bloquejada</string>
   <string name="similar">Semblant</string>
   <string name="skip">Omet</string>
@@ -1059,10 +1095,13 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="stb">Descodificador</string>
   <string name="stb_power">Engega/atura receptor</string>
   <string name="steps">Intent #%d</string>
+  <string name="sticky_on_top">Fixa</string>
+  <string name="sticky_on_top_in_mainview">Fixa a la pàgina d\'inici</string>
   <string name="stop_diagnosis">Atura</string>
   <string name="study_room">Estudi</string>
   <string name="submit">Confirma</string>
   <string name="submit_fail_retry">"No s'ha pogut confirmar la informació del dispositiu. Espereu un minut o dos i torneu a provar-ho."</string>
+  <string name="submit_screen_shot_show">Comparteix la captura de pantalla</string>
   <string name="succeed_content">Afegit %3$s %4$s correctament.</string>
   <string name="succeed_finish">Fet</string>
   <string name="succeed_title">Vinculat</string>
@@ -1072,9 +1111,12 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="swipe_loading">Un moment…</string>
   <string name="switch_login">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
   <string name="switch_place">Seleccioneu una ciutat</string>
+  <string name="tab_live">TV en directe</string>
   <string name="tab_store">Botiga</string>
   <string name="technical_support">Suport tècnic</string>
   <string name="temperature">Temperatura</string>
+  <string name="temperature_des">Temperatura -</string>
+  <string name="temperature_inc">Temperatura +</string>
   <string name="third_app_launch_failed">"No s'ha pogut iniciar l'aplicació."</string>
   <string name="third_party_video">Altres vídeos</string>
   <string name="time_error">Sembla que l\'hora no és correcte</string>
