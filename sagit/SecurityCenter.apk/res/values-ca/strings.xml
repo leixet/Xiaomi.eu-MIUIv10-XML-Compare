@@ -912,7 +912,7 @@
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
-  <string name="keywords_powercenter">Estalvi de bateria;Sobreescalfament;Engega;Apaga;Bateria;Consum excessiu</string>
+  <string name="keywords_powercenter">Estalvi de bateria;Sobreescalfament;Activa;Desactiva;Bateria;Drenatge;Problemes de bateria; energia</string>
   <string name="keywords_powercenter_powerrank">Ús de bateria</string>
   <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
   <string name="keywords_securitycenter_settings">Estalvi de bateria;Permisos;Blocklist;Ús de dades;Calibrar pla de dades;Prova de xarxa;Bloqueig d\'app;Estalviar bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge;Automàtic;ROOT;Ubicació;Accés a contactes;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents;Dades;Trànsit;Calibrar;Connexió;Internet;Prova;Contrasenya;Privacitat;Accés;Protecció</string>
@@ -921,11 +921,11 @@
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_callwait">Notificació de trucada en espera</string>
   <string name="label_mi_stats">Anàlisi Mi</string>
-  <string name="last_check_canceled">L\'escaneig de virus previ va ser cancel·lat </string>
+  <string name="last_check_canceled">L\'escaneig previ va ser cancel·lat</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Dies feiners</string>
-  <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
-  <string name="legal_workday_invalidate_message">Premi per actualitzar la informació de dies laborables.</string>
+  <string name="legal_workday_invalidate">Dl-Dv (informació de festius caducada)</string>
+  <string name="legal_workday_invalidate_message">Toqueu per actualitzar la informació dels festius.</string>
   <string name="legal_workday_message">(Omet els festius)</string>
   <string name="leisure_usage_dialog_message">"Heu arribat al límit de dades en horari vall.
 
