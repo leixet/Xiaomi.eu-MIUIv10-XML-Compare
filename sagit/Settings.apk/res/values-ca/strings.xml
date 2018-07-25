@@ -520,6 +520,10 @@ Darrera execució el %2$s"</string>
   <string name="battery_detail_since_full_charge">Desglossament des de l\'última càrrega completa</string>
   <string name="battery_details_title">Ús de bateria</string>
   <string name="battery_footer_summary">El temps restant de la bateria és aproximat i pot canviar segons l\'ús</string>
+  <string name="battery_history_hours_no_seconds">%1$d h %2$d m</string>
+  <string name="battery_history_minutes">%1$d m %2$d s</string>
+  <string name="battery_history_minutes_no_seconds">%1$d m</string>
+  <string name="battery_history_seconds">%1$d s</string>
   <string name="battery_indicator_style">Indicador de bateria</string>
   <string name="battery_info_awake_battery">Temps de bateria en ús:</string>
   <string name="battery_info_awake_plugged">Temps de bateria en càrrega:</string>
@@ -551,6 +555,7 @@ Darrera execució el %2$s"</string>
   <string name="battery_info_status_unknown">Desconegut</string>
   <string name="battery_info_technology_label">Tecnologia de la bateria:</string>
   <string name="battery_info_temperature_label">Temperatura de la bateria:</string>
+  <string name="battery_info_temperature_units">°C</string>
   <string name="battery_info_uptime">Temps des de s\'ha engegat:</string>
   <string name="battery_info_voltage_label">Voltatge de la bateria:</string>
   <string name="battery_last_full_charge">Darrera càrrega completa</string>
@@ -860,6 +865,7 @@ Taxa de mostreig"</string>
   <string name="bootloader_device_bind_msg">S\'està preparant per afegir el compte i el dispositiu&#8230;</string>
   <string name="bootloader_device_bind_no_account">Primer inicia la sessió al Compte Mi</string>
   <string name="bootloader_device_bind_no_network">Connecteu-vos a la xarxa i torneu-ho a provar</string>
+  <string name="bootloader_device_bind_sim_invalid">La targeta SIM no és vàlida. Reemplaceu-la i torneu-ho a provar.</string>
   <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
   <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar troba el dispositiu després que el telèfon estigui desbloquejat."</string>
   <string name="bootloader_locked_answer_2">Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l\'eina de desbloqueig i instal·lar-la a l\'ordinador. Aquí està l\'adreça:</string>
