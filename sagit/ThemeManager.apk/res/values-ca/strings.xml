@@ -437,6 +437,13 @@
   <string name="uid_change_dialog_ok">Entesos</string>
   <string name="uid_change_dialog_title">Reinicia el dispositiu</string>
   <string name="up_to_the_end">"Això és tot per ara. Torneu més tard."</string>
+  <string name="using_theme_next_automatic_update_summary">Actualitza els temes baixats mitjançant Wi-Fi automàticament quan la pantalla està bloquejada</string>
+  <string name="video_apply_home">Pantalla d\'inici</string>
+  <string name="video_apply_home_lock">Pantalla d\'inici i pantalla de bloqueig</string>
+  <string name="video_audio_apply_success">S\'ha configurat correctament el vídeo amb so</string>
+  <string name="video_data_tips_message">L\'ús de dades mòbils pot generar despeses addicionals. Vols continuar?</string>
+  <string name="video_data_tips_title">Avís d\'ús de dades</string>
+  <string name="video_silence_apply_success">S\'ha configurat correctament el vídeo sense so</string>
   <string name="wallpaper_apply">Aplica</string>
   <string name="wallpaper_crop">Escapça</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
@@ -450,4 +457,7 @@
   <string name="wallpaper_settings_no_history">No hi ha historial</string>
   <string name="wallpaper_settings_pad_more_page_title">Més fons de pantalla</string>
   <string name="wallpaper_settings_page_title">Fons de pantalla</string>
+  <string name="xiaoai_speech_not_installed_download">Baixa</string>
+  <string name="xiaoai_speech_not_installed_message">Baixeu i instal·leu l\'assistent de veu Mi AI per continuar.</string>
+  <string name="xiaoai_speech_not_installed_title">"L'assistent de veu Mi AI no està instal·lat."</string>
 </resources>
