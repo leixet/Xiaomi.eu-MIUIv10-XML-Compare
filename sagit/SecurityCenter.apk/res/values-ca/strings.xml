@@ -626,6 +626,7 @@
   <string name="dlg_delete_keyword">Voleu esborrar les paraules clau seleccionades?</string>
   <string name="dlg_edit_keyword">Edita les paraules clau</string>
   <string name="dlg_import_blacklist">S\'està afegint…</string>
+  <string name="dlg_import_whitelist">S\'està afegint…</string>
   <string name="dlg_keyword_ok">Desa</string>
   <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració i Telèfon.</string>
   <string name="dlg_move_to_white">Afegeix a excepcions</string>
