@@ -901,13 +901,13 @@
   <string name="item_mms">Filtra els missatges no desitjats</string>
   <string name="item_system_auto_download">Baixa actualitzacions automàticament</string>
   <string name="item_usb_debug">Depuració USB</string>
-  <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
+  <string name="item_virus_lib">Actualitza automàticament les definicions de virus</string>
   <string name="keywords_antispam">Llista de bloqueig;Bloqueja;Llista negra;Llista de bloqueig intel·ligent;Frau;Ventes;Agents;Llista de bloqueig de trucades;Llista de bloqueig de missatges;Llista de bloqueig de missatges;Llista de bloqueig d\'SMS;Llista negra;Bloqueig de contactes;Bloqueja contactes</string>
-  <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
+  <string name="keywords_antivirus">Virus;Risc; Antivirus;Escaneig;Comprovar la seguretat dels pagaments;Seguretat de pagament;Pagament segur;Pagaments segurs;Protecció de pagaments;Protecció de pagaments;Pagaments protegits;Zona segura;Zona de pagament</string>
   <string name="keywords_app_permissions">Permisos;Ubicació;Contactes d\'accés;Permisos;Permisos de l\'aplicació</string>
   <string name="keywords_auto_restart">Inici automàtic;Permisos;Inici automàtic; Automàtic;Gestiona l\'inici automàtic;Inici automàtic MIUI;Inici automàtic de l\'aplicació;Inicia automàticament aplicacions;Inici de la cadena,inici encadenat, inici provocat</string>
   <string name="keywords_buy_flow">dades;dades mòbils;compra dades;compra dades mòbils;recàrrega de dades;pla de dades</string>
-  <string name="keywords_cleanmaster">Paperera;Neteja;Velocitat;Emmagatzematge;Memòria cau</string>
+  <string name="keywords_cleanmaster">Brossa;Esborra;Velocitat;Emmagatzematge;Memòria cau;Neteja emmagatzematge;Esborra brossa;brossa;allibera;allibera emmagatzematge;allibera espai;neteja;neteja profunda;netejador</string>
   <string name="keywords_gamebooster">Joc;accelerador de velocitat;Glòria del rei;Mode rendiment;No molestis;Jocs;Velocitat de joc;augmenta</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
