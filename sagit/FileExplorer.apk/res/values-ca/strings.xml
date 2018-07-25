@@ -15,10 +15,13 @@
   <string name="already_liked">"Ja has marcat aquest element com a destacat"</string>
   <string name="apk_installing">S\'està instal·lant...</string>
   <string name="app_name">Explorador Mi</string>
+  <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Càmera</string>
   <string name="app_name_downloadedrom">Paquets</string>
   <string name="app_name_downloads">Baixades</string>
   <string name="app_name_market">Botiga d\'aplicacions</string>
+  <string name="app_name_midrop">Mi Drop</string>
+  <string name="app_name_miui">MIUI</string>
   <string name="app_name_miuimusic">Música</string>
   <string name="app_name_miuiringtone">Tons de trucada</string>
   <string name="app_name_miuiwallpaper">Fons de pantalla</string>
@@ -56,7 +59,10 @@
   <string name="cancel_text">Cancel·la</string>
   <string name="cancelled_by_user">Operació cancel·lada</string>
   <string name="cannot_send">"No es poden enviar fitxers des de l'emmagatzematge extern"</string>
+  <string name="category">Categories</string>
   <string name="category_all">Tot</string>
+  <string name="category_apk">APK</string>
+  <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Documents</string>
   <string name="category_download">Baixades</string>
   <string name="category_favorite">Destacats</string>
@@ -70,6 +76,7 @@
   <string name="category_picture">Imatges</string>
   <string name="category_recent">Recents</string>
   <string name="category_theme">Temes</string>
+  <string name="category_type_document">Documents</string>
   <string name="category_type_meida">Multimèdia</string>
   <string name="category_type_other">Altres</string>
   <string name="category_video">Vídeos</string>
@@ -240,6 +247,7 @@
   <string name="group_title_extra_new">Nou</string>
   <string name="handsome_boy">Masculí</string>
   <string name="has_installed">Instal·lat</string>
+  <string name="homepage_tab_category">Categories</string>
   <string name="homepage_tab_file_view_phone">Emmagatzematge</string>
   <string name="homepage_tab_recent">Recents</string>
   <string name="hot_comments">Comentaris populars</string>
@@ -248,6 +256,7 @@
   <string name="hot_video">Vídeos populars</string>
   <string name="hot_video_load_more">Més &gt;</string>
   <string name="hot_video_title">Vídeos populars</string>
+  <string name="hottest_sticker_str">Recomanat</string>
   <string name="if_cancel">Voleu cancel·lar aquesta operació?</string>
   <string name="image_loading_error">"No s'ha pogut carregar la imatge"</string>
   <string name="input_memo_hint">Introduïu comentaris addicionals (opcional)</string>
@@ -289,7 +298,11 @@
   <string name="make_private_msg_2">Voleu amagar aquests fitxers?</string>
   <string name="make_private_msg_3">Tots els fitxers en aquesta carpeta estaran ocults.</string>
   <string name="male">Home</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Neteja</string>
+  <string name="menu_item_ftp">FTP</string>
+  <string name="menu_item_midrop">Mi Drop</string>
+  <string name="menu_item_router">Encaminador</string>
   <string name="menu_item_search">Cerca</string>
   <string name="menu_item_sort">Ordena per</string>
   <string name="menu_item_sort_add_time">"Creat "</string>
@@ -297,12 +310,14 @@
   <string name="menu_item_sort_date">Data de modificació</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_type">Tipus</string>
+  <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"Comentari: "</string>
   <string name="message_my_received_notification">Missatge nou</string>
   <string name="message_my_received_praise">Els meus M\'agrada</string>
   <string name="message_praise_comment">" m'agrada aquest comentari"</string>
   <string name="message_praise_video">" m'ha agradat aquest vídeo"</string>
   <string name="message_reply_prefix">Respondre</string>
+  <string name="mi_router_label">Encaminador</string>
   <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
   <string name="midrop_msg_2">Quan Mi Drop estigui actiu, podeu cercar dispositius propers i enviar fitxers</string>
   <string name="midrop_send_files">Trieu fitxers a pujar</string>
@@ -415,6 +430,7 @@
   <string name="path_recent_file">Gestiona els fitxers al dispositiu</string>
   <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu a l'Explorador Mi accedir als fitxers des de la configuració."</string>
   <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu a l'Explorador Mi accedir als fitxers des de la configuració"</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
   <string name="phone_bind_tip">Afegir número telefònic per participar en els rànquings i guanyar premis</string>
@@ -460,7 +476,10 @@
   <string name="prize_result_tip">Intercanvia</string>
   <string name="prize_result_tip2">Les gemes van al vostre tresor</string>
   <string name="promot_enctypt_password">Introduïu la contrasenya utilitzada per desblocar el vostre dispositiu</string>
+  <string name="qq_btn_bind">QQ</string>
+  <string name="qq_login_btn_str">QQ</string>
   <string name="qq_not_installed">"QQ no està instal·lat"</string>
+  <string name="recent_show">Recent</string>
   <string name="recommend">Recomanat</string>
   <string name="recommend_popup_title">Recomanacions</string>
   <string name="recommend_topic">Temes recomanades</string>
