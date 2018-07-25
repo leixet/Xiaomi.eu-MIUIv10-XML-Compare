@@ -761,7 +761,7 @@
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>
   <string name="game_booster_jump_webview">Un moment…</string>
   <string name="game_booster_tab_top">Destacats</string>
-  <string name="game_booster_title">Potenciador</string>
+  <string name="game_booster_title">Accelera</string>
   <string name="game_bootser_tab_settings">Configuració de l\'accelerador</string>
   <string name="game_more_improve">Restringeix l\'activitat en segon pla i la velocitat de baixada per estalviar bateria i ample de banda per jugar</string>
   <string name="game_setting">Configuració del joc</string>
@@ -775,7 +775,7 @@
   <string name="gamebox_type_float">Drecera fixa</string>
   <string name="gamebox_type_gesture">Llisca per mostrar</string>
   <string name="gamebox_wechat_not_find">Instal·leu WeChat i torneu-ho a provar.</string>
-  <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
+  <string name="gateway_exception_summary">Comproveu el encaminador i torneu-ho a provar.</string>
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
   <string name="gateway_exception_title">Provar router</string>
   <string name="gb_ad_game_size">MB</string>
