@@ -544,6 +544,7 @@
   <string name="setting_account_bind">Afegeix un compte</string>
   <string name="setting_message_notify">Notificacions</string>
   <string name="setting_shortcut">Afegeix drecera a la pantalla d\'inici</string>
+  <string name="share_from_youliao">(Des de #有料# @有料Vídeo)|</string>
   <string name="share_rank_card_tip">Comparteix el rànquing</string>
   <string name="share_success">Compartit amb èxit</string>
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
@@ -563,6 +564,7 @@
   <string name="share_topic_title">"Estic veient #%1$s#, feu una ullada!"</string>
   <string name="shared_sticker_network_permission_tip">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_page_no_file">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
+  <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Adhesiu a %s</string>
   <string name="shared_sticker_use_tip">"Podeu enviar els adhesius que heu desat a converses de WeChat igual que envieu imatges.
 (Els GIF es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
@@ -589,17 +591,21 @@
   <string name="swap_tip_1">Llisqueu a l\'esquerra o a la dreta</string>
   <string name="swap_tip_2">per veure altres vídeos</string>
   <string name="sys_size_enable">" disponible"</string>
+  <string name="tab_category">Categories</string>
   <string name="tab_common_app">Aplicacions bàsiques</string>
   <string name="tab_discover">Descobreix</string>
   <string name="tab_explore">Descobreix</string>
   <string name="tab_follow">Seguint</string>
   <string name="tab_homepage">Inici</string>
+  <string name="tab_hottest_video">Popular</string>
+  <string name="tab_local">LOCAL</string>
   <string name="tab_mine">Perfil</string>
   <string name="tab_more">Més</string>
   <string name="tab_msg">Missatges</string>
   <string name="tab_newest_video">Nou</string>
   <string name="tab_ranking_list">Rànquing</string>
   <string name="tab_source">Aplicacions</string>
+  <string name="terabyteShort">TB</string>
   <string name="tip">Atenció</string>
   <string name="title_album">Àlbums</string>
   <string name="title_app_tags">Aplicacions</string>
@@ -610,6 +616,7 @@
   <string name="title_select_volume">Seleccionar volum</string>
   <string name="toast_file_not_can_read">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
   <string name="tools">EINES</string>
+  <string name="top_mark">SUPERIOR</string>
   <string name="top_videos">Comparteix el rànquing</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguint</string>
@@ -656,6 +663,7 @@
   <string name="upload_video_success">S\'ha pujat amb èxit</string>
   <string name="upload_video_success_progress">S\'ha pujat amb èxit</string>
   <string name="uploading_video">Pujant vídeo&#8230;</string>
+  <string name="usb_label">USB</string>
   <string name="used">Usat </string>
   <string name="user">Usuaris</string>
   <string name="user_cancel">Cancel·lat</string>
@@ -704,6 +712,7 @@
   <string name="user_topic_text">Els meus temes</string>
   <string name="user_video_text">Els meus vídeos</string>
   <string name="utf8_summary">Codificació per defecte del sistema FTP</string>
+  <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Instal·la</string>
   <string name="video_comment_hint">Seleccionar tema</string>
   <string name="video_comment_limit">%1$s caràcters restants</string>
