@@ -838,8 +838,8 @@
   <string name="gs_open_game_booster_summary">Augmenta la velocitat de la xarxa per als jocs</string>
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
-  <string name="gs_sign_notification">Recordeu fer la validació a les 20h cada dia</string>
-  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="gs_sign_notification">Recordeu fer el registre cada dia a les 20 h</string>
+  <string name="guide_get_operator_error">"<font color='#33b4ff'><U>Operador incorrecte?</U></font>"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
   <string name="guide_second_text">"Una vegada configurat l'operador, MIUI controlarà l'ús de dades mòbils diàriament enviant un SMS de franc. Quan MIUI detecti que s'ha superat el límit de dades, es desconnectarà de la xarxa i us avisarà."</string>
