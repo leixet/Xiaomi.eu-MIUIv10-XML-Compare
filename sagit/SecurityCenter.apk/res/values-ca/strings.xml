@@ -584,7 +584,7 @@
   <string name="descx_quick_scan_preparation">Un moment…</string>
   <string name="detail_app_button">Informació de l\'aplicació</string>
   <string name="details_subtitle">Detalls d\'us</string>
-  <string name="diagnostic_attention_dialog_message">"El diagnòstic per <xliff:g id="operation_name" example="China Unicom(SIM 1)">%1$s</xliff:g> està en curs. Espereu que acabi i torneu-ho a provar."</string>
+  <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu-ho a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
   <string name="dialog_button_ignore">Ignora</string>
@@ -592,8 +592,8 @@
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
-  <string name="dialog_restrict_all_mobile_summary"><xliff:g id="slot_num" example="SIM 1">%s</xliff:g> La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
-  <string name="dialog_restrict_all_mobile_title">Restringeix la connexió de dades mobils <xliff:g id="slot_num" example="SIM 1">%s</xliff:g></string>
+  <string name="dialog_restrict_all_mobile_summary">%s La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
+  <string name="dialog_restrict_all_mobile_title">Restringeix la connexió de dades mobils %s</string>
   <string name="dialog_restrict_all_wlan_summary">La connexió Wi-Fi es restringirà a totes les aplicacions després d\'això.</string>
   <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringeix</string>
@@ -712,7 +712,7 @@
   <string name="firewall_fragment_sys_listempty">Buit</string>
   <string name="firewall_mobile">Dades mòbils</string>
   <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant dades mòbils quan aquest interruptor estigui desactivat."</string>
-  <string name="firewall_network_allow">S\'ha permès a <xliff:g id="app_name" example="Facebook">%1$s</xliff:g> utilitzar la connexió <xliff:g id="network_type" example="Wi-Fi">%2$s</xliff:g></string>
+  <string name="firewall_network_allow">S\'ha permès a %1$s utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Toqueu per canviar la configuració.</string>
   <string name="firewall_network_restrict_notify_mobile">Dades mòbils</string>
   <string name="firewall_partial">Permet que algunes aplicacions es connectin utilitzant el següent mètode</string>
@@ -720,11 +720,11 @@
   <string name="firewall_restrict_android_dialog_content">Per assegurar-vos que el dispositiu funcioni amb normalitat, algunes aplicacions del sistema d\'Android encara es connectaran a Internet. Aquestes aplicacions utilitzaran la vostra connexió de dades mòbils i poden generar càrrecs menors amb el vostre operador.</string>
   <string name="firewall_restrict_android_dialog_title">Atenció</string>
   <string name="firewall_restrict_data">Restringeix l\'ús de dades mòbils</string>
-  <string name="firewall_restrict_notify_title">"<xliff:g id="app_name" example="Facebook">%s</xliff:g> no pot utilitzar la xarxa"</string>
+  <string name="firewall_restrict_notify_title">"%s no pot utilitzar la xarxa"</string>
   <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_rule_group_title_roaming">Itinerància a l\'estranger</string>
   <string name="firewall_system_title">Ús de dades per a les aplicacions del sistema</string>
-  <string name="firewall_temp_rule_reason"><xliff:g id="app_name2" example="SecurityCenter">%2$s</xliff:g> va restringir la connexió a Internet per a <xliff:g id="app_name" example="Facebook">%1$s</xliff:g>​</string>
+  <string name="firewall_temp_rule_reason">%2$s va restringir la connexió a Internet per a %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant Wi-Fi quan aquest interruptor estigui desactivat."</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
@@ -1102,7 +1102,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Escaneig de seguretat</string>
   <string name="menu_text_garbage_cleanup">Netejador</string>
-  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Ús de dades</string>
   <string name="menu_text_networkassistants_2">%s</string>
