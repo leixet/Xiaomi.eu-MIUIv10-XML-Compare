@@ -1414,7 +1414,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="dial_pad_tones_title">Tons del teclat</string>
   <string name="dialog_chose_item">Seleccioneu un element per visualitzar-lo</string>
   <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
-  <string name="dialog_restrict_all_mobile_summary">%s La connexió de dades mòbils es restringirà a totes les aplicacions després d\'això.</string>
+  <string name="dialog_restrict_all_mobile_summary">%s La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
   <string name="dialog_restrict_all_mobile_title">Restringeix la connexió %s de dades mòbils</string>
   <string name="dialog_restrict_all_wlan_summary">La connexió Wi-Fi es restringirà a totes les aplicacions després d\'això.</string>
   <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
