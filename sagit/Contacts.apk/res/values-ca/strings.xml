@@ -174,7 +174,7 @@
   <string name="cloud_antispam_marked">Marcat</string>
   <string name="cloud_antispam_title">Identificar números desconeguts</string>
   <string name="cloud_recommend_msg">Tocar per sincronitzar contactes amb Mi Cloud.</string>
-  <string name="cloud_state_disabled">Sincronitza contactes amb Mi Cloud</string>
+  <string name="cloud_state_disabled">Sincronitza els contactes amb Mi Cloud</string>
   <string name="cloud_state_loading">Un moment…</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronitzat amb Mi Cloud</string>
