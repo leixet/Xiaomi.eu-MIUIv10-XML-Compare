@@ -4,9 +4,9 @@
   <string name="acousticguitar">Guitarra acústica</string>
   <string name="add_frequent_phrases">Afegeix frases freqüents</string>
   <string name="alarmclock">Despertador</string>
-  <string name="android_ringtone_default_with_actual">To per defecte (%1$s)</string>
+  <string name="android_ringtone_default_with_actual">So de trucada per defecte (%1$s)</string>
   <string name="android_ringtone_silent">Cap</string>
-  <string name="android_ringtone_unknown">To desconegut</string>
+  <string name="android_ringtone_unknown">So de trucada desconegut</string>
   <string name="beep">Pip</string>
   <string name="bottle">Ampolla</string>
   <string name="breeze">Brisa</string>
