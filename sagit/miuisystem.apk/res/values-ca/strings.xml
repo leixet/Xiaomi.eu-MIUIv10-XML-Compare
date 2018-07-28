@@ -78,7 +78,7 @@
   <string name="swoosh">Xiulet</string>
   <string name="vigor">Vigor</string>
   <string name="vip_level">NIVELL %d</string>
-  <string name="vip_login">Premeu per iniciar sessió</string>
+  <string name="vip_login">Toqueu per iniciar sessió</string>
   <string name="vip_not_login">No s\'ha iniciat sessió</string>
   <string name="vip_sign">Signatura:</string>
   <string name="yellow_page_module_sms_sent">SMS enviat</string>
