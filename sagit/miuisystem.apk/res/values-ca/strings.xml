@@ -13,6 +13,7 @@
   <string name="bubble">Bombolla</string>
   <string name="bullfrog">Granota toro</string>
   <string name="burst">Explosió</string>
+  <string name="candy">Dolç</string>
   <string name="carousel">Carrusel</string>
   <string name="childhood">Infància</string>
   <string name="chimes">Carilló</string>
@@ -36,6 +37,7 @@
   <string name="edit_frequent_phrases">Edita frases freqüents</string>
   <string name="fadein">Intensificar</string>
   <string name="fadeout">Esvair</string>
+  <string name="fairyland">El país de les fades</string>
   <string name="fantasy">Fantasia</string>
   <string name="fireflies">Cuques de llum</string>
   <string name="flute">Flauta</string>
@@ -64,6 +66,7 @@
   <string name="spring">Primavera</string>
   <string name="sunrise">Sol ixent</string>
   <string name="swoosh">Xiulet</string>
+  <string name="vigor">Vigor</string>
   <string name="vip_achievements">Fites</string>
   <string name="vip_level">NIVELL %d</string>
   <string name="vip_login">Premeu per iniciar sessió</string>
