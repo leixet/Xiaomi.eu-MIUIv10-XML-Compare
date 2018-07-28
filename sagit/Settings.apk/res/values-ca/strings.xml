@@ -3176,7 +3176,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_bind_account_immediate">Afegeix</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmeu la contrasenya del segon espai</string>
   <string name="privacy_password_confirm_use_finger">Desbloqueig amb empremta</string>
-  <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privadesa</string>
+  <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privacitat</string>
   <string name="privacy_password_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
   <string name="privacy_password_fingerprint_confirm_failed">"No s'ha pogut comprovar l'empremta"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Comprovació correcta</string>
