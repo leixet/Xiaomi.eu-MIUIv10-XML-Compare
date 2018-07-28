@@ -394,7 +394,7 @@
   <string name="bl_no_blacklist">No hi ha números bloquejats.</string>
   <string name="bl_no_block_call">No hi ha trucades bloquejades.</string>
   <string name="bl_no_block_sms">No hi ha missatges bloquejats.</string>
-  <string name="blacklist_prefix_add_hint">Bloqueja tots els números que tinguin aquest prefix</string>
+  <string name="blacklist_prefix_add_hint">Bloqueja tots els números que comencen amb aquest prefix</string>
   <string name="block_message_number">Missatges: <font color="#5fab1b">%d</font></string>
   <string name="block_phone_number">Trucades: <apli color="#5fab1b">%d</apli></string>
   <string name="boost_done">S\'ha accelerat amb èxit</string>
@@ -2200,7 +2200,7 @@ Dades extres en ús"</string>
   <string name="usbsharenet_exception_title">Comproveu la xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
-  <string name="user_define_title">Afegeix criteris</string>
+  <string name="user_define_title">Afegeix regles</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
   <string name="virus_scan_process_pre">%</string>
