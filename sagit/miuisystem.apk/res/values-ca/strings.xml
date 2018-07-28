@@ -23,6 +23,7 @@
   <string name="cloud_state_disabled">La sincronització amb Mi Cloud està desactivada</string>
   <string name="cloud_state_finished">Sincronizat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronizat amb Mi Cloud</string>
+  <string name="cowboy">Vaquer</string>
   <string name="crystal">Cristall</string>
   <string name="cta_button_continue">D\'acord</string>
   <string name="cta_button_quit">Surt</string>
@@ -47,8 +48,13 @@
   <string name="fresh">Fresc</string>
   <string name="frog">Granota</string>
   <string name="glockenspiel">Xilòfon</string>
+  <string name="group_name_contacts">Contactes</string>
+  <string name="group_name_coworkers">Companys de feina</string>
+  <string name="group_name_family">Família</string>
+  <string name="group_name_friends">Amics</string>
   <string name="guitar">Guitarra</string>
   <string name="harp">Arpa</string>
+  <string name="icelatte">Gelat de llet</string>
   <string name="incomingmessage">Missatge entrant</string>
   <string name="leisure">Lleure</string>
   <string name="menu_add_frequent_phrases">Afegeix</string>
