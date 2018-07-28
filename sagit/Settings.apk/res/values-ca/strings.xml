@@ -1936,6 +1936,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="google_backup_section_title">Còpia de seguretat i restauració de Google</string>
   <string name="got_it">Entesos</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
+  <string name="gxzw_add_fingerprint_edge_title">Ajusteu la vostra pressió</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
   <string name="handy_mode_enable">Operació amb una mà</string>
   <string name="handy_mode_size">Pantalla</string>
