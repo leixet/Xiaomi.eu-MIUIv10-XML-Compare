@@ -1789,7 +1789,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_filter_keywords_setting_summary2">"
-(Utilitzeu una coma per separar múltiples paraules clau)"</string>
+(Utilitzeu una coma per separar diverses paraules clau)"</string>
   <string name="st_filter_keywords_setting_summary3">Es permetrà als missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_group_list_management">Gestiona la llista de bloqueig</string>
   <string name="st_hint_add_head_number">Introduïu el prefix</string>
@@ -1817,7 +1817,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
   <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números i específics</string>
   <string name="st_tab_title">%1$s (SIM %2$d)</string>
-  <string name="st_title_addblacklist">Establir llista de bloqueig</string>
+  <string name="st_title_addblacklist">Afegeix a la llista de bloqueig</string>
   <string name="st_title_addwhitelist">Afegeix a excepcions</string>
   <string name="st_title_adress">Afegeix ubicacions</string>
   <string name="st_title_adress_num">%d seleccionat(s)</string>
