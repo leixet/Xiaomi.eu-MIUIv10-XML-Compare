@@ -1068,7 +1068,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="memory_clear_unused">Esborra la memòria cau (%s)</string>
   <string name="menu_add">Afegeix</string>
   <string name="menu_bl_call_log">Mostra les trucades bloquejades</string>
-  <string name="menu_bl_remove">Desbloqujea</string>
+  <string name="menu_bl_remove">Desbloqueja</string>
   <string name="menu_bl_sms_log">Mostra els SMS bloquejats</string>
   <string name="menu_call">Marcatge</string>
   <string name="menu_charge_bill">Recarrega el saldo</string>
@@ -1112,8 +1112,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Augment de velocitat</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
-  <string name="menu_wh_remove">Treure de les excepcions</string>
-  <string name="menu_white">Excepte</string>
+  <string name="menu_wh_remove">Suprimeix de les excepcions</string>
+  <string name="menu_white">Afegeix a excepcions</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
