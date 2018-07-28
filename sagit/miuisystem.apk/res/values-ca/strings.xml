@@ -32,6 +32,7 @@
   <string name="cta_message_permission">Aquesta app necessita %2$s per funcionar correctament.</string>
   <string name="cta_permission_and"> i </string>
   <string name="cta_title">Condicions d\'ús</string>
+  <string name="daydream">Somiar despert</string>
   <string name="delete_frequent_phrases">Suprimeix frases freqüents</string>
   <string name="delete_frequent_phrases_confirm">Voleu suprimir les frases freqüents seleccionades?</string>
   <string name="echo">Eco</string>
