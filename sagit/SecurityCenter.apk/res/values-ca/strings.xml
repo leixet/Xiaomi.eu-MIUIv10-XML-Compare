@@ -611,7 +611,7 @@
   <string name="dlg_add_blacklist_title">Afegeix a la llista de bloqueig</string>
   <string name="dlg_add_keyword">Afegeix paraules clau</string>
   <string name="dlg_add_white">"Les trucades i els missatges nous dels números afegits a les excepcions es mostraran a l'historial de trucades i a la safata d'entrada dels missatges. No obstant això, els elements bloquejats anteriorment no apareixeran aquí. Voleu afegir els números seleccionats a les excepcions?"</string>
-  <string name="dlg_antispam_mode_delete_message">"No podeu recuperar les regles després d'haver-les eliminat."</string>
+  <string name="dlg_antispam_mode_delete_message">"No podeu recuperar les regles després d'haver estat eliminades."</string>
   <string name="dlg_antispam_mode_delete_title">Voleu suprimir les regles?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Voleu suprimir les regles que utilitzeu actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Voleu suprimir les regles que utilitzeu actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
