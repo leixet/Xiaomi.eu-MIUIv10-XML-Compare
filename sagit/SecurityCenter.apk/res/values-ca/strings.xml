@@ -1052,7 +1052,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mark_sell_time_setting">Bloqueja els números que hagin estat notificats com a telemàrquetings un determinat nombre de vegades</string>
   <string name="mark_time_setting_dialog_title">Notifica aquest número</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_user">"l'heu marcat com a "</string>
+  <string name="marked_by_user">"L'heu marcat com a "</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Alliberats %s</string>
