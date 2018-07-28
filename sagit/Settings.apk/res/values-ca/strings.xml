@@ -1936,7 +1936,10 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="google_backup_section_title">Còpia de seguretat i restauració de Google</string>
   <string name="got_it">Entesos</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
+  <string name="gxzw_add_fingerprint_edge_message">Moveu el dit per registrar les vores de l\'empremta</string>
   <string name="gxzw_add_fingerprint_edge_title">Ajusteu la vostra pressió</string>
+  <string name="gxzw_add_fingerprint_move_title">Moveu una mica el dit</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Premeu la pantalla i aixequeu el dit després de sentir la vibració. Repetiu-ho diverses vegades.</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
   <string name="handy_mode_enable">Operació amb una mà</string>
   <string name="handy_mode_size">Pantalla</string>
