@@ -1703,7 +1703,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_keywords">Llista de bloqueig de paraules clau</string>
   <string name="sms_malicious_url">Bloqueja SMS amb URL malicioses</string>
   <string name="sms_prefix">Llista de bloqueig de prefixos</string>
-  <string name="sms_service">Bloqueja el servei SMS</string>
+  <string name="sms_service">Bloqueja SMS de servei</string>
   <string name="sms_smart_engine_update">Actualitza el filtre d\'SMS automàticament</string>
   <string name="sms_smart_engine_update_now">Actualitza</string>
   <string name="sms_stranger_block">Bloqueja SMS d\'estranys</string>
