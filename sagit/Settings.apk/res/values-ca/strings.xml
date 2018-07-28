@@ -3795,6 +3795,7 @@ Per fer-ho:
   <string name="second_space">Segon espai</string>
   <string name="secondspace_category">Segon espai</string>
   <string name="secondspace_delete_space_title">Esborrar el segon espai</string>
+  <string name="secspace_fod_finger_tips">"No s'ha pogut verificar. Torneu-ho a provar."</string>
   <string name="secspace_fod_finger_title">Verifica l\'empremta</string>
   <string name="secspace_fod_use_password">Introduïu la contrasenya</string>
   <string name="secure_keyguard_business_title">Configuració del bloqueig de pantalla</string>
@@ -4331,6 +4332,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">"No es pot utilitzar aquesta funció a causa de la bateria baixa"</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Aquestes aplicacions funcionen millor en mode de pantalla completa</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
   <string name="suggested_fingerprint_lock_settings_title">Utilitza l\'empremta</string>
