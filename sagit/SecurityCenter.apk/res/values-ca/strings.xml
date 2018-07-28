@@ -1917,7 +1917,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="system_application">Aplicacions del Sistema</string>
-  <string name="tab_blacklist">Llista negra</string>
+  <string name="tab_blacklist">Llista de bloqueig</string>
   <string name="tab_block_log_unKnowNumber">Número privat</string>
   <string name="tab_call">Trucades</string>
   <string name="tab_gift">Regals</string>
