@@ -1029,8 +1029,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mark_agent_block_large">Agències</string>
   <string name="mark_agent_time_setting">Bloqueja els números que hagin estat notificats com agències un determinat nombre de vegades</string>
   <string name="mark_fraud">Bloqueja els fraus notificats</string>
-  <string name="mark_fraud_block">Notificat com a frau</string>
-  <string name="mark_fraud_block_large">Fraus</string>
+  <string name="mark_fraud_block">S\'ha informat com a estafa</string>
+  <string name="mark_fraud_block_large">Estafes</string>
   <string name="mark_fraud_time_setting">Bloqueja els números que hagin estat notificats com a frau un determinat nombre de vegades</string>
   <string name="mark_harass">Bloqueja els assetjaments notificats</string>
   <string name="mark_harass_block">Notificat com a assetjament</string>
