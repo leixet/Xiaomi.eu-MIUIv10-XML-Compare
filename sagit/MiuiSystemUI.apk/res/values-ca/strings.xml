@@ -196,6 +196,7 @@ Taxa de mostreig"</string>
   <string name="camera_key_action_shortcut_wake">Bloquejar/reactivar dispositiu</string>
   <string name="camera_key_action_toggle_title">Accionar commutador</string>
   <string name="cancel">Cancel·la</string>
+  <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="chooseUsbActivity">Seleccioneu una aplicació per al dispositiu USB</string>
@@ -290,6 +291,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="expanded_confirm_disable_notification">Amaga</string>
+  <string name="expanded_header_battery_charging">S\'està carregant</string>
+  <string name="expanded_header_battery_not_charging">No s\'està carregant</string>
   <string name="expanded_notification_manager">Gestiona les notificacions</string>
   <string name="ext_media_badremoval_notification_message">Desmunta la targeta SD abans de treure-la per evitar la pèrdua de dades.</string>
   <string name="ext_media_badremoval_notification_title">Targeta SD extreta inesperadament</string>
@@ -395,8 +398,15 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyboard_shortcut_group_system_back">Enrere</string>
   <string name="keyboard_shortcut_group_system_home">Inici</string>
   <string name="keyboard_shortcut_group_system_notifications">Notificacions</string>
+  <string name="keyboard_shortcut_group_system_recents">Recents</string>
   <string name="keyboard_shortcut_group_system_shortcuts_helper">Dreceres del teclat</string>
   <string name="keyboard_shortcut_group_system_switch_input">Canvia el mètode d\'entrada</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Descarregada</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Avui a les %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Ahir a les %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Última càrrega</string>
+  <string name="keyguard_charging_info_tip_text5">Les bateries triguen més en carregar-se quan s\'escalfen més de l\'habitual.</string>
+  <string name="keyguard_indication_charging_time">S\'està carregant (%s fins el màxim)</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
