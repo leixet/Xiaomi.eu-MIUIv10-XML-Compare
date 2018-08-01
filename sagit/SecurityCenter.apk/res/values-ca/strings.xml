@@ -1557,7 +1557,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="quite_all_string">Cancel·la</string>
   <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
   <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
-  <string name="read_all_sms">Llegit tot</string>
+  <string name="read_all_sms">Tot llegit</string>
   <string name="receive_now">Rebre</string>
   <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
   <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
@@ -1808,7 +1808,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_settings_name">Configuració de la llista de bloqueig</string>
   <string name="st_share_settings">Utilitza la configuració de la SIM 1</string>
   <string name="st_sub_title_customize_mode_name">Nom</string>
-  <string name="st_sub_title_whiteblack_list_group">Llista de blocatge</string>
+  <string name="st_sub_title_whiteblack_list_group">Llista de bloqueig</string>
   <string name="st_sum_call_wait">El missatge d\'absència també es reproduirà com a senyal ocupat per a les trucades entrants.</string>
   <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges de números i àrees específics</string>
   <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades i els missatges de números específics</string>
@@ -1822,7 +1822,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_adress">Afegeix ubicacions</string>
   <string name="st_title_adress_num">%d seleccionat(s)</string>
   <string name="st_title_anticomintcall_backsound_setting">Missatge reproduït als números bloquejats</string>
-  <string name="st_title_antispam_mode">Criteris</string>
+  <string name="st_title_antispam_mode">Regles</string>
   <string name="st_title_back_sound_busy">Ocupat</string>
   <string name="st_title_back_sound_choose">Missatge d\'absència</string>
   <string name="st_title_back_sound_closed">Apagat</string>
