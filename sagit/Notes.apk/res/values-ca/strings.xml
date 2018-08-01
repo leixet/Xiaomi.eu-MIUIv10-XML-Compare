@@ -103,7 +103,6 @@
   <string name="note_sort_way">Seleccioneu com voleu ordenar les notes</string>
   <string name="notealert_enter">Fer una ullada</string>
   <string name="notealert_ok">Ignorar</string>
-  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Recordatori de nota</string>
   <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
   <string name="permlab_accessNote">Notes d\'accés</string>
@@ -180,14 +179,6 @@
   <string name="trash_folder_reminder">Les notes esborrades s\'eliminaran permanentment en 30 dies.</string>
   <string name="undo">Desfer</string>
   <string name="unknown_source">Font desconeguda</string>
-  <string name="welcome_note_for_cm">"I més característiques!
-  - Sincronitzar amb Mi Cloud
-  - Salvar al sortir
-  - Establir recordatoris
-
-Per obtenir més informació, visiteu
-http://www.miui.com/forum.php?lang=1
-"</string>
   <string name="widget_content_loading">Un moment…</string>
   <string name="widget_havenot_content">No s\'ha trobat nota associada. Toqui per crear una nota associada. Per redimensionar premi i arrossegui a una vora.</string>
 </resources>
