@@ -409,6 +409,7 @@
   <string name="repeat_label_week">Setmana</string>
   <string name="repeats_label">Repeteix</string>
   <string name="response_maybe">Potser</string>
+  <string name="response_no">No</string>
   <string name="response_yes">Sí</string>
   <string name="rest_day_indication">:)</string>
   <string name="saving_event">S\'ha desat l\'esdeveniment</string>
