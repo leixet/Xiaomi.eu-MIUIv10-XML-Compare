@@ -121,7 +121,6 @@
   <string name="deep_clean_completed_tips">S\'ha netejat correctament</string>
   <string name="deep_clean_data_path_clean_title">Neteja l\'emmagatzematge intern</string>
   <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat amb èxit</string>
-  <string name="deepclean_1_k_clean">Neteja amb un botó</string>
   <string name="deepclean_apk_content">Esborra APK o aplicacions innecessàries</string>
   <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APKs a eliminar</string>
   <string name="deepclean_apk_version_error">Desconegut</string>
@@ -255,7 +254,6 @@
   <string name="hints_storage_free">Disponibles</string>
   <string name="hints_storage_free_size">Total: %1$s, disponible: %2$s</string>
   <string name="hints_storage_news">Novetats de seguretat</string>
-  <string name="hints_title_garbage">brossa</string>
   <string name="hints_video_camera">Vídeos enregistrats</string>
   <string name="hints_video_download">Vídeos baixats</string>
   <string name="hot_today">Popular avui</string>
