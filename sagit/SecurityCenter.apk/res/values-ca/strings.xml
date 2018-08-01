@@ -1576,9 +1576,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="repeated_marked_number_title">"No bloquegis trucades repetides des de números notificats"</string>
   <string name="replace_dns">Substitueix DNS automàticament</string>
   <string name="report">Informa</string>
-  <string name="report_error">"No s'ha pogut notificar el missatge"</string>
-  <string name="report_only">Trieu un missatge per notificar</string>
-  <string name="report_success">Missatge notificat</string>
+  <string name="report_error">"No s'ha pogut informar del missatge"</string>
+  <string name="report_only">Trieu un missatge per informar</string>
+  <string name="report_success">S\'ha informat del missatge</string>
   <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
   <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
