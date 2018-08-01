@@ -308,7 +308,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_list_memory_use">Ús de les aplicacions</string>
   <string name="app_list_preference_none">Cap</string>
   <string name="app_memory_use">Memoria en ús</string>
-  <string name="app_mobile">Mòbil</string>
   <string name="app_name_label">Aplicació</string>
   <string name="app_name_na">Ús de dades</string>
   <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
@@ -362,7 +361,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apply_now_button_text">Actualitza</string>
   <string name="apply_password_to_category_title">Cal una contrasenya</string>
   <string name="apply_update_fail">"No s'ha pogut actualitzar"</string>
-  <string name="approve_title">Verificació</string>
   <string name="apps_storage">Magatzem d\'aplicacions</string>
   <string name="apps_summary">%1$d aplicacions instal·lades</string>
   <string name="apps_summary_example">24 aplicacions instal·lades</string>
@@ -2680,8 +2678,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nature_color">Per defecte</string>
   <string name="navigation_guide_app_summary">Feu lliscar cap a l\'esquerra o cap a la dreta des de la vora de la pantalla a la part superior</string>
   <string name="navigation_guide_app_title">"Activador de l'acció de l'aplicació"</string>
-  <string name="navigation_guide_back_anim_summary">"Gest cap enrere amb animació"</string>
-  <string name="navigation_guide_back_anim_title">Animació del gest cap enrrere</string>
   <string name="navigation_guide_back_summary">Llisqueu cap a l\'esquerra o cap a la dreta des de la pantalla</string>
   <string name="navigation_guide_back_title">Torna a la darrera pàgina</string>
   <string name="navigation_guide_dialog_dont_show_again">"No ho tornis a mostrar"</string>
@@ -4480,7 +4476,6 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="title_layout_current2">Mida del text</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
   <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
-  <string name="total_info">Silencia els sons i desactiva la vibració per a tots els elements excepte el despertador</string>
   <string name="total_memory">Memòria total</string>
   <string name="total_size">%s en total</string>
   <string name="touch_assistant">Menú de dreceres</string>
@@ -5021,16 +5016,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wallpaper_suggestion_summary">Personalitza la pantalla</string>
   <string name="wallpaper_suggestion_title">Canvia el fons de pantalla</string>
   <string name="wapi_auto_sel_cert">Selecciona automàticament</string>
-  <string name="wapi_auto_sel_cert_fail">No es pot seleccionar el certificat automàticament. Seleccioneu un certificat de la llista i, a continuació, intenteu connectar-vos.</string>
-  <string name="wapi_cert_is_not_selected">Seleccioneu primer el certificat</string>
   <string name="wapi_cert_manage_summary">Afegeix o suprimeix el certificat WAPI</string>
   <string name="wapi_cert_manage_title">Gestió de certificats WAPI</string>
   <string name="wapi_cert_select">Certificat WAPI</string>
-  <string name="wapi_no_vaild_cert">No hi ha cap certificat disponible, voleu instal·lar-ne un?</string>
-  <string name="wapi_password_empty">Introduïu la contrasenya</string>
-  <string name="wapi_password_hex_format_invalid">Caràcters hexadecimals no vàlids</string>
-  <string name="wapi_password_hex_length_invalid">El recompte de caràcters hexadecimals ha de ser un número parell</string>
-  <string name="wapi_password_length_invalid">La contrasenya ha de ser de 8 a 64 caràcters</string>
   <string name="wapi_psk_type">Tipus de contrasenya</string>
   <string name="warm_color">Càlid</string>
   <string name="web_action_enable_summary">Obre els enllaços a les aplicacions, encara que no estiguin instal·lats</string>
