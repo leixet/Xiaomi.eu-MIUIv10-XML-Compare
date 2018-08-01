@@ -57,7 +57,7 @@
   <string name="activity_title_virus_settings">Configuració</string>
   <string name="activity_title_white_list">Excepcions</string>
   <string name="ad_btn_default_text">Més informació</string>
-  <string name="ad_update_time">Darrera actualització: %s</string>
+  <string name="ad_update_time">Última actualització: %s</string>
   <string name="ad_update_time_unKnown">Última actualització desconeguda</string>
   <string name="adb_install_no_network">Connecta\'t a la xarxa i torna-ho a provar</string>
   <string name="adb_install_open">S\'està permetent…</string>
@@ -1029,8 +1029,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mark_agent_block_large">Agències</string>
   <string name="mark_agent_time_setting">Bloqueja els números que hagin estat notificats com agències un determinat nombre de vegades</string>
   <string name="mark_fraud">Bloqueja els fraus notificats</string>
-  <string name="mark_fraud_block">S\'ha informat com a estafa</string>
-  <string name="mark_fraud_block_large">Estafes</string>
+  <string name="mark_fraud_block">Notificat com a frau</string>
+  <string name="mark_fraud_block_large">Fraus</string>
   <string name="mark_fraud_time_setting">Bloqueja els números que hagin estat notificats com a frau un determinat nombre de vegades</string>
   <string name="mark_harass">Bloqueja els assetjaments notificats</string>
   <string name="mark_harass_block">Notificat com a assetjament</string>
@@ -1694,8 +1694,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_blacklist">Llista de bloqueig d\'SMS</string>
   <string name="sms_cloud_block">Llista de bloqueig del núvol</string>
   <string name="sms_contact_block">Bloqueja SMS dels contactes</string>
-  <string name="sms_delete_hint">Voleu eliminar tots els missatges bloquejats enviats des d\'aquest número?</string>
-  <string name="sms_delete_title">Elimineu el missatge</string>
+  <string name="sms_delete_hint">Voleu suprimir tots els missatges bloquejats d\'aquest número?</string>
+  <string name="sms_delete_title">Suprimeix els missatges</string>
   <string name="sms_detail_correct_success_text">"A continuació, es mostren les estadístiques d'ús de dades del calibratge anterior (%1$s):"</string>
   <string name="sms_detail_fragment_title_bill">Saldo del telèfon</string>
   <string name="sms_detail_fragment_title_traffic">Dades restants</string>
