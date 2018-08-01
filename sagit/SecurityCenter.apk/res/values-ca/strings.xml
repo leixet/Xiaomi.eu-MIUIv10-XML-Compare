@@ -1843,7 +1843,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_man_head_addblacklist">Afegeix un prefix de número de telèfon a la llista de bloqueig</string>
   <string name="st_title_man_head_addwhitelist">Afegeix un prefix de número de telèfon a les excepcions</string>
   <string name="st_title_markednumber_group">Bloqueja els números notificats</string>
-  <string name="st_title_mode_choose_group">Regles de llista de bloqueig</string>
+  <string name="st_title_mode_choose_group">Regles de la llista de bloqueig</string>
   <string name="st_title_not_sim">Buit</string>
   <string name="st_title_open_antispam">Llista de bloqueig</string>
   <string name="st_title_other_group">Altres</string>
