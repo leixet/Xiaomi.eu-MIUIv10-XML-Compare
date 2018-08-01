@@ -48,6 +48,7 @@
   <string name="frequent_phrases_size_exceeded">Podeu afegir fins a %1$d frases freqüents. Suprimiu les menys utilitzades per afegir-ne més.</string>
   <string name="fresh">Fresc</string>
   <string name="frog">Granota</string>
+  <string name="glee">Alegria</string>
   <string name="glockenspiel">Xilòfon</string>
   <string name="group_name_contacts">Contactes</string>
   <string name="group_name_coworkers">Companys de feina</string>
@@ -57,6 +58,7 @@
   <string name="harp">Arpa</string>
   <string name="icelatte">Gelat de llet</string>
   <string name="incomingmessage">Missatge entrant</string>
+  <string name="kungfu">Kungfu</string>
   <string name="leisure">Lleure</string>
   <string name="menu_add_frequent_phrases">Afegeix</string>
   <string name="menu_delete">Suprimeix</string>
@@ -74,10 +76,12 @@
   <string name="presentation_private">Número privat</string>
   <string name="presentation_unknown">Número desconegut</string>
   <string name="raindrops">Gotes de pluja</string>
+  <string name="spaceage">Era espacial</string>
   <string name="spring">Primavera</string>
   <string name="sunrise">Sol ixent</string>
   <string name="swoosh">Xiulet</string>
   <string name="vigor">Vigor</string>
+  <string name="vip_achievements">Assoliments</string>
   <string name="vip_level">NIVELL %d</string>
   <string name="vip_login">Toqueu per iniciar sessió</string>
   <string name="vip_not_login">No s\'ha iniciat sessió</string>
