@@ -1935,6 +1935,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="gxzw_add_fingerprint_edge_message">Moveu el dit per registrar les vores de l\'empremta</string>
   <string name="gxzw_add_fingerprint_edge_title">Ajusteu la vostra pressió</string>
+  <string name="gxzw_add_fingerprint_finish">Fet!</string>
   <string name="gxzw_add_fingerprint_move_title">Moveu una mica el dit</string>
   <string name="gxzw_add_fingerprint_put_finger_message">Premeu la pantalla i aixequeu el dit després de sentir la vibració. Repetiu-ho diverses vegades.</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
@@ -5016,9 +5017,13 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wallpaper_suggestion_summary">Personalitza la pantalla</string>
   <string name="wallpaper_suggestion_title">Canvia el fons de pantalla</string>
   <string name="wapi_auto_sel_cert">Selecciona automàticament</string>
+  <string name="wapi_cert_is_not_selected">Seleccioneu primer el certificat</string>
   <string name="wapi_cert_manage_summary">Afegeix o suprimeix el certificat WAPI</string>
   <string name="wapi_cert_manage_title">Gestió de certificats WAPI</string>
   <string name="wapi_cert_select">Certificat WAPI</string>
+  <string name="wapi_no_vaild_cert">"No hi ha cap certificat disponible, voleu instal·lar-ne un?"</string>
+  <string name="wapi_password_empty">Introduïu la contrasenya</string>
+  <string name="wapi_password_hex_length_invalid">El recompte de caràcters hexadecimals ha de ser un número parell</string>
   <string name="wapi_psk_type">Tipus de contrasenya</string>
   <string name="warm_color">Càlid</string>
   <string name="web_action_enable_summary">Obre els enllaços a les aplicacions, encara que no estiguin instal·lats</string>
