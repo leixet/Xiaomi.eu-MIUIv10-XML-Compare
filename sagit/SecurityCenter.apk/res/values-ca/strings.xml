@@ -1756,7 +1756,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_antispam_mode_add_new">Afegeix regles</string>
   <string name="st_antispam_mode_blacklist">Números bloquejats</string>
   <string name="st_antispam_mode_blacklist_sum">"Bloca trucades i SMS dels números que heu afegit manualment a la llista de blocatge"</string>
-  <string name="st_antispam_mode_denyownself_sum">Criteris personalitzats</string>
+  <string name="st_antispam_mode_denyownself_sum">Regles personalitzades</string>
   <string name="st_antispam_mode_only_all_deny">Bloca-ho tot</string>
   <string name="st_antispam_mode_only_all_deny_sum">Bloqueja tots els missatges i trucades</string>
   <string name="st_antispam_mode_only_contacts">Només permet els contactes</string>
