@@ -118,6 +118,7 @@
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="in_the_end">No hi ha més elements a mostrar</string>
   <string name="incompatible_dialog_cancel">"No ho apliquis"</string>
+  <string name="incompatible_dialog_message">"Aquest tema no és compatible amb la versió de MIUI instal·lada al dispositiu. És possible que algunes parts de MIUI no funcionin correctament si apliqueu aquest tema."</string>
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
