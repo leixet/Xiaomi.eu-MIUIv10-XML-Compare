@@ -88,6 +88,7 @@
   <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
   <string name="app_label">Interfície de sistema</string>
   <string name="app_process_limit_title">Límit de processos en segon pla</string>
+  <string name="as_important">Important</string>
   <string name="as_unimportant">No important</string>
   <string name="audio_effect_custom">Configura</string>
   <string name="audio_effect_info">Optimitzar àudio</string>
@@ -406,6 +407,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_charging_info_last_charge_today_time">Avui a les %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Ahir a les %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Última càrrega</string>
+  <string name="keyguard_charging_info_tip_text5">Les bateries triguen més en carregar-se quan s\'escalfen més de l\'habitual.</string>
   <string name="keyguard_indication_charging_time">S\'està carregant (%s fins el màxim)</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
