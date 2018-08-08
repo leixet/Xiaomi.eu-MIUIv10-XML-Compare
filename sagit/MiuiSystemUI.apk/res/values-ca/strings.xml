@@ -406,7 +406,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_charging_info_last_charge_today_time">Avui a les %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Ahir a les %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Última càrrega</string>
-  <string name="keyguard_charging_info_tip_text5">Les bateries triguen més en carregar-se quan s\'escalfen més de l\'habitual.</string>
   <string name="keyguard_indication_charging_time">S\'està carregant (%s fins el màxim)</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
