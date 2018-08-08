@@ -1000,6 +1000,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="save_dialog_title">Desa</string>
   <string name="save_file_already_exist_alert_message">Ja existeix un fitxer amb el mateix nom, el voleu substituir?</string>
   <string name="save_file_already_exist_alert_title">Voleu substituir el fitxer?</string>
+  <string name="save_file_suffix">" fitxer"</string>
   <string name="save_form_data_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="save_image_failed">"No s'ha pogut desar la imatge"</string>
   <string name="save_image_success">Imatge desada</string>
