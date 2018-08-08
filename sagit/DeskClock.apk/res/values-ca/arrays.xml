@@ -76,23 +76,23 @@
     <item>Kinshasa</item>
     <item>Lagos</item>
     <item>Maseru</item>
-    <item>Mogadishu</item>
+    <item>Mogadiscio</item>
     <item>Nairobi</item>
-    <item>Sao Tome</item>
+    <item>Sao Tomé</item>
     <item>Timbuktu</item>
-    <item>Tripoli</item>
+    <item>Trípoli</item>
     <item>Tunis</item>
-    <item>Anchorage</item>
+    <item>Ancoratges</item>
     <item>Mendoza</item>
     <item>Aruba</item>
     <item>Asunción</item>
     <item>Barbados</item>
     <item>Belize</item>
-    <item>Bogotá</item>
+    <item>Bogotà</item>
     <item>Buenos Aires</item>
     <item>Cancun</item>
     <item>Caracas</item>
-    <item>Cayman</item>
+    <item>Caiman</item>
     <item>Chicago</item>
     <item>Costa Rica</item>
     <item>Curaçao</item>
@@ -155,13 +155,13 @@
     <item>Amman</item>
     <item>Anadyr</item>
     <item>Aktau</item>
-    <item>Baghdad</item>
+    <item>Bagdad</item>
     <item>Bahrain</item>
-    <item>Baku</item>
+    <item>Bakú</item>
     <item>Bangkok</item>
     <item>Beirut</item>
-    <item>Calcutta</item>
-    <item>Damascus</item>
+    <item>Calcuta</item>
+    <item>Damasc</item>
     <item>Dhaka</item>
     <item>Dubai</item>
     <item>Gaza</item>
@@ -172,7 +172,7 @@
     <item>Jerusalem</item>
     <item>Kabul</item>
     <item>Karachi</item>
-    <item>Kathmandu</item>
+    <item>Katmandú</item>
     <item>Kuala Lumpur</item>
     <item>Kuwait</item>
     <item>Macau</item>
@@ -275,12 +275,12 @@
     <item>Miami</item>
     <item>Minneapolis</item>
     <item>Ottawa</item>
-    <item>Philadelphia</item>
+    <item>Filadèlfia</item>
     <item>Portland</item>
     <item>San Diego</item>
     <item>San Francisco</item>
     <item>Salt Lake City</item>
-    <item>San Jose</item>
+    <item>San José</item>
     <item>San Salvador</item>
     <item>Seattle</item>
     <item>St. Louis</item>
@@ -298,7 +298,7 @@
     <item>Sacramento</item>
     <item>Atlanta</item>
     <item>Cleveland</item>
-    <item>New Orleans</item>
+    <item>Nova Orleans</item>
     <item>Tampa</item>
     <item>Pittsburgh</item>
     <item>Cincinnati</item>
@@ -354,29 +354,29 @@
   <string-array name="countries_names_miui">
     <item>"Coate d'Ivoire"</item>
     <item>Ghana</item>
-    <item>Ethiopia</item>
-    <item>Algeria</item>
+    <item>Etiòpia</item>
+    <item>Algèria</item>
     <item>Malawi</item>
-    <item>Republic of the Congo</item>
-    <item>Egypt</item>
-    <item>Morocco</item>
+    <item>República del Congo</item>
+    <item>Egipte</item>
+    <item>el Marroc</item>
     <item>Guinea</item>
-    <item>Senegal</item>
-    <item>Tanzania</item>
+    <item>el Senegal</item>
+    <item>Tanzània</item>
     <item>Republic of the Djibouti</item>
     <item>Sierra Leone</item>
     <item>Botswana</item>
-    <item>Zimbabwe</item>
-    <item>South Africa</item>
+    <item>Zimbàbue</item>
+    <item>Sud-àfrica</item>
     <item>Uganda</item>
-    <item>Republic of the Sudan</item>
-    <item>Rwanda</item>
-    <item>Democratic Republic of the Congo</item>
-    <item>Nigeria</item>
-    <item>Lesotho</item>
-    <item>Somalia</item>
-    <item>Kenya</item>
-    <item>Sao Tome and Principe</item>
+    <item>República del Sudan</item>
+    <item>Ruanda</item>
+    <item>República Democràtica del Congo</item>
+    <item>Nigèria</item>
+    <item>Lesoto</item>
+    <item>Somàlia</item>
+    <item>Kènia</item>
+    <item>Sao Tomé i Príncipe</item>
     <item>Mali</item>
     <item>Líbia</item>
     <item>Tunísia</item>
