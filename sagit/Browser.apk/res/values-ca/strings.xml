@@ -123,9 +123,9 @@
   <string name="bookmarks_management">Marcadors</string>
   <string name="bookmarks_root_folder">Carpeta arrel</string>
   <string name="bookmarks_search">Navegador</string>
-  <string name="bottom_bar_tabs_long_click_down_tip_txt">Llisqueu cap avall per tancar</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Llisqueu avall per tancar</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Aquesta és la darrera pestanya</string>
-  <string name="bottom_bar_tabs_long_click_up_tip_txt">Llisqueu cap amunt per tancar</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Llisqueu amunt per tancar</string>
   <string name="browserFrameFileErrorLabel">Problema de fitxer</string>
   <string name="browserFrameFormResubmitMessage">"La pagina que esteu intentant veure conté dades que ja s'han enviat. Si torneu a enviar les dades, les accions ja realitzades (per exemple, cerques o compres) es repetiran."</string>
   <string name="browserFrameNetworkErrorLabel">Error de connexió</string>
