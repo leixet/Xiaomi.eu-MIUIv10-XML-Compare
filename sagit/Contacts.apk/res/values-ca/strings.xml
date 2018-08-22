@@ -349,7 +349,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_import_progress_begin_message">S\'està important&#8230;</string>
   <string name="device_import_progress_end_message">Importat</string>
   <string name="device_import_progress_message">S\'està important&#8230;</string>
-  <string name="device_import_progress_toast">%1$d contactes importats</string>
   <string name="device_import_title">Importa</string>
   <string name="device_list_title">Triar un telèfon</string>
   <string name="device_other_guide">Si el telèfon no apareix, feu el següent</string>
