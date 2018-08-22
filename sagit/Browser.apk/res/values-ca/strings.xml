@@ -139,7 +139,6 @@
   <string name="check_security_tip_user_agreement">Acord d\'usuari</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
-  <string name="clear_most_visited">Historial recent</string>
   <string name="clear_search_history">Esborra l\'historial</string>
   <string name="clear_video_download">Esborra els vídeos</string>
   <string name="clip_dialog_title">Voleu obrir l\'URL copiat?</string>
@@ -171,9 +170,6 @@
   <string name="comment_max_length">El vostre comentari és massa llarg.</string>
   <string name="comment_menu">Comentari</string>
   <string name="comment_num_description">Número de comentari</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
-  <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
-  <string name="common_use_phrase_bottom_bar_text_previous">Anterior</string>
   <string name="context_menu_add_to_desk_id">Afegeix a la pantalla d\'inici</string>
   <string name="context_menu_orientation_portrait_swap_id">Pantalla V/H</string>
   <string name="contextmenu_add_contact">Afegeix un contacte</string>
@@ -840,12 +836,9 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
   <string name="pref_accept_quicklink_push">Servei de notícies</string>
   <string name="pref_accessibility_title">Accessibilitat</string>
-  <string name="pref_accessibility_url_shortcut_enter_summary">Es poden introduir combinacions habituals de lletres totes de cop a la barra d\'adreces</string>
-  <string name="pref_accessibility_url_shortcut_enter_title">Entrada ràpida d\'URL</string>
   <string name="pref_adblock_counts">%d bloquejats</string>
   <string name="pref_adblock_title">Bloquejador d\'anuncis</string>
   <string name="pref_advert_null">Publicitat no marcada, podeu prémer l\'etiqueta de la pàgina</string>
-  <string name="pref_auto_update_under_wifi">Actualitza amb Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Motors de cerca automàtics per hàbits de recerca</string>
   <string name="pref_cancel_screen">Cancel·la la pantalla</string>
   <string name="pref_category_hint">Categoria</string>
@@ -1104,7 +1097,6 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_item_weather_mark">El TEMPS</string>
   <string name="suggest_access_item_yellow_mark">PÀGINES GROGUES</string>
   <string name="suggest_access_music">Música Mi</string>
-  <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
   <string name="suggestion_clear_record_message">Confirmeu el registre d\'entrada buit?</string>
   <string name="suggestion_express_button_query_more">MOSTRA\'N MÉS</string>
