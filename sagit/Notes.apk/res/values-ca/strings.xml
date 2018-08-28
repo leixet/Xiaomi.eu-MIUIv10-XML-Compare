@@ -161,7 +161,6 @@
   <string name="toast_cancel_to_insert_image">"No s'ha pogut afegir la imatge."</string>
   <string name="toast_message_add_image_fail">"No es pot afegir la imatge"</string>
   <string name="toast_notes_delete_success">S\'ha eliminat amb èxit</string>
-  <string name="toast_notes_hidden">S\'ha ocultat amb èxit</string>
   <string name="toast_notes_hidden_count">%1$s s\'ha ocultat amb èxit</string>
   <string name="toast_notes_unhidden">S\'ha mostrat amb èxit</string>
   <string name="toast_notes_unhidden_count">%1$s s\'ha mostrat amb èxit</string>
