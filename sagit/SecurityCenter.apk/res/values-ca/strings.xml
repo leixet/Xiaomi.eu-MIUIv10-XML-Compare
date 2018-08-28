@@ -256,7 +256,6 @@
   <string name="applock_add_account_info">Afegiu el compte Mi per reiniciar la contrasenya en cas que l\'oblideu.</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
   <string name="applock_bind_account_title">He oblidat la contrasenya</string>
-  <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya se suprimirà després de desactivar el Bloquejador d\'aplicacions.</string>
   <string name="applock_close_dialog_title">Voleu desactivar el Bloquejador d\'aplicacions?</string>
   <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
   <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
@@ -587,8 +586,6 @@
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu-ho a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
-  <string name="dialog_button_ignore">Ignora</string>
-  <string name="dialog_button_yes">Sí</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
@@ -1866,9 +1863,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
-  <string name="summary_background_connection">Heu restringit la connexió en segon pla per aquesta aplicació. Toqueu per solucionar-ho.</string>
-  <string name="summary_block_calls_from_cantacts">"Esteu utilitzant la llista de bloqueig. Toqueu per solucionar-ho."</string>
-  <string name="summary_block_calls_from_strangers">Només permeteu trucades de la llista de contactes. Toqueu per solucionar-ho.</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
   <string name="summary_cloud_account">Obtenir el màxim del seu dispositiu Mi</string>
   <string name="summary_cloud_service">Sincronitzeu fotos, contactes i altres entre tots els vostres dispositius</string>
@@ -1879,8 +1873,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_data_flow">Evitar sobrepassar el límit mensual del seu pla de dades</string>
   <string name="summary_default_app">"%s no s'ha configurat com a aplicació per defecte del sistema"</string>
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
-  <string name="summary_do_not_disturb">"Esteu utilitzant el mode No molesteu. Toqueu per solucionar-ho."</string>
-  <string name="summary_eye_shield">"Esteu utilitzant el mode de lectura. Toqueu per solucionar-ho."</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
@@ -1898,7 +1890,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_permission_root">El dispositiu i dades personals són més vulnerables als atacs des d\'aplicacions que tenen accés root</string>
   <string name="summary_power_optimizer">"Reduir el rendiment del teu dispositiu"</string>
   <string name="summary_realname_verify">Verifica la seva identitat per fer pagaments més segurs.</string>
-  <string name="summary_restrict_data_usage">Heu restringit l\'ús de dades per aquesta aplicació. Toqueu per solucionar-ho.</string>
   <string name="summary_show_notification">Afegeix els controls del Centre de Seguretat a l\'àrea de notificacions</string>
   <string name="summary_telecom_operator">Obtenir del seu proveïdor de telefonia les seves estadístiques mensuals d\'ús de dades</string>
   <string name="summary_usb">Prevenir que el malware sigui transmès via USB</string>
