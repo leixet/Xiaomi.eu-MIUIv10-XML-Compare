@@ -3005,7 +3005,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pick_up_gesture_wakeup_title">Aixeca per despertar</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
-  <string name="picture_in_picture_app_detail_summary">"Permet que aquesta aplicació creï una finestra d'imatge dins d'imatge mentre l'aplicació està oberta o després d'abandonar-la (per exemple, per seguir veient un vídeo). Aquesta finestra es mostra a sobre d'altres aplicacions "</string>
   <string name="picture_in_picture_app_detail_switch">Permet imatge dins d\'imatge</string>
   <string name="picture_in_picture_app_detail_title">Imatge dins d\'imatge</string>
   <string name="picture_in_picture_empty_text">No hi ha cap aplicació instal·lada compatible amb imatge dins d\'imatge</string>
