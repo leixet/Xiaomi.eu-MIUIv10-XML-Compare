@@ -1130,6 +1130,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_item_yellow_mark">PÀGINES GROGUES</string>
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="suggestion_clear_item_message">Confirmeu que voleu esborrar aquest element del registre d\'entrada?</string>
   <string name="suggestion_clear_record_message">Confirmeu el registre d\'entrada buit?</string>
   <string name="suggestion_express_button_query_more">MOSTRA\'N MÉS</string>
   <string name="suggestion_express_button_text_query">COMPROVA</string>
@@ -1140,6 +1141,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggestion_express_input_hint_inside">Introduïu el número de seguiment</string>
   <string name="suggestion_express_input_hint_out">Número de seguiment:</string>
   <string name="suggestion_express_title">Seguiment dels vostres paquets</string>
+  <string name="suggestion_hotwords_title_text">Cerques populars</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
@@ -1182,6 +1184,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="url_find_on_page_result_item">Mostra totes les coincidències de \"%s\"</string>
   <string name="url_hint">Introduïu una URL o una cerca al web</string>
   <string name="url_hint_from_search">Introduïu la paraula clau</string>
+  <string name="url_hint_head">Tothom està buscant：</string>
   <string name="url_opened_in_background">Obre en una pestanya del darrera</string>
   <string name="url_suggest_indicator_bookmark">Marcadors/historial</string>
   <string name="url_suggest_indicator_hoturl">Popular</string>
