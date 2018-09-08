@@ -987,7 +987,6 @@ Taxa de mostreig"</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="charging_sounds_title">Sons de càrrega de la bateria</string>
   <string name="check_find_device_status_failure_confirm">D\'acord</string>
-  <string name="check_importance">Voleu marcar-ho com a important?</string>
   <string name="check_update">Comprova les actualitzacions</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilitza el volum de les trucades entrants per a les notificacions</string>
   <string name="checking_decryption">S\'està comprovant&#8230;</string>
