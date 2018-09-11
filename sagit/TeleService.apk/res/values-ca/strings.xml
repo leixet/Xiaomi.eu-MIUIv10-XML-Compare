@@ -418,7 +418,6 @@ Taxa de mostreig"</string>
   <string name="card_title_MOcall_forwarding">Reenviant trucada</string>
   <string name="card_title_MTcall_forwarding">La trucada entrant és reenviada</string>
   <string name="card_title_call_deflected">Trucada desviada</string>
-  <string name="card_title_call_ended">Trucada finalitzada</string>
   <string name="card_title_callconnectedect">Trucada connectada ECT</string>
   <string name="card_title_callconnectingect">Trucada connectant ECT</string>
   <string name="card_title_calliswaiting">Trucada en espera</string>
@@ -437,7 +436,6 @@ Taxa de mostreig"</string>
   <string name="card_title_incoming_barred">Trucades entrants restringides</string>
   <string name="card_title_incoming_call">Trucada entrant</string>
   <string name="card_title_multipartycall">Trucada multilateral</string>
-  <string name="card_title_on_hold">En espera</string>
   <string name="card_title_outgoing_barred">Trucades sortints restringides</string>
   <string name="card_title_redialing">Tornant a marcar</string>
   <string name="card_title_unconditionalCF">Desviament incondicional de trucades activat</string>
