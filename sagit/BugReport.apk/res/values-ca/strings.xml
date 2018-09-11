@@ -250,7 +250,6 @@
   <string name="non_system_app_select">Aplicacions baixades</string>
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
-  <string name="permission_granted">%1$s permís concedit</string>
   <string name="pic_not_exist">"Aquesta imatge no existeix"</string>
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
@@ -283,9 +282,7 @@
   <string name="tab_title_chat">PMF</string>
   <string name="tab_title_my_reports">Els meus informes</string>
   <string name="tab_title_report">Informes d\'error</string>
-  <string name="time_in_justnow">Ara mateix</string>
   <string name="title_answer_feedback_main">Hem trobat respostes!</string>
-  <string name="title_bbs_feedback_main">Més informació sobre telèfons Mi</string>
   <string name="title_customer_service">Servei al client</string>
   <string name="title_frequent_question_feedback_main">PMF</string>
   <string name="title_mi_family">Mi Homes propers</string>
