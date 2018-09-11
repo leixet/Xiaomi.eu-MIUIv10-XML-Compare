@@ -302,9 +302,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_launch_open_domain_urls_title">Obre enllaços compatibles</string>
   <string name="app_launch_other_defaults_title">Altres valors per defecte</string>
   <string name="app_launch_supported_domain_urls_title">Enllaços compatibles</string>
-  <string name="app_link_open_always">Obre amb aquesta aplicació</string>
   <string name="app_link_open_ask">Demana-m\'ho sempre</string>
-  <string name="app_link_open_never">No l\'obris amb aquesta aplicació</string>
   <string name="app_list_memory_use">Ús de les aplicacions</string>
   <string name="app_list_preference_none">Cap</string>
   <string name="app_memory_use">Memoria en ús</string>
@@ -1321,8 +1319,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="default_app">(Per defecte)</string>
   <string name="default_apps_title">Per defecte</string>
   <string name="default_assist_title">Assistent</string>
-  <string name="default_browser_title">Aplicació del navegador</string>
-  <string name="default_browser_title_none">No hi ha cap navegador per defecte</string>
   <string name="default_calendar_app_title">Aplicació de calendari</string>
   <string name="default_contacts_app_title">Aplicació de contactes</string>
   <string name="default_emergency_app">Aplicació d\'emergència</string>
@@ -1331,7 +1327,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="default_keyboard_layout">Per defecte</string>
   <string name="default_map_app_title">Aplicació de mapes</string>
   <string name="default_notification_assistant">Assistent de notificacions</string>
-  <string name="default_phone_title">Aplicació de telèfon</string>
   <string name="default_rule_name">Temporitzador 1</string>
   <string name="default_sound">So per defecte</string>
   <string name="default_spell_checker">Corrector ortogràfic per defecte</string>
@@ -1534,7 +1529,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="does_not_exist">L\'aplicació no existeix.</string>
   <string name="domain_url_section_title">Aplicacions instal·lades</string>
   <string name="domain_urls_apps_summary_off">No hi ha cap aplicació que obri enllaços compatibles</string>
-  <string name="domain_urls_summary_none">No obris enllaços suportats</string>
   <string name="domain_urls_summary_one">Obre %s</string>
   <string name="domain_urls_summary_some">Obre %s i les URL relacionades</string>
   <string name="domain_urls_title">Enllaços de l\'aplicació</string>
@@ -1987,7 +1981,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="high_power_system">L\'optimització de la bateria no és disponible</string>
   <string name="history_details_title">Detalls de l\'historial</string>
   <string name="home">Pàgina d\'inici de configuració</string>
-  <string name="home_app">Aplicació d\'inici</string>
   <string name="home_key">Pàgina d\'inici</string>
   <string name="home_work_profile_not_supported">"No admet el perfil de feina"</string>
   <string name="http_invoke_app">Aplicacions web</string>
@@ -2031,7 +2024,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_no_market_app_title">Orígens desconeguts</string>
   <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
-  <string name="install_preinstall_app">S\'està canviat la regió…</string>
   <string name="install_text">Instal·la</string>
   <string name="install_type_instant">Aplicació instantània</string>
   <string name="install_whole_rom">Baixa la ROM</string>
@@ -2784,7 +2776,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_connected_devices">Cap dispositiu connectat</string>
   <string name="no_data_usage">No s\'han fet servir dades</string>
   <string name="no_default_apps">Sense aplicacions per defecte.</string>
-  <string name="no_default_home">No hi ha cap pàgina d\'inici per defecte</string>
   <string name="no_device_admins">No hi ha cap administrador del dispositiu disponible</string>
   <string name="no_internet_access_remember">No ho tornis a preguntar en aquesta xarxa</string>
   <string name="no_internet_access_text">La xarxa WiFi %1$s no té accés a internet. Voleu continuar connectats?</string>
@@ -4061,7 +4052,6 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="smartcover_lock_or_unlock_screen_tittle">Tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
   <string name="smartcover_sensitive_summary">Bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
   <string name="smartcover_sensitive_title">Mode Smartcover</string>
-  <string name="sms_application_title">Aplicació de SMS</string>
   <string name="sms_change_default_dialog_text">Voleu utilitzar %1$s en comptes de %2$s com aplicació SMS predeterminada?</string>
   <string name="sms_change_default_dialog_title">Voleu canviar l\'aplicació per a SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Voleu utilitzar %s com aplicació per a SMS?</string>
@@ -4643,7 +4633,6 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_password_title">Contrasenya</string>
   <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
   <string name="unlock_set_unlock_pattern_title">Patró</string>
-  <string name="unlock_set_unlock_pin_summary">Per a desbloquejar-lo introduïu 4 números</string>
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
