@@ -254,6 +254,7 @@
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
   <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum"</string>
+  <string name="privacy_policy_title">Política de privadesa</string>
   <string name="pull_to_refresh_pull_label">Estireu cap avall per actualitzar</string>
   <string name="pull_to_refresh_refreshing_label">S\'està actualitzant&#8230;</string>
   <string name="pull_to_refresh_release_label">Deixeu anar per actualitzar</string>
@@ -281,6 +282,7 @@
   <string name="systemui">Àrea de notificacions</string>
   <string name="tab_title_chat">PMF</string>
   <string name="tab_title_my_reports">Els meus informes</string>
+  <string name="tab_title_preferences">Configuració</string>
   <string name="tab_title_report">Informes d\'error</string>
   <string name="title_answer_feedback_main">Hem trobat respostes!</string>
   <string name="title_customer_service">Servei al client</string>
