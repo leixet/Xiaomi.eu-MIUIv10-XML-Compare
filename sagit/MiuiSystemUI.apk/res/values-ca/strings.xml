@@ -746,7 +746,6 @@ d MMMM"</string>
   <string name="usb_debugging_title">Permetre depuració USB?</string>
   <string name="usb_device_confirm_prompt">Obrir %1$s al connectar aquest dispositiu USB?</string>
   <string name="usb_device_permission_prompt">Permet a l\'aplicació %1$s accés al dispositiu USB?</string>
-  <string name="usb_function_charging_text">Connectat en mode de càrrega</string>
   <string name="usb_mode_dont_ask">No tornar a preguntar</string>
   <string name="usb_mode_mount_storage_title">Obrir emmagatzematge USB?</string>
   <string name="usb_mode_notification">Emmagatzematge USB</string>
