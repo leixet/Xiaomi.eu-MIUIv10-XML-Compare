@@ -863,7 +863,6 @@ Taxa de mostreig"</string>
   <string name="bootloader_device_bind_sim_invalid">La targeta SIM no és vàlida. Reemplaceu-la i torneu-ho a provar.</string>
   <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
   <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar troba el dispositiu després que el telèfon estigui desbloquejat."</string>
-  <string name="bootloader_locked_answer_2">Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l\'eina de desbloqueig i instal·lar-la a l\'ordinador. Aquí està l\'adreça:</string>
   <string name="bootloader_locked_check_status">Afegeix un compte i el dispositiu</string>
   <string name="bootloader_locked_question_1">Per què s\'han de bloquejar els dispositius?</string>
   <string name="bootloader_locked_question_2">Entenc els riscos, però encara vull desbloquejar el dispositiu.</string>
