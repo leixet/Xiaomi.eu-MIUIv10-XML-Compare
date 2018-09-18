@@ -88,7 +88,6 @@
   <string name="app_name_view_picture">Veure fotos</string>
   <string name="app_name_view_video">Reproducció de vídeos</string>
   <string name="apply">Aplica</string>
-  <string name="assistant_page_label">Assistent</string>
   <string name="associate_face_album">Trieu un àlbum</string>
   <string name="auto_backup_introduce">Fes una còpia de seguretat de fotos i vídeos automàticament (cal un compte Mi)</string>
   <string name="auto_download_media_title">Baixa fotos des de Mi Cloud automàticament</string>
@@ -263,7 +262,6 @@
   <string name="cleaner_screen_shot_action">Neteja</string>
   <string name="cleaner_screen_shot_description">Suprimeix les captures de pantalla que ja no necessiteu.</string>
   <string name="cleaner_screen_shot_title">Suprimeix captures de pantalla</string>
-  <string name="cleaner_slim_action">S\'està iniciant l\'optimització…</string>
   <string name="cleaner_slim_description">Mantingueu fotos optimitzades al dispositiu. Els fitxers originals s\'emmagatzemaran al Mi Cloud.</string>
   <string name="cleaner_slim_start">Optimitza</string>
   <string name="cleaner_slim_title">Optimitza les fotos</string>
