@@ -1554,7 +1554,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="read_all_sms">Tot llegit</string>
   <string name="receive_now">Rebre</string>
   <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
-  <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
   <string name="recommend_news">Fonts recomanades</string>
   <string name="recommended">Recomanat</string>
   <string name="reject_all">Restringir tot</string>
