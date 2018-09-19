@@ -690,6 +690,7 @@
   <string name="exit_dialog_scan_message">"La puntuació del rendiment del dispositiu és inferior a 75 punts. Voleu optimitzar-lo?"</string>
   <string name="exit_dialog_scan_positive_button">Optimitza</string>
   <string name="exit_dialog_scan_title">Optimitza el rendiment</string>
+  <string name="extreme_power_save_mode_summary">L\'estalvi extrem de bateria limita l\'activitat en procés de fons, atura la sincronització i redueix els colors de la pantalla.</string>
   <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
   <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
   <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
@@ -1095,6 +1096,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_report">Notifica un error</string>
   <string name="menu_setting_traffic">Estableix manualment</string>
   <string name="menu_sms">Envia el missatge</string>
+  <string name="menu_summary_power_manager_1">Bateria completament carregada</string>
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Escaneig de seguretat</string>
   <string name="menu_text_garbage_cleanup">Netejador</string>
@@ -1203,6 +1205,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="note_sms_none">Sense missatges</string>
   <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s en els darrers %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
+  <string name="notification_exit_extreme_mode_text">La bateria està més carregada del %s</string>
   <string name="notification_exit_power_save_mode">Desactiva l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_mask_summary">Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions</string>
