@@ -589,6 +589,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>La xarxa va lenta perquè la intensitat del senyal és feble</item>
     <item>En moviment&#8230;</item>
   </string-array>
+  <string-array name="notch_battery_indicator_style_entries">
+    <item>Graphical</item>
+    <item>Percentatge</item>
+  </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Cap</item>
     <item>480p</item>
