@@ -377,6 +377,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialer_useDtmfDialpad">Utilitza el teclat per tons</string>
   <string name="dialog_import">Importa contactes</string>
   <string name="dialog_import_export">Importa/exporta contactes</string>
+  <string name="dialog_new_contact_account">Crea contactes sota un compte</string>
   <string name="dialog_new_group_account">Crea un grup sota un compte</string>
   <string name="dialog_phone_call_prohibited_message">Trucada no enviada</string>
   <string name="dialog_sync_add">Afegeix grup de sincronització</string>
