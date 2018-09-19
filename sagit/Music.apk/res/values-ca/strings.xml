@@ -113,6 +113,7 @@
   <string name="common_signin_button_text">Inicia sessió</string>
   <string name="common_signin_button_text_long">Inicia sessió amb Google</string>
   <string name="confirm">D\'acord</string>
+  <string name="confirm_exit">Voleu desar els canvis?</string>
   <string name="connecting_apk">S\'està connectant…</string>
   <string name="continue_backup">Continua</string>
   <string name="count_format">%2$1.1f K</string>
@@ -528,6 +529,7 @@
   <string name="s5">Crea esdeveniments de calendari</string>
   <string name="s6">Voleu que l\'anunci creï un esdeveniment de calendari?</string>
   <string name="s7">Anunci de prova</string>
+  <string name="save_changes">Desa els canvis</string>
   <string name="search_album_and_lyric">Cerca la portada dels àlbums i lletres</string>
   <string name="search_empty">"No s'ha pogut trobar resultats"</string>
   <string name="search_for_album">Àlbum</string>
