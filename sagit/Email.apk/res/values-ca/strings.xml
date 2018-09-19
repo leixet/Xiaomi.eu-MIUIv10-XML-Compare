@@ -88,6 +88,7 @@
   <string name="account_setup_exchange_certificate_title">Certificat de client</string>
   <string name="account_setup_exchange_device_id_label">ID del dispositiu mòbil</string>
   <string name="account_setup_exchange_no_certificate">Cap</string>
+  <string name="account_setup_failed_auth_required">"Els mètodes d'autenticació no són compatibles amb el servidor."</string>
   <string name="account_setup_failed_certificate_inaccessible">El certificat és vàlid o inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Es requereix un certificat de client. Vols connectar amb el servidor amb un certificat de client?</string>
   <string name="account_setup_failed_check_credentials_message">El servidor ha contestat amb un error. Comproveu el nom d\'usuari i la contrasenya i torneu a provar-ho.</string>
@@ -647,6 +648,7 @@
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
   <string name="mute">Mut</string>
   <string name="navigation_menu">Menú de navegació</string>
+  <string name="need_get_qq_mail">Cal QQ Mail</string>
   <string name="network_error">No hi ha connexió</string>
   <string name="network_invaild">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_not_available">"Connexió de xarxa no està disponible, si us plau intenti-ho més tard"</string>
@@ -695,6 +697,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="open_external_storage_and_calendar_permission">Permeteu que el correu accedeixi a la informació d\'emmagatzematge i del calendari a la Configuració</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permeteu que el correu accedeixi a la informació d\'emmagatzematge, contactes i calendari a la Configuració</string>
   <string name="open_external_storage_and_contacts_permission">Permeteu que el correu accedeixi a l\'emmagatzematge i als contactes a la Configuració</string>
+  <string name="optimization_suggestion">Suggeriment d\'optimització</string>
+  <string name="others_mail">Altres</string>
   <string name="outbox_alert_button_no_resend">"No enviar"</string>
   <string name="outbox_alert_button_resend">Reenvia</string>
   <string name="outbox_alert_certificate_error">"Excepció de certificat a email, si us plau actualitzi"</string>
@@ -1072,6 +1076,7 @@ Voleu aturar-ho?"</string>
   <string name="upload_logs">Puja els registres</string>
   <string name="uploading_logs">Un moment…</string>
   <string name="validation_failed_prompt">"Error de validació, si us plau configureu el servidor %s"</string>
+  <string name="verify_code">Verifica el codi</string>
   <string name="version_string">Versió: %s</string>
   <string name="via_domain">mitjançant %1$s</string>
   <string name="view_more_conversations">Veure més converses</string>
