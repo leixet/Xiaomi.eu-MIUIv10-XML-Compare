@@ -15,6 +15,7 @@
   <string name="cloud_status_full_dialog_cancel">Ara no</string>
   <string name="cloud_status_full_dialog_msg">"L'emmagatzematge al núvol està ple i no es poden sincronitzar les gravacions. Milloreu el vostre compte per aconseguir més espai."</string>
   <string name="cloud_status_full_dialog_ok">Millora</string>
+  <string name="cloud_status_full_dialog_title">Emmagatzematge a Mi Cloud ple</string>
   <string name="data_connection_body">Si utilitzeu la connexió de dades mòbils per baixar aquest fitxer augmentareu l\'ús de dades. Si se supera el límit de dades contractades, el vostre operador us pot cobrar càrrecs addicionals.</string>
   <string name="data_connection_button_text">D\'acord</string>
   <string name="data_connection_title">Alerta d\'ús de dades</string>
