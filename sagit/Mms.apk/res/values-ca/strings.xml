@@ -567,6 +567,7 @@
   <string name="timed_message_to">per</string>
   <string name="title_allow_network_access">Actualitza la informació automàticament</string>
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
+  <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
   <string name="title_show_list_avatar">Mostra fotos de perfil</string>
   <string name="title_show_photo_word">Assigna fotos al contacte</string>
