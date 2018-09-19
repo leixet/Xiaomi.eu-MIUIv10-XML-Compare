@@ -1528,6 +1528,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="does_not_exist">L\'aplicació no existeix.</string>
   <string name="domain_url_section_title">Aplicacions instal·lades</string>
   <string name="domain_urls_apps_summary_off">No hi ha cap aplicació que obri enllaços compatibles</string>
+  <string name="domain_urls_summary_none">"No obris enllaços suportats"</string>
   <string name="domain_urls_summary_one">Obre %s</string>
   <string name="domain_urls_summary_some">Obre %s i les URL relacionades</string>
   <string name="domain_urls_title">Enllaços de l\'aplicació</string>
@@ -2023,6 +2024,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_no_market_app_title">Orígens desconeguts</string>
   <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
+  <string name="install_preinstall_app">S\'està canviat la regió…</string>
   <string name="install_text">Instal·la</string>
   <string name="install_type_instant">Aplicació instantània</string>
   <string name="install_whole_rom">Baixa la ROM</string>
@@ -2669,6 +2671,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nature_color">Per defecte</string>
   <string name="navigation_guide_app_summary">Feu lliscar cap a l\'esquerra o cap a la dreta des de la vora de la pantalla a la part superior</string>
   <string name="navigation_guide_app_title">"Activador de l'acció de l'aplicació"</string>
+  <string name="navigation_guide_appswitch_anim_summary">Llisqueu per la pantalla començant des de la vora per retornar a l\'aplicació anterior</string>
+  <string name="navigation_guide_appswitch_summary">Llisqueu des d\'una vora de la pantalla i manteniu premut un instant</string>
   <string name="navigation_guide_back_summary">Llisqueu cap a l\'esquerra o cap a la dreta des de la pantalla</string>
   <string name="navigation_guide_back_title">Torna a la darrera pàgina</string>
   <string name="navigation_guide_dialog_dont_show_again">"No ho tornis a mostrar"</string>
@@ -2994,6 +2998,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pick_up_gesture_wakeup_title">Aixeca per despertar</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
+  <string name="picture_in_picture_app_detail_summary">"Permet a aquesta aplicació crear una finestra d'imatge dins d'imatge mentre l'aplicació estigui oberta o després que la deixeu (per exemple, per seguir veient un vídeo). Aquesta finestra es mostrarà sobre d'altres aplicacions que utilitzeu."</string>
   <string name="picture_in_picture_app_detail_switch">Permet imatge dins d\'imatge</string>
   <string name="picture_in_picture_app_detail_title">Imatge dins d\'imatge</string>
   <string name="picture_in_picture_empty_text">No hi ha cap aplicació instal·lada compatible amb imatge dins d\'imatge</string>
@@ -4317,6 +4322,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"No es pot utilitzar aquesta funció a causa de la bateria baixa"</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">La bateria ha de tenir un mínim del 5% de càrrega per iniciar la gravació.</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Aquestes aplicacions funcionen millor en mode de pantalla completa</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
   <string name="suggested_fingerprint_lock_settings_title">Utilitza l\'empremta</string>
@@ -4632,6 +4638,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_password_title">Contrasenya</string>
   <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
   <string name="unlock_set_unlock_pattern_title">Patró</string>
+  <string name="unlock_set_unlock_pin_summary">Per a desbloquejar-lo introduïu 4 números</string>
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
@@ -5242,6 +5249,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_quick_toggle_summary">Engega el Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">S\'ha desat</string>
+  <string name="wifi_remembered_disabled_auto_connect">Desat. La connexió automàtica està inactiva.</string>
   <string name="wifi_required_info_text">Per acabar la instal·lació, la vostra tauleta tàctil s\'ha de connectar via Wi-Fi. Després de la instal·lació ja podreu triar entre dades mòbils i Wi-Fi.</string>
   <string name="wifi_sap_no_channel_error">La banda de 5 GHz no és disponible en aquest país</string>
   <string name="wifi_save">Desa</string>
