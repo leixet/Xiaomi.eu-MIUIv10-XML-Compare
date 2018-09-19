@@ -1554,6 +1554,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="read_all_sms">Tot llegit</string>
   <string name="receive_now">Rebre</string>
   <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
+  <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
   <string name="recommend_news">Fonts recomanades</string>
   <string name="recommended">Recomanat</string>
   <string name="reject_all">Restringir tot</string>
@@ -1862,6 +1863,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
+  <string name="summary_background_connection">Heu limitat la connexió en segon pla per aquesta aplicació.</string>
+  <string name="summary_block_calls_from_cantacts">Es bloquen les trucades dels contactes.</string>
+  <string name="summary_block_calls_from_strangers">Es bloquen les trucades de desconeguts.</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
   <string name="summary_cloud_account">Obtenir el màxim del seu dispositiu Mi</string>
   <string name="summary_cloud_service">Sincronitzeu fotos, contactes i altres entre tots els vostres dispositius</string>
@@ -1872,6 +1876,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_data_flow">Evitar sobrepassar el límit mensual del seu pla de dades</string>
   <string name="summary_default_app">"%s no s'ha configurat com a aplicació per defecte del sistema"</string>
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
+  <string name="summary_do_not_disturb">"Esteu utilitzant el mode No molesteu."</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
