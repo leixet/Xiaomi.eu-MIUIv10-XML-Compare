@@ -38,8 +38,8 @@ En cas de dubte, si us plau visiteu el lloc web oficial de Xiaomi i sol·liciti 
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Les seves dades s\'han importat amb èxit de l\'aplicació Xiaomi Authenticator obsoleta. Ara és segur desinstal·lar la versió anterior de l\'aplicació fent clic a baix.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importació va tenir èxit</string>
   <string name="decoding_exception">Excepció al descodificar</string>
-  <string name="details_patternforgotten">"Reactivar：
-Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, Premi a \"Reactivar\""</string>
+  <string name="details_patternforgotten">"Reactivació: 
+Inicieu la sessió a account.xiaomi.com i toqueu «Reactivació»"</string>
   <string name="enter_account_label">Introduïu el nom del compte</string>
   <string name="enter_key_hint">Introdueixi la seva clau</string>
   <string name="enter_key_illegal_char">La clau conté un caràcter no vàlid</string>
