@@ -47,7 +47,7 @@
   <string name="force_exit_message">Tancament forçat %1$s</string>
   <string name="force_exit_skip_message">"No es pot tancar %1$s perquè ho necessita el sistema."</string>
   <string name="fourhours">2 hores</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Podeu tornar a l\'escriptori tocant suaument el botó d\'Inici. Vagi a Configuració &gt; Configuració addicional &gt; Botons i activeu Premi per accedir a l\'escriptori.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Podeu tornar a la pantalla d\'inici tocant suaument el botó Inici. Podeu activar aquesta funció anant a «Configuració &gt; Configuració addicional &gt; Botons &gt; Toqueu el botó Inici per tornar a la pantalla d\'inici».</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ara no</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ves a la Configuració</string>
   <string name="fp_nav_center_action_choose_dlg_title">Premeu ràpid per accedir a l\'escriptori</string>
