@@ -1681,7 +1681,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="signed_rule_two">2. Només es pot obtenir 1 augment de velocitat Xunyou al mes.</string>
   <string name="sim_location_diagnostic">Diagnòstic d\'ubicació</string>
   <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
-  <string name="sim_location_error_notify_message">Premi per canviar d\'ubicació SIM.</string>
+  <string name="sim_location_error_notify_message">Toqueu per canviar la ubicació de la SIM.</string>
   <string name="sim_location_error_notify_title">Error de la targeta SIM</string>
   <string name="sim_not_ready_toast">"La targeta SIM no està preparada"</string>
   <string name="sim_state_exception_summary">Estat de la SIM indica que alguna cosa pot estar malament amb la targeta SIM.</string>
@@ -1920,22 +1920,22 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Llista de bloqueig</string>
   <string name="tc_cmd_invalid">La plantilla no és vàlida</string>
-  <string name="tc_diagnostic_all_error_notification_summary">Premi per informar d\'algun problema</string>
+  <string name="tc_diagnostic_all_error_notification_summary">Toqueu per informar d\'algun problema</string>
   <string name="tc_diagnostic_all_error_notification_title">"No s'ha pogut fer un diagnòstic complet"</string>
-  <string name="tc_diagnostic_brand_error_notification_summary">Premi per ajustar el tipus de xarxa</string>
+  <string name="tc_diagnostic_brand_error_notification_summary">Toqueu per configurar el tipus de xarxa</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipus de xarxa incorrecte</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultat: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Fet</string>
   <string name="tc_diagnostic_fragment_default">"Quant al diagnòstic
 1. El dispositiu es connectarà a la xarxa de l\'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts.
 2. Podreu sortir d\'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
-  <string name="tc_diagnostic_location_error_notification_summary">Premi per ajustar la ubicació</string>
+  <string name="tc_diagnostic_location_error_notification_summary">Toqueu per configurar la ubicació</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicació incorrecta</string>
-  <string name="tc_diagnostic_notification_sumarry">Premi per veure els resultats</string>
+  <string name="tc_diagnostic_notification_sumarry">Toqueu per veure els resultats</string>
   <string name="tc_diagnostic_notification_summary">"No s'ha pogut ajustar 5 vegades en una fila. Tocar per iniciar el diagnòstic."</string>
   <string name="tc_diagnostic_notification_title">Diagnosticar operador</string>
   <string name="tc_diagnostic_onekey_repair_botton">Arregla</string>
-  <string name="tc_diagnostic_operator_error_notification_summary">Premi per canviar paràmetres d\'operador</string>
+  <string name="tc_diagnostic_operator_error_notification_summary">Toqueu per canviar els paràmetres d\'operador</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operador incorrecte</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Estbalir operaor: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Fixar i continuarà</string>
@@ -2134,8 +2134,8 @@ Dades extres en ús"</string>
   <string name="traffic_limit_error_alert_package">Dades restants inclouen dades que s\'han passat del mes anterior.</string>
   <string name="traffic_limit_error_alert_title">Recordatori límit de dades %s</string>
   <string name="traffic_none">Cap</string>
-  <string name="traffic_over_purchase_link">"Ha arribat al límit d'ús del pla de dades mòbils.&lt;br/&gt;Si sobrepassa el límit d'ús del pla de dades mòbils, el seu operador podria cobrar despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Premi per recarregar el seu saldo.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
-  <string name="traffic_purchase_body">Premi per recarregar el seu saldo.</string>
+  <string name="traffic_over_purchase_link">"Heu assolit el límit d'ús del pla de dades.&lt;br/&gt;Si sobrepasseu el límit d'ús del pla de dades, el vostre operador podria cobrar-vos despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Toqueu per recarregar el vostre saldo.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_purchase_body">Toqueu per recarregar el saldo.</string>
   <string name="traffic_setting_fragment_area">Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
