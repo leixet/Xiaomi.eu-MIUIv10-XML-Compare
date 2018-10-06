@@ -3125,7 +3125,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="print_settings_summary_no_service">Desactivat</string>
   <string name="print_settings_title">Serveis d\'impressió</string>
   <string name="printer_info_desc">Més informació sobre aquesta impressora</string>
-  <string name="priority_storage_app_settings">Les dades de %1$s es guardaran en</string>
+  <string name="priority_storage_app_settings">Les dades es desaran a %1$s</string>
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
