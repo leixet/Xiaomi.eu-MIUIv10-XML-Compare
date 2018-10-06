@@ -235,7 +235,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_edit_title_edit">Edita el contacte</string>
   <string name="contact_edit_title_insert">Afegeix a contactes %s</string>
   <string name="contact_edit_title_readonly">Contacte de nomes lectura</string>
-  <string name="contact_editor_prompt_multiple_accounts">Seleccioneu un compte de contacte per guardar a</string>
+  <string name="contact_editor_prompt_multiple_accounts">Desa el contacte a</string>
   <string name="contact_editor_prompt_one_account">El nou contacte serà %1$s sincronitzat</string>
   <string name="contact_editor_prompt_zero_accounts">Desa al mòbil o en un compte en línia</string>
   <string name="contact_import_methods_dialog_title">Seleccioneu el mètode d\'importació</string>
