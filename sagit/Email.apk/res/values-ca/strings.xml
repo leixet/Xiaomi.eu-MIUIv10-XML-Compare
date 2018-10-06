@@ -205,7 +205,7 @@
   <string name="attachment_size_exceed_limit">"Sembla que la mida va superar el límit del servidor"</string>
   <string name="attachment_stop_all">Aturar</string>
   <string name="attachment_text">Text</string>
-  <string name="attachment_type_blocked">"Per desgràcia, no es pot guardar o obrir aquest tipus de fitxer adjunt."</string>
+  <string name="attachment_type_blocked">"Malauradament, no podeu desar ni obrir aquest tipus de fitxer adjunt."</string>
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Fitxers adjunts</string>
