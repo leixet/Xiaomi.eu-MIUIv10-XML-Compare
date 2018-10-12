@@ -357,7 +357,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_skip_login">Omet</string>
   <string name="passport_skip_register">Omet el registre</string>
   <string name="passport_skip_setup_account_msg">Podeu configurar després un compte Mi a Configuració.</string>
-  <string name="passport_skip_setup_account_title">Omet configuració</string>
   <string name="passport_sms_send_success">Enviat</string>
   <string name="passport_sms_verification_code_login">Inicia sessió mitjançant un SMS</string>
   <string name="passport_sync_account_data">S\'està sincronitzant la informació del compte…</string>
