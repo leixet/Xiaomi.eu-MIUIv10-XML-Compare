@@ -212,7 +212,6 @@
   <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">Aquell dia a les %2$s</string>
   <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
-  <string name="event_reminders_to_max">Podeu configurar %d recordatoris com a màxim</string>
   <string name="event_title">Títol</string>
   <string name="event_view">Mostra l\'esdeveniment</string>
   <string name="every_weekday">Entre setmana (dl.-dv.)</string>
