@@ -71,7 +71,6 @@
   <string name="content_desc_activity_main_more_settings">Més configuracions</string>
   <string name="content_desc_back_button">Enrera</string>
   <string name="content_desc_close_button">Tanca</string>
-  <string name="content_desc_edit_city_manage">Gestiona les ciutats</string>
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
