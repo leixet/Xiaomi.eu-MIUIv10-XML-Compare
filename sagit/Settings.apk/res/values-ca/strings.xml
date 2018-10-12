@@ -2304,7 +2304,6 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_choose_your_pin_header">Estableix el PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">«Configura el PIN 
  pel segon espai»</string>
-  <string name="lockpassword_choose_your_pin_title">Introduïu 4-16 dígits</string>
   <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
   <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
   <string name="lockpassword_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
@@ -4638,7 +4637,6 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_password_title">Contrasenya</string>
   <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
   <string name="unlock_set_unlock_pattern_title">Patró</string>
-  <string name="unlock_set_unlock_pin_summary">Per a desbloquejar-lo introduïu 4 números</string>
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
