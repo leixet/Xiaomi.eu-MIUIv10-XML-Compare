@@ -9,10 +9,6 @@
     <item quantity="other">S\'està cercant portades de discos i lletres (%1$d/%2$d)</item>
     <item quantity="one">S\'està cercant portades de discos i lletres (%1$d/%2$d)</item>
   </plurals>
-  <plurals name="Nbackup_songs">
-    <item quantity="other">Còpia de seguretat de les cançons, %1$d cançons restants (%2$.1fMB)</item>
-    <item quantity="one">Còpia de seguretat de la cançó, %1$d cançó restant (%2$.1fMB)</item>
-  </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">El reproductor pararà a %d minuts</item>
     <item quantity="one">El reproductor pararà a %d minut</item>
@@ -22,10 +18,6 @@
 %2$d cançons en total"</item>
     <item quantity="one">"Creat el %1$s 
 %2$d cançó en total"</item>
-  </plurals>
-  <plurals name="Nstop_backup_songs_message">
-    <item quantity="other">"%d cançons no s'han copiat al Mi Cloud. Voleu aturar-la?"</item>
-    <item quantity="one">"%d cançó no s'ha copiat al Mi Cloud. Voleu aturar-la?"</item>
   </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d cançons afegides a la llista de reproducció</item>
@@ -43,14 +35,6 @@
     <item quantity="other">%d cançons similars</item>
     <item quantity="one">%d cançó similar</item>
   </plurals>
-  <plurals name="Nunbackup_audios">
-    <item quantity="other">"%1$d cançons no s'han copiat (%2$.1fMB)"</item>
-    <item quantity="one">"%1$d cançó no s'ha copiat (%2$.1fMB)"</item>
-  </plurals>
-  <plurals name="Nupload_song_button">
-    <item quantity="other">Còpia de seguretat de %1$d cançons (%2$.1fMB)</item>
-    <item quantity="one">Còpia de seguretat de %1$d cançó (%2$.1fMB)</item>
-  </plurals>
   <plurals name="comment_count">
     <item quantity="other">%d comentaris</item>
     <item quantity="one">%d comentari</item>
@@ -66,10 +50,6 @@
   <plurals name="dialog_remove_descript">
     <item quantity="other">Voleu treure %d cançons?</item>
     <item quantity="one">Voleu treure %d cançó?</item>
-  </plurals>
-  <plurals name="dialog_remove_from_cloud_descript">
-    <item quantity="other">Voleu eliminar %d cançons del Mi Cloud?</item>
-    <item quantity="one">Voleu eliminar %d cançó del Mi Cloud?</item>
   </plurals>
   <plurals name="download_finished">
     <item quantity="other">&lt;font color==\"red\"&gt;%d cançons&lt;/font&gt; baixades</item>
