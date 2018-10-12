@@ -35,7 +35,6 @@
   <string name="action_menu_text_bandwidth_off">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_on">Estalvi de dades</string>
   <string name="action_menu_text_bookmark_add_off">"No es pot afegir cap pàgina web."</string>
-  <string name="action_menu_text_bookmark_added">S\'ha afegit un marcador</string>
   <string name="action_menu_text_copy_url">Copia l\'URL</string>
   <string name="action_menu_text_create_qr_code">Codi QR</string>
   <string name="action_menu_text_download">Gestiona les baixades</string>
@@ -212,7 +211,6 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
 està a punt de passar»</string>
-  <string name="data_monitor">Monitor d\'ús de dades</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
   <string name="data_traffic_continue">Continua</string>
   <string name="data_traffic_goto">Trànsit de dades gratuït</string>
@@ -353,22 +351,17 @@ està a punt de passar»</string>
   <string name="green_kid_block_request">L\'accés a aquest lloc web està restringit.</string>
   <string name="guide_chosen_type_main_title">Expliqueu-nos què us agrada</string>
   <string name="guide_chosen_type_subtitle">Per obtenir consells apropiats indiqueu els vostres interessos</string>
-  <string name="guide_entertainment_text">entreteniment</string>
   <string name="guide_fashion_text">moda</string>
   <string name="guide_finance_text">finances</string>
   <string name="guide_games_text">jocs</string>
   <string name="guide_history_text">historia</string>
-  <string name="guide_human_type_main_title">El navegador que us entén</string>
-  <string name="guide_human_type_subtitle">Obteniu consells sorprenents</string>
   <string name="guide_label_chosen_hint">Podeu triar a més de %d categories</string>
   <string name="guide_military_text">militar</string>
   <string name="guide_motor_text">motor</string>
   <string name="guide_politics_text">política</string>
-  <string name="guide_rocket_type_subtitle">Velocitat increïble, interfície d\'usuari fluida</string>
   <string name="guide_skip">Omet</string>
   <string name="guide_sports_text">esports</string>
   <string name="guide_start_experience">Inicia</string>
-  <string name="guide_tech_text">tecnologia</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
   <string name="history">Historial</string>
@@ -906,7 +899,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restaura la ubicació per defecte</string>
   <string name="pref_file_download_default_path_prefix">Ubicació per defecte: %s</string>
   <string name="pref_file_download_save_modify_default_path">Ubicació de les baixades</string>
-  <string name="pref_file_download_save_title">Baixades</string>
   <string name="pref_fling_on_border">Feu lliscar des de la vora</string>
   <string name="pref_fling_on_border_title_summary">Feu lliscar des de la vora esquerra o dreta de la pantalla</string>
   <string name="pref_font_size_category">Mida del text de la pàgina web</string>
@@ -960,7 +952,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_security_show_security_warning">Mostra els avisos de seguretat</string>
   <string name="pref_security_show_security_warning_summary">"Mostra un avís si hi ha un problema amb el certificat d'un lloc"</string>
   <string name="pref_set_homepage_to">Estableix a</string>
-  <string name="pref_setting_title">Configuració de pàgina</string>
   <string name="pref_ua_string">Cadena d\'agent d\'usuari</string>
   <string name="pref_version_info">Informació de la versió</string>
   <string name="pref_volume_key_action">Desplaça utilitzant els botons de volum</string>
