@@ -596,7 +596,6 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="recents_app_info_button_label">Informació de l\'aplicació</string>
   <string name="recents_caption_resize">Selecciona el disseny de la tasca nova</string>
-  <string name="recents_drag_hint_message">Arrossegueu elements aquí</string>
   <string name="recents_empty_message">No hi ha cap element recent</string>
   <string name="recents_empty_message_dismissed_all">"Heu eliminat tots els elements"</string>
   <string name="recents_empty_message_multi_window">Obriu les aplicacions des de la pantalla d\'inici</string>
