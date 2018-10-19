@@ -574,7 +574,6 @@
   <string name="descx_quick_scan_cancel">S\'ha cancel·lat l\'escaneig</string>
   <string name="descx_quick_scan_preparation">Un moment…</string>
   <string name="detail_app_button">Informació de l\'aplicació</string>
-  <string name="details_subtitle">Detalls d\'us</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu-ho a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
@@ -1561,7 +1560,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="report_error">"No s'ha pogut informar del missatge"</string>
   <string name="report_only">Trieu un missatge per notificar</string>
   <string name="report_success">Missatge notificat</string>
-  <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
   <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
   <string name="resource_antivirus">Anàlisi de virus</string>
@@ -1973,7 +1971,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_sms_report_receive_num">Número del receptor</string>
   <string name="tc_sms_report_send_num">Número de l\'operador</string>
   <string name="tc_sms_report_summary">Ajudeu-nos a millorar aquesta característica, enviant-nos un informe quan la informació del seu ús de dades és incorrecta o no s\'actualitza.</string>
-  <string name="tc_sms_report_tips_dialog_message">"S'enviarà un SMS per obtenir la informació d'ús de dades més recent del vostre operador. Si creieu que la informació no és correcta, envieu-nos els vostres comentaris."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
   <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
   <string name="tc_sms_report_toast_text">Obtenint informació&#8230;</string>
