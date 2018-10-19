@@ -195,7 +195,6 @@
   <string name="volume_button_setting_title">Botons de volum</string>
   <string name="workday_alarm_clock">Alarma de dia laboral</string>
   <string name="worldclock_empty_text">Sense rellotges</string>
-  <string name="worldclock_input_hint_text">Introduïu la ciutat</string>
   <string name="worldclock_search_city">Trieu una ciutat</string>
   <string name="worldclock_title">Hora</string>
   <string name="worldclock_world_time">Fus horari</string>
