@@ -241,7 +241,7 @@
   <string name="empty_recharge_card_title">Sense dades</string>
   <string name="entrance">Targeta de dreceres</string>
   <string name="error_share_not_support">"Aquests elements no s'admeten als preferits."</string>
-  <string name="exercise_setting_brief">Mesura la distància i compte els passos que feu diàriament</string>
+  <string name="exercise_setting_brief">Mesura la distància i compta les passes que feu diàriament</string>
   <string name="exercise_setting_misport_detail">Mesura la distància i compta els passos que feu diàriament (Permeteu que el Mi Fit s\'engegui automàticament a Seguretat - Permisos).</string>
   <string name="express">Lliurament urgent</string>
   <string name="express_add_new_address">Afegeix una adreça</string>
