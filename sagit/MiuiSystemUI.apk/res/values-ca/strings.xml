@@ -687,11 +687,6 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
   <string name="start_dreams">Protector de pantalla</string>
   <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
-  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-  <string name="status_bar_date_format">"EEEE
-d MMMM"</string>
-  <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
   <string name="status_bar_network_flow_content">"Avui: %1$s   Restant: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Avui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedit del pla: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Límit mensual: %1$s"</string>
