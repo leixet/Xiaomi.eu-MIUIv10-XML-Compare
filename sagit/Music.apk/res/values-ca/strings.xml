@@ -33,13 +33,11 @@
   <string name="already_favorited">Ja està als preferits</string>
   <string name="app_label">Baixades</string>
   <string name="artist">Artistes</string>
-  <string name="artist_album">Àlbums</string>
   <string name="artist_area_all">Tots</string>
   <string name="artist_area_china">Xina</string>
   <string name="artist_area_europe_usa">Europa/Estats Units</string>
   <string name="artist_area_japan">Japó</string>
   <string name="artist_area_korea">Corea</string>
-  <string name="artist_favor">Destacat</string>
   <string name="artist_gender_all">Tots</string>
   <string name="artist_gender_female">Femení</string>
   <string name="artist_gender_group">Grup</string>
@@ -47,7 +45,6 @@
   <string name="artist_home_search_hint">Cerca d\'artistes</string>
   <string name="artist_is_empty">El nom de l\'artista no pot estar buit.</string>
   <string name="artist_name">Artista</string>
-  <string name="artist_news">Notícies</string>
   <string name="audio_picker_title">Trieu una cançó</string>
   <string name="available_playlist_name_format">Nova llista de reproducció %d</string>
   <string name="avoid_to_use_traffic_summary">"No utilitzar dades mòbils per escoltar música per transmissió"</string>
@@ -90,9 +87,6 @@
   <string name="confirm_exit">Voleu desar els canvis?</string>
   <string name="connecting_apk">S\'està connectant…</string>
   <string name="count_format">%2$1.1f K</string>
-  <string name="cp_info_first">«El servei de retransmissió de música
-és principalment proveït per Ultimate Inc.»</string>
-  <string name="create_order_fail">"No s'ha pogut crear l'ordre, torneu-ho a provar."</string>
   <string name="create_playlist">Crea una llista de reproducció</string>
   <string name="create_playlist_failure">"No s'ha pogut crear la llista de reproducció "</string>
   <string name="current_album">Portada de l\'àlbum actual</string>
@@ -141,7 +135,6 @@
   <string name="dialog_title_queued_body">El fitxer encara no està disponible</string>
   <string name="dialog_title_remove_tracks">Elimina</string>
   <string name="disallow_add_to_fm">"No es poden afegir cançons a la ràdio FM"</string>
-  <string name="disallow_add_to_personal_radio">"No es poden afegir cançons a la ràdio personal"</string>
   <string name="download">Baixa</string>
   <string name="download_added_to_list">Afegit a la llista de baixades</string>
   <string name="download_apk_desktop_installing">S\'està instal·lant</string>
@@ -265,7 +258,6 @@
   <string name="impunity_declaration_summary">Mostra les condicions del servei cada vegada que s\'obre l\'aplicació Música</string>
   <string name="impunity_declaration_title">Termes d\'ús</string>
   <string name="in_searching_please_wait">S\'està cercant&#8230;</string>
-  <string name="individuation_recommend_message">Activeu les recomanacions per rebre suggeriments personalitzats segons les vostres preferències.</string>
   <string name="individuation_recommend_switch_message">En desactivar aquesta característica, es veuran afectats els serveis personalitzats de Música Mi. Voleu desactivar-la de totes maneres?</string>
   <string name="individuation_recommend_title">Recomanacions</string>
   <string name="input_hint_prefix">Introduïu %1$s</string>
@@ -274,11 +266,6 @@
   <string name="is_scanning">S\'està comprovant l\'emmagatzematge&#8230;</string>
   <string name="is_scanning_support_online">«S\'està comprovant l\'emmagatzematge&#8230;
 (Mentrestant podeu fer la transmissió de música en línia)»</string>
-  <string name="karaoke_message">Baixeu i instal·leu el complement Karaoke per utilitzar aquesta característica.</string>
-  <string name="karaoke_my_studio">El meu estudi</string>
-  <string name="karaoke_negative_text">Més tard</string>
-  <string name="karaoke_positive_text">D\'acord</string>
-  <string name="karaoke_title">Presentant el Karaoke</string>
   <string name="keep_queued_download">Manté</string>
   <string name="ktv_playlist">Llista de reproducció de KTV</string>
   <string name="latest_song">Històric de reproducció (%d)</string>
@@ -292,8 +279,6 @@
   <string name="local_music_is_not_available">"No teniu cançons al dispositiu."</string>
   <string name="local_page_album_more">Mostra-ho tot</string>
   <string name="local_page_artist_more">Més cançons de %s</string>
-  <string name="local_page_custom_subtitle">Noves cançons cada dia</string>
-  <string name="local_page_custom_title">Per a vós</string>
   <string name="local_page_playlist">Llistes de reproducció</string>
   <string name="local_page_song_download_history">Baixades</string>
   <string name="lrc_search_failed">"No s'han pogut trobar les lletres"</string>
@@ -325,7 +310,6 @@
   <string name="miuishare_account_login_ok">Inicia la sessió</string>
   <string name="miuishare_no_network">"No es pot connectar a la xarxa"</string>
   <string name="miuishare_publish">Envia</string>
-  <string name="miuishare_share_done">Compartit amb èxit</string>
   <string name="miuishare_share_editor_title">Comparteix</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Comparteix</string>
@@ -346,9 +330,7 @@
   <string name="my_account">Compte Mi</string>
   <string name="my_music_empty">Llista de reproducció buida.</string>
   <string name="my_music_empty_goto_online">No s\'han trobat cançons</string>
-  <string name="nav_online_playlist">Llistes de reproducció</string>
   <string name="network_error_and_retry">"No s'ha pogut connectar, premeu per tornar-ho a intentar"</string>
-  <string name="network_failure">Comproveu la vostra connexió i torneu-ho a provar.</string>
   <string name="network_request_error">"No es pot connectar a la xarxa"</string>
   <string name="network_settings_error">"No es pot connectar a la xarxa"</string>
   <string name="network_traffic">Ús de dades</string>
@@ -360,7 +342,6 @@
   <string name="no_local_songs">Buit</string>
   <string name="no_local_songs_selected">"No es poden enviar les cançons perquè no han estat baixades"</string>
   <string name="no_local_source_find">"No s'ha pogut trobar la cançó"</string>
-  <string name="no_online_song_selected">No hi ha cançons seleccionades</string>
   <string name="no_results_return">Sense resultats de la cerca</string>
   <string name="no_scanned_songs">Buit</string>
   <string name="no_system_cropper_find">"El sistema no té una eina per escapçar imatges"</string>
@@ -465,14 +446,12 @@
   <string name="search_hint">Cerca</string>
   <string name="search_history_clear_all">Neteja</string>
   <string name="search_instant_online_music">En línia</string>
-  <string name="search_title">Cerca</string>
   <string name="select_all">Seleccioneu-ho tot</string>
   <string name="select_device">Seleccioneu un dispositiu</string>
   <string name="select_displayed_folders">Trieu les carpetes a mostrar</string>
   <string name="select_none">Desselecciona-ho tot</string>
   <string name="selected_count">Seleccionats %1$d de %2$d</string>
   <string name="send_to_title">Envia a (%1$s)</string>
-  <string name="server_error">S\'ha produït un error, espereu un minut o dos i torneu-ho a provar.</string>
   <string name="service_and_settings">Servei i configuració</string>
   <string name="set_as_ring">Estableix com a to de trucada</string>
   <string name="set_ringtones_failed">"No s'ha pogut establir el to de trucada"</string>
@@ -516,7 +495,6 @@
   <string name="storage_internal">Emmagatzematge intern</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
-  <string name="stream_quality">Qualitat de la transmissió</string>
   <string name="streamloadingtext">S\'està connectant amb %s</string>
   <string name="tab_album">Àlbums</string>
   <string name="tab_album_list">Àlbums</string>
