@@ -1414,7 +1414,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="dialog_title_hdmi_color_calibration">Mode de correcció de color</string>
   <string name="dialog_title_login">Inicieu la sessió al compte Mi</string>
   <string name="dialog_yes">Sí</string>
-  <string name="direct_boot_unaware_dialog_message">"Nota: podeu utilitzar aquest teclat després d'un reinici només si desbloquejeu el dispositiu."</string>
   <string name="disableNetwork">desactiva la xarxa</string>
   <string name="disable_overlays">Desactiva les superposicions HW</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
