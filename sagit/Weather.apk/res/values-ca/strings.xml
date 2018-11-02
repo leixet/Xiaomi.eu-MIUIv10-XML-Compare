@@ -15,7 +15,6 @@
   <string name="act_weather_find_city_no_result">No s\'ha trobat res</string>
   <string name="act_weather_find_city_searching">S\'està cercant&#8230;</string>
   <string name="activity_find_city_dialog_cancel">Cancel·la</string>
-  <string name="activity_find_city_dialog_message">Deixeu que «El temps» vegi la vostra ubicació</string>
   <string name="activity_find_city_dialog_set">Configuració</string>
   <string name="activity_find_city_dialog_title">Accés a la ubicació</string>
   <string name="activity_main_update_time">Actualitzat %1$s</string>
@@ -82,16 +81,11 @@
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
-  <string name="data_provided_by">Dades proporcionades per</string>
   <string name="edit_city">Edita la ciutat</string>
   <string name="eu_region_version_first_start_network_msg">"En utilitzar aquest producte, accepteu que Xiaomi recopilarà, processarà i utilitzarà informació personal, incloses les coordenades de les ciutats que cerqueu i altres tipus de dades especificades a la nostra política de privadesa. Consulteu la nostra política de privadesa per obtenir informació sobre com recopilem i processem la informació. Si toqueu «D'acord», accepteu la %1$s i %2$s de Xaiomi."</string>
-  <string name="feedback_heavy_rain">Pluja forta</string>
-  <string name="feedback_heavy_snow">Neu</string>
-  <string name="feedback_light_rain">Pluja feble</string>
   <string name="feedback_overcast">Cobert</string>
   <string name="feedback_result_fail_no_choice">Trieu el temps que veieu</string>
   <string name="feedback_result_success">S\'ha enviat amb èxit, gràcies pels vostres comentaris</string>
-  <string name="feedback_sand">Sorra</string>
   <string name="feedback_sunny">Serè</string>
   <string name="first_start_network_title">Accés a la connexió a Internet i a la ubicació</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
