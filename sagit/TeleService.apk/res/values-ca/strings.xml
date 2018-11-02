@@ -973,7 +973,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="number">Número</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
-  <string name="ok">D\'acord </string>
+  <string name="ok">D\'acord</string>
   <string name="oldPin2Label">PIN2 antic</string>
   <string name="oldPinLabel">PIN antic</string>
   <string name="old_password_label">Contrasenya anterior de 4 dígits</string>
@@ -1009,7 +1009,7 @@ Pot trigar uns 5 minuts."</string>
   <string name="ota_speaker">Altaveu</string>
   <string name="ota_successful">El vostre telèfon ja està activat. El servei podria trigar uns a 15 minuts en iniciar-se.</string>
   <string name="ota_title_activate">Activació del vostre telèfon</string>
-  <string name="ota_title_activate_success">El telèfon està activat. </string>
+  <string name="ota_title_activate_success">El telèfon està activat.</string>
   <string name="ota_title_problem_with_activation">Problema d\'activació</string>
   <string name="ota_touch_activate">"Es necessita fer una trucada especial per activar el servei del vostre telèfon
 
@@ -1086,7 +1086,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pin2_attempts">Us queden %d intents.</string>
-  <string name="pin2_changed">S\'ha canviat el PIN2 satisfactòriament. </string>
+  <string name="pin2_changed">S\'ha canviat el PIN2 satisfactòriament.</string>
   <string name="pin2_error_exception">Error de xarxa o de targeta SIM</string>
   <string name="pin2_invalid">"NMP no s'actualitza perquè el PIN introduït és incorrecte."</string>
   <string name="pin2_invalid_or_name_is_too_long">Heu introduït un PIN incorrecte o el nom que heu introduït és massa llarg.</string>
@@ -1476,7 +1476,6 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_option_title">Mode TTY</string>
   <string name="turn_off_dual_4g_failed">"No s'ha pogut desactivar el 4G dual."</string>
   <string name="turn_on_dual_4g_failed">"No s'ha pogut activar el 4G dual."</string>
-  <string name="turnover_mute_summary">Quan el telèfon està en una superfície horitzontal amb la pantalla cap amunt, torneu-lo a fer per silenciar les trucades.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>
