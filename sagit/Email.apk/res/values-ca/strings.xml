@@ -859,7 +859,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="quote_divider_5">-----------S\'utilitza per fer referència a la línia divisòria-------------</string>
   <string name="quote_divider_6">---Original---</string>
   <string name="quote_divider_7">Missatge original</string>
-  <string name="quote_divider_apple"> &gt;</string>
+  <string name="quote_divider_apple">&gt;</string>
   <string name="quote_divider_huawei_zh">De Huawei</string>
   <string name="quote_divider_iphone_en">Enviat des del meu iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Comença el missatge reenviat:</string>
@@ -984,7 +984,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="show_elided">▶ Mostra text citat</string>
   <string name="show_images">Baixa i mostra les imatges</string>
   <string name="show_password">Mostra la contrasenya</string>
-  <string name="signature"> %s</string>
+  <string name="signature">%s</string>
   <string name="signature_black_shark">Enviat des del meu telèfon Blackshark</string>
   <string name="silent_ringtone">Silenciós</string>
   <string name="single_new_message_notification_big_text">"%1$s 
