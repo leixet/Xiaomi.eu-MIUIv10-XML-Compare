@@ -6,7 +6,6 @@
   <string name="activity_not_found_uri">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
   <string name="addBlackList">Bloqueja</string>
   <string name="add_attachment">Afegeix fitxers adjunts</string>
-  <string name="add_miui_contact">Targeta Mi</string>
   <string name="add_music">Afegeix música</string>
   <string name="add_number_to_sender">Afegeix número a %s</string>
   <string name="add_picture">Afegeix imatge</string>
