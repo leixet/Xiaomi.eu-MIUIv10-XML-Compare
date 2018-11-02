@@ -185,7 +185,7 @@
   <string name="confirm_delete_contact_all_call_logs">"Esborrar registre de trucades?"</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_sim_entry_miui_title">Esborra</string>
-  <string name="confirm_export_message"> La seva llista de contactes s\'exportarà al fitxer: %s.</string>
+  <string name="confirm_export_message">La seva llista de contactes s\'exportarà al fitxer: %s.</string>
   <string name="confirm_export_title">Exportar els contactes?</string>
   <string name="connections">Connexions</string>
   <string name="contactDetailAbout">Quant a</string>
@@ -220,7 +220,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_miprofile_save_fail_toast">"No s'ha pogut obtenir la targeta de contacte"</string>
   <string name="contact_detail_miprofile_save_success_toast">Targeta de contacte rebuda</string>
   <string name="contact_detail_miprofile_settings_header">CONFIGURACIÓ ADDICIONAL</string>
-  <string name="contact_detail_miprofile_subtitle">Ja s\'han intercanviat les targetes </string>
+  <string name="contact_detail_miprofile_subtitle">Ja s\'han intercanviat les targetes</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"No s'ha pogut connectar a la xarxa"</string>
   <string name="contact_detail_profile_switch_fail_toast">Alguna cosa va anar malament amb el nostre servidor</string>
   <string name="contact_detail_profile_switch_off">Apagar targetes de contacte</string>
@@ -462,7 +462,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="frequentList">Freqüents</string>
   <string name="full_name">Nom</string>
   <string name="gallery">Galeria</string>
-  <string name="generic_no_account_prompt">Mantenir els contactes segurs fins i tot si perds el teu telèfon: sincronitzar amb un servei en línia. </string>
+  <string name="generic_no_account_prompt">Mantenir els contactes segurs fins i tot si perds el teu telèfon: sincronitzar amb un servei en línia.</string>
   <string name="generic_no_account_prompt_title">Afegeix un compte</string>
   <string name="ghostData_company">Empresa</string>
   <string name="ghostData_title">Títol</string>
@@ -497,7 +497,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="ic_menu_back">Enrere</string>
   <string name="ic_menu_done">Fet</string>
   <string name="imLabelsGroup">MI</string>
-  <string name="imei">IMEI: </string>
+  <string name="imei">IMEI:</string>
   <string name="imei_invalid">L\'IMEI no és vàlid</string>
   <string name="import_all_sim_entries_miui">Importa tots els contactes</string>
   <string name="import_all_vcard_string">Importa tots els fitxers vCard</string>
@@ -570,7 +570,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="map_home">Veure adreça de domicili</string>
   <string name="map_other">Veure adreça</string>
   <string name="map_work">Veure adreça de treball</string>
-  <string name="meid">MEID: </string>
+  <string name="meid">MEID:</string>
   <string name="meid_invalid">L\'IMEI no és vàlid</string>
   <string name="menuMoreDescription">Més</string>
   <string name="menu_accounts">Comptes</string>
@@ -1008,7 +1008,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="simContacts_emptyLoading">Carregant contactes de la targeta SIM&#8230;</string>
   <string name="simContacts_title">Contactes de la targeta SIM</string>
   <string name="sim_capacity">Veure la capacitat de la targeta SIM</string>
-  <string name="sim_capacity_content" formatted="false">Capacitat total %d | Usada %d </string>
+  <string name="sim_capacity_content" formatted="false">Capacitat total %d | Usada %d</string>
   <string name="sim_card_no_free_space_message">No hi ha prou espai</string>
   <string name="sim_card_no_free_space_title">Targeta SIM plena</string>
   <string name="sim_contact_existing">El contacte ja existeix</string>
