@@ -50,7 +50,7 @@
         <item quantity="one">La targeta SIM pot emmagatzemar %1$d contacte.</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">%1$d contactes afegits</item>
+        <item quantity="other"> %1$d contactes afegits</item>
         <item quantity="one">%1$d contacte afegit</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
