@@ -446,13 +446,13 @@
   <string name="phone_send_code_again">Obtenir codi de nou</string>
   <string name="phone_send_code_tip">Envia una altra vegada a %1$ds</string>
   <string name="phone_storage">Emmagatzematge</string>
-  <string name="phone_storage_apk_title">APK:</string>
+  <string name="phone_storage_apk_title">APK: </string>
   <string name="phone_storage_audio_title">Musica: </string>
   <string name="phone_storage_cal">Comprovant&#8230;</string>
   <string name="phone_storage_clean">Neteja</string>
   <string name="phone_storage_doc_title">Documents:&#160;</string>
   <string name="phone_storage_free_title">Disponible:&#160;</string>
-  <string name="phone_storage_image_title">Imatges:</string>
+  <string name="phone_storage_image_title">Imatges: </string>
   <string name="phone_storage_info_str">%1$s de %2$s disponibles</string>
   <string name="phone_storage_other_title">Altres:&#160;</string>
   <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en l'Explorador Mi podria diferir d'altres aplicacions"</string>
@@ -681,7 +681,7 @@
   <string name="upload_video_success_progress">S\'ha pujat amb èxit</string>
   <string name="uploading_video">Pujant vídeo&#8230;</string>
   <string name="usb_label">USB</string>
-  <string name="used">Usat</string>
+  <string name="used">Usat </string>
   <string name="user">Usuaris</string>
   <string name="user_cancel">Cancel·lat</string>
   <string name="user_center_title">Inici</string>
