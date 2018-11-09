@@ -34,7 +34,8 @@
   <string name="error_server">Error del servidor</string>
   <string name="error_unknown">"No es pot iniciar sessió"</string>
   <string name="find_device">Troba el dispositiu</string>
-  <string name="find_device_dspt_provision">\"Si perd el seu dispositiu, pot anar a %s per localitzar, bloquejar o reiniciar-lo. Aquestes funcions les pot activar o desactivar de qualsevol moment a Configuració.\"</string>
+  <string name="find_device_dspt_provision">\"Si perd el seu dispositiu, pot anar a %s per localitzar, bloquejar o reiniciar-lo. Aquestes funcions les pot activar o desactivar de qualsevol moment a Configuració.\"
+  </string>
   <string name="find_device_error_network">Comproveu la connexió de dades i torneu a provar.</string>
   <string name="find_device_error_server">Alguna cosa va fallar en els nostres servidors.</string>
   <string name="find_device_gdpr_prompt">En activar Cerca el dispositiu, accepteu la nostra Política de privadesa. Si heu de revocar l\'autorització de privacitat, desactiveu aquesta característica.</string>
@@ -83,7 +84,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_title">"Sembla que has canviat les targetes SIM. Inicia la sessió 
 amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_account_hint">"Els canvis que facis en aquest dispositiu se sincronitzaran a tots els teus dispositius. Per protegir el teu compte, recomanem que apaguis la sincronització per a altres dispositius quan no els estiguis utilitzant."</string>
-  <string name="micloud_confusion_account_name">ID de compte Mi:</string>
+  <string name="micloud_confusion_account_name">ID de compte Mi: </string>
   <string name="micloud_confusion_account_notify_text">El teu compte Mi ha estat modificada des d\'un altre dispositiu.</string>
   <string name="micloud_confusion_account_notify_title">Comprovar compte</string>
   <string name="micloud_confusion_account_question">Aquesta ID %s de compte de Mi et pertany?</string>
