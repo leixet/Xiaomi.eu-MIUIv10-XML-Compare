@@ -850,7 +850,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pay_failed_toast">"No s'ha pogut completar el pagament"</string>
   <string name="pay_success_toast">S\'ha pagat correctament</string>
   <string name="permission_notification">envia les notificacions</string>
-  <string name="permissions_prompt_message">%s vol</string>
+  <string name="permissions_prompt_message">%s vol </string>
   <string name="play_pause_video">Reprodueix o pausa el vídeo</string>
   <string name="play_video">Reprodueix el vídeo</string>
   <string name="popup_video">Vídeo emergent</string>
