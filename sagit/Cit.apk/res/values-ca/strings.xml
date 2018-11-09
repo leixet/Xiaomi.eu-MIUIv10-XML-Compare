@@ -145,7 +145,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_build_finger_failed">HA FALLAT la creació de l\'empremta</string>
   <string name="cit_build_finger_passed">Creació de l\'empremta CORRECTA</string>
   <string name="cit_button_light_off">Llum dels botons apagada</string>
-  <string name="cit_button_light_on">Llum dels botons encesa</string>
+  <string name="cit_button_light_on"> Llum dels botons encesa</string>
   <string name="cit_calibration_fail">Error de calibratge</string>
   <string name="cit_calibration_pass">Calibratge realitzat</string>
   <string name="cit_camera_calibration_summary">"Instruccions de la prova: 
