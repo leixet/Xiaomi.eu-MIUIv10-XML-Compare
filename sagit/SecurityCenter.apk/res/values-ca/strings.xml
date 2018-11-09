@@ -142,7 +142,7 @@
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
   <string name="app_manager_app_update">Actualitzacions</string>
-  <string name="app_manager_app_version_name">Versió:</string>
+  <string name="app_manager_app_version_name">Versió: </string>
   <string name="app_manager_appupdate_remind">Notifica sobre actualitzacions</string>
   <string name="app_manager_as_dlg_msg">En permetre que les aplicacions s\'iniciïn automàticament poden requerir recursos addicionals de memòria RAM i bateria. Voleu permetre-ho de totes maneres?</string>
   <string name="app_manager_as_dlg_title">Atenció</string>
@@ -649,8 +649,8 @@
   <string name="dont_bore">"No deixeu que els botons i les notificacions us distreguin"</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
-  <string name="dual_setting_simcard1">SIM 1</string>
-  <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_setting_simcard1">SIM 1 </string>
+  <string name="dual_setting_simcard2">SIM 2 </string>
   <string name="email">Correu electrònic</string>
   <string name="empty_app">No hi ha aplicacions</string>
   <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
@@ -723,7 +723,6 @@
   <string name="fod_finger_notice_title">Col·loqueu el dit a la pantalla</string>
   <string name="fod_finger_windows_tips">Verifica l\'empremta</string>
   <string name="fod_tips_split_screen_more_than_half">Introduïu la contrasenya</string>
-  <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
@@ -794,12 +793,8 @@
   <string name="gb_xunyou_gift_type_one">1 dia d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_three">3 dies d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_two">2 dies d\'acceleració de Xunyou</string>
-  <string name="gdpr_msg">
-    <Data>
-    <![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
-        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>
-    </Data>
-  </string>
+  <string name="gdpr_msg"><Data><![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
+        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]></Data></string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
