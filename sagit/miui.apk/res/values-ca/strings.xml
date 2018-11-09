@@ -117,7 +117,7 @@
   <string name="send_sms_for_sync_notice">La vostra companyia podria cobrar-vos el SMS usat per activar aquest servei.</string>
   <string name="send_sms_for_sync_title">Alerta d\'ús de dades</string>
   <string name="sim_changed_reactivate_int_notice">La targeta SIM actual està desactivada. Un text d\'activació s\'enviarà automàticament (s\'apliquen tarifes internacionals).</string>
-  <string name="sim_changed_reactivate_notice">La targeta SIM actual està desactivada. Un text d\'activació s\'enviarà automàticament (s\'apliquen tarifes normals).</string>
+  <string name="sim_changed_reactivate_notice">La targeta SIM actual està desactivada. Un text d\'activació s\'enviarà automàticament (s\'apliquen tarifes normals). </string>
   <string name="sim_in_airplane_mode">Si us plau, desactivar el mode avió.</string>
   <string name="sim_locked">La targeta SIM està bloquejada.</string>
   <string name="sim_not_ready">Targeta SIM en ús. Intenteu-ho més tard.</string>
@@ -162,7 +162,7 @@
   <string name="the_double_ninth_festival">Doble novè Festival</string>
   <string name="the_dragon_boat_festival">Festival del pot del drac</string>
   <string name="the_easter_day">Dia de Pasqua</string>
-  <string name="the_eve_of_the_spring_festival">Vespra de la festa de la primavera</string>
+  <string name="the_eve_of_the_spring_festival">Vespra de la festa de la primavera </string>
   <string name="the_fifth_day">Cinquè dia</string>
   <string name="the_fools_day">Dia dels ximples</string>
   <string name="the_forth_day">Dia de Forth</string>
