@@ -135,7 +135,7 @@
   <string name="bluetooth_headset_profile_summary_use_for">Utilitzar per a l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">Connectat al dispositiu d\'entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utilitzar per a l\'entrada</string>
-  <string name="bluetooth_map_profile_summary_connected">Connectat al centre de missatges</string>
+  <string name="bluetooth_map_profile_summary_connected">Connectat al centre de missatges </string>
   <string name="bluetooth_map_profile_summary_use_for">Utilitzar per els missatges</string>
   <string name="bluetooth_opp_profile_summary_connected">Connectat al servidor de transferència de fitxers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">No connectat al servidor de transferència de fitxers</string>
