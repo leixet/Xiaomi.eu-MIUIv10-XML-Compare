@@ -87,7 +87,6 @@
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Veure fotos</string>
   <string name="app_name_view_video">Reproducció de vídeos</string>
-  <string name="apply">Aplica</string>
   <string name="assistant_page_label">Assistent</string>
   <string name="associate_face_album">Trieu un àlbum</string>
   <string name="auto_backup_introduce">Fes una còpia de seguretat de fotos i vídeos automàticament (cal un compte Mi)</string>
@@ -111,10 +110,6 @@
   <string name="baby_album_sharer_recommand_face">Afegeix fotos existents de %1$s?</string>
   <string name="baby_album_sharers_page_title">Comparteix-lo amb la família</string>
   <string name="baby_birthday">Aniversari</string>
-  <string name="baby_lock_wallpaper">Fons de pantalla de bloqueig</string>
-  <string name="baby_lock_wallpaper_cancelled">S\'ha restablert el fons de pantalla de bloqueig per defecte</string>
-  <string name="baby_lock_wallpaper_save_settings_msg">Voleu aplicar els paràmetres actuals?</string>
-  <string name="baby_lock_wallpaper_title">"Utilitza les fotos del nadó com a fons de la pantalla de bloqueig"</string>
   <string name="baby_name_cannot_empty">Introduïu el nom</string>
   <string name="baby_name_cannot_start_with">"El nom no pot començar per '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"El nom no pot contenir '%s'"</string>
@@ -179,7 +174,6 @@
   <string name="by_others">Altres</string>
   <string name="camera_needs_auto_backup_tip">Cal fer una còpia de seguretat de les fotos de la càmera</string>
   <string name="cancel">Cancel·la</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Voleu restablir el fons de pantalla de bloqueig per defecte?</string>
   <string name="cancel_download_btn_text">Atura</string>
   <string name="cancel_hint">Operació cancel·lada</string>
   <string name="cannot_remove_creator">"No es pot eliminar el creador"</string>
@@ -951,7 +945,6 @@ per personalitzar la galeria"</string>
   <string name="send_multiple_files_hint_format">Envia (%s)</string>
   <string name="send_public_url">Envia la URL de l\'àlbum</string>
   <string name="send_too_many_files_error">Només es poden enviar %d elements alhora</string>
-  <string name="set_as_baby_lock_wallpaper">Estableix-la com a fons de pantalla de bloqueig</string>
   <string name="set_as_wallpaper_description">Aquesta imatge és una miniatura, voleu baixar la original?</string>
   <string name="set_as_wallpaper_title">Fons de pantalla</string>
   <string name="set_face_group_toast_msg_new_user">Toqueu i mantingueu premuda una persona per combinar-la o ignorar-la.</string>
