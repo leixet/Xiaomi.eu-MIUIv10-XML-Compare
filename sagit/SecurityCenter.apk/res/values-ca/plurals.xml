@@ -77,10 +77,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicacions"</item>
         <item quantity="one">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicació"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d aplicacions no funcionen correctament i drenen la bateria"</item>
-        <item quantity="one">"%d aplicació no funciona correctament i drena la bateria"</item>
-    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dies "</item>
         <item quantity="one">"%d dia "</item>
