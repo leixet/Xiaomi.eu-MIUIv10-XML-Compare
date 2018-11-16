@@ -56,11 +56,6 @@
         <item>ic_search_engine_google</item>
         <item>google</item>
     </string-array>
-    <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Pàgina enrere endavant</item>
-        <item>Canvia pestanyes</item>
-        <item>Cap</item>
-    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Pàgina d\'inici per defecte</item>
         <item>Personalitzat</item>
