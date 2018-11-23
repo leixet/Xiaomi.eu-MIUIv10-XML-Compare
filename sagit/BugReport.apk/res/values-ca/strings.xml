@@ -80,7 +80,6 @@
   <string name="feedback_report_remind_login_desc">Connecteu-vos amb el Compte Mi perquè els nostres enginyers puguin contactar-vos.</string>
   <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés dels informes a «Els meus informes»."</string>
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
-  <string name="feedback_select_images">Afegeix imatges</string>
   <string name="feedback_select_modem_log">Afegeix els registres del mòdem</string>
   <string name="feedback_select_modem_log_not_select_desc">"No heu seleccionat «Afegeix registres del mòdem»"</string>
   <string name="feedback_select_modem_log_select_desc">Heu seleccionat «Afegeix registres del mòdem»</string>
@@ -301,7 +300,6 @@
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_loading_app_id">Obtenint informació…</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
-  <string name="toast_log_too_large">"No es pot penjar. El fitxer és massa gran."</string>
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>
@@ -311,7 +309,6 @@
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>
   <string name="toast_report_sent_failed">"No es pot enviar l'informe"</string>
   <string name="toast_report_sent_succeed">S\'ha enviat l\'informe</string>
-  <string name="toast_screenshot_too_large">"No es poden penjar fitxers de més de 10 MB."</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
   <string name="try_again">Torna-ho a provar</string>
