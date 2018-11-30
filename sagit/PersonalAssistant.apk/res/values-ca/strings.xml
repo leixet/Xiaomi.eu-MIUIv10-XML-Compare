@@ -277,7 +277,6 @@
   <string name="express_inqiury_select_logistics">Servei de missatgeria</string>
   <string name="express_inquiry">Seguiment</string>
   <string name="express_inquiry_and_send">Seguiment i enviament</string>
-  <string name="express_inquiry_button_text">Fes el seguiment</string>
   <string name="express_inquiry_clipboard_number_message">Voleu fer el seguiment del número copiat?</string>
   <string name="express_inquiry_data_owner_prefix">"Informació de seguiment proporcionat per "</string>
   <string name="express_inquiry_delete_warning_multiple">Voleu eliminar %d entrades?</string>
