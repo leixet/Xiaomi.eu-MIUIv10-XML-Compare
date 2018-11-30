@@ -1958,7 +1958,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="header_category_connections">Connexions</string>
   <string name="header_category_device">Dispositiu</string>
   <string name="header_category_system">Sistema</string>
-  <string name="header_category_wireless_networks">Xarxa</string>
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="heavy_weight_stop_description">Aquesta aplicació es pot aturar de forma segura. Si l\'atureu, podeu perdre part del treball actual.</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
@@ -2784,7 +2783,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_nearby_wifi">No s\'han trobat xarxes.</string>
   <string name="no_notification_listeners">Cap aplicació instal·lada ha sol·licitat accés a les notificacions.</string>
   <string name="no_running_services">No s\'està executant res.</string>
-  <string name="no_services">Cap servei actiu</string>
   <string name="no_trust_agents">Cap agent de confiança disponible</string>
   <string name="no_update_found">"S'està fent servir la darrera versió de MIUI"</string>
   <string name="no_updates_found">"S'està fent servir la darrera versió de MIUI"</string>
