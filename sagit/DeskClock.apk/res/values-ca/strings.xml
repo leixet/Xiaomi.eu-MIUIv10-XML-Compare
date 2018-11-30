@@ -142,7 +142,6 @@
   <string name="skip_alarm_once_hint">Aturar una vegada el %s</string>
   <string name="slider_text">Feu lliscar amunt per tancar</string>
   <string name="snooze_confirm_cancel">Cancel·la l\'alarma</string>
-  <string name="snooze_duration_title">Durada de la repetició</string>
   <string name="start">Inicia</string>
   <string name="start_up">Inicia</string>
   <string name="stat_repeat_everyday">Diàriament</string>
