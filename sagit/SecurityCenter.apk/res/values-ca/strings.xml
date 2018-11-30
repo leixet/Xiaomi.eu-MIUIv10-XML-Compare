@@ -335,7 +335,6 @@
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Torna al bloquejador d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
-  <string name="back_modifypassword">Torna enrere per canviar la contrasenya</string>
   <string name="back_sound_data">Activeu les dades mòbils i torneu-ho a provar.</string>
   <string name="back_sound_fail">"No s'ha pogut configurar. S'ha canviat la configuració de l'operador. Establiu la targeta SIM actual com a targeta de dades, connecteu-vos a la xarxa i torneu-ho a provar."</string>
   <string name="back_sound_success">Configurat amb èxit</string>
@@ -1087,7 +1086,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mixed_retry_button_text">Cancel·la</string>
   <string name="mixed_settings_help_how_to_record">Com establir la contrasenya</string>
   <string name="modify_password_mode">&lt;u&gt;Canvia el tipus de contrasenya&lt;/u&gt;</string>
-  <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_app_add">afegeix</string>
   <string name="monitor_app_more">Més</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
@@ -1187,7 +1185,6 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="numeric_password_confirmed_header_confirm">S\'ha establert amb èxit. Toqueu per confirmar.</string>
   <string name="numeric_password_confirmed_header_continue">S\'ha establert amb èxit. Toqueu «Següent».</string>
   <string name="numeric_pattern_entered_header">El PIN s\'ha establert amb èxit</string>
-  <string name="numeric_recording_incorrect_too_short">Introduïu com a mínim %d dígits.</string>
   <string name="numeric_recording_intro_header">Introduïu la contrasenya</string>
   <string name="numeric_retry_button_text">Cancel·la</string>
   <string name="numeric_settings_help_how_to_record">Com establir el PIN</string>
