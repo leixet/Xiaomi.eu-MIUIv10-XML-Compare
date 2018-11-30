@@ -275,7 +275,6 @@
   <string name="label_image_list_none">Cap</string>
   <string name="label_preserve_the_best_image">Desar les fotos més nítides</string>
   <string name="last_check_canceled">L\'anàlisi anterior fou cancel·lat</string>
-  <string name="load_only_under_wlan">Carregar notícies quan es connecta al Wi-Fi</string>
   <string name="location_not_found">"No es pot trobar el fitxer"</string>
   <string name="login_immediately">Inicia la sessió</string>
   <string name="long_click_dialog_summary">Mantingueu premut per afegir a excepcions.</string>
