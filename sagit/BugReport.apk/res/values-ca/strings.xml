@@ -296,7 +296,6 @@
   <string name="toast_feedback_pending_wlan">"El missatge s'enviarà quan estigueu connectat a una xarxa Wi-Fi"</string>
   <string name="toast_feedback_submitted">S\'ha enviat l\'informe</string>
   <string name="toast_feedback_submitting">S\'està enviant…</string>
-  <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_loading_app_id">Obtenint informació…</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
