@@ -420,9 +420,7 @@
   <string name="subscribe_channel_hint">"Subscriviu-vos als serveis que us agraden i rebeu actualitzacions diàries a la pàgina d\'inici.
 També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="subscribe_channel_subscribe">Subscriviu-vos</string>
-  <string name="subscribe_channel_subscribing">Suscribir-se</string>
   <string name="subscribe_channel_title">Canal</string>
-  <string name="subscribing_card">Subscripcions</string>
   <string name="tab_title_agenda">Esdeveniments</string>
   <string name="tab_title_day">Dia</string>
   <string name="tab_title_month">Mes</string>
@@ -469,7 +467,6 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="travel_train_station">Estació de tren</string>
   <string name="unsubscribe_card">Anul·la</string>
   <string name="unsubscribe_card_success">Heu anul·lat la subscripció amb èxit a «%1$s»</string>
-  <string name="unsubscribing_card">Cancel·la la subscripció</string>
   <string name="user_notice_button_exit">Surt</string>
   <string name="user_notice_button_ok">D\'acord</string>
   <string name="user_notice_message">"En utilitzar aquest producte accepteu les %1$s i %2$s de Xiaomi. Algunes característiques necessiten connexió a Internet, accés a la ubicació, als contactes i als SMS per funcionar."</string>
