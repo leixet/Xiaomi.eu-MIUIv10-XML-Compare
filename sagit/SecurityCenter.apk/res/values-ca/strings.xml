@@ -956,7 +956,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_button_mi_sim_close">Activa la SIM Mi</string>
   <string name="main_button_mi_sim_open">Mostra els detalls</string>
   <string name="main_button_usage_adjust">Sincronitza l\'ús de dades mòbils</string>
-  <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_adjusting_bill">S\'està canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
@@ -1377,10 +1376,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="pref_about_traffic_title">Configuració d\'ús de dades</string>
   <string name="pref_adjust_data_usage">Plantilla de missatge d\'operador</string>
   <string name="pref_adjust_data_usage_summary">Després de canviar la plantilla de calibratge, MIUI la farà servir per obtenir estadístiques d\'ús de dades del vostre operador</string>
-  <string name="pref_adjust_data_usage_value">Modifica</string>
   <string name="pref_adjust_traffic_data">Establir ús de dades</string>
   <string name="pref_allow_connect_network_title">Dades en itinerància en ultramar</string>
-  <string name="pref_auto_adjust_settings">Configuració d\'estadístiques d\'ús de dades per Auto-sincronitzar</string>
   <string name="pref_auto_adjust_traffic">Estadístiques d\'ús de dades per Auto sincronitzar</string>
   <string name="pref_automatic_adjust">Configuració</string>
   <string name="pref_avaible_traffic">Pla de dades</string>
@@ -1391,7 +1388,6 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="pref_category_title_module_settings">Configuració de regles</string>
   <string name="pref_category_title_other">Configuració addicional</string>
   <string name="pref_category_title_securitycenter_settings">General</string>
-  <string name="pref_confirm_operator_setting">Assegureu-vos que la informació que heu introduït es correcte</string>
   <string name="pref_correction_setting">Configuració de la plantilla de configuració</string>
   <string name="pref_correction_setting_switch">Utilitza una plantilla de calibratge personalitzada</string>
   <string name="pref_correction_sms_content">Plantilla de configuració</string>
