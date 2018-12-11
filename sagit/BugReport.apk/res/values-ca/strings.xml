@@ -191,7 +191,6 @@
   <string name="michat_pull_to_refresh_pull_label">Estireu cap avall per veure l\'historial</string>
   <string name="michat_pull_to_refresh_refreshing_label">S\'està carregant l\'historial&#8230;</string>
   <string name="michat_pull_to_refresh_release_label">Deixeu anar per veure l\'historial</string>
-  <string name="michat_queue_pos_update">Hi ha %1$d persones abans, espereu un moment&#8230;</string>
   <string name="michat_return_to_outside">Surt</string>
   <string name="michat_service_unavailiable">"No s'ha pogut obtenir la informació, torneu-ho a provar més tard"</string>
   <string name="michat_skillset_business_type_title">Seleccioneu un servei</string>
