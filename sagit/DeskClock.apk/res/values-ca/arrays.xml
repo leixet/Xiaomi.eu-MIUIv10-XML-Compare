@@ -14,8 +14,8 @@
     <string-array name="alarm_repeat_type">
         <item>Una vegada</item>
         <item>Diàriament</item>
-        <item>En dies laborables</item>
-        <item>En dies de descans</item>
+        <item>Workdays</item>
+        <item>Days off</item>
         <item>De dilluns a divendres</item>
         <item>Personalitzat</item>
     </string-array>
@@ -342,7 +342,7 @@
         <item>Quito</item>
     </string-array>
     <string-array name="countries_names_miui">
-        <item>"Coate d'Ivoire"</item>
+        <item>"Côte d'Ivoire"</item>
         <item>Ghana</item>
         <item>Etiòpia</item>
         <item>Algèria</item>
