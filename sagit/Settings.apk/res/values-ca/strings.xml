@@ -101,8 +101,6 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_shortcut_description">Quan la drecera està activada, podeu prémer els dos botons de volum durant 3 segons per iniciar una funció d\'accessibilitat.</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Permet des de la pantalla de bloqueig</string>
   <string name="accessibility_shortcut_service_title">Servei de drecera</string>
-  <string name="accessibility_summary_state_disabled">DESACTIVAT</string>
-  <string name="accessibility_summary_state_enabled">ACTIVAT</string>
   <string name="accessibility_sync_disabled">Sincronització desactivada</string>
   <string name="accessibility_sync_enabled">Sincronització activada</string>
   <string name="accessibility_sync_error">S\'ha produït un error de sincronització.</string>
@@ -2230,8 +2228,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_neighborhood_level_wifi">Ubicació determinada per Wi-Fi</string>
   <string name="location_network_based">Wi-Fi i xarxes mòbils</string>
   <string name="location_no_recent_apps">Cap aplicació no ha sol·licitat la ubicació recentment</string>
-  <string name="location_off_summary">DESACTIVAT</string>
-  <string name="location_on_summary">Engegat / %1$s</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Millora la ubicació permetent que les aplicacions i els serveis del sistema sempre detectin dispositius Bluetooth.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">El Bluetooth està escanejant</string>
   <string name="location_scanning_screen_title">S\'està escanejant</string>
