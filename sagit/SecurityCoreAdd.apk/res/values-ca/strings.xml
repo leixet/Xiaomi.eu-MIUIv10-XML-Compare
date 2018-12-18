@@ -106,7 +106,6 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="function_not_support">No és compatible amb aquest espai</string>
   <string name="gms_message">La creació d\'aplicacions duals requereix treballar amb els serveis de Google. Voleu crear una aplicació dual per als serveis de Google?</string>
   <string name="gms_open_button">Activa</string>
-  <string name="gms_title">Activa els serveis de Google</string>
   <string name="goToSecondSpacce">Anar al Segon espai</string>
   <string name="go_on_import">Mantenir la importació</string>
   <string name="gpg_message">La creació d\'aplicacions duals per a jocs requereix treballar amb Google Play Games. Voleu crear una aplicació dual per a Google Play Games?</string>
