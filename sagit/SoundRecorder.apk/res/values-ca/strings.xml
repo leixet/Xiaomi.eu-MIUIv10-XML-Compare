@@ -74,16 +74,9 @@
   <string name="recognition_error_cancel">Cancel·lat</string>
   <string name="recognition_error_download_cancel">Més tard</string>
   <string name="recognition_error_download_fail">"No s'ha pogut baixar, comproveu la configuració de xarxa i torneu-ho a provar."</string>
-  <string name="recognition_error_download_msg">Baixa el motor de reconeixement per a que aquest servei estigui disponible.</string>
   <string name="recognition_error_download_ok">Baixa</string>
-  <string name="recognition_error_download_title">Falta el motor de reconeixement</string>
-  <string name="recognition_error_downloading">S\'està baixant</string>
-  <string name="recognition_error_engine">Error del motor de reconeixement</string>
-  <string name="recognition_error_engine_singleton">El motor de reconeixement està ocupat</string>
   <string name="recognition_error_format">El format d\'àudio no és vàlid</string>
   <string name="recognition_error_internal">Error intern</string>
-  <string name="recognition_error_stopped">Reconeixement aturat</string>
-  <string name="recognition_status_downloading">S\'està baixant</string>
   <string name="record">Grava</string>
   <string name="record_back_pressed_hint">Per aturar la gravació, toqueu «Enrere» un altre cop</string>
   <string name="record_download">Baixa des de Mi Cloud</string>
@@ -125,8 +118,6 @@
   <string name="share">Comparteix</string>
   <string name="share_dialog_title">Comparteix amb</string>
   <string name="sound_recorder_settings">Configuració</string>
-  <string name="speech_recognition_complete">Fet</string>
-  <string name="speech_recognition_running_tip">S\'està reconeixent</string>
   <string name="start">Reprèn</string>
   <string name="status_bar_back">Toqueu per tornar a la gravadora</string>
   <string name="status_bar_recording">S\'està enregistrant&#8230;</string>
@@ -136,7 +127,6 @@
   <string name="text_btn_mark">Marca</string>
   <string name="text_btn_pause">Pausa</string>
   <string name="text_btn_play">Reprodueix</string>
-  <string name="text_btn_recognize">Reconeix</string>
   <string name="text_btn_recording">Enregistra</string>
   <string name="text_btn_wave">Ona</string>
   <string name="text_finish">Confirma</string>
