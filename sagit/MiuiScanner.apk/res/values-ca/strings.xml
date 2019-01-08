@@ -64,9 +64,7 @@
   <string name="impunity_declaration_negative_text">Surt</string>
   <string name="keywords_search_code">Escàner;Escaneja;Codi QR;QR;Reconeixement;Codi de barres;Codis de barres;Producte;Productes;Alipay;WeChat;Com escannejar un codi QR;Com escannejar un codi de barres;Com escannejar;Escànner MIUI</string>
   <string name="keywords_search_document">Escàner;Escaneja el document;Escaneja documents;OCR;Explora textos;Escaneja</string>
-  <string name="keywords_search_settings">Escàner;Configuració de la xarxa de l\'escàner</string>
   <string name="keywords_search_shopping">Compres;Escàner;Escaneja productes;Escaneja un producte;Consulta el preu;Productes;Taobao;Tmall;Preus;Compres en línia</string>
-  <string name="keywords_search_translation">Escàner;Tradueix;Diccionari;Anglès;Llengua estrangera;Llengua;Llengües;Anglès a xinès;Italià;Alemany;Japonès;Coreà;Castellà;Francès;Traductor Baidu;Diccionari Youdao;Diccionari Baidu;Traductor Google</string>
   <string name="label_choose_picture">Trieu una imatge</string>
   <string name="label_flash_light">Llum del flaix</string>
   <string name="language_entry_chinese_cn">Xinès simplificat</string>
@@ -86,7 +84,6 @@
   <string name="not_insert_contact">"No es pot afegir el contacte"</string>
   <string name="not_recommend_access_web_url">Vés de totes maneres</string>
   <string name="note">Notes:</string>
-  <string name="path_scanner_setting">Aplicacions del sistema/Escànner</string>
   <string name="phone">Telèfon:</string>
   <string name="place_barcode_into_rectangle">Centreu el codi dins del marc</string>
   <string name="pref_camera_jpeg_quality_fine">bona</string>
