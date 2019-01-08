@@ -50,7 +50,6 @@
   <string name="err_type_system_summary">Memòria, rendiment, etc.</string>
   <string name="err_type_systemapp">Aplicacions MIUI</string>
   <string name="err_type_translate">Idioma</string>
-  <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
@@ -203,7 +202,6 @@
   <string name="michat_wait_for_a_moment">Un moment, de seguida us ajudem!</string>
   <string name="michat_webview_title">Mostra els detalls</string>
   <string name="min_error">%1$s ha de ser més llarg.</string>
-  <string name="mobile_data_note_dialog_cancel">A l\'espera de Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Puja</string>
   <string name="mobile_data_note_dialog_content">"Sembla que esteu connectat a una xarxa de pagament. Si actualitzeu els registres es podrien generar càrrecs addicionals."</string>
   <string name="mobile_data_note_dialog_title">Avís d\'ús de dades</string>
@@ -292,7 +290,6 @@
   <string name="toast_description_required">Heu d\'escriure una descripció</string>
   <string name="toast_feedback_collect_store">S\'estan recuperant els registres&#8230;</string>
   <string name="toast_feedback_network_unavailable">"No es pot connectar a la xarxa"</string>
-  <string name="toast_feedback_pending_wlan">"El missatge s'enviarà quan estigueu connectat a una xarxa Wi-Fi"</string>
   <string name="toast_feedback_submitted">S\'ha enviat l\'informe</string>
   <string name="toast_feedback_submitting">S\'està enviant…</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
