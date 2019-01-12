@@ -305,7 +305,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="default_lockscreen_unlock_hint_text">Llisqueu amunt per desblocar</string>
   <string name="demo_mode">Mode de demostració</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
-  <string name="description_direction_up">Lliscar amunt per %s.</string>
+  <string name="description_direction_up">Llisqueu amunt per %s.</string>
   <string name="description_image_button_answer">Resposta</string>
   <string name="description_image_button_reject">Rebutja</string>
   <string name="description_target_search">Cercar</string>
