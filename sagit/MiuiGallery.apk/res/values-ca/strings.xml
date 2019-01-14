@@ -28,6 +28,7 @@
   <string name="adjust_saturation">Saturació</string>
   <string name="adjust_sharpen">Nitidesa</string>
   <string name="adjust_vignette">Vinyeta</string>
+  <string name="ai_album_open_switch_button_title">Comença l\'anàlisi de fotografies</string>
   <string name="album_already_exists_check">Comprova</string>
   <string name="album_already_exists_msg">L\'àlbum \"%s\" ja existeix</string>
   <string name="album_already_forced_top">Ja està fixat</string>
