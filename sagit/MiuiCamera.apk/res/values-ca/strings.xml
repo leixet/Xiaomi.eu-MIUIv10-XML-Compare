@@ -459,6 +459,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>
   <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="ultra_wide_bokeh_open_tip">Mode de cos sencer</string>
   <string name="ultra_wide_open_tip">Mode de gran angular</string>
   <string name="user_agree">D\'acord</string>
   <string name="user_agreement2">Condicions del servei</string>
