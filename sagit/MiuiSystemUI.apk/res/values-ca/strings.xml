@@ -73,6 +73,7 @@
   <string name="accessibility_quick_settings_flashlight_unavailable">El lot no està disponible.</string>
   <string name="accessibility_quick_settings_hotspot_changed_off">El punt d\'accés mòbil està desactivat.</string>
   <string name="accessibility_quick_settings_hotspot_changed_on">El punt d\'accés mòbil està activat.</string>
+  <string name="accessibility_quick_settings_settings">Obre la configuració.</string>
   <string name="accessibility_recent">Aplicacions recents</string>
   <string name="accessibility_recent_task_exit">Tancades recentment</string>
   <string name="accessibility_recent_task_locked">Bloquejada, feu lliscar cap avall per desbloquejar-la.</string>
