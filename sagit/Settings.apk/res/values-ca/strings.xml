@@ -2566,13 +2566,20 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
   <string name="miui_sos_call_log_summary">Envia l\'historial de trucades de la darrera hora al vostre contacte d\'emergència</string>
+  <string name="miui_sos_calling_summary">El vostre dispositiu realitzarà trucades automàtiques als vostres contactes d\'emergència per transmetre el missatge de veu de SOS que heu enregistrat. Un cop reproduït tot el missatge finalitzarà la trucada. Després del primer intent amb èxit les trucades automàtiques s\'aturaran.</string>
   <string name="miui_sos_contacts_add">Contactes d\'emergència</string>
   <string name="miui_sos_contacts_category">Contactes d\'emergència</string>
   <string name="miui_sos_emergency_contacts">Contactes d\'emergència</string>
+  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) ja ha acceptat.</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1s ja ha acceptat</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">"No s'ha pogut enviar el missatge a %1s (%2s)."</string>
+  <string name="miui_sos_emergency_failed_sms_noname">"No s'ha pogut enviar el missatge a %1s."</string>
   <string name="miui_sos_enable_switch_summary">Premeu 5 cops seguits el botó d\'engegada, ràpidament, per enviar un missatge de text de SOS amb la vostra ubicació als vostres contactes d\'emergència</string>
+  <string name="miui_sos_enable_switch_title">SOS d\'emergència</string>
   <string name="miui_sos_exit_dialog_message">Teniu activat el SOS d\'emergència. La vostra localització s\'envia als vostres contactes d\'emergència. Confirmeu que ho voleu desactivar?</string>
   <string name="miui_sos_exit_dialog_title">Desactivant-se el SOS d\'emergència</string>
   <string name="miui_sos_launch_error">"No s'ha pogut activar el SOS d'emergència"</string>
+  <string name="miui_sos_launch_error_message">"No es pot connectar a la xarxa mòbil. No es pot utilitzar el SOS d'emergència."</string>
   <string name="miui_sos_launching_summary">El SOS d\'emergència s\'activarà en %ds</string>
   <string name="miui_sos_remind_infocontent">"Us he afegit com el meu contacte d'emergència. Rebreu un missatge amb la meva posició si estic en perill. [SOS d'emergència MI]"</string>
   <string name="miui_sos_remind_open">El SOS d\'emergència requereix 1 contacte d\'emergència com a mínim per funcionar normalment.</string>
