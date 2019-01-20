@@ -2565,6 +2565,10 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
+  <string name="miui_sos_audio_summary">Reprodueix el missatge de SOS després que el contacte d\'emergència despengi</string>
+  <string name="miui_sos_audio_title">Missatge de veu de SOS</string>
+  <string name="miui_sos_call_log_duration">Durada</string>
+  <string name="miui_sos_call_log_none">No hi ha cap trucada a l\'historial de l\'última hora.</string>
   <string name="miui_sos_call_log_summary">Envia l\'historial de trucades de la darrera hora al vostre contacte d\'emergència</string>
   <string name="miui_sos_calling_summary">El vostre dispositiu realitzarà trucades automàtiques als vostres contactes d\'emergència per transmetre el missatge de veu de SOS que heu enregistrat. Un cop reproduït tot el missatge finalitzarà la trucada. Després del primer intent amb èxit les trucades automàtiques s\'aturaran.</string>
   <string name="miui_sos_contacts_add">Contactes d\'emergència</string>
@@ -2581,10 +2585,13 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_sos_launch_error">"No s'ha pogut activar el SOS d'emergència"</string>
   <string name="miui_sos_launch_error_message">"No es pot connectar a la xarxa mòbil. No es pot utilitzar el SOS d'emergència."</string>
   <string name="miui_sos_launching_summary">El SOS d\'emergència s\'activarà en %ds</string>
+  <string name="miui_sos_launching_title">SOS</string>
+  <string name="miui_sos_play_voice">Reprodueix el missatge de SOS</string>
   <string name="miui_sos_remind_infocontent">"Us he afegit com el meu contacte d'emergència. Rebreu un missatge amb la meva posició si estic en perill. [SOS d'emergència MI]"</string>
   <string name="miui_sos_remind_open">El SOS d\'emergència requereix 1 contacte d\'emergència com a mínim per funcionar normalment.</string>
   <string name="miui_sos_remind_sendinfo">"No us oblideu d'explicar a aquestes persones que ara són els vostres contactes d'emergència. Així, us podran ajudar més ràpidament en cas d'emergència."</string>
   <string name="miui_sos_settings_alert_contacts_too_many">Podeu afegir fins a 3 contactes d\'emergència.</string>
+  <string name="miui_sos_settings_category">Configuració de SOS</string>
   <string name="miui_sos_statusbar_title">El SOS d\'emergència està activat</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
