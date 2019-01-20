@@ -1563,6 +1563,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="emergency_address_title">Actualització de l\'adreça d\'emergència</string>
   <string name="emergency_info_summary">Informació i contactes per %1$s</string>
   <string name="emergency_info_title">Informació d\'emergència</string>
+  <string name="emergency_sos_title">SOS d\'emergència</string>
   <string name="emergency_tone_alert">Avís</string>
   <string name="emergency_tone_silent">Silenciosa</string>
   <string name="emergency_tone_summary">Defineix el comportament quan es fa una trucada d\'emergència</string>
@@ -2564,6 +2565,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
+  <string name="miui_sos_call_log_summary">Envia l\'historial de trucades de la darrera hora al vostre contacte d\'emergència</string>
   <string name="miui_sos_contacts_add">Contactes d\'emergència</string>
   <string name="miui_sos_contacts_category">Contactes d\'emergència</string>
   <string name="miui_sos_emergency_contacts">Contactes d\'emergència</string>
