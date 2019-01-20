@@ -586,6 +586,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="no_notification_tips">Sense notificacions.</string>
   <string name="no_weather_description">Obtén la informació meteorològica &gt;</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
+  <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_channel_screenshot">Captures de pantalla</string>
   <string name="notification_header_title">Notificacions</string>
@@ -789,6 +790,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
+  <string name="sos_status_bar_summary">Premeu per sortir</string>
+  <string name="sos_status_bar_title">SOS</string>
   <string name="start_dreams">Protector de pantalla</string>
   <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
   <string name="status_bar_airplane">Mode d\'avió</string>
