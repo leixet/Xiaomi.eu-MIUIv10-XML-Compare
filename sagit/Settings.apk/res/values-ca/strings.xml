@@ -2556,6 +2556,9 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_vibrate">Vibració</string>
   <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
+  <string name="miui_lab_ai_cloud_closed">"La precàrrega IA encara no està disponible."</string>
+  <string name="miui_lab_ai_preload_desc">La precàrrega IA accelera l\'arrencada de les aplicacions</string>
+  <string name="miui_lab_ai_preload_title">Precàrrega IA</string>
   <string name="miui_lab_feature_applied">S\'ha aplicat</string>
   <string name="miui_lab_feature_off">Desactivat</string>
   <string name="miui_lab_feature_on">Activat</string>
