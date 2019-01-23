@@ -39,6 +39,9 @@
   <string name="audio_message_expired">Aquest missatge de veu ha caducat.</string>
   <string name="audio_message_mx_offline">"No s'ha pogut baixar l'àudio. Missatges Mi està fora de línia o no disponible."</string>
   <string name="audio_sim_card_mismatching">No hi ha connexió de xarxa o s\'ha instal·lat la SIM incorrecta. Instal·leu la targeta SIM des de la qual es va enviar el missatge i connecteu-vos a la xarxa.</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Identificar l\'ID de remitent automàticament</string>
+  <string name="auto_identify_btn_title">Aquest missatge s\'envia des d\'un número desconegut.</string>
+  <string name="auto_identify_confirmation">Podria portar uns quants minuts activar aquesta característica.</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
   <string name="batch_adding_progress_message">S\'està afegint&#8230;</string>
   <string name="batch_deleting_message_progress_message">S\'està eliminant…</string>
