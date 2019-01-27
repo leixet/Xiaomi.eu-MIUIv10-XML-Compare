@@ -3,7 +3,6 @@
 <resources>
   <string name="access_select">S\'ha seleccionat %s</string>
   <string name="access_unselect">S\'ha anul·lat la selecció de %s</string>
-  <string name="accessibility_title">Cofre d\'aplicacions</string>
   <string name="accordingto_position">Reconeix llocs freqüents mitjançant el GPS</string>
   <string name="account_address">Adreça</string>
   <string name="add_stock">Afegeix</string>
@@ -618,7 +617,6 @@ Comproveu el número de seguiment."</string>
   <string name="notification_content_fail_stay_longer">Quedeu-vos en la pàgina de pagament durant almenys 1 segon</string>
   <string name="notification_content_success">%2$s pagament en CNY %1$s</string>
   <string name="notification_express_app_open">Activa</string>
-  <string name="notification_express_content">Seguiment de comandes utilitzant el cofre d\'aplicacions</string>
   <string name="notification_express_title">Activa les targetes de les aplicacions de compres</string>
   <string name="notification_title">S\'ha agregat als favorits</string>
   <string name="notification_title_fail">"No s'ha pogut afegir el pagament"</string>
@@ -653,7 +651,6 @@ Comproveu el número de seguiment."</string>
   <string name="payment_pref_source_mms_summary">Obteniu informació de pagament dels missatges de text</string>
   <string name="payment_pref_source_wechat_summary">Obteniu informació de pagament del WeChat</string>
   <string name="payment_privacy_dialog_cancel">Surt</string>
-  <string name="payment_privacy_dialog_message">"«Els meus pagaments» us permet recollir els comptes de les principals aplicacions de pagament en un sol lloc. Tota la informació de pagament serà xifrada i emmagatzemada de manera segura al vostre dispositiu. No se sincronitzarà amb Mi Cloud ni es carregarà a cap altre servidor. Podeu desactivar «Els meus pagaments» a la Configuració o simplement treure aquesta targeta del cofre d'aplicacions per deixar d'utilitzar aquest servei. Hi esteu d'acord?"</string>
   <string name="payment_privacy_dialog_ok">D\'acord</string>
   <string name="payment_privacy_dialog_title">Política de privadesa dels «Meus pagaments»</string>
   <string name="payment_record_add">Afegeix un pagament</string>
