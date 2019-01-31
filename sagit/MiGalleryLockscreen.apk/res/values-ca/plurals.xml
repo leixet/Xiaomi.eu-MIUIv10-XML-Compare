@@ -17,4 +17,12 @@
         <item quantity="other">%d dies fa</item>
         <item quantity="one">%d dies fa</item>
     </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">fa %d hores</item>
+        <item quantity="one">fa %d hores</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa %d minuts</item>
+    </plurals>
 </resources>
