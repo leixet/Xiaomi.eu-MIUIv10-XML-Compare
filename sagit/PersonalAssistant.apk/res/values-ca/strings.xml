@@ -428,7 +428,6 @@ Comproveu el número de seguiment."</string>
   <string name="favorite_main">Historial</string>
   <string name="favorite_title_limit">Introduïu fins a 40 caràcters</string>
   <string name="favorite_title_modify">Modifica</string>
-  <string name="favorite_title_modify_failed">"No s'ha pogut canviar el nom"</string>
   <string name="favorite_title_modify_success">S\'ha modificat amb èxit</string>
   <string name="feedback_cancel">Cancel·la</string>
   <string name="feedback_ok">D\'acord</string>
@@ -561,8 +560,6 @@ Comproveu el número de seguiment."</string>
   <string name="mi_sport">Comptador de passos</string>
   <string name="mi_sport_go_install">Baixa</string>
   <string name="mi_wallet">Cartera Mi</string>
-  <string name="miot_device_personal_assistant_eula">Acord d\'usuari</string>
-  <string name="miot_device_personal_assistant_priv">Política de privacitat</string>
   <string name="miuishare_account_activate_confirmation">Activa el Compte Mi</string>
   <string name="miuishare_account_activate_ok">Activa</string>
   <string name="miuishare_account_login_cancel">Cancel·la</string>
@@ -616,10 +613,6 @@ Comproveu el número de seguiment."</string>
   <string name="not_install_c4">No, gràcies</string>
   <string name="not_installed">No està instal·lada</string>
   <string name="note_name">Crea una nota</string>
-  <string name="notification_channel_default_description">Altres notificacions</string>
-  <string name="notification_channel_favorite_description">Notificacions sobre ítems afegits a favorits en apps diferents</string>
-  <string name="notification_channel_payment_description">Notificacions sobre els pagaments</string>
-  <string name="notification_channel_shopping_description">Notificacions sobre productes afegits com favorits a la teva cistella</string>
   <string name="notification_content_fail_not_support">"No s'ha pogut obtenir la informació de pagament, afegiu el registre manualment."</string>
   <string name="notification_content_fail_stay_longer">Quedeu-vos en la pàgina de pagament durant almenys 1 segon</string>
   <string name="notification_content_success">%2$s pagament en CNY %1$s</string>
