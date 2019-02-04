@@ -630,6 +630,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="phone_locked_foget_password_method">Heu oblidat la contrasenya?</string>
   <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el vostre dispositiu, premeu continuadament els &amp;lt;font color=#a5220e&amp;gt; botons d\'engegada&amp;lt;/font&amp;gt; i &amp;lt;font color= #a5220e&amp;gt; d\'apujar el volum&amp;lt; /font&amp;gt; alhora fins que veieu el logo Mi.&lt;/Data&gt;</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
@@ -688,6 +689,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_rotation_unlocked_label">Rotació automàtica</string>
   <string name="quick_settings_rssi_emergency_only">Només trucades d\'emergència</string>
   <string name="quick_settings_screenshot_label">Captura de pantalla</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Per afegir un element, premeu-lo continuadament i llavors arrossegueu-lo a la part superior del panell.</string>
   <string name="quick_settings_vibrate_label">Vibració</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
