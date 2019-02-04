@@ -17,7 +17,7 @@
         <item>Molt insatisfet</item>
         <item>Una mica insatisfet</item>
         <item>Neutre</item>
-        <item>Lleugerament satisfet</item>
+        <item>Una mica satisfet</item>
         <item>Molt satisfet</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
