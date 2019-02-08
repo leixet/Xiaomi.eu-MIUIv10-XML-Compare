@@ -373,6 +373,14 @@
         <item>Rosa</item>
         <item>Vermell</item>
     </string-array>
+    <string-array name="common_password_business_clickable_default">
+        <item>cert</item>
+        <item>true</item>
+        <item>cert</item>
+        <item>fals</item>
+        <item>cert</item>
+        <item>false</item>
+    </string-array>
     <string-array name="common_password_business_names">
         <item>Bloqueja la pantalla</item>
         <item>Mode d\'infants</item>
