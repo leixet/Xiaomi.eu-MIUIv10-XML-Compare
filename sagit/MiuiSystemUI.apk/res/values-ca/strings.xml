@@ -397,6 +397,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
+  <string name="forget_password_string">Contrasenya oblidada</string>
   <string name="fs_gesture_back_home_summary">Llisqueu des de baix ràpidament</string>
   <string name="fs_gesture_back_ready_title">Com torno a la darrera pàgina?</string>
   <string name="fs_gesture_final_over">"Finalitza"</string>
@@ -428,6 +429,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="inactive_app_active_summary">Aplicació activa. Premeu per desactivar-la.</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
+  <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
   <string name="invalid_charger">"Càrrega USB no suportada.
 Utilitza únicament el carregador subministrat."</string>
@@ -493,12 +495,17 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_indication_charging_time_fast">Càrrega lenta (%s fins el màxim)</string>
   <string name="keyguard_indication_charging_time_slowly">Càrrega lenta (%s fins el màxim)</string>
   <string name="keyguard_low_battery">Connecteu el vostre carregador.</string>
+  <string name="keyguard_password_enter_password_code">Introduïu la contrasenya per desblocar</string>
   <string name="keyguard_password_enter_pin_password_code">Introduïu el PIN per desbloquejar</string>
   <string name="keyguard_plugged_in">S\'està carregant</string>
   <string name="keyguard_plugged_in_charging_fast">Càrrega ràpida</string>
   <string name="keyguard_plugged_in_charging_slowly">Càrrega lenta</string>
   <string name="keyguard_torch_cover_text">Manteniu el lot encès, prement el botó d\'engegada</string>
   <string name="keyguard_unlock">Llisqueu amunt per desblocar</string>
+  <string name="kg_password_wrong_puk_code_dead">La SIM no es pot utilitzar. Contacteu amb la vostra operadora.</string>
+  <string name="kg_prompt_reason_restart_password">Introduïu la contrasenya per desblocar</string>
+  <string name="kg_prompt_reason_switch_profiles_password">Quan canvieu de perfil cal la contrasenya</string>
+  <string name="kg_prompt_reason_timeout_password">Es requereix la contrasenya per a més seguretat</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
@@ -631,6 +638,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el vostre dispositiu, premeu continuadament els &amp;lt;font color=#a5220e&amp;gt; botons d\'engegada&amp;lt;/font&amp;gt; i &amp;lt;font color= #a5220e&amp;gt; d\'apujar el volum&amp;lt; /font&amp;gt; alhora fins que veieu el logo Mi.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
