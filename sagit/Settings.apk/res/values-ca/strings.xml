@@ -3543,6 +3543,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_paper_mode_off_apps_title">"No utilitzis mode lectura"</string>
   <string name="screen_paper_mode_range_title">Configuració</string>
   <string name="screen_paper_mode_set_apps_title">Aplicacions en mode lectura</string>
+  <string name="screen_paper_mode_summary">El mode de lectura utilitza colors més càlids a la pantalla que permetrà als vostres ulls relaxar-se.</string>
   <string name="screen_paper_mode_time_summary">mode de lectura programada amb el vostre temps establert</string>
   <string name="screen_paper_mode_time_title">Programació</string>
   <string name="screen_paper_mode_title">Mode lectura</string>
