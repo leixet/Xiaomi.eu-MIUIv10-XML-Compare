@@ -677,6 +677,8 @@
   <string name="exit_dialog_scan_title">Optimitza el rendiment</string>
   <string name="extreme_power_save_mode_title">Estalvi extrem de bateria</string>
   <string name="face_unlock_finger_or_password_switch">Utilitzeu l\'empremta digital o introduïu la contrasenya per desblocar.</string>
+  <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
+  <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
   <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
   <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
   <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
