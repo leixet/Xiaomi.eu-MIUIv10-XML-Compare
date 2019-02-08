@@ -260,6 +260,13 @@
   <string name="non_system_app_select">Aplicacions baixades</string>
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
+  <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
+  <string name="passport_error_illegal_pwd">Contrasenya incorrecta</string>
+  <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
+  <string name="passport_input_password_hint">Introduïu la contrasenya</string>
+  <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_reset_password_prompt">La contrasenya no és correcta</string>
+  <string name="passport_reset_password_title">Reinicialitza contrasenya</string>
   <string name="pic_not_exist">"Aquesta imatge no existeix"</string>
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
