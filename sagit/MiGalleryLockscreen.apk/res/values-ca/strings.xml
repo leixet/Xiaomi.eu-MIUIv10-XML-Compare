@@ -43,6 +43,7 @@
   <string name="detail_toast_dislike_fail">"No s'ha pogut esborrar."</string>
   <string name="dislike">Elimina</string>
   <string name="feed_article_entrance_about">Quant a %s</string>
+  <string name="find_psw">Contrasenya oblidada</string>
   <string name="hour_1">Cada hora</string>
   <string name="hour_3">Cada 3 hores</string>
   <string name="like">Afegeix als preferits</string>
@@ -64,8 +65,11 @@
   <string name="ok_lockscreen">D\'acord</string>
   <string name="ok_network">D\'acord</string>
   <string name="open_sub_title">Seleccioneu les categories</string>
+  <string name="passport_empty_password">"La contrasenya no es pot deixar en blanc"</string>
+  <string name="passport_set_password">Estableix la contrasenya</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
   <string name="platform_unavailable_wechatmoment">Instal·leu Wechat</string>
+  <string name="psw_hint">Contrasenya</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">No es pot connectar a la xarxa.</string>
   <string name="save_picture_success">Desat</string>
