@@ -1857,6 +1857,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget">Oblida-la</string>
   <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
+  <string name="forget_password_dialog_button_text">Enrere</string>
   <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Afegeix Compte Mi</string>
   <string name="forget_privacy_password_summary">Utilitzeu el Compte Mi per restablir la seva contrasenya</string>
@@ -3967,6 +3968,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="setup_choose_unlock_fingerprint_msg">Establiu el bloqueig de la pantalla abans d\'afegir l\'empremta.</string>
   <string name="setup_choose_unlock_mixed_password">Contrasenya</string>
   <string name="setup_choose_unlock_mixpassword_title">Estableix la contrasenya</string>
+  <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">Introduïu 4 números</string>
   <string name="setup_choose_unlock_password_title">Estableix el PIN</string>
   <string name="setup_choose_unlock_pattern">Patró</string>
@@ -5073,7 +5075,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wapi_cert_select">Certificat WAPI</string>
   <string name="wapi_no_vaild_cert">"No hi ha cap certificat disponible, voleu instal·lar-ne un?"</string>
   <string name="wapi_password_empty">Introduïu la contrasenya</string>
+  <string name="wapi_password_hex_format_invalid">Format de contrasenya incorrecte</string>
   <string name="wapi_password_hex_length_invalid">El recompte de caràcters hexadecimals ha de ser un número parell</string>
+  <string name="wapi_password_length_invalid">La contrasenya ha de tenir entre 8 a 64 caràcters de longitud</string>
   <string name="wapi_psk_type">Tipus de contrasenya</string>
   <string name="warm_color">Càlid</string>
   <string name="web_action_enable_summary">Obre els enllaços a les aplicacions, encara que no estiguin instal·lats</string>
@@ -5226,6 +5230,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_forget">Oblida-la</string>
   <string name="wifi_frequency">Freqüència</string>
   <string name="wifi_gateway">Passarel·la</string>
+  <string name="wifi_hide_password">Amaga la contrasenya</string>
   <string name="wifi_hotspot_checkbox_text">Punt d\'accés Wi-Fi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Utilitza la connexió mòbil per crear una xarxa Wi‑Fi</string>
   <string name="wifi_hotspot_configure_ap_text">Configuració del punt d\'accés Wi-Fi</string>
