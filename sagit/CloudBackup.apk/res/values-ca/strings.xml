@@ -112,6 +112,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="download_meta_failed">"No s'ha pogut carregar les dades."</string>
   <string name="download_settings">S\'està baixant la configuració de la pantalla d\'inici: %s%%</string>
   <string name="download_settings_fail">"No s'ha pogut baixar la configuració de la pantalla d'inici"</string>
+  <string name="error_retry_later">"No s'ha pogut finalitzar l'acció. Espereu un o dos minuts i torneu-ho a provar…"</string>
   <string name="error_unknown">Quelcom ha fallat</string>
   <string name="get_device_id_error">"No s'ha pogut obtenir l'ID del dispositiu"</string>
   <string name="home_hint_global_launcher">Pantalla d\'inici Poco</string>
