@@ -272,6 +272,7 @@
   <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
   <string name="passport_reset_password_prompt">La contrasenya no és correcta</string>
   <string name="passport_reset_password_title">Reinicialitza contrasenya</string>
+  <string name="passport_skip_setup_account_msg">Podeu configurar més endavant un compte Mi a Configuració.</string>
   <string name="passport_use_generated_pwd_title">Recordeu la vostra contrasenya</string>
   <string name="pic_not_exist">"Aquesta imatge no existeix"</string>
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
