@@ -12,6 +12,7 @@
   <string name="action_item_favorite">Preferit</string>
   <string name="action_item_hide">Amaga</string>
   <string name="action_item_hifi">Auriculars i efectes d\'àudio</string>
+  <string name="action_item_play_next">Reprodueix després</string>
   <string name="action_item_remove">Treu</string>
   <string name="action_item_remove_from_favorite">Treu dels preferits</string>
   <string name="action_item_share">Comparteix</string>
