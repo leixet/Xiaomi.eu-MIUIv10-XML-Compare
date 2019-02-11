@@ -895,6 +895,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="permissions_prompt_message">%s vol </string>
   <string name="play_pause_video">Reprodueix o pausa el vídeo</string>
   <string name="play_video">Reprodueix el vídeo</string>
+  <string name="player_data_error_tip">El vídeo està no disponible temporalment. Intenteu-ho més tard</string>
   <string name="popup_video">Vídeo emergent</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
