@@ -376,8 +376,6 @@
   <string name="download_type_thumbnail">Qualitat alta</string>
   <string name="download_type_thumbnail_desc">Qualitat alta</string>
   <string name="download_type_title">Qualitat de la baixada</string>
-  <string name="download_without_wifi_msg">"Si utilitzeu la connexió de dades mòbils per baixar fotos augmentareu l'ús de dades. En cas que excediu el límit de dades de la tarifa el vostre operador us pot cobrar de més."</string>
-  <string name="download_without_wifi_title">Alerta d\'ús de dades</string>
   <string name="downloading_dialog_message">Podeu seleccionar la qualitat de les imatges baixades o desactivar la baixada automàtica a la Configuració.</string>
   <string name="downloading_title">S\'estan baixant fotos del Mi Cloud</string>
   <string name="edit_baby_info">Veure informació del nadó</string>
