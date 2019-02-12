@@ -305,13 +305,11 @@ Comproveu el número de seguiment."</string>
   <string name="express_install_schedule_delivery">Servei de lliurament de comandes</string>
   <string name="express_more_service">Més serveis</string>
   <string name="express_no_address">Buit</string>
-  <string name="express_no_info">No hi ha informació</string>
   <string name="express_no_order">No hi ha cap comanda</string>
   <string name="express_no_order_info">No hi ha informació de la comanda</string>
   <string name="express_not_authorized">Restringit</string>
   <string name="express_num_setting_des">Rebeu números de comandes a partir de les aplicacions de lliurament instal·lades al vostre telèfon.</string>
   <string name="express_num_setting_title">Accés a la informació de la comanda</string>
-  <string name="express_number_txt">Número de comanda:</string>
   <string name="express_open">Mostra targetes de seguiment d\'entrega</string>
   <string name="express_open_locker">Obre</string>
   <string name="express_open_txt">Obre</string>
@@ -334,7 +332,6 @@ Comproveu el número de seguiment."</string>
   <string name="express_order_state_unknown">Desconegut</string>
   <string name="express_order_state_wait_picking">Pendent de recollida</string>
   <string name="express_order_succeeded">Completat</string>
-  <string name="express_origin_prev">Des de</string>
   <string name="express_other_app">Permeteu que MIUI accedeixi a la informació de comandes d\'altres aplicacions.</string>
   <string name="express_phone">Telèfon</string>
   <string name="express_phone_tip">En procés de lliurament, estigueu atents</string>
