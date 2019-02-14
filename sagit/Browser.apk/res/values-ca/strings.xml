@@ -104,8 +104,15 @@
   <string name="agree_permissions_request">Permet</string>
   <string name="alert_tips">Aquest lloc pot suposar un risc per a la seguretat</string>
   <string name="allow">Permet</string>
+  <string name="app_continue_downloading_text">Reprèn</string>
   <string name="app_download_market_text">Utilitzeu Mi mercat per baixar més ràpid i segur</string>
+  <string name="app_download_now_text">Baixa</string>
+  <string name="app_download_success_text">Completada</string>
+  <string name="app_downloading_ratio_text">S\'està baixant %s</string>
+  <string name="app_downloading_text">S\'està baixant</string>
+  <string name="app_installing_text">S\'està instal·lant</string>
   <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
+  <string name="app_open_text">Obre</string>
   <string name="app_update_install">A punt per instal·lar l\'actualització.</string>
   <string name="application_name">Navegador</string>
   <string name="aqi_quality_index_break">Altament perillós</string>
@@ -134,6 +141,7 @@
   <string name="bookmark_btn_select_none">Desselecciona-ho tot</string>
   <string name="bookmark_cannot_save_url">"Aquest URL no es pot afegir als marcadors."</string>
   <string name="bookmark_deleted">Suprimeix l\'adreça d\'interès</string>
+  <string name="bookmark_error_page_title">S\'ha produït un error</string>
   <string name="bookmark_folder_needs_title">Introduïu un nom de grup</string>
   <string name="bookmark_group_lable">Grup</string>
   <string name="bookmark_move_to">Mou a</string>
@@ -169,6 +177,7 @@
   <string name="cast_video">Emet el vídeo</string>
   <string name="check_security_tip_privacy_policy">Política de privadesa</string>
   <string name="check_security_tip_user_agreement">Acord d\'usuari</string>
+  <string name="checking_now">S\'està comprovant...</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_search_history">Esborra l\'historial</string>
@@ -202,6 +211,8 @@
   <string name="comment_max_length">El vostre comentari és massa llarg.</string>
   <string name="comment_menu">Comentari</string>
   <string name="comment_num_description">Número de comentari</string>
+  <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
+  <string name="common_use_phrase_bottom_bar_text_previous">Previ</string>
   <string name="context_menu_add_to_desk_id">Afegeix a la pantalla d\'inici</string>
   <string name="context_menu_orientation_portrait_swap_id">Pantalla V/H</string>
   <string name="contextmenu_add_contact">Afegeix un contacte</string>
@@ -252,6 +263,7 @@ està a punt de passar»</string>
   <string name="delete_bookmark_warning">Voleu eliminar el marcador «%s»?</string>
   <string name="delete_download">Elimina</string>
   <string name="dialog_cannot_resume">La baixada s\'ha interromput</string>
+  <string name="dialog_clipboard_tabs_action">Cliqueu per obrir</string>
   <string name="dialog_confirm_delete_checkbox_message">Elimina el fitxer de l\'emmagatzematge intern</string>
   <string name="dialog_confirm_delete_downloads_message">Voleu eliminar %s tasques?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Voleu eliminar aquesta tasca?</string>
