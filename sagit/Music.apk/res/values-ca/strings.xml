@@ -25,6 +25,7 @@
   <string name="add_to_last_of_playlist">Afegeix al final de la llista de reproducció</string>
   <string name="add_to_playlist_successful">S\'ha afegit amb èxit</string>
   <string name="added_next_play">S\'ha afegit per reproduir-lo a continuació</string>
+  <string name="agreement_desc">Acord d\'usuari (manament)</string>
   <string name="alaka_required">Aquesta cançó no està disponible.</string>
   <string name="album_label">Portades d\'àlbums</string>
   <string name="album_name">Àlbum</string>
@@ -33,6 +34,16 @@
   <string name="already_download_btn">S\'està baixant&#8230;</string>
   <string name="already_favorited">Ja està als preferits</string>
   <string name="app_label">Baixades</string>
+  <string name="app_permission_confirm">Entesos</string>
+  <string name="app_permission_optional">Permisos opcionals</string>
+  <string name="app_permission_require">Permisos obligatoris</string>
+  <string name="app_permission_use_desc">Permisos</string>
+  <string name="app_permission_use_group_account">Comptes</string>
+  <string name="app_permission_use_group_account_desc">Per obtenir informació de compte de Mi</string>
+  <string name="app_permission_use_group_phone">Telèfon</string>
+  <string name="app_permission_use_group_phone_desc">Utilitza els serveis de Google Play</string>
+  <string name="app_permission_use_group_storage">Emmagatzematge</string>
+  <string name="app_permission_use_group_storage_desc">Per trobar i reproduïr cançons desades al dispositiu</string>
   <string name="artist">Artistes</string>
   <string name="artist_area_all">Tots</string>
   <string name="artist_area_china">Xina</string>
@@ -95,6 +106,7 @@
   <string name="current_version">Versió actual</string>
   <string name="data_usage_warning">Ús de dades</string>
   <string name="data_usage_warning_summary">En utilitzar la connexió de dades mòbils per escoltar retransmissions de música en alta qualitat pot augmentar els càrrecs per ús de dades.</string>
+  <string name="data_use_desc">Documents legals</string>
   <string name="date_format_str">dd-MM-yyyy</string>
   <string name="delete">Elimina</string>
   <string name="delete_download">Elimina</string>
@@ -411,6 +423,7 @@
   <string name="preset_music_playlist">Llista de reproducció de Música Mi</string>
   <string name="priority_storage">Utilitza la targeta SD externa</string>
   <string name="priority_storage_summary">Baixa automàticament a la targeta SD externa si està disponible</string>
+  <string name="privacy_desc">Política de privacitat (obligatori)</string>
   <string name="privacy_policy">Política de privadesa</string>
   <string name="project_device">Telèfon Mi</string>
   <string name="prompt_grant_write_settings_permission">Sol·licitud de permís de configuració</string>
