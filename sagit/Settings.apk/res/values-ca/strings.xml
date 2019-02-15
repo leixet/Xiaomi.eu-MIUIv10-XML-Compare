@@ -1181,6 +1181,8 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="daltonizer_mode_tritanomaly">Tritanomalia (blau-groc)</string>
   <string name="daltonizer_type">Mode de correcció</string>
   <string name="daltonizer_type_overridden">Substituit per %1$s</string>
+  <string name="dark_ui_mode">Mode nocturn</string>
+  <string name="dark_ui_mode_title">Configura el mode nocturn</string>
   <string name="dashboard_title">Configuració</string>
   <string name="data_limit">Límit de dades</string>
   <string name="data_saver_off">Apagat</string>
@@ -2851,6 +2853,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="normal_smartcover_title">Coberta frontal opaca</string>
   <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
+  <string name="notch_force_black_desc">Activeu per enfosquir entorn el notch</string>
+  <string name="notch_force_black_title">Amaga el notch</string>
   <string name="notes_privacy_password_role_instruction">Les notes privades es desaran aquí.</string>
   <string name="notification_app_settings_button">Configuració de les notificacions</string>
   <string name="notification_badge_title">Permet el punt de notificació</string>
