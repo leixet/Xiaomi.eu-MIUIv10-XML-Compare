@@ -554,6 +554,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="media_projection_dialog_text">"%s començarà a capturar tot el que es visualitzi a la pantalla."</string>
   <string name="media_projection_remember_text">"No mostrar de nou"</string>
   <string name="megabyte_per_second">MB/s</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">S\'ha desblocat per un dispositiu Bluetooth</string>
   <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
   <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
@@ -852,6 +853,8 @@ d MMMM"</string>
   <string name="structure_face_unlock_model_other">Altres</string>
   <string name="structure_face_unlock_model_other_msg_2d">Reconeixement 2D</string>
   <string name="structure_face_unlock_model_other_msg_3d">Reconeixement 3D</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">El reconeixement facial 2D és menys segur que un patró, un PIN o una contrasenya. Amb aquesta opció activada, el dispositiu es podria desblocar amb una foto vostra o amb persones o objectes que se us assemblin.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"El reconeixement facial 3D és relativament segur. És altament improbable que es pugui desblocar el vostre dispositiu amb una foto vostra quan aquesta característica està activada. Tot i això, encara es podria desblocar amb persones o objectes que se us assemblin."</string>
   <string name="structure_face_unlock_model_other_title">Reconeixement de cares</string>
   <string name="task_access_locked_app_msg">Contingut de l\'aplicació ocult</string>
   <string name="telephony_monitor_switch">Monitor de telefonia</string>
