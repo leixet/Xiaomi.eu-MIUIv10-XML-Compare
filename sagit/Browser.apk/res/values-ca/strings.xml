@@ -872,10 +872,12 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
   <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
+  <string name="navigate_feedback_submit">Envia</string>
   <string name="navigation_delete_all">Llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
+  <string name="network_error_tips">Error de xarxa, torneu-ho a provar</string>
   <string name="network_not_available_comment">Sense connexió a Internet, no es poden fer comentaris</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Connecta a aquesta xarxa</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Hi ha una xarxa Wi-Fi oberta disponible</string>
@@ -890,12 +892,14 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="not_now">Ara no</string>
   <string name="not_remind_again">Recorda la meva elecció</string>
   <string name="notif_install_successful">Baixada completa</string>
+  <string name="novel_toast_hint">S\'ha afegit aquest lloc web a la biblioteca</string>
   <string name="ok">D\'acord</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
   <string name="open_cloud_sync">Activa la sincronització amb Mi Cloud</string>
   <string name="open_cloud_sync_desc">S\'ha afegit marcador amb èxit. Activeu la sincronització amb el Mi Cloud per sincronitzar els marcadors afegits en altres dispositius. Voleu iniciar sessió i activar-lo?</string>
   <string name="open_file_explorer_failed">"No es pot obrir el gestor de fitxers"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
+  <string name="page_hang_message">La pàgina actual s\'ha blocat i cal que reinicieu el vostre navegador.</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
   <string name="page_info_view">Mostra la informació de la pàgina</string>
