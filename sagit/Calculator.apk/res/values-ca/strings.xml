@@ -210,7 +210,6 @@
   <string name="secondFunction">2on</string>
   <string name="secondFunctionDesc">Canvia a la segona funció</string>
   <string name="settingsDesc">configuració</string>
-  <string name="sim_not_ready">La targeta SIM s\'està utilitzant. Intenteu-ho més tard.</string>
   <string name="sinDesc">sinus</string>
   <string name="sqrtDesc">arrel quadrada</string>
   <string name="switchDesc">Canvia</string>
