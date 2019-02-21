@@ -919,6 +919,8 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="play_retry">Torna a reproduir</string>
   <string name="play_video">Reprodueix el vídeo</string>
   <string name="player_data_error_tip">El vídeo està no disponible temporalment. Intenteu-ho més tard</string>
+  <string name="player_net_error">No s\'està connectat a la xarxa, comproveu la configuració de la xarxa</string>
+  <string name="player_no_data">Disculpeu! Aquest vídeo ja no hi és.</string>
   <string name="popup_video">Vídeo emergent</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
@@ -1059,6 +1061,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="readmode_refresh">Actualitza</string>
   <string name="readmodelist_bookmarks_to_show">Llista de lectura</string>
   <string name="refresh_description">Refresca</string>
+  <string name="refresh_text">Actualitza</string>
   <string name="refuse_permissions_request">Rebutja</string>
   <string name="remember_passwords_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="remove_bookmark">Esborra el marcador</string>
@@ -1105,6 +1108,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="search_keyword_browser">Navegador</string>
   <string name="search_label">Navegador</string>
   <string name="search_menu_title">Cerca</string>
+  <string name="search_notification_btn_title">Cerca</string>
   <string name="search_path_browser">Configuració/Aplicacions instal·lades/Navegador</string>
   <string name="search_settings_description">Marcadors i historial web</string>
   <string name="search_shipin">Vídeo</string>
@@ -1143,6 +1147,9 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="signed_in">Sessió iniciada</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="small_video_loading">S\'està carregant...</string>
+  <string name="small_video_net_error">Error de connexió</string>
+  <string name="small_video_no_more_date">No hi ha dades</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar la pàgina"</string>
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
