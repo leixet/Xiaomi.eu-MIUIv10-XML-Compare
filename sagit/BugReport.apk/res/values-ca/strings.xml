@@ -291,6 +291,7 @@
   <string name="passport_reg_via_sms_alert">Per activar aquest servei pot ser necessari enviar un missatge SMS. La vostra operadora us cobraria per aquest missatge.</string>
   <string name="passport_register_account_goto_email">Vés a la safata d\'entrada</string>
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
+  <string name="passport_registered_phone_user_name">Nom d\'usuari: %s</string>
   <string name="passport_relogin_notice">Heu d\'iniciar la sessió un altre cop</string>
   <string name="passport_remove_confirm">Tanca la sessió</string>
   <string name="passport_resend_active_email">Torna a enviar el correu</string>
