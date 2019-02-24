@@ -57,4 +57,12 @@
         <item quantity="other">La sincronització s\'ha aturat. Continuarà en %d minuts…</item>
         <item quantity="one">La sincronització s\'ha aturat. Continuarà en %d minut…</item>
     </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">Fa %s minuts</item>
+        <item quantity="one">Fa %s min</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">Fa %s hores</item>
+        <item quantity="one">Fa %s hora</item>
+    </plurals>
 </resources>
