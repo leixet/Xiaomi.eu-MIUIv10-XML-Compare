@@ -356,6 +356,7 @@ està a punt de passar»</string>
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
+  <string name="exit_browser_confirmation">Premeu un altre cop per retornar a l\'escriptori</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
   <string name="exit_fullscreen">Surt de pantalla completa</string>
   <string name="expand_button_title">Avançat</string>
