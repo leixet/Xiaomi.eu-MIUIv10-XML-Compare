@@ -404,6 +404,8 @@ està a punt de passar»</string>
   <string name="guide_finance_text">finances</string>
   <string name="guide_games_text">jocs</string>
   <string name="guide_history_text">historia</string>
+  <string name="guide_know_type_main_title">El navegador que us entén</string>
+  <string name="guide_know_type_subtitle">Obteniu consells sorprenents</string>
   <string name="guide_label_chosen_hint">Podeu triar a més de %d categories</string>
   <string name="guide_military_text">militar</string>
   <string name="guide_motor_text">motor</string>
