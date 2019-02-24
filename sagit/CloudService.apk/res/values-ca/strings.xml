@@ -250,8 +250,10 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_sync_result_cta_permission_error">Connecteu-vos primer a la xarxa</string>
   <string name="micloud_sync_result_internal_error">Error intern</string>
   <string name="micloud_sync_result_io_exception">Error d\'E/S</string>
+  <string name="micloud_sync_result_permission_error">Error relatiu als permisos</string>
   <string name="micloud_sync_result_request_error">Error de sol·licitud de sincronització</string>
   <string name="micloud_sync_result_secure_space_limit">"No es sincronitzen els elements del segon espai"</string>
+  <string name="micloud_sync_result_sim_activated_error">Error d\'activació de la tarja SIM</string>
   <string name="micloud_sync_result_wifi_only">Sincronització només per wifi</string>
   <string name="micloud_upgrade_member">Aconsegueix més emmagatzematge</string>
   <string name="micloud_user_space_title">Espai d\'emmagatzematge</string>
@@ -328,6 +330,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_dspt_entrance_provision_network">Aquesta aplicació ha de connectar-se a Internet perquè funcioni normalment. Les dades de sincronització es poden connectar a la xarxa de dades i activar la Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_skip">Omet aquest pas</string>
   <string name="sync_dspt_provision">"Sincronitza les teves fotos, contactes, notes, etc. entre els teus dispositius i accedeix a ells des de"</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
 "</string>
   <string name="sync_item_calllog_summary">Sincronitzar registres de trucades fetes i rebudes en aquest telèfon</string>
