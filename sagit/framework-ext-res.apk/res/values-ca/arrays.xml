@@ -8,7 +8,6 @@
         <item>com.xiaomi.Channel:Remote</item>
     </string-array>
     <string-array name="float_notification_whitelist">
-        <item>com.google.android.apps.messaging</item>
         <item>com.google.android.talk</item>
         <item>com.tencent.mm</item>
         <item>com.tencent.qq</item>
@@ -65,13 +64,12 @@
         <item>com.kiteguard</item>
         <item>com.xiaomi.discover</item>
         <item>com.orange.phone</item>
+        <item>com.miui.userguide</item>
         <item>com.Taobao.Taobao</item>
         <item>com.miui.systemAdSolution</item>
         <item>com.Miui.Hybrid.Accessory</item>
-        <item>com.miui.hybrid.accessory</item>
     </string-array>
     <string-array name="keyguard_whitelist">
-        <item>com.google.android.apps.messaging</item>
         <item>com.google.android.talk</item>
         <item>com.tencent.mm</item>
         <item>com.tencent.qq</item>
@@ -121,10 +119,10 @@
         <item>com.xiaomi.discover</item>
         <item>com.orange.phone</item>
         <item>com.android.stk</item>
+        <item>com.miui.userguide</item>
         <item>com.xiaomi.mipicks</item>
         <item>com.miui.systemAdSolution</item>
         <item>com.techown.Emm</item>
         <item>com.Miui.Hybrid.Accessory</item>
-        <item>com.miui.hybrid.accessory</item>
     </string-array>
 </resources>
