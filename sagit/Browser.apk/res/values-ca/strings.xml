@@ -75,6 +75,8 @@
   <string name="action_text_readmode_more">Més</string>
   <string name="action_text_readmode_theme_head">Estableix el fons de pantalla</string>
   <string name="action_text_theme_and_textsize_change">Ajust de la mida del tipus de lletra i del tema</string>
+  <string name="ad_exit_dialog_exit_btn_name">surt</string>
+  <string name="ad_exit_dialog_message">La instal·lació s\'ha completat! Ho voleu obrir ara?</string>
   <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador d\'anuncis</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
   <string name="adblock_rules_not_updated_toast">"No s'ha pogut actualitzar"</string>
@@ -493,6 +495,7 @@ està a punt de passar»</string>
   <string name="more_description">Menú</string>
   <string name="more_option">Més opcions</string>
   <string name="movie_player_3g_tip_retry">Continua</string>
+  <string name="movie_player_loading">Properament：%s</string>
   <string name="mw_abc_action_bar_home_description">Vés a la pàgina d\'inici</string>
   <string name="mw_abc_action_bar_up_description">Vés amunt</string>
   <string name="mw_abc_action_menu_overflow_description">Més opcions</string>
