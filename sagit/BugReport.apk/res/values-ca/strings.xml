@@ -266,7 +266,13 @@
   <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_checking_account">S\'està comprovant la contrasenya…</string>
+  <string name="passport_completed">Finalitza</string>
+  <string name="passport_confirm_recycle_account">Sí</string>
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
+  <string name="passport_delete_account">Tanca la sessió</string>
+  <string name="passport_email">Adreça electrònica</string>
+  <string name="passport_error_dup_email">El email que heu introduït ja està associat a un altre compte.</string>
+  <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
   <string name="passport_error_illegal_pwd">Contrasenya incorrecta</string>
   <string name="passport_error_ssl_hand_shake">"No s'ha pogut connectar al servidor"</string>
