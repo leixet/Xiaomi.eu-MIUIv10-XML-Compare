@@ -877,6 +877,10 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
   <string name="nav_screen_incognito_message">L\'historial de navegació i cerca no es desarà al mode incògnit. Recordeu que els fitxers que baixeu i els marcadors que afegiu es desaran.</string>
   <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
+  <string name="nav_screen_tab_incognito_enter">Entra a la pestanya d\'incògnit</string>
+  <string name="nav_screen_tab_incognito_exit">Surt de la pestanya d\'incògnit</string>
+  <string name="navigate_feedback_dislike">no m’interessa</string>
+  <string name="navigate_feedback_dislike_tips">Reduirà les recomanacions de vídeos</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
   <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
   <string name="navigate_feedback_submit">Envia</string>
@@ -961,6 +965,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_content_night_read_mode">Mode nocturn</string>
   <string name="pref_content_search_engine">Motor de cerca a la barra d\'adreces</string>
   <string name="pref_content_search_engine_summary">Seleccioneu un motor de cerca</string>
+  <string name="pref_download_setting">Configuració de les baixades</string>
   <string name="pref_enable_adblock_notification">Mostra les notificacions del bloquejador d\'anuncis</string>
   <string name="pref_enable_news">Notícies</string>
   <string name="pref_enable_novels">Llibres</string>
@@ -1154,7 +1159,14 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="signed_in">Sessió iniciada</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="small_video_ad_app_text_click">Baixa</string>
+  <string name="small_video_ad_app_text_open">Obre</string>
+  <string name="small_video_ad_app_text_resume">Continua</string>
+  <string name="small_video_ad_web_text">Obre</string>
+  <string name="small_video_boba_tab">Emet</string>
+  <string name="small_video_load_failed">Ha fallat la càrrega</string>
   <string name="small_video_loading">S\'està carregant...</string>
+  <string name="small_video_main_tab">Recomana</string>
   <string name="small_video_net_error">Error de connexió</string>
   <string name="small_video_no_more_date">No hi ha dades</string>
   <string name="snapshot">Local</string>
