@@ -1072,6 +1072,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="readmode_recommend_message">"Ja heu llegit aquest llibre. :)"</string>
   <string name="readmode_refresh">Actualitza</string>
   <string name="readmodelist_bookmarks_to_show">Llista de lectura</string>
+  <string name="recommending_close_toast_text">Estableix la fi d\'aquesta opció a la configuració avançada</string>
   <string name="refresh_description">Refresca</string>
   <string name="refresh_text">Actualitza</string>
   <string name="refuse_permissions_request">Rebutja</string>
