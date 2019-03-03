@@ -92,6 +92,7 @@
   <string name="exit">Surt</string>
   <string name="extra_deduction_instruction">Detalls de deducció</string>
   <string name="extra_deduction_tips">Premeu el botó a la cantonada superior de la pantalla per veure detalls del descompte.</string>
+  <string name="extra_deduction_title">Descomptes addicionals</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">factorial</string>
   <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
@@ -219,6 +220,7 @@
   <string name="settingsDesc">configuració</string>
   <string name="sinDesc">sinus</string>
   <string name="sqrtDesc">arrel quadrada</string>
+  <string name="support_elder">Suport a la gent gran</string>
   <string name="switchDesc">Canvia</string>
   <string name="tab_title_calculator">Calculadora</string>
   <string name="tab_title_convert">Convertidor</string>
@@ -241,6 +243,11 @@
   <string name="tax_credit_mortgage">Hipoteca</string>
   <string name="tax_credit_personal_income_tax">Impostos personals</string>
   <string name="tax_credit_pretax_income">Ingressos abans d\'impostos (CNY)</string>
+  <string name="tax_detail">Dades fiscals</string>
+  <string name="tax_detail_amount">Import de l\'impost</string>
+  <string name="tax_detail_rate">Tipus impositiu</string>
+  <string name="tax_detail_take_off">Deducció</string>
+  <string name="tax_detail_tax_payed">Import pagat</string>
   <string name="tax_endowment">Fons de pensions</string>
   <string name="tax_fixed_salary_hint">Introduïu els vostres ingressos bruts</string>
   <string name="tax_income_annual_bonus_list">Bonificació anual</string>
