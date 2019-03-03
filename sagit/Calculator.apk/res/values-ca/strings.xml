@@ -91,6 +91,7 @@
   <string name="error_fomrat">Error de format</string>
   <string name="exit">Surt</string>
   <string name="extra_deduction_instruction">Detalls de deducció</string>
+  <string name="extra_deduction_tips">Premeu el botó a la cantonada superior de la pantalla per veure detalls del descompte.</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">factorial</string>
   <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
