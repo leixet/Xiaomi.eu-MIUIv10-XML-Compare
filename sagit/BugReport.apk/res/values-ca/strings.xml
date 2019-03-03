@@ -31,9 +31,14 @@
 2. Retorneu a la funció que voleu notificar i reproduïu-la.
 3. Torneu a aquesta pàgina i premeu \"Finalitza i puja\"."</string>
   <string name="catch_full_log_item_content_title">Passos:</string>
+  <string name="catch_full_log_item_title_audio">Àudio, enregistrament de so i trucada d\'àudio</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_gps">Serveis d\'ubicació</string>
   <string name="catch_full_log_item_title_sensor">Sensors</string>
+  <string name="catch_full_log_item_title_signal">Telèfon, senyal i xarxes mòbils</string>
+  <string name="catch_full_log_notification_content">Premeu per retornar als enregistraments</string>
+  <string name="catch_full_log_notification_title">S\'està generant un enregistrament…</string>
+  <string name="catch_full_log_submit_directly">Envia</string>
   <string name="close_feedback_main">​​Amaga</string>
   <string name="cta_cancel">Cancel·la</string>
   <string name="cta_confirm">D\'acord</string>
@@ -73,6 +78,7 @@
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
+  <string name="feedback_choose_app_tag">Seleccioneu el tema</string>
   <string name="feedback_choose_module">Trieu un element</string>
   <string name="feedback_choose_module_hint">Necessari</string>
   <string name="feedback_choose_reproductivity">Reproductivitat</string>
@@ -270,8 +276,12 @@
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
   <string name="passport_access_denied">Accés denegat</string>
+  <string name="passport_account_hint_text">Adreça d\'email o ID del compte Mi</string>
   <string name="passport_account_identity_title">Verificació de la vostra identitat</string>
+  <string name="passport_account_label">Compte Mi</string>
+  <string name="passport_area_code_title">Codi de país</string>
   <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
+  <string name="passport_back">Enrere</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_checking_account">S\'està comprovant la contrasenya…</string>
   <string name="passport_completed">Finalitza</string>
@@ -319,7 +329,15 @@
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en dues passes</string>
   <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_re_register">Torneu-vos a inscriure</string>
+  <string name="passport_recycle_account_prompt">Aquest és el vostre compte Mi?</string>
+  <string name="passport_reg_btn_using_other_phone">Utilitzeu el número de telèfon alternatiu</string>
+  <string name="passport_reg_failed">"No es pot configurar el compte"</string>
+  <string name="passport_reg_prompt">"No teniu un compte Mi? Creeu-ne un de franc."</string>
+  <string name="passport_reg_success">Compte creat</string>
   <string name="passport_reg_via_sms_alert">Per activar aquest servei pot ser necessari enviar un missatge SMS. La vostra operadora us cobraria per aquest missatge.</string>
+  <string name="passport_reging">S\'està creant un compte…</string>
+  <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Vés a la safata d\'entrada</string>
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
   <string name="passport_registered_phone_user_name">Nom d\'usuari: %s</string>
