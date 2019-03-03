@@ -64,6 +64,7 @@
   <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
   <string name="dialog_privacy_title">Termes i condicions</string>
   <string name="dialog_rating_desc_ask">Què en penseu de la Calculadora?</string>
+  <string name="dialog_rating_title">Valoreu la nostra aplicació</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>
@@ -88,6 +89,8 @@
   <string name="equalDesc">és igual a</string>
   <string name="error">Error</string>
   <string name="error_fomrat">Error de format</string>
+  <string name="exit">Surt</string>
+  <string name="extra_deduction_instruction">Detalls de deducció</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">factorial</string>
   <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
