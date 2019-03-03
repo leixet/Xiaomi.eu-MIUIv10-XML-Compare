@@ -19,10 +19,18 @@
   <string name="bugreport_tool_log_dumping_title">S\'està creant l\'informe d\'error</string>
   <string name="catch_full_log_action_cancel">Cancel·la</string>
   <string name="catch_full_log_action_complete">Acaba i puja</string>
+  <string name="catch_full_log_action_start">Genera un registre</string>
+  <string name="catch_full_log_add_original_photo">Afegeix una imatge original o un vídeo curt</string>
   <string name="catch_full_log_add_photo">Afegeix foto</string>
   <string name="catch_full_log_add_photo_dialog_content">"Si el problema que reporteu té relació amb la qualitat d'imatge de la càmera, afegiu una foto original de mostra (sense retalls) per ajudar-nos a identificar el problema. Voleu afegir una foto ara?"</string>
   <string name="catch_full_log_dialog_confirm_text">Vés a la pantalla d\'inici</string>
   <string name="catch_full_log_dialog_content">"MIUI està generant un registre. Això podria afectar la productivitat global del vostre dispositiu. Si no podeu reproduir el problema que voleu notificar, retorneu als registres i premeu \"Cancel·la\"."</string>
+  <string name="catch_full_log_item_content_catch_direct">"1. Retorneu a la funció que voleu notificar i reproduïu-la.
+2. Torneu a aquesta pàgina i premeu \"Finalitza i puja\"."</string>
+  <string name="catch_full_log_item_content_need_open">"1. Premeu \"Genera un registre\"
+2. Retorneu a la funció que voleu notificar i reproduïu-la.
+3. Torneu a aquesta pàgina i premeu \"Finalitza i puja\"."</string>
+  <string name="catch_full_log_item_content_title">Passos:</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_gps">Serveis d\'ubicació</string>
   <string name="catch_full_log_item_title_sensor">Sensors</string>
