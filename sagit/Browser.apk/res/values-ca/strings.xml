@@ -75,6 +75,7 @@
   <string name="action_text_readmode_more">Més</string>
   <string name="action_text_readmode_theme_head">Estableix el fons de pantalla</string>
   <string name="action_text_theme_and_textsize_change">Ajust de la mida del tipus de lletra i del tema</string>
+  <string name="ad_app_download_notification_content">Després de completar la instal·lació, obre la demo tot seguit ~</string>
   <string name="ad_exit_dialog_exit_btn_name">surt</string>
   <string name="ad_exit_dialog_message">La instal·lació s\'ha completat! Ho voleu obrir ara?</string>
   <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador d\'anuncis</string>
