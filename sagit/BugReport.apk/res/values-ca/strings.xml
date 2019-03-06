@@ -103,6 +103,10 @@
   <string name="feedback_remind_login_btn">Inicia la sessió</string>
   <string name="feedback_report_remind_login_desc">Connecteu-vos amb el Compte Mi perquè els nostres enginyers puguin contactar-vos.</string>
   <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés dels informes a «Els meus informes»."</string>
+  <string name="feedback_reproductivity_everytime">Cada vegada</string>
+  <string name="feedback_reproductivity_occasionally">De tant en tant</string>
+  <string name="feedback_reproductivity_often">Sovint</string>
+  <string name="feedback_reproductivity_once">Un cop</string>
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
   <string name="feedback_select_images">Afegeix imatges</string>
   <string name="feedback_select_modem_log">Afegeix els registres del mòdem</string>
@@ -161,6 +165,11 @@
   <string name="goon_feedback_main">Continua</string>
   <string name="hint_feedback_main">Descriviu el problema</string>
   <string name="issue_search">Cerca</string>
+  <string name="kr_authorization_agree">Accepta</string>
+  <string name="kr_authorization_select_all">Selecciona-ho tot</string>
+  <string name="kr_authorization_storage">Emmagatzematge</string>
+  <string name="kr_authorization_summary">Documents legals</string>
+  <string name="kr_authorization_user_protocol">Acord d\'usuari (obligatori)</string>
   <string name="loading_apps">S\'està carregant la llista&#8230;</string>
   <string name="login_system_failed">"No s'ha pogut accedir, intenteu-ho de nou"</string>
   <string name="logo_title">Notificació d\'errors</string>
@@ -279,6 +288,7 @@
   <string name="passport_account_hint_text">Adreça d\'email o ID del compte Mi</string>
   <string name="passport_account_identity_title">Verificació de la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
+  <string name="passport_activing_account">S\'està activant…</string>
   <string name="passport_area_code_title">Codi de país</string>
   <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
   <string name="passport_back">Enrere</string>
@@ -287,10 +297,15 @@
   <string name="passport_completed">Finalitza</string>
   <string name="passport_confirm_recycle_account">Sí</string>
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
+  <string name="passport_copy_message_vcode">Copia el codi</string>
   <string name="passport_delete_account">Tanca la sessió</string>
+  <string name="passport_downlink_reg">Crea un compte utilitzant el número de telèfon</string>
   <string name="passport_email">Adreça electrònica</string>
+  <string name="passport_email_or_id_hint_text">Adreça d\'email o ID del compte Mi</string>
+  <string name="passport_error_device_id">"No es pot obtenir l'identificador del dispositiu"</string>
   <string name="passport_error_dup_email">El email que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
+  <string name="passport_error_empty_email">Introduïu la vostra adreça email</string>
   <string name="passport_error_empty_phone_num">Introduïu el número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
