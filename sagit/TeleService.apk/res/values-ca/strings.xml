@@ -534,6 +534,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="daltonizer_type_overridden">Substituït per %1$s</string>
   <string name="data_enable_summary">Permet que aquest dispositiu utilitzi dades mòbils</string>
   <string name="data_enabled">Dades mòbils</string>
+  <string name="data_plan">Plans de dades mòbils</string>
   <string name="data_usage_uninstalled_apps">Aplicacions eliminades</string>
   <string name="data_usage_uninstalled_apps_users">Aplicacions i usuaris eliminats</string>
   <string name="deactivate_all">Cancel·la-ho tot</string>
