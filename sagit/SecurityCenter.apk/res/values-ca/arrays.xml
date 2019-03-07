@@ -88,6 +88,11 @@
         <item>Desactiva i notifica</item>
         <item>Només notifica</item>
     </string-array>
+    <string-array name="traffic_package_type">
+        <item>Control mensual de dades</item>
+        <item>Control diari de dades</item>
+        <item>Sense control de dades</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Un cop</item>
         <item>Cada dia</item>
