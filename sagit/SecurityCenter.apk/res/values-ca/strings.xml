@@ -525,6 +525,8 @@
   <string name="current_network_state_not_need_diagnose">La connexió a internet és normal.</string>
   <string name="customize_limit_pkg">%s (personalitzat)</string>
   <string name="customizer_mode_user_define_name">Les meves regles</string>
+  <string name="daily_card_setting_fragment_daily_card_setting">Configuració del control diari de dades</string>
+  <string name="daily_card_setting_fragment_daily_card_summary">"MIUI configurarà els límits de consum de dades i les aplicacions sense límit segons el proveïdor que seleccioneu. Si el vostre proveïdor no és a la llista, indiqueu \"Altre\" i configureu manualment el vostre control diari de dades."</string>
   <string name="daily_limit_and_lock_screen">Avís d\'ús de dades</string>
   <string name="daily_limit_network_available_body">Toqueu per mostrar les estadístiques d\'ús de dades.</string>
   <string name="daily_limit_over_message">"Heu superat el límit de dades diari."</string>
@@ -711,6 +713,7 @@
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant Wi-Fi quan aquest interruptor estigui desactivat."</string>
   <string name="first_aid_card_airplane_button">Desactiva</string>
+  <string name="first_aid_card_airplane_summary">Desactiveu el mode d\'avió per poder fer trucades i connectar-vos a la xarxa</string>
   <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
   <string name="first_aid_card_consume_power_title">Consum de bateria</string>
   <string name="first_aid_item4_content">Bateria</string>
