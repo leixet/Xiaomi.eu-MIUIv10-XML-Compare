@@ -89,9 +89,9 @@
         <item>Només notifica</item>
     </string-array>
     <string-array name="traffic_package_type">
-        <item>Control mensual de dades</item>
-        <item>Control diari de dades</item>
-        <item>Sense control de dades</item>
+        <item>Pla de dades mensual</item>
+        <item>Pla de dades diari</item>
+        <item>Pla de dades il·limitat</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Un cop</item>
