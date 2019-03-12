@@ -211,6 +211,7 @@
   <string name="guide_secure_dialog_title">Optimització del rendiment</string>
   <string name="guide_virus_dialog_negative">Cancel·la</string>
   <string name="guide_virus_dialog_positive">Escaneja</string>
+  <string name="guide_virus_dialog_title">Escanejat d\'antivirus</string>
   <string name="header_optimizer">En utilitzar aquesta funció, vostè està d\'acord amb %s.</string>
   <string name="hint_clean_select_items">S\'estan esborrant les duplicitats&#8230;</string>
   <string name="hints_ad_header_left">Fitxers de publicitat</string>
