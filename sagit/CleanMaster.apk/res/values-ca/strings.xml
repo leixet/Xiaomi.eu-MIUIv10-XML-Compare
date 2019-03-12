@@ -194,6 +194,8 @@
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">S\'està inicialitzant...</string>
   <string name="engine_tm">Tencent</string>
+  <string name="facebook_cleaner">Netejador del Facebook</string>
+  <string name="facebook_function_title">Netejador del Facebook</string>
   <string name="file">Fitxers</string>
   <string name="file_not_found">No s\'ha trobat l\'arxiu</string>
   <string name="flow_rank_title">Ús de dades</string>
@@ -524,6 +526,8 @@
   <string name="whatsapp_delete_confirm_ok">D\'acord</string>
   <string name="whatsapp_delete_done">Fet</string>
   <string name="whatsapp_file_show_order">Avui</string>
+  <string name="whatsapp_function_title">Netejador del WhatsApp</string>
+  <string name="whatsapp_title">Netejador del WhatsApp</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>
