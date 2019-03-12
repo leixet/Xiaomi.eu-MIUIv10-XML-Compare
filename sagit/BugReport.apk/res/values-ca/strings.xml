@@ -293,6 +293,7 @@
   <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
   <string name="passport_back">Enrere</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
+  <string name="passport_barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada un cop hàgiu iniciat la sessió.</string>
   <string name="passport_checking_account">S\'està comprovant la contrasenya…</string>
   <string name="passport_completed">Finalitza</string>
   <string name="passport_confirm_recycle_account">Sí</string>
