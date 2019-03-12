@@ -327,6 +327,8 @@ Allibera %s com a mínim. "</string>
   <string name="sc_service_unavailable">Mi Cloud no està disponible</string>
   <string name="sc_unaccess_password_file">"No s'ha trobat la contrasenya de la xarxa Wi-Fi"</string>
   <string name="sc_unauthorized">Inicia la sessió de nou</string>
+  <string name="scan_soft_ap">S\'estan cercant el dispositiu nou…</string>
+  <string name="scan_soft_ap_label">Connecta\'t al dispositiu antic</string>
   <string name="sd_not_available">Insereix ara la targeta SD</string>
   <string name="sdcard_no_enough_space">No hi ha prou espai</string>
   <string name="sdcard_no_enough_space_message">"No hi ha prou espai a la targeta SD."</string>
@@ -456,6 +458,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_install_guide_step2_content">Un cop finalitzada la instal·lació, toqueu el botó «Inicia».</string>
   <string name="trans_install_guide_step2_title">Pas 2</string>
   <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa WLAN i toqueu \"Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
+  <string name="trans_intro_desc_10">Premeu \"Connecta\'t mitjançant un codi QR\" en el dispositiu nou i escanegeu el codi QR per configurar la connexió.</string>
   <string name="trans_intro_desc_3">Cancel·leu la transferència, sortiu de Mi Mover i començareu de nou. Els fitxers duplicats es sobreescriuran durant la nova transferència.</string>
   <string name="trans_intro_desc_4">"El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu seguir utilitzant les dades mòbils. Tanmateix, alguns dispositius més nous (per exemple el Mi 6) poden connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
   <string name="trans_intro_desc_4_market">"Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils."</string>
