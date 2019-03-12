@@ -463,12 +463,14 @@
   <string name="card_main_applock_summary">Protegiu les aplicacions seleccionades amb una contrasenya.</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_deepclean_action">Esborra</string>
+  <string name="card_main_deepclean_facebook_title">Netejador del Facebook</string>
   <string name="card_main_deepclean_qq_title">Netejador QQ</string>
   <string name="card_main_deepclean_summary">Suprimeix fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja profunda</string>
   <string name="card_main_deepclean_wechat_action">Esborra</string>
   <string name="card_main_deepclean_wechat_summary">Esborrar la memòria cau del WeChat per alliberar espai</string>
   <string name="card_main_deepclean_wechat_title">Memòria cau del WeChat</string>
+  <string name="card_main_deepclean_whatsapp_title">Netejador del WhatsApp</string>
   <string name="card_main_gamebooster_title">Accelerador de velocitat dels jocs</string>
   <string name="card_main_hbassistant_summary">Utilitzeu aquesta eina per agafar els sobres més ràpid</string>
   <string name="card_main_hbassistant_title">Assistent del sobre vermell</string>
