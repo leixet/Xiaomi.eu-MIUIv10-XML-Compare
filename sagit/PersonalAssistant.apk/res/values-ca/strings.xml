@@ -706,6 +706,7 @@ Comproveu el número de seguiment."</string>
   <string name="scan">Escaneja</string>
   <string name="scan_card">Targeta de visita</string>
   <string name="scan_code">Codi QR</string>
+  <string name="scan_doc">Document</string>
   <string name="scan_exercise">Estudis</string>
   <string name="scan_trans">Tradueix</string>
   <string name="search_add_header">Afegeix una imatge de portada</string>
