@@ -729,6 +729,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Divideix horitzontalment</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Divideix verticalment</string>
   <string name="recents_stack_action_button_label">Suprimeix-ho tot</string>
+  <string name="recents_title_garbage_cleanup">Netejador</string>
   <string name="reject_call">Rebutjar trucada</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
