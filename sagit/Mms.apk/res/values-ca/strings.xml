@@ -603,6 +603,7 @@ Intents realitzats: %s"</string>
   <string name="url_fraud_title">El lloc web pot ser fals</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>
   <string name="url_result_safe">La URL és segura</string>
+  <string name="url_scan_again">Torna-ho a provar</string>
   <string name="url_scanning">S\'està comprovat la URL&#8230;</string>
   <string name="verification_code_list_title">Codis de verificació</string>
   <string name="view">Mostra</string>
