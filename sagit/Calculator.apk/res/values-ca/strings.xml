@@ -16,6 +16,7 @@
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">S\'ha copiat el text</string>
   <string name="cancel">Cancel·la</string>
+  <string name="children_education">"Educació infantil"</string>
   <string name="chinese_character_cross_check">互查</string>
   <string name="chinese_character_daughter">女</string>
   <string name="chinese_character_elder_brother">兄</string>
@@ -118,7 +119,10 @@
   <string name="global_search_key_word_figure">Caràcters financers</string>
   <string name="golbal_search_calculator_setting">Calculadora;Configuració de la calculadora;Configuració</string>
   <string name="golbal_search_path_calculator_setting">Aplicacions del sistema/Calculadora/Configuració</string>
+  <string name="help_content_desc">Ajuda</string>
+  <string name="home_loan">Interès hipotecari</string>
   <string name="home_title_calculator">Calculadora</string>
+  <string name="house_rent">Lloguer</string>
   <string name="install">Instal·la</string>
   <string name="install_scanner_to_continued_use">L\'escàner està desinstal·lat. Voleu tornar-lo a instal·lar?</string>
   <string name="interest_rate_hint">Introduïu la taxa d\'interès</string>
@@ -140,7 +144,9 @@
   <string name="item_title_weight_conversion">Pes</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
   <string name="lgDesc">logaritme</string>
+  <string name="license_host_unreachable">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="lnDesc">logaritme natural</string>
+  <string name="loading">Un moment…</string>
   <string name="loan_edittext_hint_commercial">Introduïu una quantitat</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial (×10K)</string>
   <string name="loan_edittext_hint_fund">Introduïu una quantitat</string>
@@ -206,6 +212,9 @@
   <string name="preference_follow_qq_group">Grup QQ: 523274279</string>
   <string name="preference_follow_us">Segueix-nos</string>
   <string name="preference_follow_web_title">Lloc web oficial</string>
+  <string name="preference_other">Altres</string>
+  <string name="preference_privacy_title">Política de Privadesa</string>
+  <string name="preference_rating_title">Puntueu la nostra aplicació</string>
   <string name="preference_settings">Configuració</string>
   <string name="preference_use_degress_summary">Substitueix radiants per angles en funcions trigonomètriques</string>
   <string name="preference_use_degress_title">Utilitza angles</string>
