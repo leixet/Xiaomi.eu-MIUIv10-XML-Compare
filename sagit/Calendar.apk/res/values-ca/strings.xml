@@ -15,6 +15,7 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
+  <string name="accessbility_suggestion_dropdown_closed">No hi ha suggeriments disponibles</string>
   <string name="accessibility_add_attendee">Afegeix un participant</string>
   <string name="accessibility_all_day">Esdeveniment de tot el dia</string>
   <string name="accessibility_pick_start_date">Data d\'inici</string>
@@ -184,6 +185,7 @@
   <string name="empty_event">"No es poden crear esdeveniments buits"</string>
   <string name="english_premium_league">Premier League</string>
   <string name="event_account">Compte</string>
+  <string name="event_action_arrive_station">Destí</string>
   <string name="event_action_delete">Elimina</string>
   <string name="event_action_edit">Edita</string>
   <string name="event_all_day_label">Tot el dia</string>
@@ -199,6 +201,9 @@
   <string name="event_info_reminders_label_1">Recordatori</string>
   <string name="event_info_repeat">Repetició\u0009</string>
   <string name="event_info_title">Detalls de l\'esdeveniment</string>
+  <string name="event_info_title_anniversary">Aniversari</string>
+  <string name="event_info_title_birthday">Data de naixement</string>
+  <string name="event_info_title_countdown">Compte enrere</string>
   <string name="event_info_title_invite">Invitació a la reunió</string>
   <string name="event_info_when">Quan\u0009\u0009</string>
   <string name="event_info_where">On\u0009</string>
@@ -339,6 +344,9 @@
   <string name="no_visiable_calendar_message">Cal que afegiu un compte de calendari. Toqueu Afegeix un compte per continuar.</string>
   <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
   <string name="no_visiable_calendar_title">Afegeix un compte</string>
+  <string name="notification_channel_name">Recordatoris de calendari</string>
+  <string name="notification_open_setting_button_exit">No, gràcies</string>
+  <string name="notification_open_setting_button_ok">Permet</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
   <string name="panchang_amanta_month">Mes Amanta:</string>
