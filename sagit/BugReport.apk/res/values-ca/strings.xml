@@ -352,10 +352,14 @@
   <string name="passport_reg_prompt">"No teniu un compte Mi? Creeu-ne un de franc."</string>
   <string name="passport_reg_success">Compte creat</string>
   <string name="passport_reg_type_email">Utilitza l\'adreça email</string>
+  <string name="passport_reg_using_other_phone_number_prompt">"Crea un compte nou utilitzant "</string>
+  <string name="passport_reg_using_phone_number_prompt">Crea un compte utilitzant un número de telèfon</string>
   <string name="passport_reg_via_sms_alert">Per activar aquest servei pot ser necessari enviar un missatge SMS. La vostra operadora us cobraria per aquest missatge.</string>
   <string name="passport_reging">S\'està creant un compte…</string>
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Vés a la safata d\'entrada</string>
+  <string name="passport_register_account_verified_confirm">Compte verificat</string>
+  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant l\'adreça email&lt;/u&gt;</string>
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
   <string name="passport_registered_phone_user_name">Nom d\'usuari: %s</string>
   <string name="passport_relogin">Torneu a iniciar la sessió</string>
