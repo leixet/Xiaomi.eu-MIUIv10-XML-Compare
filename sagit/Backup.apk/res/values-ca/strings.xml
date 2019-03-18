@@ -102,6 +102,8 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació…</string>
   <string name="confirm_exit_link">Surt</string>
   <string name="confirm_exit_link_cancel">"No surtis"</string>
+  <string name="confirm_exit_link_msg">"Si sortiu ara de l'aplicació s'interromprà la transferència en curs. Haureu de tornar a establir la connexió entre els dos dispositius. Així i tot voleu sortir de l'aplicació?"</string>
+  <string name="connect_soft_ap_label">S\'està connectant a un nou dispositiu…</string>
   <string name="connect_wifi">Connecta a la Wi-Fi</string>
   <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos al Wi-Fi per importar elements d'iCloud."</string>
   <string name="contact_title">Contactes</string>
@@ -294,6 +296,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="prompt_writing">S\'està desant…</string>
   <string name="read_encrypt_fail">"No s'ha pogut llegir la còpia de seguretat xifrada"</string>
   <string name="reconnect">Torna a connectar</string>
+  <string name="recreate_soft_ap_tips">Premeu el botó de sota per tornar-ho a provar.</string>
   <string name="refresh">Refresca</string>
   <string name="remote_receive">Rebre</string>
   <string name="restore">Restaura</string>
@@ -493,6 +496,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_question_9_market">%d. Comentaris.</string>
   <string name="trans_intro_title">PMF</string>
   <string name="trans_intro_title_account">Comptes i contrasenyes:</string>
+  <string name="trans_intro_title_gms">Dades generades per aplicacions Google:</string>
   <string name="trans_intro_title_multiapp">Dades d\'aplicacions duals:</string>
   <string name="trans_intro_title_multiuser">Dades del segon espai:</string>
   <string name="trans_intro_title_new">En un telèfon nou:</string>
@@ -608,6 +612,7 @@ Allibereu espai o transferiu només elements importants."</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_password_description">Mostra la contrasenya</string>
+  <string name="waiting">Un moment…</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
