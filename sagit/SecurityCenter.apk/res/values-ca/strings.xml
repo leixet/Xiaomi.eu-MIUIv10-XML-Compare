@@ -719,6 +719,7 @@
   <string name="firewall_temp_rule_reason">%2$s va restringir la connexió a Internet per a %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant Wi-Fi quan aquest interruptor estigui desactivat."</string>
+  <string name="first_aid_activity_title">Resolució de problemes</string>
   <string name="first_aid_card_airplane_button">Desactiva</string>
   <string name="first_aid_card_airplane_summary">Desactiveu el mode d\'avió per poder fer trucades i connectar-vos a la xarxa</string>
   <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
@@ -1847,6 +1848,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="summary_do_not_disturb">"Esteu utilitzant el mode No molesteu."</string>
   <string name="summary_eye_shield">Desactiveu el mode de lectura per recuperar la configuració per defecte.</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
+  <string name="summary_first_aid_kit">Resoleu els problemes del vostre dispositiu ara</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
   <string name="summary_flow_verify_failed">Ajust automàtic d\'ús de dades per evitar càrrecs addicionals</string>
@@ -2010,6 +2012,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="title_do_not_disturb">"No pots escoltar el to de trucada?"</string>
   <string name="title_eye_shield">"El color de la pantalla no es veu bé?"</string>
   <string name="title_find_device">Troba el dispositiu</string>
+  <string name="title_first_aid_kit">Resolució de problemes</string>
   <string name="title_flow_notification">Informe d\'ús de dades</string>
   <string name="title_flow_purchase">Hora de recarregar</string>
   <string name="title_flow_rank">Ús de dades mòbils</string>
