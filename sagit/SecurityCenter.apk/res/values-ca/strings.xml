@@ -423,6 +423,8 @@
   <string name="btn_text_quick_save_power">Refreda</string>
   <string name="btn_text_quick_scan">Escaneja</string>
   <string name="btn_text_stop">Atura</string>
+  <string name="button_block_calls_from_cantacts">Desbloca</string>
+  <string name="button_block_calls_from_strangers">Desbloca</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
   <string name="button_text_clear">Esborra</string>
@@ -1085,6 +1087,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_report">Notifica un error</string>
   <string name="menu_setting_traffic">Estableix manualment</string>
   <string name="menu_sms">Envia el missatge</string>
+  <string name="menu_summary_antispam">Bloca trucades i missatges</string>
+  <string name="menu_summary_antispam_2">Trucades i missatges blocats</string>
   <string name="menu_summary_garbage_cleanup">No hi ha brossa</string>
   <string name="menu_summary_garbage_cleanup_2">Mida de la brossa</string>
   <string name="menu_summary_garbage_cleanup_3">Neteja la brossa ara</string>
