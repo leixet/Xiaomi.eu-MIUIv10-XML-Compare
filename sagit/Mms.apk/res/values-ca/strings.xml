@@ -183,6 +183,7 @@
   <string name="group_resend_message">Reenvia (%d)</string>
   <string name="group_verification_codes_summary">Agrupa automàticament les contrasenyes úniques</string>
   <string name="group_verification_codes_title">Agrupació de les contrasenyes úniques</string>
+  <string name="group_view_settings_disolved">"No es pot veure continguts. Aquest grup de xat s'ha suprimit."</string>
   <string name="guild_add_attachments">Toqueu per afegir emoticones i altre contingut</string>
   <string name="guild_add_recipients">Toqueu per afegir destinataris de la llibreta d\'adreces</string>
   <string name="guild_msim_switcher">Toqueu per intercanviar les targetes SIM</string>
