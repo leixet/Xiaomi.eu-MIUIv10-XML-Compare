@@ -2617,6 +2617,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_sos_settings_category">Configuració de SOS</string>
   <string name="miui_sos_statusbar_summary">Premeu per tancar</string>
   <string name="miui_sos_statusbar_title">El SOS d\'emergència està activat</string>
+  <string name="miui_touch_filtered_warning">Si una aplicació bloca un diàleg de permisos, activeu l\'element que col·lideix o tanqueu l\'aplicació.</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
