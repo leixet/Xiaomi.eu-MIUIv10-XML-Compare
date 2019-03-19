@@ -25,10 +25,7 @@
         <item>La connexió s\'ha interromput</item>
         <item>No he seleccionat bé els elements a transferir</item>
         <item>Massa passos</item>
-        <item>"Tinc poca bateria al meu mòbil"</item>
-        <item>Els elements transferits estan malmesos</item>
-        <item>He iniciat la transferència sense voler</item>
-        <item>Altres</item>
+        <item>Tinc poca bateria al meu mòbil</item>
     </string-array>
     <string-array name="mi_stat_cancel_survey_key">
         <item>transfer_takes_too_long</item>
@@ -36,8 +33,5 @@
         <item>i_selected_wrong_items_to_transfer</item>
         <item>too_many_steps</item>
         <item>my_phone_battery_is_low</item>
-        <item>transferred_items_are_corrupted</item>
-        <item>i_started_the_transfer_accidentally</item>
-        <item>other</item>
     </string-array>
 </resources>
