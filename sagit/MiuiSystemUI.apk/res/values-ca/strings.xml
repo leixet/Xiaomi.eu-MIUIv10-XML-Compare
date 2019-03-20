@@ -139,6 +139,7 @@
   <string name="battery_low_percent_format">%d%% restant</string>
   <string name="battery_low_percent_format_saver_started">Queda %s. L\'estalvi de bateria està activat.</string>
   <string name="battery_low_title">Connecteu el carregador</string>
+  <string name="battery_low_why">Configuració</string>
   <string name="battery_panel_title">Consum de bateria</string>
   <string name="battery_profiles">Perfils d\'ús de bateria</string>
   <string name="battery_saver_confirmation_ok">Activa</string>
