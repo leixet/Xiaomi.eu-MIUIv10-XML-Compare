@@ -515,6 +515,9 @@ Darrera execució el %2$s"</string>
   <string name="battery_detail_since_full_charge">Desglossament des de l\'última càrrega completa</string>
   <string name="battery_details_title">Ús de bateria</string>
   <string name="battery_footer_summary">El temps restant de la bateria és aproximat i pot canviar segons l\'ús</string>
+  <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+  <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
+  <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
   <string name="battery_history_hours_no_seconds">%1$d h %2$d m</string>
   <string name="battery_history_minutes">%1$d m %2$d s</string>
   <string name="battery_history_minutes_no_seconds">%1$d m</string>
@@ -532,6 +535,8 @@ Darrera execució el %2$s"</string>
   <string name="battery_info_health_unspecified_failure">S\'ha produït un error desconegut</string>
   <string name="battery_info_label">Informació de la bateria</string>
   <string name="battery_info_level_label">Nivell de la bateria:</string>
+  <string name="battery_info_power_ac">CA</string>
+  <string name="battery_info_power_ac_usb">CA+USB</string>
   <string name="battery_info_power_label">Endoll:</string>
   <string name="battery_info_power_unknown">Desconegut</string>
   <string name="battery_info_power_unplugged">Desendollat</string>
@@ -1373,6 +1378,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="device_cpu4_info">Quatre-nuclis</string>
   <string name="device_cpu6_info">Sis-nuclis</string>
   <string name="device_cpu8_info">Vuit-nuclis</string>
+  <string name="device_description_battery">Capacitat de la bateria</string>
   <string name="device_display_layout_title">Característiques del Mi 5</string>
   <string name="device_edit_title">Reanomena el telèfon</string>
   <string name="device_feedback">Envia suggeriments sobre el dispositiu</string>
