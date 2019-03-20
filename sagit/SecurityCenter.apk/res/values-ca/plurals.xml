@@ -321,4 +321,8 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">S\'ha registrat %d dies seguits</item>
         <item quantity="one">S\'ha registrat %d vegada</item>
     </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="one">%1$s:</item>
+        <item quantity="other">%1$s:</item>
+    </plurals>
 </resources>
