@@ -725,6 +725,7 @@
   <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
   <string name="first_aid_card_consume_power_title">Consum de bateria</string>
   <string name="first_aid_item4_content">Bateria</string>
+  <string name="first_aid_result_summary_normal">Tot sembla correcte!</string>
   <string name="first_aid_scanning_item4">Cercant problemes de bateria…</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="fod_authentication_shift_button">Cancel·la</string>
@@ -1362,6 +1363,13 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
   <string name="power_center_back">Enrere</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
+  <string name="power_center_hints_scan_danger_result">Podeu corregir ara mateix problemes de bateria</string>
+  <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+  <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+  <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+  <string name="power_center_list_item_battery_status_capacity">mAh</string>
+  <string name="power_center_list_item_battery_status_temperature">℃</string>
+  <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
   <string name="power_center_repeat">Repeteix</string>
@@ -1370,6 +1378,9 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_scan_item_title_abnormal_apps">Aplicacions que consumeixen bateria</string>
   <string name="power_center_scan_item_title_auto_start">Inici automàtic</string>
   <string name="power_center_scan_item_title_battery_details">Detalls del consum de bateria</string>
+  <string name="power_center_scan_item_title_hide">Gestiona el consum de bateria</string>
+  <string name="power_center_scan_item_title_power_saver">Activa l\'estalvi de bateria</string>
+  <string name="power_center_scan_result_safe">No s\'ha detectat cap problema de bateria</string>
   <string name="power_center_state_off">Desactivat</string>
   <string name="power_center_state_on">Activat</string>
   <string name="power_center_time_to_boot">Hora d\'encesa</string>
@@ -1411,6 +1422,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_save_mode_summary">Monitoritza els processos en segon pla i desactiva la sincronització.</string>
   <string name="power_save_on_time_end_time_summary_na">Fins</string>
   <string name="power_save_on_time_start_time_summary_na">Des de</string>
+  <string name="power_save_started_summary_text">"L'estalvi de bateria està activat. Això minva l'activitat en segon pla de les aplicacions, atura sincronitzacions i minimitza animacions del sistema."</string>
   <string name="power_save_summary_text">"Activeu l'estalvi de bateria per reduir l'activitat de fons de les aplicacions, aturar la sincronització, i reduir al mínim les animacions del sistema."</string>
   <string name="power_save_title_text">Estalvi de bateria</string>
   <string name="power_screen">Pantalla</string>
