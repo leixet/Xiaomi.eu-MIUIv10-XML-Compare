@@ -564,6 +564,8 @@
   <string name="deep_clean_memory_clean_title">Esborra la memòria cau quan el dispositiu està bloquejat</string>
   <string name="deep_clean_never_memory_clean">Mai</string>
   <string name="deep_power_save_item_summary_auto_brightness">Ajusta la brillantor de pantalla automàticament per estalviar bateria</string>
+  <string name="deep_power_save_item_summary_bluetooth">Desactiva el Bluetooth per estalviar bateria</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Apaga la pantalla per estalviar bateria després de 30 segons d\'inactivitat</string>
   <string name="deep_save_memory_clean_summary">Esborra la memòria cau quan es bloqueja el dispositiu per evitar l\'ús de la bateria de les aplicacions</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Programeu l\'hora a engegar i apagar el dispositiu</string>
   <string name="delete">Suprimeix</string>
@@ -683,6 +685,7 @@
   <string name="exit_dialog_scan_message">"La puntuació del rendiment del dispositiu és inferior a 75 punts. Voleu optimitzar-lo?"</string>
   <string name="exit_dialog_scan_positive_button">Optimitza</string>
   <string name="exit_dialog_scan_title">Optimitza el rendiment</string>
+  <string name="extreme_power_save_mode_card_summary">Activa l\'estalvi extrem de bateria quan la bateria està baixa per reduir el consum.</string>
   <string name="extreme_power_save_mode_title">Estalvi extrem de bateria</string>
   <string name="face_unlock_finger_or_password_switch">Utilitzeu l\'empremta digital o introduïu la contrasenya per desblocar.</string>
   <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
@@ -725,6 +728,7 @@
   <string name="first_aid_card_airplane_button">Desactiva</string>
   <string name="first_aid_card_airplane_summary">Desactiveu el mode d\'avió per poder fer trucades i connectar-vos a la xarxa</string>
   <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
+  <string name="first_aid_card_consume_power_summary1">Més de 5 aplicacions s\'inicien elles soles. Limiteu-les per estalviar bateria.</string>
   <string name="first_aid_card_consume_power_title">Consum de bateria</string>
   <string name="first_aid_item4_content">Bateria</string>
   <string name="first_aid_result_summary_normal">Tot sembla correcte!</string>
@@ -849,6 +853,7 @@
   <string name="guide_wait_setting">Ara no</string>
   <string name="handle_bar_summary_wifi_unknown">Desconeguda</string>
   <string name="handle_bar_title_system">Sistema</string>
+  <string name="handle_title_details">Detalls del consum de bateria</string>
   <string name="handle_title_network">Seguretat del Wi-Fi</string>
   <string name="handle_title_pay_env">Entorn de pagament</string>
   <string name="handle_title_privacy">Privadesa i seguretat</string>
