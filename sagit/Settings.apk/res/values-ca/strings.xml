@@ -540,6 +540,7 @@ Darrera execució el %2$s"</string>
   <string name="battery_info_power_label">Endoll:</string>
   <string name="battery_info_power_unknown">Desconegut</string>
   <string name="battery_info_power_unplugged">Desendollat</string>
+  <string name="battery_info_power_usb">USB</string>
   <string name="battery_info_power_wireless">Sense fils</string>
   <string name="battery_info_scale_label">Escala de la bateria:</string>
   <string name="battery_info_screen_on">Temps de la pantalla engegada:</string>
@@ -558,10 +559,12 @@ Darrera execució el %2$s"</string>
   <string name="battery_info_temperature_units">°C</string>
   <string name="battery_info_uptime">Temps des de s\'ha engegat:</string>
   <string name="battery_info_voltage_label">Voltatge de la bateria:</string>
+  <string name="battery_info_voltage_units">mV</string>
   <string name="battery_last_full_charge">Darrera càrrega completa</string>
   <string name="battery_level_title">Nivell de la bateria</string>
   <string name="battery_light_summary">Activa el LED de notificació mentre el dispositiu s\'està carregant</string>
   <string name="battery_light_title">Activa el llum quan s\'està carregant</string>
+  <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_msg_unaccounted">L\'ús de la bateria és una aproximació de l\'ús d\'energia i no inclou totes les fonts de drenatge de la bateria. Miscel·lània és la diferència entre l\'ús aproximat d\'energia calculada i el drenatge real observat a la bateria.</string>
   <string name="battery_overall_usage">%1$s de la bateria general</string>
   <string name="battery_percentage">Percentatge de bateria</string>
@@ -585,6 +588,7 @@ Darrera execució el %2$s"</string>
   <string name="battery_stats_duration">%1$s des de que s\'ha desendollat</string>
   <string name="battery_stats_flashlight_on_label">Flaix engegat</string>
   <string name="battery_stats_gps_on_label">S\'ha activat el GPS</string>
+  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">Bateria per %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de la xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla engegada</string>
