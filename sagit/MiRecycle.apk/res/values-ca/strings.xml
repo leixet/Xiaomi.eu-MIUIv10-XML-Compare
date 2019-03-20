@@ -10,5 +10,6 @@
   <string name="buy_title_four">Heu perdut el vostre mòbil?</string>
   <string name="main_overall_test">COMENÇA</string>
   <string name="overall_test">Resultat global</string>
+  <string name="result_no_fail">Tot va bé</string>
   <string name="title_quote_page">Resultat global</string>
 </resources>
