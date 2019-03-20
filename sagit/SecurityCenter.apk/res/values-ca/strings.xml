@@ -338,6 +338,7 @@
   <string name="auto_task_operation_sync">Sincronitza</string>
   <string name="auto_task_operation_vibration">Vibració</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="auto_task_result_summary_text">Estableix tasques automàtiques en l\'estalvi de bateria</string>
   <string name="back_app_name">Torna al bloquejador d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Torna enrere per canviar la contrasenya</string>
@@ -562,6 +563,7 @@
   <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
   <string name="deep_clean_memory_clean_title">Esborra la memòria cau quan el dispositiu està bloquejat</string>
   <string name="deep_clean_never_memory_clean">Mai</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Ajusta la brillantor de pantalla automàticament per estalviar bateria</string>
   <string name="deep_save_memory_clean_summary">Esborra la memòria cau quan es bloqueja el dispositiu per evitar l\'ús de la bateria de les aplicacions</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Programeu l\'hora a engegar i apagar el dispositiu</string>
   <string name="delete">Suprimeix</string>
