@@ -326,6 +326,10 @@
   <string name="ok">D\'acord</string>
   <string name="one_tap_clean_GB">%sG</string>
   <string name="one_tap_clean_M">%dM</string>
+  <string name="onekeyclean_boost_available">Disponible %s</string>
+  <string name="onekeyclean_boost_cleaned">S\'ha esborrat %s</string>
+  <string name="onekeyclean_boosted_title">S\'ha esborrat correctament</string>
+  <string name="onekeyclean_boosting_title">S\'està incrementant la velocitat</string>
   <string name="onekeyclean_card_summery">Neteja la brossa per alliberar espai</string>
   <string name="open">Activa</string>
   <string name="open_app">Obre</string>
