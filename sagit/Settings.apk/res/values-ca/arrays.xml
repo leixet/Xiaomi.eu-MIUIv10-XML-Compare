@@ -200,6 +200,16 @@
         <item>Percentatge</item>
         <item>Barra superior</item>
     </string-array>
+    <string-array name="battery_indicator_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="bearer_entries">
         <item>Sense especificar</item>
         <item>LTE</item>
