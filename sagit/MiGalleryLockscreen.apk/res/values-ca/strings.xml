@@ -38,6 +38,7 @@
   <string name="declaration">Obtenir nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
   <string name="declaration_lockscreen_title">Carrusel de fons de pantalla</string>
   <string name="declaration_title">Condicions d\'ús</string>
+  <string name="detail_recomm_load_tip">Coincideixen amb els vostres interessos…</string>
   <string name="detail_toast_deny_dislike">"No es pot esborrar."</string>
   <string name="detail_toast_deny_favor">"No es pot afegir a preferits."</string>
   <string name="detail_toast_dislike_fail">"No s'ha pogut esborrar."</string>
