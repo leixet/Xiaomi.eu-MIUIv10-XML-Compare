@@ -257,8 +257,4 @@
         <item quantity="other">%d elements</item>
         <item quantity="one">%d element</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">%1$d elements en total</item>
-        <item quantity="one">%1$d element en total</item>
-    </plurals>
 </resources>
