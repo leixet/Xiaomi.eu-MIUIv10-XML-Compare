@@ -221,10 +221,6 @@
         <item quantity="other">Mostra %d elements ocults</item>
         <item quantity="one">Mostra %d element ocult</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d commutadors apareixeran al panell de notificacions</item>
-        <item quantity="one">%1$d commutador apareixerà al panell de notificacions</item>
-    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Sou a %1$d passos d'entrar al CIT."</item>
         <item quantity="one">"Sou a %1$d pas d'entrar al CIT."</item>
