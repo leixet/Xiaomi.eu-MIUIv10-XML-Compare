@@ -199,10 +199,12 @@
         <item>Gràfic</item>
         <item>Percentatge</item>
         <item>Barra superior</item>
+        <item>Top bar</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
         <item>2</item>
     </string-array>
     <string-array name="battery_labels">
@@ -356,16 +358,6 @@
         <item>Patró</item>
         <item>PIN</item>
         <item>Contrasenya</item>
-    </string-array>
-    <string-array name="check_importance_entries">
-        <item>Recomanat</item>
-        <item>Important</item>
-        <item>No important</item>
-    </string-array>
-    <string-array name="check_importance_summary">
-        <item>MIUI decidirà quines notificacions han d\'aparèixer directament</item>
-        <item>Les notificacions apareixeran al taulell de notificacions</item>
-        <item>Les notificacions apareixeran en una carpeta independent</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
