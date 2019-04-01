@@ -729,6 +729,7 @@
   <string name="first_aid_card_airplane_summary">Desactiveu el mode d\'avió per poder fer trucades i connectar-vos a la xarxa</string>
   <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
   <string name="first_aid_card_consume_power_summary1">Més de 5 aplicacions s\'inicien elles soles. Limiteu-les per estalviar bateria.</string>
+  <string name="first_aid_card_consume_power_summary2">Apaga el punt d\'accés portàtil per estalviar bateria</string>
   <string name="first_aid_card_consume_power_title">Consum de bateria</string>
   <string name="first_aid_item4_content">Bateria</string>
   <string name="first_aid_result_summary_normal">Tot sembla correcte!</string>
