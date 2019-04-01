@@ -93,6 +93,7 @@
   <string name="accessibility_search_light">Cerca</string>
   <string name="accessibility_search_scanner">Escàner</string>
   <string name="accessibility_settings">Configuració</string>
+  <string name="accessibility_status_bar_hotspot">Punt d\'accés</string>
   <string name="accessibility_tty_enabled">Teletip activat.</string>
   <string name="accessibility_unlock_button">Desbloqueja</string>
   <string name="accessibility_unlock_without_fingerprint">Desbloqueja sense utilitzar la vostra empremta digital</string>
@@ -337,6 +338,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="dlg_confirm_kill_storage_users_title">Activa emmagatzematge USB</string>
   <string name="dlg_error_title">L\'operació USB ha fallat</string>
   <string name="dlg_ok">D\'acord</string>
+  <string name="dlg_summary_close_wifi">Apaga la wifi, el Bluetooth i el punt d\'accés portàtil</string>
   <string name="dlg_summary_title">L\'estalvi extrem de bateria atura tota activitat en segon pla d\'una aplicació quan en sortiu i torneu a la pantalla inicial. Si voleu que una aplicació continuï executant-se en procés de fons, afegiu-la a les excepcions del segon pla.</string>
   <string name="do_not_silence">"No silenciïs"</string>
   <string name="do_not_silence_block">"No silenciïs ni bloquegis"</string>
@@ -701,6 +703,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_done">Fet</string>
   <string name="quick_settings_extreme_batterysaver_label">Estalvi extrem de bateria</string>
   <string name="quick_settings_flashlight_label">Lot</string>
+  <string name="quick_settings_hotspot_label">Punt d\'accés</string>
   <string name="quick_settings_more_settings">Més opcions</string>
   <string name="quick_settings_mute_label">Silenci</string>
   <string name="quick_settings_night_display_label">Llum nocturna</string>
