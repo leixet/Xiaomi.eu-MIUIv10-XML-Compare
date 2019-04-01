@@ -353,6 +353,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="user_agreement_link">"Els termes de servei del Mi Cloud"</string>
   <string name="user_agreement_title">"Termes de Servei de Mi Cloud"</string>
   <string name="warning_bar_title_master_sync_off">La sincronització automàtica no està activada</string>
+  <string name="warning_bar_title_network_unconnected">"No s'ha pogut connectar a la xarxa"</string>
   <string name="warning_bar_title_sync_off">La sincronització amb Mi Cloud no està activada</string>
   <string name="wipe_data_dialog_button_check_sync">Comprova si està sincronitzat</string>
   <string name="wipe_data_dialog_msg">"Alguns elements %s no se sincronitzen. Es desaran al dispositiu i no se suprimiran."</string>
