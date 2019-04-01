@@ -74,6 +74,7 @@
   <string name="cancel_moving_dialog_message">Esteu segur que voleu aturar la importació?</string>
   <string name="cancel_moving_dialog_title">Atura la importació</string>
   <string name="cancel_restore">Atura</string>
+  <string name="click_soft_ap_to_link">Seleccioneu un punt d\'accés per connectar-se</string>
   <string name="click_to_view">Toqueu per mostrar-ho</string>
   <string name="close_twice_auth_btn">Desactiva l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
@@ -357,6 +358,8 @@ Allibera %s com a mínim. "</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="sms_title">Missatgeria</string>
+  <string name="soft_ap_create_failed">"No s'ha pogut crear el punt d'accés"</string>
+  <string name="soft_ap_creating">S\'està creant el punt d\'accés…</string>
   <string name="software_backup_info">Dades de l\'aplicació</string>
   <string name="start_backup">Còpia de seguretat</string>
   <string name="start_restore">Restaura</string>
@@ -484,6 +487,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_desc_old_market">Toqueu «Inicia». Escanejeu el codi QR al telèfon nou, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i toqueu «Envia».</string>
   <string name="trans_intro_desc_private">"El Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos de Mi Cloud en un dispositiu nou."</string>
   <string name="trans_intro_question_1">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu iOS?</string>
+  <string name="trans_intro_question_10">"%d. No es pot trobar el punt d'accés al dispositiu antic?"</string>
   <string name="trans_intro_question_2">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu Android?</string>
   <string name="trans_intro_question_3">%d. Què he de fer si Mi Mover es queda encallat en un cert pas?</string>
   <string name="trans_intro_question_4">"%d. Per què no puc utilitzar la Wi-Fi durant les transferències?"</string>
@@ -611,6 +615,8 @@ Allibereu espai o transferiu només elements importants."</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_password_description">Mostra la contrasenya</string>
+  <string name="wait_link">"Connecteu el vostre anterior dispositiu a aquest punt d\'accés.
+No sortiu d\'aquesta pàgina fins que s\'estableixi la connexió."</string>
   <string name="waiting">Un moment…</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
