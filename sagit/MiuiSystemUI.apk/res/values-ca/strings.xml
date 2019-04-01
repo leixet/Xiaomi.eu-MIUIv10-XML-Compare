@@ -23,10 +23,12 @@
   <string name="accessibility_battery_two_bars">Dues ratlles de bateria.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connectat.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth desconnectat.</string>
+  <string name="accessibility_bluetooth_name">Connectat a %s.</string>
   <string name="accessibility_bluetooth_tether">Connexió compartida per Bluetooth.</string>
   <string name="accessibility_brightness">Lluminositat de la pantalla</string>
   <string name="accessibility_brightness_slider">Regulador de lluentor</string>
   <string name="accessibility_camera_button">Càmera</string>
+  <string name="accessibility_cast_name">Connectat a %s.</string>
   <string name="accessibility_cell_data">Dades mòbils</string>
   <string name="accessibility_cell_data_off">Dades mòbils desactivades</string>
   <string name="accessibility_cell_data_on">Dades mòbils activades</string>
@@ -37,6 +39,7 @@
   <string name="accessibility_data_signal_full">Senyal de dades màxima.</string>
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
+  <string name="accessibility_desc_connected">Connectat.</string>
   <string name="accessibility_desc_lock_screen">Pantalla de bloqueig.</string>
   <string name="accessibility_desc_notification_shade">Àrea de notificació</string>
   <string name="accessibility_desc_quick_settings">Configuració ràpida</string>
@@ -46,6 +49,8 @@
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_divider">Divisor de pantalla dividida</string>
   <string name="accessibility_drag_hint_message">Arrossegueu elements a la part superior de la pantalla</string>
+  <string name="accessibility_ethernet_connected">Connectat a Ethernet.</string>
+  <string name="accessibility_ethernet_disconnected">Desconnectat d\'Ethernet.</string>
   <string name="accessibility_home">Casa</string>
   <string name="accessibility_ime_switch_button">Canvia el botó de mètode d\'entrada.</string>
   <string name="accessibility_managed_profile">Perfil de feina</string>
@@ -55,6 +60,7 @@
   <string name="accessibility_no_phone">Sense telèfon.</string>
   <string name="accessibility_no_wifi">Sense Wi-Fi.</string>
   <string name="accessibility_no_wimax">Sense WiMAX.</string>
+  <string name="accessibility_not_connected">Sense connexió.</string>
   <string name="accessibility_phone_one_bar">Tlf. 1 barra.</string>
   <string name="accessibility_phone_signal_full">Màx. senyal de tlf.</string>
   <string name="accessibility_phone_three_bars">Tlf. 3 barres.</string>
@@ -64,6 +70,7 @@
   <string name="accessibility_quick_settings_airplane_off">Mode d\'avió desactivat.</string>
   <string name="accessibility_quick_settings_airplane_on">Mode d\'avió activat.</string>
   <string name="accessibility_quick_settings_battery">Bateria %s.</string>
+  <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth connectat.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Percentatge de bateria del dispositiu Bluetooth %d.</string>
   <string name="accessibility_quick_settings_data_saver_changed_off">S\'ha desactivat l\'estalvi de dades.</string>
   <string name="accessibility_quick_settings_data_saver_changed_on">S\'ha activat l\'estalvi de dades.</string>
@@ -93,10 +100,13 @@
   <string name="accessibility_search_light">Cerca</string>
   <string name="accessibility_search_scanner">Escàner</string>
   <string name="accessibility_settings">Configuració</string>
+  <string name="accessibility_status_bar_headphones">Auriculars connectats</string>
+  <string name="accessibility_status_bar_headset">Auriculars connectats</string>
   <string name="accessibility_status_bar_hotspot">Punt d\'accés</string>
   <string name="accessibility_tty_enabled">Teletip activat.</string>
   <string name="accessibility_unlock_button">Desbloqueja</string>
   <string name="accessibility_unlock_without_fingerprint">Desbloqueja sense utilitzar la vostra empremta digital</string>
+  <string name="accessibility_wifi_name">Connectat a %s.</string>
   <string name="accessibility_wifi_off">Wifi apagat.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
   <string name="accessibility_wifi_signal_full">Màx. senyal Wi-Fi.</string>
@@ -228,6 +238,7 @@ Taxa de mostreig"</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Seleccioneu la versió Bluetooth AVRCP</string>
   <string name="bluetooth_select_avrcp_version_string">Versió Bluetooth AVRCP</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
+  <string name="branded_monitoring_description_app_personal">"Esteu connectat a %1$s, que pot seguir la vostra activitat a la xarxa, incloent els email, aplicacions i pàgines web."</string>
   <string name="bt_hci_snoop_log">Activa registre cerca HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI de Bluetooth en un fitxer</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
@@ -684,6 +695,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_cellular_detail_remaining_data">Dades disponibles</string>
   <string name="quick_settings_cellular_detail_title">Dades mòbils</string>
   <string name="quick_settings_connect_success">Connectat</string>
+  <string name="quick_settings_connected">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
   <string name="quick_settings_disclosure_managed_profile_monitoring">L\'organització pot controlar el trànsit de la xarxa en el vostre perfil de treball</string>
   <string name="quick_settings_disclosure_managed_profile_named_vpn">Perfil de treball connectat a %1$s</string>
@@ -715,6 +727,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
+  <string name="quick_settings_wifi_not_connected">Sense connexió</string>
   <string name="recent_cannot_dock">"No es pot utilitzar la pantalla dividida al segon espai"</string>
   <string name="recent_dock_tip">Toqueu per seleccionar aplicacions</string>
   <string name="recent_task_app_info_text">Informació</string>
