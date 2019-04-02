@@ -157,9 +157,7 @@
   <string name="loan_interest_rate">Interès</string>
   <string name="loan_pay_years">Període de préstec</string>
   <string name="loan_payback_way">Amortització</string>
-  <string name="loan_repayment_detail">Reemborsament detallat</string>
   <string name="loan_repayment_detail_loading">S\'està carregant el reembossament detallat…</string>
-  <string name="loan_repayment_detail_unit">Reemborsament detallat (CNY)</string>
   <string name="menuDesc">menú</string>
   <string name="minusDesc">menys</string>
   <string name="mortgage_amount">Total (×10K)</string>
