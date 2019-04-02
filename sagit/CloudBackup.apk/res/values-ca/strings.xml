@@ -91,7 +91,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="desktop_downloading">S\'està baixant</string>
   <string name="desktop_failed">Error</string>
   <string name="desktop_installing">S\'està instal·lant</string>
-  <string name="desktop_wait_wifi">S\'està esperant</string>
   <string name="desktop_waiting">S\'està esperant</string>
   <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
   <string name="dialog_btn_cancel_backup">Cancel·la</string>
