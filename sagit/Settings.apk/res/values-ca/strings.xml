@@ -3795,7 +3795,6 @@ Per fer-ho:
   <string name="search_status_bar_settings">Notificacions &amp; barra d\'estat;Notificacions;Barra d\'estat</string>
   <string name="search_status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig;mostrar en pantalla de bloqueig</string>
-  <string name="search_status_bar_settings_manage_notification">Notificacions de l\'aplicació;Notificacions</string>
   <string name="search_status_bar_settings_show_carrier">Mostra nom de l\'operador</string>
   <string name="search_status_bar_settings_show_network_speed">Mostra velocitat de connexió</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostra icones de notificació</string>
