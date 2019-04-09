@@ -125,6 +125,9 @@
         <item>H+</item>
         <item>4G</item>
         <item>4G+</item>
+        <item></item>
+        <item>4G</item>
+        <item>5G</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivat</item>
