@@ -309,6 +309,7 @@
   <string name="passport_error_empty_email">Introduïu la vostra adreça email</string>
   <string name="passport_error_empty_phone_num">Introduïu el número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
+  <string name="passport_error_empty_username">Introduïu la vostra ID del ompte</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
   <string name="passport_error_illegal_pwd">Contrasenya incorrecta</string>
   <string name="passport_error_invalid_dev_id">"L'identificador del vostre dispositiu no és vàlid."</string>
@@ -326,6 +327,10 @@
   <string name="passport_forget_password">&lt;u&gt;Contrasenya oblidada&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
+  <string name="passport_getting_verify_code">S\'està obtenint</string>
+  <string name="passport_i_know">D\'acord</string>
+  <string name="passport_input_captcha_hint">Introduïu el codi</string>
+  <string name="passport_input_password_for_login">Aquest número està associat a un compte existent, introduïu la vostra contrasenya</string>
   <string name="passport_input_password_hint">Introduïu la contrasenya</string>
   <string name="passport_input_phone_hint">Introduïu el número de telèfon</string>
   <string name="passport_input_vcode_hint">Introduïu el codi de verificació</string>
@@ -343,10 +348,12 @@
   <string name="passport_prev">Anterior</string>
   <string name="passport_privacy_policy">Política de Privadesa</string>
   <string name="passport_pwd_generate_failure">"No s'ha pogut generar una contrasenya"</string>
+  <string name="passport_pwd_generating">S\'està generant…</string>
   <string name="passport_quick_login_dialog_step2_title">Verificació en dues passes</string>
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en dues passes</string>
   <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_re_get_verify_code">Obteniu altre cop el codi</string>
   <string name="passport_re_register">Torneu-vos a inscriure</string>
   <string name="passport_recycle_account_prompt">Aquest és el vostre compte Mi?</string>
   <string name="passport_reg_btn_using_other_phone">Utilitzeu el número de telèfon alternatiu</string>
@@ -366,6 +373,7 @@
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
   <string name="passport_registered_phone_user_ID">ID d\'usuari: %s</string>
   <string name="passport_registered_phone_user_name">Nom d\'usuari: %s</string>
+  <string name="passport_reject_recycle_account">No</string>
   <string name="passport_relogin">Torneu a iniciar la sessió</string>
   <string name="passport_relogin_notice">Heu d\'iniciar la sessió un altre cop</string>
   <string name="passport_remove_confirm">Tanca la sessió</string>
@@ -375,6 +383,7 @@
   <string name="passport_reset_password_prompt">La contrasenya no és correcta</string>
   <string name="passport_reset_password_title">Reinicialitza contrasenya</string>
   <string name="passport_restart">Torna a començar</string>
+  <string name="passport_restart_register_prompt">Pot caldre un altre missatge de verificació per crear el vostre compte.</string>
   <string name="passport_restart_register_title">Crea un compte Mi</string>
   <string name="passport_retry">Torneu-ho a provar</string>
   <string name="passport_select_reg_ways_title">Altres maneres de registrar-vos</string>
@@ -395,6 +404,7 @@
   <string name="passport_user_agreement">Acord d\'usuari</string>
   <string name="passport_user_agreement_p1">D\'acord amb </string>
   <string name="passport_user_agreement_p2">Acord d\'usuari</string>
+  <string name="passport_user_agreement_p3"> i </string>
   <string name="passport_user_agreement_p4">Política de Privadesa</string>
   <string name="passport_vcode_notification_title">La verificació del vostre inici de sessió no s\'ha completat</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
