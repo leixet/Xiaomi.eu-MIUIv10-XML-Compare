@@ -104,6 +104,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="confirm_exit_link">Surt</string>
   <string name="confirm_exit_link_cancel">"No surtis"</string>
   <string name="confirm_exit_link_msg">"Si sortiu ara de l'aplicació s'interromprà la transferència en curs. Haureu de tornar a establir la connexió entre els dos dispositius. Així i tot voleu sortir de l'aplicació?"</string>
+  <string name="confirm_exit_link_title">Aturant la transferència</string>
   <string name="connect_soft_ap_label">S\'està connectant a un nou dispositiu…</string>
   <string name="connect_wifi">Connecta a la Wi-Fi</string>
   <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos al Wi-Fi per importar elements d'iCloud."</string>
@@ -275,6 +276,8 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_trans_sending_completed">Les dades s\'han enviat amb èxit</string>
   <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
   <string name="notif_trans_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar.</string>
+  <string name="old_soft_name">Connecteu-vos mitjançant el codi QR</string>
+  <string name="old_way">També podeu connectar utilitzant un codi QR. Premeu per generar el codi.</string>
   <string name="page_loading">Un moment…</string>
   <string name="password">Contrasenya</string>
   <string name="password_null">"La contrasenya no es pot deixar en blanc"</string>
@@ -480,6 +483,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_desc_9_method_3_dec">"Grup QQ de Mi Mover: 687338378"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Informa dels problemes en QQ</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
+  <string name="trans_intro_desc_gms">"Donada l'alta possibilitat de transferències fallides per problemes de compatibilitat, Mi Mover no accepta la transferència de dades que s'han generat amb aplicacions de Google."</string>
   <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
   <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
   <string name="trans_intro_desc_new">"Toqueu «Sóc un destinatari». Es generarà un codi QR."</string>
