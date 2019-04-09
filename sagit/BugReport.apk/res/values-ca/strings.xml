@@ -336,7 +336,9 @@
   <string name="passport_login_instead_reg_with_email">Utilitza aquest email</string>
   <string name="passport_login_prompt">Un únic compte Mi per a tots els serveis Mi.</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
+  <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
   <string name="passport_next">Següent</string>
+  <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (es diferencia majúscules).</string>
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
   <string name="passport_prev">Anterior</string>
   <string name="passport_privacy_policy">Política de Privadesa</string>
