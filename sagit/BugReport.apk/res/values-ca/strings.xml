@@ -166,6 +166,8 @@
   <string name="hint_feedback_main">Descriviu el problema</string>
   <string name="issue_search">Cerca</string>
   <string name="kr_authorization_agree">Accepta</string>
+  <string name="kr_authorization_contact">Comptes</string>
+  <string name="kr_authorization_contact_desc">Per a obtenir informació del compte Mi i verificar el vostre compte</string>
   <string name="kr_authorization_select_all">Selecciona-ho tot</string>
   <string name="kr_authorization_storage">Emmagatzematge</string>
   <string name="kr_authorization_summary">Documents legals</string>
