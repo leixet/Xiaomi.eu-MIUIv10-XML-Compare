@@ -1178,6 +1178,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="small_video_ad_app_text_resume">Continua</string>
   <string name="small_video_ad_web_text">Obre</string>
   <string name="small_video_boba_tab">Emet</string>
+  <string name="small_video_comment">Tots els comentaris</string>
   <string name="small_video_load_failed">Ha fallat la càrrega</string>
   <string name="small_video_loading">S\'està carregant...</string>
   <string name="small_video_main_tab">Recomana</string>
@@ -1249,6 +1250,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggestion_lottery_period">RONDA %s</string>
   <string name="suggestion_more_news">MÉS NOTÍCIES</string>
   <string name="suggestion_more_news_start_title_text">Notícies relacionades</string>
+  <string name="suggestion_sliding_item_more_text">VEURE MÉS</string>
   <string name="suggestion_topic_subtitle_hyphen">Enfocament</string>
   <string name="suggestion_translation_more">MOSTRA\'N MÉS</string>
   <string name="switchText">SÍ</string>
