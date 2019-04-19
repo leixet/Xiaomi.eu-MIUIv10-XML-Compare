@@ -102,8 +102,8 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Show hours, minutes, and seconds</item>
-        <item>Show hours and minutes (default)</item>
+        <item>Mostra hores, minuts i segons</item>
+        <item>Mostra hores i minuts (per defecte)</item>
         <item>"No mostris aquesta icona"</item>
     </string-array>
     <string-array name="color_mode_descriptions">
@@ -153,6 +153,18 @@
         <item>No ho comprovis mai</item>
         <item>Només comprova si el contingut té DRM</item>
         <item>Comprova-ho sempre</item>
+    </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
     </string-array>
     <string-array name="multi_window_force_not_resize_pkgs">
         <item>com.miui.home</item>
