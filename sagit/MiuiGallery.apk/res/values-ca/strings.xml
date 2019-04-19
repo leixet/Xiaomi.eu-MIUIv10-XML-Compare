@@ -640,6 +640,8 @@ per personalitzar la galeria"</string>
   <string name="move_to_other_albums_tip">La sincronització d\'aquest àlbum amb Mi Cloud es desactivarà si el moveu a altres àlbums. Esteu segur de voler moure\'l?</string>
   <string name="movie_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat per wifi. Voleu baixar el connector necessari (3MB) utilitzant dades mòbils?"</string>
   <string name="movie_download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
+  <string name="movie_edit">Edita</string>
+  <string name="movie_tab_edit">Edita</string>
   <string name="must_pick_file">Seleccioneu una foto</string>
   <string name="name_split">,&#160;</string>
   <string name="need_to_turn_on_network">"El dispositiu no està connectat a Internet"</string>
@@ -770,6 +772,18 @@ per personalitzar la galeria"</string>
   <string name="photo_editor_rotate">Gira</string>
   <string name="photo_editor_saving">S\'està desant&#8230;</string>
   <string name="photo_editor_sticker">Adhesiu</string>
+  <string name="photo_editor_talkback_crop_mirror">Mirall</string>
+  <string name="photo_editor_talkback_crop_original">Original</string>
+  <string name="photo_editor_talkback_crop_rotate">Gira</string>
+  <string name="photo_editor_talkback_doodle_circular">Cercle</string>
+  <string name="photo_editor_talkback_doodle_line">Línia</string>
+  <string name="photo_editor_talkback_doodle_path">Pinzell</string>
+  <string name="photo_editor_talkback_doodle_rectangle">Rectangle</string>
+  <string name="photo_editor_talkback_effect">efecte %d</string>
+  <string name="photo_editor_talkback_eraser">Esborra</string>
+  <string name="photo_editor_talkback_redo">Refés</string>
+  <string name="photo_editor_talkback_undo">Desfés</string>
+  <string name="photo_editor_text">Text</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
   <string name="photo_print_menu_loading">S\'està carregant el connector…</string>
@@ -861,6 +875,7 @@ per personalitzar la galeria"</string>
   <string name="scan_barcode_guide">"Per obtenir un codi QR de l'àlbum premeu «Comparteix»."</string>
   <string name="scan_barcode_to_join">Escanegeu el codi QR per afegir l\'àlbum</string>
   <string name="scan_qr_code_buttom_text">Escanegeu el codi QR per veure aquest àlbum</string>
+  <string name="screen_editor_finish">Fet</string>
   <string name="search_backup_full_screen">Activeu la sincronització amb Mi Cloud per trobar més objectes i persones</string>
   <string name="search_backup_now">Activa</string>
   <string name="search_backup_sub_title">Activeu per trobar més imatges</string>
@@ -1026,6 +1041,7 @@ per personalitzar la galeria"</string>
   <string name="text_edit_dialog_style_align_left">Esquerra</string>
   <string name="text_edit_dialog_style_align_right">Dreta</string>
   <string name="text_edit_dialog_style_bold">Negreta</string>
+  <string name="text_edit_dialog_style_color">"Color  "</string>
   <string name="text_edit_dialog_style_shadow">Ombra</string>
   <string name="text_edit_dialog_style_transparent">Opacitat</string>
   <string name="text_edit_sub_menu_text">Bafarada</string>
@@ -1067,6 +1083,7 @@ per personalitzar la galeria"</string>
   <string name="video_edit_file_not_exits_tip">Primer cal que baixeu el vídeo</string>
   <string name="video_editor_abandon_changes_tip_message">Voleu descartar tots els canvis?</string>
   <string name="video_editor_abandon_changes_tip_title">Descarteu els canvis</string>
+  <string name="video_editor_adjust">Millora</string>
   <string name="video_editor_analyzing">S\'està analitzant el vídeo&#8230;</string>
   <string name="video_editor_audio">Àudio</string>
   <string name="video_editor_audio_custom">Selecciona</string>
@@ -1079,10 +1096,12 @@ per personalitzar la galeria"</string>
   <string name="video_editor_auto_trim">Retalla automàticament</string>
   <string name="video_editor_auto_trim_tip">S\'està retallant&#8230;</string>
   <string name="video_editor_cancel">Cancel·la</string>
+  <string name="video_editor_cancel_download">Cancel·la</string>
   <string name="video_editor_done">Fet</string>
   <string name="video_editor_down_load_later">Més tard</string>
   <string name="video_editor_down_load_no_wifi_tips">Connecteu-vos al Wi-Fi per baixar</string>
   <string name="video_editor_down_load_now">Baixa</string>
+  <string name="video_editor_download">Baixa</string>
   <string name="video_editor_download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
   <string name="video_editor_encode_video">S\'està codificant el vídeo&#8230;</string>
   <string name="video_editor_encode_video_error">"No es pot codificar el vídeo"</string>
