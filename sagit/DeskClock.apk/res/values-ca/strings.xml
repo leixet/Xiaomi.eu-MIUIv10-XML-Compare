@@ -34,6 +34,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="channel_name_alarm">Alarma</string>
   <string name="channel_name_timer">Temporitzador</string>
+  <string name="clock_bg_button_setting_title">Color del fons</string>
   <string name="close_alarm">Atura l\'alarma</string>
   <string name="common_settings">Configuració</string>
   <string name="confirm_abort">Descarta</string>
