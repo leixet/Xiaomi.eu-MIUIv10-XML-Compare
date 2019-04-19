@@ -74,6 +74,7 @@
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Percentatge de bateria del dispositiu Bluetooth %d.</string>
   <string name="accessibility_quick_settings_data_saver_changed_off">S\'ha desactivat l\'estalvi de dades.</string>
   <string name="accessibility_quick_settings_data_saver_changed_on">S\'ha activat l\'estalvi de dades.</string>
+  <string name="accessibility_quick_settings_edit">Edita l\'ordre de la configuració.</string>
   <string name="accessibility_quick_settings_flashlight_changed_off">Lot desactivat.</string>
   <string name="accessibility_quick_settings_flashlight_changed_on">Lot activat.</string>
   <string name="accessibility_quick_settings_flashlight_off">Lot desactivat.</string>
@@ -500,7 +501,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyboard_shortcut_group_system_shortcuts_helper">Dreceres del teclat</string>
   <string name="keyboard_shortcut_group_system_switch_input">Canvia el mètode d\'entrada</string>
   <string name="keyguard_charged">Carregat</string>
-  <string name="keyguard_charging_back_to_lockscreen">Torna a la pantalla de blocat</string>
+  <string name="keyguard_charging_back_to_lockscreen">Torna a la pantalla de blocatge</string>
   <string name="keyguard_charging_info_battery_used_time_text">Amb bateria</string>
   <string name="keyguard_charging_info_click_to_detail">Mostra els detalls</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Descarregada</string>
@@ -689,6 +690,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="prompt_detecting">S\'està detectant</string>
   <string name="prompt_safe">Segur</string>
   <string name="prompt_unknown">Desconegut</string>
+  <string name="qs_customize_title">Edita</string>
+  <string name="qs_edit">Edita</string>
   <string name="quick_settings_autobrightness_label">Lluminositat automàtica</string>
   <string name="quick_settings_batterysaver_label">Estalvi de bateria</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
@@ -715,6 +718,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_disclosure_personal_profile_named_vpn">Perfil personal connectat a %1$s</string>
   <string name="quick_settings_disclosure_vpns">Dispositiu connectat a una VPN</string>
   <string name="quick_settings_done">Fet</string>
+  <string name="quick_settings_edit_label">Edita</string>
   <string name="quick_settings_extreme_batterysaver_label">Estalvi extrem de bateria</string>
   <string name="quick_settings_flashlight_label">Lot</string>
   <string name="quick_settings_hotspot_label">Punt d\'accés</string>
