@@ -93,13 +93,6 @@
         <item>5</item>
         <item>Ligue 1</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>primer</item>
-        <item>segon</item>
-        <item>tercer</item>
-        <item>quart</item>
-        <item>últim</item>
-    </string-array>
     <string-array name="pisces_info">
         <item>peixos</item>
         <item>Peixos</item>
