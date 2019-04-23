@@ -149,7 +149,7 @@
   <string name="battery_info_status_charging_lower">s\'està carregant</string>
   <string name="battery_info_status_discharging">No s\'està carregant</string>
   <string name="battery_info_status_full">Plena</string>
-  <string name="battery_info_status_not_charging">No s\'està carregant</string>
+  <string name="battery_info_status_not_charging">"No s'està carregant"</string>
   <string name="battery_info_status_unknown">Desconegut</string>
   <string name="battery_low_percent_format">%d%% restant</string>
   <string name="battery_low_percent_format_saver_started">Queda %s. L\'estalvi de bateria està activat.</string>
@@ -184,8 +184,6 @@
   <string name="bluetooth_disconnecting">Disconnectant&#8230;</string>
   <string name="bluetooth_dun_profile_summary_connected">Connectat al servidor Dun</string>
   <string name="bluetooth_dun_profile_summary_use_for">Utilitzar per accedir a la xarxa telefònica</string>
-  <string name="bluetooth_enable_inband_ringing">Activa el so de la banda</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Permet que els tons del telèfon es reprodueixin als auriculars Bluetooth</string>
   <string name="bluetooth_headset_profile_summary_connected">Connectat a l\'àudio del telèfon</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilitzar per a l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">Connectat al dispositiu d\'entrada</string>
@@ -314,7 +312,6 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="debug_drawing_category">Dibuix</string>
   <string name="debug_hw_drawing_category">Renderització accelerada per maquinari</string>
   <string name="debug_hw_overdraw">Depura els conflictes de GPU</string>
-  <string name="debug_hw_renderer">Estableix el renderitzador de la GPU</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
@@ -328,7 +325,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="description_image_button_answer">Resposta</string>
   <string name="description_image_button_reject">Rebutja</string>
   <string name="description_target_search">Cercar</string>
-  <string name="dev_logpersist_clear_warning_message">"Quan ja no monitoritzem més amb el registrador persistent, se'ns demanarà d'esborrar el registrador de dades resident del vostre dispositiu."</string>
+  <string name="dev_logpersist_clear_warning_message">Quan ja no monitoritzem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
   <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a usos de desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o tinguin un comportament inadequat.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
@@ -406,7 +403,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
   <string name="face_unlock_reenter_content">L\'algorisme de desbloqueig facial s\'està actualitzant. Premeu per tornar a enregistrar dades facials.</string>
   <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
-  <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració de %1$s"</string>
+  <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Missatge</string>
@@ -539,7 +536,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="local_backup_password_title">Contrasenya per a còpies d\'ordinador</string>
   <string name="local_backup_password_toast_confirmation_mismatch">La nova contrasenya i la confirmació no coincideixen</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
-  <string name="local_backup_password_toast_validation_failure">"S'ha produit un error en definir la contrasenya de la còpia de seguretat"</string>
+  <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode d\'avió</string>
   <string name="lock_screen_no_sim_card_emergency_only">Només trucades d\'emergència</string>
   <string name="lockscreen_access_pattern_area">Àrea del patró.</string>
@@ -682,7 +679,6 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
-  <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
@@ -887,15 +883,12 @@ d MMMM"</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">"El reconeixement facial 3D és relativament segur. És altament improbable que es pugui desblocar el vostre dispositiu amb una foto vostra quan aquesta característica està activada. Tot i això, encara es podria desblocar amb persones o objectes que se us assemblin."</string>
   <string name="structure_face_unlock_model_other_title">Reconeixement de cares</string>
   <string name="task_access_locked_app_msg">Contingut de l\'aplicació ocult</string>
-  <string name="telephony_monitor_switch">Monitor de telefonia</string>
-  <string name="telephony_monitor_switch_summary">El monitor de telefonia recopilarà registres quan detecti un problema amb la funcionalitat de telefonia/mòdem i notificarà a l\'usuari per informar del problema</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Ancoratge Bluetooth</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
-  <string name="time_zone_gmt">GMT</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="title_usb_accessory">Accessori USB</string>
   <string name="torch_activity_hint">Premeu [icon] a la pantalla de bloqueig per encendre la llanterna</string>
@@ -928,7 +921,7 @@ d MMMM"</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
   <string name="tts_status_checking">S\'està verificant&#8230;</string>
-  <string name="tts_status_not_supported">"%1$s no és compatible"</string>
+  <string name="tts_status_not_supported">%1$s no és compatible</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma per defecte</string>
@@ -988,16 +981,12 @@ d MMMM"</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="weather_publish_time">Actualitzat %1$s</string>
-  <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
-  <string name="wifi_aggressive_handover_summary">En activar-se, la connexió canviarà a les dades mòbils de forma més activa quan el senyal Wi-Fi sigui baix.</string>
-  <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Permet o restringeix cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície.</string>
   <string name="wifi_connected_no_internet">Connectat, no hi ha Internet</string>
   <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
   <string name="wifi_disabled_generic">Desactivat</string>
-  <string name="wifi_disabled_network_failure">"Ha fallat la configuració d'IP"</string>
+  <string name="wifi_disabled_network_failure">Ha fallat la configuració d\'IP</string>
   <string name="wifi_disabled_password_failure">Problema d\'autenticació</string>
-  <string name="wifi_disabled_wifi_failure">"Error de connexió WiFi"</string>
+  <string name="wifi_disabled_wifi_failure">Error de connexió WiFi</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
