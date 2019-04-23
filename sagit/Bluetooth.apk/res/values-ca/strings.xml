@@ -132,7 +132,6 @@
   <string name="upload_fail_line1">"No s'ha enviat el fitxer a \"%1$s\"."</string>
   <string name="upload_fail_line1_2">Fitxer: %1$s</string>
   <string name="upload_fail_ok">Torna-ho a provar</string>
-  <string name="upload_fail_waiting">S\'està preparant l\'enviament del fitxer, es transmetrà automàticament més tard</string>
   <string name="upload_line1">A: \"%1$s\"</string>
   <string name="upload_line3">Tipus de fitxer: %1$s (%2$s)</string>
   <string name="upload_line5">S\'està enviant el fitxer&#8230;</string>
