@@ -28,10 +28,6 @@
         <item>Altres</item>
         <item>Personalitzat</item>
     </string-array>
-    <string-array name="app_ops_labels">
-        <item>S\'està tractant d\'activar la Wi-Fi</item>
-        <item>S\'està tractant d\'activar el BT</item>
-    </string-array>
     <string-array name="config_statusBarIcons">
         <item>headset</item>
         <item>mikey</item>
