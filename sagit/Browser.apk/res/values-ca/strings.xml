@@ -893,6 +893,9 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="navigate_feedback_dislike_tips">Reduirà les recomanacions de vídeos</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
   <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
+  <string name="navigate_feedback_report_success">Comunicació correcta</string>
+  <string name="navigate_feedback_report_title">Motius de la comunicació</string>
+  <string name="navigate_feedback_select_report_label">Seleccioneu el motiu de la comunicació</string>
   <string name="navigate_feedback_submit">Envia</string>
   <string name="navigation_delete_all">Llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
@@ -1173,12 +1176,14 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="signed_in">Sessió iniciada</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="slide_guide">Llisqueu per tornar</string>
   <string name="small_video_ad_app_text_click">Baixa</string>
   <string name="small_video_ad_app_text_open">Obre</string>
   <string name="small_video_ad_app_text_resume">Continua</string>
   <string name="small_video_ad_web_text">Obre</string>
   <string name="small_video_boba_tab">Emet</string>
   <string name="small_video_comment">Tots els comentaris</string>
+  <string name="small_video_comment_input_hint">Introduïu el vostre comentari</string>
   <string name="small_video_load_failed">Ha fallat la càrrega</string>
   <string name="small_video_loading">S\'està carregant...</string>
   <string name="small_video_main_tab">Recomana</string>
