@@ -892,6 +892,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="navigate_feedback_dislike">no m’interessa</string>
   <string name="navigate_feedback_dislike_tips">Reduirà les recomanacions de vídeos</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
+  <string name="navigate_feedback_report">comunicació</string>
   <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
   <string name="navigate_feedback_report_success">Comunicació correcta</string>
   <string name="navigate_feedback_report_title">Motius de la comunicació</string>
