@@ -90,6 +90,7 @@
   <string name="feedback_description">Descripció</string>
   <string name="feedback_description_bugreport_hint">En alguns casos (&#8230;) el meu telèfon té errors (&#8230;).</string>
   <string name="feedback_description_hint">"Descriviu el problema que heu trobat"</string>
+  <string name="feedback_description_hint_suggestion">"Expliqueu-nos com milloraríeu MIUI."</string>
   <string name="feedback_description_label">Descripció</string>
   <string name="feedback_description_suggest_hint">"M'agradaria afegir una nova funció () perquè necessito ()."</string>
   <string name="feedback_detail_tile">Progrés</string>
@@ -168,6 +169,7 @@
   <string name="kr_authorization_agree">Accepta</string>
   <string name="kr_authorization_contact">Comptes</string>
   <string name="kr_authorization_contact_desc">Per a obtenir informació del compte Mi i verificar el vostre compte</string>
+  <string name="kr_authorization_phone">Telèfon</string>
   <string name="kr_authorization_select_all">Selecciona-ho tot</string>
   <string name="kr_authorization_storage">Emmagatzematge</string>
   <string name="kr_authorization_summary">Documents legals</string>
@@ -290,6 +292,7 @@
   <string name="passport_account_hint_text">Adreça d\'email o ID del compte Mi</string>
   <string name="passport_account_identity_title">Verificació de la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
+  <string name="passport_account_name">Compte: %1$s</string>
   <string name="passport_activing_account">S\'està activant…</string>
   <string name="passport_area_code_title">Codi de país</string>
   <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
