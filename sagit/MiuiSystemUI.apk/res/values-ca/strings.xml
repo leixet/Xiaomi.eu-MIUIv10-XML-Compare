@@ -350,6 +350,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="dlg_ok">D\'acord</string>
   <string name="dlg_summary_close_wifi">Apaga la wifi, el Bluetooth i el punt d\'accés portàtil</string>
   <string name="dlg_summary_title">L\'estalvi extrem de bateria atura tota activitat en segon pla d\'una aplicació quan en sortiu i torneu a la pantalla inicial. Si voleu que una aplicació continuï executant-se en procés de fons, afegiu-la a les excepcions del segon pla.</string>
+  <string name="dnd_is_off">No molesteu està desactivat</string>
+  <string name="dnd_notification_warnings_title">Les trucades i notificacions no faran soroll mentre no desactiveu No molesteu</string>
   <string name="do_not_silence">"No silenciïs"</string>
   <string name="do_not_silence_block">"No silenciïs ni bloquegis"</string>
   <string name="dock_forced_resizable">És possible que l\'aplicació no funcioni amb la pantalla dividida.</string>
@@ -619,6 +621,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
   <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notification_channel_battery">Bateria</string>
+  <string name="notification_channel_dnd">No molesteu</string>
   <string name="notification_channel_screenshot">Captures de pantalla</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">S\'ha amagat la notificació</string>
