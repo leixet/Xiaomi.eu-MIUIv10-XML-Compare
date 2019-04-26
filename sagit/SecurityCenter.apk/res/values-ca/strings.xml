@@ -778,6 +778,7 @@
   <string name="gamebooster_main_activity_back">Enrere</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
+  <string name="gamebox_dnd">No molesteu</string>
   <string name="gamebox_qq_not_find">Instal·leu QQ i torneu-ho a provar.</string>
   <string name="gamebox_type_close">"No ho mostris"</string>
   <string name="gamebox_type_float">Drecera fixa</string>
