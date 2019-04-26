@@ -77,6 +77,10 @@
   <string name="accessibility_quick_settings_dnd">No molesteu.</string>
   <string name="accessibility_quick_settings_dnd_alarms_on">No molesteu activat, només alarmes.</string>
   <string name="accessibility_quick_settings_dnd_changed_off">S\'ha desactivat No molesteu.</string>
+  <string name="accessibility_quick_settings_dnd_changed_on">S\'ha activat No molesteu.</string>
+  <string name="accessibility_quick_settings_dnd_none_on">No molesteu activat, silenci total.</string>
+  <string name="accessibility_quick_settings_dnd_off">No molesteu desactivat.</string>
+  <string name="accessibility_quick_settings_dnd_priority_on">No molesteu activat, només prioritaris.</string>
   <string name="accessibility_quick_settings_edit">Edita l\'ordre de la configuració.</string>
   <string name="accessibility_quick_settings_flashlight_changed_off">Lot desactivat.</string>
   <string name="accessibility_quick_settings_flashlight_changed_on">Lot activat.</string>
@@ -579,8 +583,10 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">S\'ha desblocat per un dispositiu Bluetooth</string>
   <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
   <string name="miui_ringer_total">No molesteu</string>
+  <string name="miui_toast_zen_dnd_to_off">Els sons i la vibració han tornat a la normalitat</string>
   <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
+  <string name="miui_toast_zen_to_dnd">So silenciat i vibració inactiva</string>
   <string name="miui_toast_zen_to_standard">S\'ha silenciat l\'avís de trucades i notificacions</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Es silenciarà l\'avís de trucades, així com les notificacions i els multimèdia.</string>
   <string name="mobile_data">Dades mòbils</string>
@@ -694,9 +700,12 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="prompt_safe">Segur</string>
   <string name="prompt_unknown">Desconegut</string>
   <string name="qs_customize_title">Edita</string>
+  <string name="qs_dnd_keep">Manté</string>
   <string name="qs_dnd_prompt_app">No molesteu fou activat per una aplicació (%s).</string>
   <string name="qs_dnd_prompt_auto_rule">No molesteu fou activat automàticament per una norma (%s).</string>
   <string name="qs_dnd_prompt_auto_rule_app">No molesteu fou activat automàticament per una norma o per una aplicació.</string>
+  <string name="qs_dnd_replace">Substitueix</string>
+  <string name="qs_dnd_until">Fins a %s</string>
   <string name="qs_edit">Edita</string>
   <string name="quick_settings_autobrightness_label">Lluminositat automàtica</string>
   <string name="quick_settings_batterysaver_label">Estalvi de bateria</string>
@@ -723,6 +732,10 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_disclosure_named_vpn">Dispositiu connectat a %1$s</string>
   <string name="quick_settings_disclosure_personal_profile_named_vpn">Perfil personal connectat a %1$s</string>
   <string name="quick_settings_disclosure_vpns">Dispositiu connectat a una VPN</string>
+  <string name="quick_settings_dnd_alarms_label">Només alarmes</string>
+  <string name="quick_settings_dnd_label">No molesteu</string>
+  <string name="quick_settings_dnd_none_label">Silenci total</string>
+  <string name="quick_settings_dnd_priority_label">Només prioritats</string>
   <string name="quick_settings_done">Fet</string>
   <string name="quick_settings_edit_label">Edita</string>
   <string name="quick_settings_extreme_batterysaver_label">Estalvi extrem de bateria</string>
@@ -984,6 +997,10 @@ d MMMM"</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="voice_hint">Llisqueu des de la icona per l\'assistent oral</string>
   <string name="volume_dialog_accessibility_shown_message">Es mostren %s controls de volum. Llisqueu amunt per amagar-los.</string>
+  <string name="volume_dnd_silent">Drecera per als botons de volum</string>
+  <string name="volume_stream_limited_dnd">%s — Només prioritats</string>
+  <string name="volume_stream_muted_dnd">%s silenciós — Silenci total</string>
+  <string name="volume_stream_vibrate_dnd">%s vibració — Només prioritats</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
   <string name="vpn_text">Toqui per veure els ajustaments.</string>
   <string name="vpn_text_long">Connectat a %s. Toqueu per veure els detalls.</string>
