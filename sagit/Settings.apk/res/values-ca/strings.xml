@@ -3975,6 +3975,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="silent_settings">Silenci/DND</string>
   <string name="silent_standard">Silenciós</string>
   <string name="silent_time">Durada del mode silenci</string>
+  <string name="silent_total">No molesteu</string>
   <string name="sim_bad_pin">El PIN ha de tenir de 4 a 8 números</string>
   <string name="sim_call_back_title">Torna la trucada des de la SIM per defecte</string>
   <string name="sim_calls_always_use">Utilitza sempre per a les trucades</string>
@@ -4398,6 +4399,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="title_layout_current2">Mida del text</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
   <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
+  <string name="total">No molesteu</string>
   <string name="total_memory">Memòria total</string>
   <string name="total_size">%s en total</string>
   <string name="touch_assistant">Menú de dreceres</string>
