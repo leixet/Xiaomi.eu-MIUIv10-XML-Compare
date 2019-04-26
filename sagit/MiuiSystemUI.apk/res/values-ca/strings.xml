@@ -74,6 +74,9 @@
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Percentatge de bateria del dispositiu Bluetooth %d.</string>
   <string name="accessibility_quick_settings_data_saver_changed_off">S\'ha desactivat l\'estalvi de dades.</string>
   <string name="accessibility_quick_settings_data_saver_changed_on">S\'ha activat l\'estalvi de dades.</string>
+  <string name="accessibility_quick_settings_dnd">No molesteu.</string>
+  <string name="accessibility_quick_settings_dnd_alarms_on">No molesteu activat, només alarmes.</string>
+  <string name="accessibility_quick_settings_dnd_changed_off">S\'ha desactivat No molesteu.</string>
   <string name="accessibility_quick_settings_edit">Edita l\'ordre de la configuració.</string>
   <string name="accessibility_quick_settings_flashlight_changed_off">Lot desactivat.</string>
   <string name="accessibility_quick_settings_flashlight_changed_on">Lot activat.</string>
@@ -575,6 +578,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">S\'ha desblocat per un dispositiu Bluetooth</string>
   <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
+  <string name="miui_ringer_total">No molesteu</string>
   <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
   <string name="miui_toast_zen_to_standard">S\'ha silenciat l\'avís de trucades i notificacions</string>
@@ -690,6 +694,9 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="prompt_safe">Segur</string>
   <string name="prompt_unknown">Desconegut</string>
   <string name="qs_customize_title">Edita</string>
+  <string name="qs_dnd_prompt_app">No molesteu fou activat per una aplicació (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule">No molesteu fou activat automàticament per una norma (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule_app">No molesteu fou activat automàticament per una norma o per una aplicació.</string>
   <string name="qs_edit">Edita</string>
   <string name="quick_settings_autobrightness_label">Lluminositat automàtica</string>
   <string name="quick_settings_batterysaver_label">Estalvi de bateria</string>
@@ -724,6 +731,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_more_settings">Més opcions</string>
   <string name="quick_settings_mute_label">Silenci</string>
   <string name="quick_settings_night_display_label">Llum nocturna</string>
+  <string name="quick_settings_quietmode_label">No molesteu</string>
   <string name="quick_settings_rotation_unlocked_label">Rotació automàtica</string>
   <string name="quick_settings_rssi_emergency_only">Només trucades d\'emergència</string>
   <string name="quick_settings_screenlock_label">Bloca la pantalla</string>
