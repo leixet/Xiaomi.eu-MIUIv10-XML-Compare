@@ -335,6 +335,13 @@
         <item>Gran</item>
         <item>Molt gran</item>
     </string-array>
+    <string-array name="captioning_font_size_selector_values">
+        <item>0,25</item>
+        <item>0,5</item>
+        <item>1,0</item>
+        <item>1,5</item>
+        <item>2,0</item>
+    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Utilitza els valors per defecte de l\'aplicació</item>
         <item>Blanc sobre negre</item>
@@ -460,6 +467,12 @@
         <item>Per defecte</item>
         <item>Gran</item>
         <item>Molt gran</item>
+    </string-array>
+    <string-array name="entryvalues_font_size">
+        <item>0,85</item>
+        <item>1,0</item>
+        <item>1,15</item>
+        <item>1,30</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
