@@ -9,6 +9,7 @@
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
   <string name="abc_capital_off">DESACTIVA</string>
   <string name="abc_capital_on">ACTIVA</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora la versió</string>
   <string name="app_self_upgrade_dlg_negative_btn">Més tard</string>
   <string name="app_self_upgrade_dlg_postive_btn">Actualitza</string>
@@ -38,13 +39,16 @@
   <string name="declaration">Obtenir nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
   <string name="declaration_lockscreen_title">Carrusel de fons de pantalla</string>
   <string name="declaration_title">Condicions d\'ús</string>
+  <string name="detail_no_more_data">No hi ha dades</string>
   <string name="detail_recomm_load_tip">Coincideixen amb els vostres interessos…</string>
   <string name="detail_toast_deny_dislike">"No es pot esborrar."</string>
   <string name="detail_toast_deny_favor">"No es pot afegir a preferits."</string>
   <string name="detail_toast_dislike_fail">"No s'ha pogut esborrar."</string>
   <string name="dislike">Elimina</string>
+  <string name="favor_list_no_data">Aquí no hi ha cap element.</string>
   <string name="feed_article_entrance_about">Quant a %s</string>
   <string name="find_psw">Contrasenya oblidada</string>
+  <string name="history_list_no_data">Aquí no hi ha cap element</string>
   <string name="hour_1">Cada hora</string>
   <string name="hour_3">Cada 3 hores</string>
   <string name="like">Afegeix als preferits</string>
