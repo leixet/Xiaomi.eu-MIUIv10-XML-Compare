@@ -460,6 +460,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="timezone_label">Fus horari</string>
   <string name="today">Avui</string>
   <string name="today_at_time_fmt">Avui a les %s</string>
+  <string name="today_icon_voice_contentdescription">Torna a avui</string>
   <string name="today_no_events">No hi ha esdeveniments</string>
   <string name="tomorrow">Demà</string>
   <string name="tomorrow_at_time_fmt">Demà a les %s</string>
