@@ -686,6 +686,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_channel_voice_mail">Missatges de correu de veu</string>
   <string name="notification_channel_vpn">Estat de la VPN</string>
   <string name="notification_channel_wfc">Trucada Wi-Fi</string>
+  <string name="notification_description">Estat de la trucada de veu</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_listener_binding_label">Detector de notificacions</string>
   <string name="notification_ranker_binding_label">Servei de classificació de notificacions</string>
