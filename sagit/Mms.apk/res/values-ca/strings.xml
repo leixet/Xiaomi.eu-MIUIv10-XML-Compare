@@ -449,6 +449,7 @@
   <string name="restore_blocked_message">Restaura</string>
   <string name="restore_to_phone_memory_failed">"No s'ha pogut restaurar"</string>
   <string name="restored_to_phone_memory">S\'ha restaurat</string>
+  <string name="rms_original_image_size_too_large">Sembla que la imatge original és massa gran</string>
   <string name="save">Desa</string>
   <string name="save_ringtone">Desa com a to de trucada</string>
   <string name="save_to_sim">Desa a la targeta SIM</string>
