@@ -49,6 +49,7 @@
   <string name="hour_3">Cada 3 hores</string>
   <string name="like">Afegeix als preferits</string>
   <string name="liked">Afegit als preferits</string>
+  <string name="load_hdpicture_complete">S\'ha carregat la imatge original amb èxit</string>
   <string name="lockscreen_h5_back_tv">Enrera</string>
   <string name="lockscreen_h5_close_tv">Desactivat</string>
   <string name="lockscreen_h5_refresh_btn_tv">Refresca</string>
