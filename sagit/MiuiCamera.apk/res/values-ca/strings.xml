@@ -155,6 +155,7 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="hint_slow_motion">El vídeo que enregistreu es visualitzarà més lent.</string>
   <string name="hunt_dual_water_mark">La marca d\'aigua de la càmera dual s\'afegirà automàticament.</string>
   <string name="install_confirmed">Instal·la</string>
+  <string name="lens_dirty_detected_title_back">L\'òptica de la càmera posterior està bruta</string>
   <string name="message_snap_double_confirm">Si es manté premut el botó de volum actualment s\'activa l\'NFC. Voleu canviar-ho?</string>
   <string name="module_name_beauty">Bellesa</string>
   <string name="module_name_capture">Foto</string>
