@@ -140,6 +140,7 @@
   <string name="backup_device_space_low_desc">Allibereu espai per continuar copiant elements</string>
   <string name="backup_device_space_low_title">No hi ha prou espai d\'emmagatzematge</string>
   <string name="backup_dirty_tip">No s\'han copiat fotos i vídeos</string>
+  <string name="backup_file_over_size_desc">"Les fotos més grans de %1$s i els vídeos més grans de %2$s no tindran còpia de seguretat."</string>
   <string name="backup_immediately">Còpia de seguretat</string>
   <string name="backup_need_sync_desc">Feu clic al botó per reprendre la còpia de seguretat</string>
   <string name="backup_need_sync_title">Còpia de seguretat aturada</string>
