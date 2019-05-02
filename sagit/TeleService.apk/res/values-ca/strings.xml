@@ -461,6 +461,8 @@ Taxa de mostreig"</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
   <string name="clh_callFailed_access_information_discarded_txt">S\'ha descartat l\'accés a la informació</string>
+  <string name="clh_callFailed_information_element_non_existent_or_not_implemented_txt">Element d\'informació inexistent o no implementat</string>
+  <string name="clh_callFailed_invalid_mandatory_information_txt">Informació obligatòria no vàlida</string>
   <string name="clir_choices_hide_number">Amaga el número</string>
   <string name="clir_choices_network_default">Per defecte de la xarxa</string>
   <string name="clir_choices_show_number">Mostra el número</string>
