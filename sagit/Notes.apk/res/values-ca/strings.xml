@@ -124,6 +124,7 @@
   <string name="refuse_to_open_as_pic_because_of_loading">Espereu fins que la nota es carregui i torneu-ho a provar.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Aquesta nota és massa gran per compartir-la.</string>
   <string name="rename_folder_dialog_tile">Canvia el nom a la carpeta</string>
+  <string name="rich_text_size_description">Mida</string>
   <string name="root_folder_name">Notes ràpides</string>
   <string name="save_to_gallery_failure_message">"No s'ha pogut desar"</string>
   <string name="save_to_gallery_icon_name">Desa-ho a la galeria</string>
