@@ -2018,6 +2018,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="installed">Instal·lada</string>
   <string name="instant_app_details_summary">Més informació a %1$s</string>
   <string name="instruction_privacy_password">Aquesta contrasenya protegeix els següents elements</string>
+  <string name="instruction_title">Informació important de seguretat</string>
   <string name="insufficient_storage">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="intent_sender_account_label">Compte:</string>
   <string name="intent_sender_action_label">Acció:</string>
