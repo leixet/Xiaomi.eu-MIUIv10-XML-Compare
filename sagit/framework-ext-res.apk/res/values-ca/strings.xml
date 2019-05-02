@@ -174,5 +174,6 @@
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número desconegut</string>
   <string name="user_switching_dialog_text">S\'està canviant&#8230;</string>
+  <string name="voice_button_action_down">Deixeu anar per cercar</string>
   <string name="xspace_resolver_activity_title">Seleccioneu aplicacions</string>
 </resources>
