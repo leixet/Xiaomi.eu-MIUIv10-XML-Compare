@@ -122,6 +122,7 @@
   <string name="desktop_lyric_lock_toast">Bloquejat. Podeu desbloquejar Música en l\'àrea de notificacions.</string>
   <string name="desktop_lyric_setting_summary">Mostra les lletres a la pantalla d\'inici</string>
   <string name="desktop_lyric_setting_title">Lletres a la pàgina principal</string>
+  <string name="desktop_lyric_textsize">Text</string>
   <string name="device_connected">Connectat</string>
   <string name="device_not_connected">No connectat</string>
   <string name="dialog_cannot_resume">"Baixada interrompuda. No es pot reprendre."</string>
