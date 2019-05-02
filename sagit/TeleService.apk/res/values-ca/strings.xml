@@ -101,6 +101,7 @@
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">La sol·licitud de desbloqueig SP EHPLMN no ha tingut èxit.</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">S\'està sol·licitant el desbloqueig SP EHPLMN…</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">El desbloqueig SP EHPLMN ha tingut èxit.</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
@@ -1479,6 +1480,8 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voice_privacy_summary">Activa el mode de privacitat augmentada</string>
   <string name="voice_report_incoming_call">S\'està trucant</string>
   <string name="voice_report_unknown_num">Número desconegut</string>
+  <string name="voice_service_warning_dialog_cancel">Cancel·la</string>
+  <string name="voice_service_warning_dialog_ok">D\'acord</string>
   <string name="voicemail">Bústia de veu</string>
   <string name="voicemail_abbreviated">BV:</string>
   <string name="voicemail_change_pin_dialog_title">Canvia el PIN</string>
