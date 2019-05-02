@@ -5,6 +5,16 @@
         <item>Xarxa d\'origen</item>
         <item>Totes les xarxes</item>
     </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Talk to Google Assistant</item>
+        <item>Open Google search</item>
+        <item>Obre la càmera posterior</item>
+        <item>Open front camera</item>
+        <item>Open previous app</item>
+        <item>Turn on flashlight</item>
+        <item>Turn on Reading mode</item>
+        <item>None</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Cada dia</item>
         <item>Entre setmana</item>
