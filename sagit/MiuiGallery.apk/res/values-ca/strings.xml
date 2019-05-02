@@ -640,6 +640,7 @@ per personalitzar la galeria"</string>
   <string name="more_face_album_name">Més persones</string>
   <string name="move_to_other_albums_tip">La sincronització d\'aquest àlbum amb Mi Cloud es desactivarà si el moveu a altres àlbums. Esteu segur de voler moure\'l?</string>
   <string name="movie_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat per wifi. Voleu baixar el connector necessari (3MB) utilitzant dades mòbils?"</string>
+  <string name="movie_download_sdk_without_wifi_title">Baixada utilitzant dades mòbils</string>
   <string name="movie_download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
   <string name="movie_edit">Edita</string>
   <string name="movie_tab_edit">Edita</string>
@@ -785,6 +786,7 @@ per personalitzar la galeria"</string>
   <string name="photo_editor_talkback_redo">Refés</string>
   <string name="photo_editor_talkback_undo">Desfés</string>
   <string name="photo_editor_text">Text</string>
+  <string name="photo_font_download_without_wifi_title">Avís d\'ús de dades</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
   <string name="photo_print_menu_loading">S\'està carregant el connector…</string>
@@ -1148,6 +1150,7 @@ per personalitzar la galeria"</string>
   <string name="video_not_exist">"El vídeo no existeix"</string>
   <string name="view_by_gallery_tip">Galeria de MIUI</string>
   <string name="view_face_album">Veure àlbum</string>
+  <string name="voice_assistant">Entrada de veu</string>
   <string name="welcome_to_micloud">Benvingut a Mi Cloud</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>
   <string name="who_is_this">Qui és?</string>
