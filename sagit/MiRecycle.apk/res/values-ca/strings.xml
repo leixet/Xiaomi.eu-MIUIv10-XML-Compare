@@ -11,6 +11,7 @@
   <string name="device_resolution">Resolució</string>
   <string name="input_card_information">Introduïu la informació de la tarja</string>
   <string name="input_wallet_information">Introduïu el número del mòbil</string>
+  <string name="item_name_rearcamera">Càmera posterior</string>
   <string name="main_overall_test">COMENÇA</string>
   <string name="overall_test">Resultat global</string>
   <string name="result_no_fail">Tot va bé</string>
