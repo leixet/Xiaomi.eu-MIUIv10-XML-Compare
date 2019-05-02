@@ -1360,6 +1360,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="device_cpu6_info">Sis-nuclis</string>
   <string name="device_cpu8_info">Vuit-nuclis</string>
   <string name="device_description_battery">Capacitat de la bateria</string>
+  <string name="device_description_resolution">Resolució</string>
+  <string name="device_description_screen">Mida de la pantalla</string>
   <string name="device_display_layout_title">Característiques del Mi 5</string>
   <string name="device_edit_title">Reanomena el telèfon</string>
   <string name="device_feedback">Envia suggeriments sobre el dispositiu</string>
@@ -4816,6 +4818,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="virus_scanner_title">Cercador de virus</string>
   <string name="virus_scanner_update_lib">Actualitza les definicions</string>
   <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
+  <string name="vision_settings_suggestion_title">Canvi de mida de lletra</string>
   <string name="vision_settings_title">Configuració de visió</string>
   <string name="voice_category">Veu</string>
   <string name="voice_helper_title">Assistent de veu</string>
