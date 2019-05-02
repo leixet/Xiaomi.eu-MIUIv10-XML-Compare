@@ -4049,6 +4049,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="skip_label">Omet</string>
   <string name="skip_lock_screen_confirm_msg">"Les notificacions, els controls del reproductor de música i les dreceres no es mostraran a la pantalla de bloqueig."</string>
   <string name="skip_step">Omet</string>
+  <string name="slider_voice_title">Sons</string>
   <string name="slot_status_title">informació d\'IMEI</string>
   <string name="smallwindow_smartcover_title">Tapa frontal transparent</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
