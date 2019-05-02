@@ -490,6 +490,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="error_getting_sensor_info">S\'ha produït un error en obtenir informació del sensor</string>
   <string name="error_initializing_sensor">S\'ha produït un error en inicialitzar el sensor: %1$s</string>
   <string name="error_sdcard_access">No es pot accedir a l\'espai del sistema!</string>
+  <string name="fod_pressure_sensor_pressure_data_collection">Recollint dades de pressió....</string>
   <string name="fpc_pn_calibration">Captura i emmagatzema la imatge PN</string>
   <string name="keyboard">BOTÓ</string>
   <string name="lcminfo">Informació del LCM</string>
@@ -497,6 +498,16 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="mic1_spk_loop">Reprodueix el micro als altaveus</string>
   <string name="micphone_test">MIC i SPK</string>
   <string name="nfc_disable_tip">Activeu la funció NFC</string>
+  <string name="radio_boy">Veu d\'home</string>
+  <string name="radio_gril">Veu de dona</string>
+  <string name="radio_info_call_status_label">Estat de la trucada de veu:</string>
+  <string name="radio_info_data_connected">Connectat</string>
+  <string name="radio_info_data_connecting">S\'està connectant</string>
+  <string name="radio_info_data_disconnected">Desconnectat</string>
+  <string name="radio_info_data_network_type_label">Tipus de xarxa de dades:</string>
+  <string name="radio_info_gprs_service_label">Servei de dades:</string>
+  <string name="radio_info_gsm_service_label">Servei de veu:</string>
+  <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
   <string name="search_menu_title">Cerca</string>
   <string name="select">Selecciona</string>
