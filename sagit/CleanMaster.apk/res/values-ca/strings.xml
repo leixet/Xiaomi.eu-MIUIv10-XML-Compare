@@ -536,6 +536,7 @@
   <string name="whatsapp_delete_done">Fet</string>
   <string name="whatsapp_file_show_order">Avui</string>
   <string name="whatsapp_function_title">Netejador del WhatsApp</string>
+  <string name="whatsapp_group_voice">Missatges de veu</string>
   <string name="whatsapp_title">Netejador del WhatsApp</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
