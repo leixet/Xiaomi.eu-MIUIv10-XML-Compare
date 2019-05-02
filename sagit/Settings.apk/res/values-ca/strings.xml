@@ -1360,6 +1360,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="device_cpu6_info">Sis-nuclis</string>
   <string name="device_cpu8_info">Vuit-nuclis</string>
   <string name="device_description_battery">Capacitat de la bateria</string>
+  <string name="device_description_camera">Càmera posterior</string>
   <string name="device_description_resolution">Resolució</string>
   <string name="device_description_screen">Mida de la pantalla</string>
   <string name="device_display_layout_title">Característiques del Mi 5</string>
