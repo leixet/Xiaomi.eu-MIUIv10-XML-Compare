@@ -140,6 +140,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_binder_died">L\'aplicació s\'ha aturat inesperadament.</string>
   <string name="err_filesystem_mount">"No es pot accedir a l'emmagatzamatge de l'encaminador"</string>
   <string name="err_low_storage">No hi ha prou espai</string>
+  <string name="err_no_gms">Versió de l\'aplicació incompatible. Instal·leu aquesta aplicació per separat</string>
   <string name="err_not_allow">No compatible</string>
   <string name="err_pkg_not_exist">"No s'han pogut trobar l'aplicació."</string>
   <string name="err_router_disconnected">"Comproveu la connexió de l'encaminador i torneu-ho a provar."</string>
