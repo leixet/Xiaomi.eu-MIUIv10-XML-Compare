@@ -29,6 +29,7 @@
   <string name="carousel_suggest1">Obtén nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
   <string name="carousel_suggest2">Està activat el carrusel de fons de pantalla?</string>
   <string name="change_time">Canvia el període</string>
+  <string name="comment_pop_cancel">Ara no</string>
   <string name="confirm">Activa</string>
   <string name="current_connection_invalid">Espereu fins que el dispositiu es connecti a la xarxa</string>
   <string name="current_data_invalid">S\'ha produït un error</string>
@@ -53,6 +54,7 @@
   <string name="hour_3">Cada 3 hores</string>
   <string name="like">Afegeix als preferits</string>
   <string name="liked">Afegit als preferits</string>
+  <string name="llks_pop_i_know">Entesos</string>
   <string name="load_hdpicture_complete">S\'ha carregat la imatge original amb èxit</string>
   <string name="lockscreen_h5_back_tv">Enrera</string>
   <string name="lockscreen_h5_close_tv">Desactivat</string>
@@ -73,6 +75,7 @@
   <string name="open_sub_title">Seleccioneu les categories</string>
   <string name="passport_empty_password">"La contrasenya no es pot deixar en blanc"</string>
   <string name="passport_set_password">Estableix la contrasenya</string>
+  <string name="passport_unknow_network_error">S\'ha produït un error de xarxa</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
   <string name="platform_unavailable_wechatmoment">Instal·leu Wechat</string>
   <string name="psw_hint">Contrasenya</string>
