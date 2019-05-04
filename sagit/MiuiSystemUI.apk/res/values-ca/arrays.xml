@@ -238,6 +238,13 @@
         <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
         <item>Ressalta en color verd les ordres de dibuix verificades</item>
     </string-array>
+    <string-array name="telephony_data_activity_unknown_sim1">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desactivat</item>
         <item>A la pantalla com barres</item>
