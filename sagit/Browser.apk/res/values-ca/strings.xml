@@ -1139,6 +1139,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="search_label">Navegador</string>
   <string name="search_menu_title">Cerca</string>
   <string name="search_notification_btn_title">Cerca</string>
+  <string name="search_notification_guide_content">Proveu-ho ara</string>
   <string name="search_path_browser">Configuració/Aplicacions instal·lades/Navegador</string>
   <string name="search_settings_description">Marcadors i historial web</string>
   <string name="search_shipin">Vídeo</string>
