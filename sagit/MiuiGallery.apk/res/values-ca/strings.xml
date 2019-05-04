@@ -264,6 +264,7 @@
   <string name="cleaner_screen_shot_action">Neteja</string>
   <string name="cleaner_screen_shot_description">Suprimeix les captures de pantalla que ja no necessiteu.</string>
   <string name="cleaner_screen_shot_title">Suprimeix captures de pantalla</string>
+  <string name="cleaner_similar_action">Elimina ara</string>
   <string name="cleaner_slim_action">Comença l\'optimització</string>
   <string name="cleaner_slim_description">Mantingueu fotos optimitzades al dispositiu. Els fitxers originals s\'emmagatzemaran al Mi Cloud.</string>
   <string name="cleaner_slim_start">Optimitza</string>
@@ -271,6 +272,7 @@
   <string name="cleaner_space_description">poden ser alliberats</string>
   <string name="cleaner_space_detail_description">Esborra les fotos de la galeria per alliberar espai d\'emmagatzematge</string>
   <string name="cleaner_stop_scan">Atura l\'escaneig</string>
+  <string name="cleaner_video_action">Elimina ara</string>
   <string name="click_download_gif">Toqueu per baixar el GIF</string>
   <string name="click_top_right">Toqueu aquesta icona</string>
   <string name="cloud_camera_display_name">Fotos de la càmera</string>
@@ -456,6 +458,7 @@
   <string name="error_sync_off_tip">La sincronització està desactivada</string>
   <string name="error_title">"No es pot sincronitzar"</string>
   <string name="error_unauthorized">S\'ha desactivat la sincronització a causa de massa intents d\'inici de sessió.</string>
+  <string name="error_unknown_action">Comentaris</string>
   <string name="error_unknown_host">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu a provar-ho."</string>
   <string name="error_unknown_msg">S\'ha produït un error. Envieu-nos el vostre feedback.</string>
   <string name="error_unknown_tip">S\'ha produït un error.</string>
