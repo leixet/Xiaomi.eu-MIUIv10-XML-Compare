@@ -687,6 +687,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
   <string name="pip_notification_message">Si no voleu que %s utilitzi aquesta funció, toqueu per obrir la configuració i desactiveu-la.</string>
   <string name="pip_notification_title">%s està en imatge dins d\'imatge</string>
+  <string name="pip_notification_unknown_title">(Programa sense títol)</string>
   <string name="pip_pause">Pausa</string>
   <string name="pip_phone_close">Tanca</string>
   <string name="pip_phone_dismiss_hint">Arrossegueu cap avall per descartar</string>
