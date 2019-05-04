@@ -507,6 +507,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="radio_info_data_network_type_label">Tipus de xarxa de dades:</string>
   <string name="radio_info_gprs_service_label">Servei de dades:</string>
   <string name="radio_info_gsm_service_label">Servei de veu:</string>
+  <string name="radio_info_unknown">No indicat</string>
   <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
   <string name="search_menu_title">Cerca</string>
