@@ -98,6 +98,7 @@
   <string name="common_signin_button_text_long">Inicia sessió amb Google</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_exit">Voleu desar els canvis?</string>
+  <string name="connect_now">Connecta</string>
   <string name="connecting_apk">S\'està connectant…</string>
   <string name="count_format">%2$1.1f K</string>
   <string name="create_playlist">Crea una llista de reproducció</string>
