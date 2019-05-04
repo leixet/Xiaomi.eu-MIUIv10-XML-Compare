@@ -23,6 +23,7 @@
   <string name="agenda_assistant_payment_day">Dia de pagament</string>
   <string name="agenda_assistant_repayment_day">Dia de pagament</string>
   <string name="agenda_assistant_tail_num">Número</string>
+  <string name="agenda_i_known">Entesos</string>
   <string name="agenda_no_title">Sense títol</string>
   <string name="agenda_open">Activa els recordatoris</string>
   <string name="agenda_setting_brief">Esdeveniments, recordatoris de pagaments i molt més</string>
@@ -80,6 +81,7 @@
   <string name="battery_history">Bateria</string>
   <string name="bicycle">Bicicleta</string>
   <string name="book_add_date_diff">La data de sortida ha de ser posterior a la data d\'entrada.</string>
+  <string name="book_add_dialog_save">Voleu descartar els canvis i sortir ara?</string>
   <string name="book_assistant">Reserva un viatge</string>
   <string name="book_assistant_empty">Encara no hi ha reserves</string>
   <string name="book_assistant_go">Sortida</string>
@@ -113,6 +115,7 @@
   <string name="card_expand_note_dialog_button">D\'acord</string>
   <string name="card_expand_note_dialog_message">Es crearà una nova nota cada cop que toqueu el botó «Desa» al cofre d\'aplicacions.</string>
   <string name="card_expand_note_dialog_title">S\'estan desant les notes</string>
+  <string name="card_expand_note_sure_clear_all">Esborra ara</string>
   <string name="card_expand_note_toast_clear_null">S\'ha netejat amb èxit</string>
   <string name="card_expand_note_toast_save_done">S\'ha desat a Notes</string>
   <string name="card_expand_note_toast_save_dup">S\'ha desat amb èxit</string>
@@ -523,6 +526,7 @@ Comproveu el número de seguiment."</string>
   <string name="locations">Ubicacions freqüents</string>
   <string name="locations_preferences">Adreces</string>
   <string name="login_before_use">Primer heu d\'iniciar la sessió</string>
+  <string name="login_dialog_negative">Ara no</string>
   <string name="login_ok">Inicia sessió</string>
   <string name="look_more">Mostra\'n més</string>
   <string name="main_add">Afegeix</string>
@@ -881,6 +885,7 @@ Comproveu el número de seguiment."</string>
   <string name="upgrade_find">S\'ha trobat una versió nova</string>
   <string name="upgrade_later">Instal·la més tard</string>
   <string name="upgrade_now">Instal·la ara</string>
+  <string name="upgrade_now_bottom">Instal·la ara</string>
   <string name="uploads_disabled">"No es poden pujar els arxius"</string>
   <string name="user_id">ID d\'usuari: %s</string>
   <string name="walk">A peu</string>
