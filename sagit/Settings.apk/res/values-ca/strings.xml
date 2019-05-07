@@ -3913,7 +3913,6 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="settings_safetylegal_activity_unreachable">No hi ha connexió de dades. Per veure la informació, aneu a %s des de qualsevol ordinador connectat a Internet.</string>
   <string name="settings_safetylegal_title">Informació de seguretat</string>
   <string name="settings_shortcut">Configuració de les dreceres</string>
-  <string name="setup_choose_unlock_fingerprint_msg">Establiu el bloqueig de la pantalla abans d\'afegir l\'empremta.</string>
   <string name="setup_choose_unlock_mixed_password">Contrasenya</string>
   <string name="setup_choose_unlock_mixpassword_title">Estableix la contrasenya</string>
   <string name="setup_choose_unlock_password">PIN</string>
