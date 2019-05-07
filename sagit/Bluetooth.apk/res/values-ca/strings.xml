@@ -11,6 +11,7 @@
   <string name="auth_notif_ticker">Sol·licitud d\'autenticació OBEX</string>
   <string name="auth_notif_title">Clau de sessió</string>
   <string name="avrcp_cover_art_default_image_type">imatge</string>
+  <string name="avrcp_cover_art_default_mimetype">JPEG</string>
   <string name="bluetooth_connected">Àudio Bluetooth connectat</string>
   <string name="bluetooth_disconnected">Àudio Bluetooth desconnectat</string>
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
