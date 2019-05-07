@@ -290,6 +290,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="perm_read_phone_state">"Llegir l'estat del telèfon"</string>
   <string name="perm_read_sms">Llegir SMS</string>
   <string name="perm_storage">Llegir i escriure en emmagatzematge extern</string>
+  <string name="phone_title">Configuració del telèfon</string>
   <string name="platform_chooser_item_android_mi">Telèfon Mi</string>
   <string name="platform_chooser_item_android_others">Altres marques</string>
   <string name="platform_chooser_item_ios">Importa des d\'un dispositiu iOS</string>
