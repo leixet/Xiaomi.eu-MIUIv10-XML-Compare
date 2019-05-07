@@ -147,6 +147,8 @@
   <string name="license_host_unreachable">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="lnDesc">logaritme natural</string>
   <string name="loading">Un moment…</string>
+  <string name="loading_message">S\'està carregant l\'aplicació…</string>
+  <string name="loading_slogan">Utilitzeu aplicacions sense instal·lar-les</string>
   <string name="loan_edittext_hint_commercial">Introduïu una quantitat</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial (×10K)</string>
   <string name="loan_edittext_hint_fund">Introduïu una quantitat</string>
