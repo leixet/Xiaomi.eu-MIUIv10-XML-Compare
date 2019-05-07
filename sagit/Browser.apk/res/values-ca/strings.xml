@@ -8,6 +8,9 @@
   <string name="abc_action_mode_select_all">Selecciona-ho tot</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+  <string name="abc_font_family_body_1_material">sans-serif</string>
+  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+  <string name="abc_font_family_button_material">sans-serif-medium</string>
   <string name="abc_font_family_caption_material">sans-serif</string>
   <string name="abc_font_family_display_1_material">sans-serif</string>
   <string name="abc_font_family_display_2_material">sans-serif</string>
@@ -270,6 +273,7 @@ està a punt de passar»</string>
   <string name="data_traffic_prompt_message">L\'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d\'ús de dades del vostre pla, l\'operador us podria cobrar despeses addicionals.</string>
   <string name="data_traffic_prompt_title">Ús de dades mòbils</string>
   <string name="data_traffic_stop">Atura</string>
+  <string name="debug_mode_toast">Mode depuració activat</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Elimina</string>
   <string name="delete_bookmark_action_warning">Voleu elimina els marcadors?</string>
@@ -388,6 +392,7 @@ està a punt de passar»</string>
   <string name="finish_sync_cloud_tabs">Sincronització finalitzada</string>
   <string name="firstUsingSearchEngineTips">Canviar el motor de cerca?</string>
   <string name="fling_on_border_gesture_hint">Podeu triar la funció d\'aquest gest a la Configuració</string>
+  <string name="for_diagnosis_usage_only">Utilitza aquesta informació exclusivament per diagnosi.</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
@@ -410,12 +415,14 @@ està a punt de passar»</string>
   <string name="gold_medals">Medalles d\'or</string>
   <string name="green_kid_block_request">L\'accés a aquest lloc web està restringit.</string>
   <string name="guide_chosen_type_main_title">Expliqueu-nos què us agrada</string>
+  <string name="guide_chosen_type_main_title_behind">el que volgueu</string>
   <string name="guide_chosen_type_main_title_front">Digueu-nos</string>
   <string name="guide_chosen_type_subtitle">Per obtenir consells apropiats indiqueu els vostres interessos</string>
   <string name="guide_entertainment_text">entreteniment</string>
   <string name="guide_fashion_text">moda</string>
   <string name="guide_fiction_text">ficció</string>
   <string name="guide_finance_text">finances</string>
+  <string name="guide_flash_type_subtitle">Velocitat increïble, interfície d\'usuari fluida</string>
   <string name="guide_games_text">jocs</string>
   <string name="guide_history_text">historia</string>
   <string name="guide_know_type_main_title">El navegador que us entén</string>
@@ -1273,6 +1280,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="tab_yellowpage">Enllaços</string>
   <string name="tabs_description">Pestanyes</string>
   <string name="temp_refuse">No, gràcies</string>
+  <string name="temporary_not_available">no disponible temporalment</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
   <string name="title_notice_push">Activa la tramesa automàtica</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
