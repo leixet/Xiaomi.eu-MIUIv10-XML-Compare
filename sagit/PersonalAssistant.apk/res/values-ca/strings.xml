@@ -166,7 +166,7 @@
   <string name="corpus_description_apps">Aplicacions instal·lades</string>
   <string name="corpus_hint_apps">Cerca aplicacions</string>
   <string name="corpus_label_apps">Aplicacions</string>
-  <string name="cta_desc">"És ideal per als accessos directes, informació i funcions preferides"</string>
+  <string name="cta_desc">És ideal per als accessos directes, informació i funcions preferides</string>
   <string name="cta_dialog_negative">Surt</string>
   <string name="cta_dialog_positive">D\'acord</string>
   <string name="cta_dialog_text_all">Per utilitzar el cofre d\'aplicacions, haureu de llegir i acceptar l\' %1$s «Acord d\'usuari» %2$s i la %3$s «Política de privadesa» %4$s. El servei també requereix de connexió a Internet i accés als serveis d\'ubicació. Hi esteu d\'acord?</string>
@@ -859,7 +859,6 @@ Comproveu el número de seguiment."</string>
   <string name="time_just_now">Ara mateix</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
-  <string name="toast_function_add_not_allowed">Podeu afegir fins a 10 dreceres</string>
   <string name="toast_function_remove_not_allowed">Heu d\'afegir com a mínim 1 drecera</string>
   <string name="total_month_desc_text">Aquest mes</string>
   <string name="total_today_desc_text">Avui</string>
