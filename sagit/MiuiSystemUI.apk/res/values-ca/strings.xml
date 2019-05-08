@@ -250,6 +250,7 @@ Taxa de mostreig"</string>
   <string name="branded_monitoring_description_app_personal">"Esteu connectat a %1$s, que pot seguir la vostra activitat a la xarxa, incloent els email, aplicacions i pàgines web."</string>
   <string name="bt_hci_snoop_log">Activa registre cerca HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI de Bluetooth en un fitxer</string>
+  <string name="btn_camera">Poseu la vostra cara</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó en el menú d\'encesa per informar d\'un error</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
