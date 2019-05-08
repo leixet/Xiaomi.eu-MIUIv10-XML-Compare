@@ -121,10 +121,16 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="edit_skin_white">To</string>
   <string name="error_fail_to_start_audio_capture">"No s'ha pogut iniciar el disparador per veu"</string>
   <string name="face_age_info">Edat: %d</string>
+  <string name="face_analyze_info">Edat: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Dona</string>
   <string name="face_analyze_info_male">Home</string>
   <string name="face_beauty_advanced">Avançat</string>
+  <string name="face_beauty_age_alias_0_7">0-7</string>
+  <string name="face_beauty_age_alias_18_30">18-30</string>
+  <string name="face_beauty_age_alias_31_44">31-44</string>
+  <string name="face_beauty_age_alias_45_60">45-60</string>
   <string name="face_beauty_age_alias_60_m">Més de 60 anys</string>
+  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Dona 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Dona 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Dona 31-44</string>
@@ -293,6 +299,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_multilevel_entry_lower">Més baix</string>
   <string name="pref_camera_multilevel_entry_lowest">Mínim</string>
   <string name="pref_camera_multilevel_entry_middle">Mitjà (per defecte)</string>
+  <string name="pref_camera_normal_wide_ldc_description">Corregeix cares distorsionades de la gent de la perifèria de l\'enquadrament</string>
   <string name="pref_camera_normal_wide_ldc_title">Corregeix les distorsions facials en fotografies de grups</string>
   <string name="pref_camera_optimized_flash_enable_title">Flaix optimitzat</string>
   <string name="pref_camera_panoramamode_title">Panoràmica</string>
