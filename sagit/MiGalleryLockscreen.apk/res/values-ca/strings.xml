@@ -46,6 +46,7 @@
   <string name="detail_toast_deny_favor">"No es pot afegir a preferits."</string>
   <string name="detail_toast_dislike_fail">"No s'ha pogut esborrar."</string>
   <string name="dislike">Elimina</string>
+  <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="favor_list_no_data">Aquí no hi ha cap element.</string>
   <string name="feed_article_entrance_about">Quant a %s</string>
   <string name="find_psw">Contrasenya oblidada</string>
