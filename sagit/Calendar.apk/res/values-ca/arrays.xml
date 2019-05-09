@@ -238,8 +238,8 @@
         <item>darrer dimecres</item>
         <item>darrer dijous</item>
         <item>darrer divendres</item>
-        <item>last Saturday</item>
-        <item>last Sunday</item>
+        <item>darrer dissabte</item>
+        <item>darrer diumenge</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Sense resposta</item>
