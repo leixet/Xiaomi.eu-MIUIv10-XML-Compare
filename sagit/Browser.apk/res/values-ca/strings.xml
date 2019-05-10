@@ -269,8 +269,6 @@ està a punt de passar»</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
   <string name="data_traffic_continue">Continua</string>
   <string name="data_traffic_download_cancel">Cancel·la</string>
-  <string name="data_traffic_download_confirm">S\'està utilitzant la vostra connexió de dades mòbils</string>
-  <string name="data_traffic_download_ok">D\'acord</string>
   <string name="data_traffic_download_prompt">El vídeo actual només es pot baixar amb wifi</string>
   <string name="data_traffic_download_setting">Configuració</string>
   <string name="data_traffic_goto">Trànsit de dades gratuït</string>
