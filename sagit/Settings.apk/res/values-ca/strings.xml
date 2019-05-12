@@ -2392,7 +2392,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="make_sure_cancel_update">Voleu cancel·lar l\'actualització?</string>
   <string name="man_add_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="manage_device_admin">Administradors del dispositiu</string>
-  <string name="manage_facerecoginition_text">Gestioni les dades de la cara</string>
+  <string name="manage_facerecoginition_text">Gestió de dades facials</string>
   <string name="manage_fakecell_settings">Protecció contra estacions de base falses</string>
   <string name="manage_fingerprint_text">Gestió d\'empremtes</string>
   <string name="manage_mobile_plan_title">Pla mòbil</string>
