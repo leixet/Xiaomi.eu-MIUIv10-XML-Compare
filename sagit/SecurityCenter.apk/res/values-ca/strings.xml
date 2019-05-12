@@ -817,7 +817,7 @@
         així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>&lt;/Data&gt;</string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="gigabyteShort">GB</string>
-  <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
+  <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. La durada de la bateria es reduirà una mica.</string>
   <string name="gmscore_support_service">Serveis de Google</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
