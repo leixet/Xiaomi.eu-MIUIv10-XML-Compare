@@ -11,6 +11,8 @@
   <string name="arctan">arctan</string>
   <string name="base_rate">Taxa d\'interès base</string>
   <string name="btn_float_window_alpha">Ajustar opacitat</string>
+  <string name="btn_float_window_back_to_app">Maximitza la Calculadora</string>
+  <string name="btn_float_window_close">Tanca la Calculadora minimitzada</string>
   <string name="btn_float_window_resize">Redimensiona la calculadora minimitzada</string>
   <string name="cal_convert_to_word_figure">Converteix a caràcters financers</string>
   <string name="cal_copy">Copia</string>
@@ -505,6 +507,7 @@
   <string name="unit_data_display_weight_uk.st">Pedra</string>
   <string name="unit_data_display_weight_us.cwt">Quintal</string>
   <string name="unit_data_short_area_acre">ac</string>
+  <string name="unit_data_short_area_are">a</string>
   <string name="unit_data_short_area_ha">ha</string>
   <string name="unit_data_short_area_mu">mu</string>
   <string name="unit_data_short_area_qing">qing</string>
@@ -513,6 +516,7 @@
   <string name="unit_data_short_area_sq.cun">cun²</string>
   <string name="unit_data_short_area_sq.dm">dm²</string>
   <string name="unit_data_short_area_sq.ft">ft²</string>
+  <string name="unit_data_short_area_sq.gongli">gongli²</string>
   <string name="unit_data_short_area_sq.in">in²</string>
   <string name="unit_data_short_area_sq.km">km²</string>
   <string name="unit_data_short_area_sq.m">m²</string>
@@ -529,6 +533,8 @@
   <string name="unit_data_short_length_fen">fen</string>
   <string name="unit_data_short_length_fm">ftm</string>
   <string name="unit_data_short_length_ft">ft</string>
+  <string name="unit_data_short_length_fur">fur</string>
+  <string name="unit_data_short_length_gongli">gongli</string>
   <string name="unit_data_short_length_hao">hao</string>
   <string name="unit_data_short_length_in">in</string>
   <string name="unit_data_short_length_km">km</string>
@@ -539,6 +545,13 @@
   <string name="unit_data_short_length_m">m</string>
   <string name="unit_data_short_length_mi">mi</string>
   <string name="unit_data_short_length_mm">mm</string>
+  <string name="unit_data_short_length_nm">nm</string>
+  <string name="unit_data_short_length_nmi">nmi</string>
+  <string name="unit_data_short_length_pc">pc</string>
+  <string name="unit_data_short_length_pm">pm</string>
+  <string name="unit_data_short_length_um">μm</string>
+  <string name="unit_data_short_length_yd">yd</string>
+  <string name="unit_data_short_length_zhang">zhang</string>
   <string name="unit_data_short_temperature_c">°C</string>
   <string name="unit_data_short_temperature_f">°F</string>
   <string name="unit_data_short_temperature_k">K</string>
@@ -604,6 +617,7 @@
   <string name="unit_yuan">CNY</string>
   <string name="updating">Actualitzant calculadora…</string>
   <string name="user_agreement">Acord d\'usuari</string>
+  <string name="view_float_window_move">Mou la Calculadora minimitzada</string>
   <string name="voiceDesc">Controls de veu</string>
   <string name="wf_word_figure">Caràcters financers</string>
   <string name="wife">妻子</string>
