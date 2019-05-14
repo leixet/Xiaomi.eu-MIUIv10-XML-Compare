@@ -122,6 +122,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="delete_backup_title">Suprimeix la còpia de seguretat</string>
   <string name="delete_failed_backup_confirm">Aquesta còpia de seguretat conté errors.</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
+  <string name="dialog_app_upgrade_exit">Surt</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_description">Sense encriptar</string>
   <string name="disable_encrypt_title">Desactiva l\'encriptatge</string>
