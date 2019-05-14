@@ -534,6 +534,9 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_charging_info_tip_text4">"No utilitzeu gaire el vostre dispositiu mentre s'està carregant per evitar un sobreescalfament."</string>
   <string name="keyguard_charging_info_tip_text5">Les bateries triguen més en carregar-se quan s\'escalfen més de l\'habitual.</string>
   <string name="keyguard_charging_info_tip_text6">Tanqueu la pantalla i deixeu reposar el vostre dispositiu per no escalfar-lo.</string>
+  <string name="keyguard_charging_normal_and_level_tip">S\'està carregant %d%%</string>
+  <string name="keyguard_charging_quick_and_level_tip">Càrrega ràpida %d%%</string>
+  <string name="keyguard_charging_super_quick_and_level_tip">Carregant ràpidament %d%%</string>
   <string name="keyguard_indication_charging_time">S\'està carregant (%s fins el màxim)</string>
   <string name="keyguard_indication_charging_time_fast">Càrrega lenta (%s fins el màxim)</string>
   <string name="keyguard_indication_charging_time_slowly">Càrrega lenta (%s fins el màxim)</string>
@@ -560,6 +563,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
   <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode d\'avió</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Més</string>
   <string name="lock_screen_no_sim_card_emergency_only">Només trucades d\'emergència</string>
   <string name="lockscreen_access_pattern_area">Àrea del patró.</string>
   <string name="lockscreen_access_pattern_cell_added">S\'ha afegit una cel·la</string>
