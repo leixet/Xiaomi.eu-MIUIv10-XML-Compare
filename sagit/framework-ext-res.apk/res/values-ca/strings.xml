@@ -35,6 +35,7 @@
   <string name="caller_info_name_delimiter">" o "</string>
   <string name="cancel_action">Cancel·la</string>
   <string name="close">Desactivat</string>
+  <string name="config_camera_component">com.android.camera/com.android.camera.Camera</string>
   <string name="configure_input_methods">Configura els mètodes d\'entrada</string>
   <string name="copy">Copia</string>
   <string name="cut">Retalla</string>
