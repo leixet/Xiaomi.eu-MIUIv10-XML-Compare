@@ -166,7 +166,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_main_network_error">"No s'ha pogut connectar a la xarxa "</string>
   <string name="micloud_main_simple_last_sync_time">Hora de la darrera sincronització： %s</string>
   <string name="micloud_main_simple_off">Sincronització desactivada</string>
-  <string name="micloud_main_sync_mode_summary">Sincronitza la majoria d\'elements quan el carregador està connectat i la pantalla aturada</string>
+  <string name="micloud_main_sync_mode_summary">"Sincronitza la majoria d'elements quan el carregador està connectat i la pantalla aturada"</string>
   <string name="micloud_main_sync_mode_title">Sincronització amb estalvi d\'energia</string>
   <string name="micloud_main_wait_charge">Per reprendre la sincronització, carregueu completament el dispositiu.</string>
   <string name="micloud_main_wait_charge_sleep">Apagueu la pantalla i carregueu completament el dispositiu per reprendre la sincronització.</string>
