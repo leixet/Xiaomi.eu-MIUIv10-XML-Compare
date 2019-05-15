@@ -2538,7 +2538,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
-  <string name="miui_more_special_feature">Explora noves funcions</string>
+  <string name="miui_more_special_feature">Explora noves característiques</string>
   <string name="miui_sos_audio_summary">Reprodueix el missatge de SOS després que el contacte d\'emergència despengi</string>
   <string name="miui_sos_audio_title">Missatge de veu de SOS</string>
   <string name="miui_sos_call_log_duration">Durada</string>
@@ -3013,6 +3013,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="permit_write_settings">Permet modificar la configuració del sistema</string>
   <string name="person_hotpot">Punts d\'accés mòbils</string>
   <string name="personal_data_section_title">Dades personals</string>
+  <string name="personal_section_title">Personalització</string>
   <string name="phone_call_noise_suppression">Supressió de fressa durant la trucada</string>
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
