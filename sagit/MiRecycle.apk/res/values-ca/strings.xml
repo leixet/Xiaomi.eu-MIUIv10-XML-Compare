@@ -4,6 +4,7 @@
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_activitychooserview_choose_application">Seleccioneu una aplicació</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
   <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="bank_name">Nom del banc</string>
   <string name="btn_check_back">Enrere</string>
