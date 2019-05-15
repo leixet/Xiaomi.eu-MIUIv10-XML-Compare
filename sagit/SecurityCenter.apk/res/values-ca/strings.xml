@@ -1956,6 +1956,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="thermal_tips_message">Jugar a jocs en mode de rendiment pot provocar problemes de sobreescalfament.</string>
   <string name="thermal_tips_title">Atenció</string>
   <string name="third_application">Aplicacions instal·lades</string>
+  <string name="third_desktop_dialog_content">Per evitar que el llançador d\'aplicacions de tercers provoqui consum de dades, descàrrega més ràpida de la bateria, alentiment del dispositiu,... Només les revisades per MIUI es poden configurar com a predeterminades.</string>
   <string name="three_percent_total_pkg">%s (3%% de les dades mensuals)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
