@@ -2538,6 +2538,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
+  <string name="miui_more_special_feature">Explora noves funcions</string>
   <string name="miui_sos_audio_summary">Reprodueix el missatge de SOS després que el contacte d\'emergència despengi</string>
   <string name="miui_sos_audio_title">Missatge de veu de SOS</string>
   <string name="miui_sos_call_log_duration">Durada</string>
@@ -2584,6 +2585,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_sos_settings_category">Configuració de SOS</string>
   <string name="miui_sos_statusbar_summary">Premeu per tancar</string>
   <string name="miui_sos_statusbar_title">El SOS d\'emergència està activat</string>
+  <string name="miui_special_feature">Característiques especials</string>
   <string name="miui_touch_filtered_warning">Si una aplicació bloca un diàleg de permisos, activeu l\'element que col·lideix o tanqueu l\'aplicació.</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
