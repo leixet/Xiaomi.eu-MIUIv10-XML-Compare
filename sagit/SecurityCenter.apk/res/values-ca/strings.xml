@@ -732,6 +732,7 @@
   <string name="first_aid_card_consume_power_summary2">Apaga el punt d\'accés portàtil per estalviar bateria</string>
   <string name="first_aid_card_consume_power_title">Consum de bateria</string>
   <string name="first_aid_item4_content">Bateria</string>
+  <string name="first_aid_result_feedback_button">Envia</string>
   <string name="first_aid_result_summary_normal">Tot sembla correcte!</string>
   <string name="first_aid_scanning_item4">Cercant problemes de bateria…</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
