@@ -422,6 +422,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="face_data_manage_unlock_title">Desbloca utilitzant dades facials</string>
   <string name="face_data_siggesstion_next">Següent</string>
   <string name="face_unlock_be_on_the_screen">Enfoqueu el dispositiu envers la vostra cara</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Podeu desblocar el dispositiu amb el reconeixement facial quan la pantalla s\'il·lumina amb les notificacions entrants. Aquesta opció pot fer que la bateria duri menys.</string>
   <string name="face_unlock_check_failed">"No se us ha pogut reconèixer"</string>
   <string name="face_unlock_not_found">"No se us ha pogut reconèixer"</string>
   <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
