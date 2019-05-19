@@ -33,8 +33,8 @@
   <string name="error_server">Error del servidor</string>
   <string name="error_unknown">"No es pot iniciar sessió"</string>
   <string name="find_device">Troba el dispositiu</string>
-  <string name="find_device_dspt_provision">\"Si perd el seu dispositiu, pot anar a %s per localitzar, bloquejar o reiniciar-lo. Aquestes funcions les pot activar o desactivar de qualsevol moment a Configuració.\"
-  </string>
+  <string name="find_device_dspt_provision">"\"Si perd el seu dispositiu, pot anar a %s per localitzar, bloquejar o reiniciar-lo. Aquestes funcions les pot activar o desactivar de qualsevol moment a Configuració.\"
+  "</string>
   <string name="find_device_error_network">Comproveu la connexió de dades i torneu a provar.</string>
   <string name="find_device_error_server">Alguna cosa va fallar en els nostres servidors.</string>
   <string name="find_device_gdpr_prompt">En activar Cerca el dispositiu, accepteu la nostra Política de privadesa. Si heu de revocar l\'autorització de privacitat, desactiveu aquesta característica.</string>
@@ -79,11 +79,11 @@
   <string name="micloud_battery_low_notification_message">Connecteu el carregador per sincronitzar</string>
   <string name="micloud_battery_low_notification_title">Bateria baixa</string>
   <string name="micloud_buy_member_safe">Obtén més emmagatzematge al MiCloud</string>
-  <string name="micloud_check_sim_notify_text">"Sembla que has canviat de SIM. Inicia la sessió 
-amb el vostre compte Mi per reactivar Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_text">"\"Sembla que has canviat de SIM. Inicia la sessió 
+amb el vostre compte Mi per reactivar Mi Cloud.\""</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
-  <string name="micloud_check_sim_title">"Sembla que has canviat les targetes SIM. Inicia la sessió 
-amb el vostre compte Mi per reactivar Mi Cloud."</string>
+  <string name="micloud_check_sim_title">"\"Sembla que has canviat les targetes SIM. Inicia la sessió 
+amb el vostre compte Mi per reactivar Mi Cloud.\""</string>
   <string name="micloud_confusion_account_hint">"Els canvis que facis en aquest dispositiu se sincronitzaran a tots els teus dispositius. Per protegir el teu compte, recomanem que apaguis la sincronització per a altres dispositius quan no els estiguis utilitzant."</string>
   <string name="micloud_confusion_account_name">ID de compte Mi: </string>
   <string name="micloud_confusion_account_notify_text">El teu compte Mi ha estat modificada des d\'un altre dispositiu.</string>
@@ -268,18 +268,18 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_wipe_data_remove">Elimina</string>
   <string name="micloud_wipe_data_retain">Deixa</string>
   <string name="mx_dspt">Missatge Mi</string>
-  <string name="mx_dspt_provision">"Mi Message et permet enviar missatges a altres usuaris MIUI sense incórrer en els costos dels SMS.
+  <string name="mx_dspt_provision">"\"Mi Message et permet enviar missatges a altres usuaris MIUI sense incórrer en els costos dels SMS.
 
-Pots activar o desactivar aquesta característica en qualsevol moment a Configuració."</string>
-  <string name="mx_dspt_provision_privacy">"Aquesta funcionalitat pot requerir el teu número de telèfon. La teva companyia podria cobrar per un missatge SMS utilitzat per activar aquesta funcionalitat.
+Pots activar o desactivar aquesta característica en qualsevol moment a Configuració.\""</string>
+  <string name="mx_dspt_provision_privacy">"\"Aquesta funcionalitat pot requerir el teu número de telèfon. La teva companyia podria cobrar per un missatge SMS utilitzat per activar aquesta funcionalitat.
 
-Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Aquesta funcionalitat pot requerir el teu número de telèfon. La teva companyia podria cobrar per un missatge SMS utilitzat per activar aquesta funcionalitat.
+Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi.\""</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"\"Aquesta funcionalitat pot requerir el teu número de telèfon. La teva companyia podria cobrar per un missatge SMS utilitzat per activar aquesta funcionalitat.
 
-Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Aquesta funcionalitat pot requerir el teu número de telèfon. La teva companyia podria cobrar per un missatge SMS utilitzat per activar aquesta funcionalitat quan es detecti una targeta SIM.
+Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi.\""</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"\"Aquesta funcionalitat pot requerir el teu número de telèfon. La teva companyia podria cobrar per un missatge SMS utilitzat per activar aquesta funcionalitat quan es detecti una targeta SIM.
 
-Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</string>
+Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi.\""</string>
   <string name="mx_dspt_provision_with_voip">"Truqui a altres usuaris MIUI gratis amb la vostre connexió a internet. Podeu activar o desactivar aquesta funció en qualsevol moment a Configuració. VoIP oferta per Weihui. Vegi la Política de Privacitat de Weihui"</string>
   <string name="mx_dspt_provision_with_voip2">Política de privadesa</string>
   <string name="mx_sub_dspt_provision">Missatge Mi</string>
@@ -333,8 +333,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_dspt_provision">"Sincronitza les teves fotos, contactes, notes, etc. entre els teus dispositius i accedeix a ells des de"</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
-"</string>
+  <string name="sync_dspt_provision3">"\". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
+\""</string>
   <string name="sync_item_calllog_summary">Sincronitzar registres de trucades fetes i rebudes en aquest telèfon</string>
   <string name="sync_item_calllog_title">Sincronitzar registres de trucades</string>
   <string name="sync_item_sms_summary">Sincronitzar els teus SMS enviats i rebuts en aquest telèfon</string>
