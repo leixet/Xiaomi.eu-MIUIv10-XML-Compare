@@ -282,8 +282,8 @@
   <string name="installing_apk">S\'està instal·lant…</string>
   <string name="insufficient_space">"No hi ha prou espai en l'emmagatzematge intern del vostre dispositiu"</string>
   <string name="is_scanning">S\'està comprovant l\'emmagatzematge&#8230;</string>
-  <string name="is_scanning_support_online">«S\'està comprovant l\'emmagatzematge&#8230;
-(Mentrestant podeu fer la transmissió de música en línia)»</string>
+  <string name="is_scanning_support_online">"«S'està comprovant l'emmagatzematge&#8230;
+(Mentrestant podeu fer la transmissió de música en línia)»"</string>
   <string name="keep_queued_download">Manté</string>
   <string name="ktv_playlist">Llista de reproducció de KTV</string>
   <string name="latest_song">Històric de reproducció (%d)</string>
@@ -562,8 +562,8 @@
   <string name="version_info">Versió</string>
   <string name="vip_required">Obteniu el paquet de cançons prèmium per reproduir aquesta cançó. L\'hem omès per vós.</string>
   <string name="voice_search_first_hint">Proveu la cerca per veu!</string>
-  <string name="wifi_required_body" formatted="false">"Connecteu-vos a la Wi-Fi per completar aquesta baixada %s.
+  <string name="wifi_required_body" formatted="false">"\"Connecteu-vos a la Wi-Fi per completar aquesta baixada %s.
 
-Premeu %s per iniciar aquesta baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
+Premeu %s per iniciar aquesta baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi.\""</string>
   <string name="wifi_required_title">Heu de connectar-vos a Wi-Fi per baixar aquest fitxer</string>
 </resources>
