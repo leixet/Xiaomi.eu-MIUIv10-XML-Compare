@@ -14,10 +14,10 @@
         <item quantity="one">El reproductor pararà a %d minut</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Creat el %1$s 
-%2$d cançons en total"</item>
-        <item quantity="one">"Creat el %1$s 
-%2$d cançó en total"</item>
+        <item quantity="other">"\"Creat el %1$s 
+%2$d cançons en total\""</item>
+        <item quantity="one">"\"Creat el %1$s 
+%2$d cançó en total\""</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d cançons afegides a la llista de reproducció</item>
