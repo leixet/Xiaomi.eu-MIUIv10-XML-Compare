@@ -206,8 +206,8 @@
   <string name="no_share_files">"No es poden compartir fitxers que ja s'han suprimit"</string>
   <string name="no_share_files_content">"Alguns dels fitxers que està tractant de compartir ja han estat eliminats. D'altres arxius s'han compartit amb èxit."</string>
   <string name="no_vip_info">Registreu-vos a Xunlei per accelerar les baixades</string>
-  <string name="no_vip_show_info">"Accelera les baixades
-en tots els dispositius a través de Xunlei"</string>
+  <string name="no_vip_show_info">"\"Accelera les baixades
+en tots els dispositius a través de Xunlei\""</string>
   <string name="notify_disabled_net_by_app">Accés restringit a Internet</string>
   <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
   <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
@@ -398,8 +398,8 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="vip_auto_speedup">L\'accelerador de baixades Xunlei està activat</string>
   <string name="vip_expire_show_info">La subscripció Xunlei ha expirat.</string>
   <string name="vip_expire_today_show_info">La subscripció Xunlei ha expirat.</string>
-  <string name="vip_show_info">"5 milions de membres.
- Accelera les baixades a tots els vostres dispositius."</string>
+  <string name="vip_show_info">"\"5 milions de membres.
+ Accelera les baixades a tots els vostres dispositius.\""</string>
   <string name="vip_speedup">Augment de velocitat:</string>
   <string name="web_dialog_cancel">Cancel·la</string>
   <string name="web_dialog_confirm">D\'acord</string>
