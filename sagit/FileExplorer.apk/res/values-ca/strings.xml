@@ -568,8 +568,8 @@
   <string name="shared_sticker_page_no_file">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Adhesiu a %s</string>
-  <string name="shared_sticker_use_tip">"Podeu enviar els adhesius que heu desat a converses de WeChat igual que envieu imatges.
-(Els GIF es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
+  <string name="shared_sticker_use_tip">"\"Podeu enviar els adhesius que heu desat a converses de WeChat igual que envieu imatges.
+(Els GIF es poden afegir a Personalitzats en els adhesius de WeChat).\""</string>
   <string name="shared_sticker_use_tip_title">Com s\'utilitzen els adhesius</string>
   <string name="shared_str">Compartit per %s</string>
   <string name="shortcut_exists">La drecera ja existeix</string>
