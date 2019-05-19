@@ -20,9 +20,9 @@
   <string name="clear_shortcuts">Esborrar les dreceres</string>
   <string name="clear_shortcuts_agree">Esborrar les dreceres</string>
   <string name="clear_shortcuts_disagree">"No esborrar les dreceres"</string>
-  <string name="clear_shortcuts_prompt">"Voleu esborrar totes les dreceres als suggeriments de cerca escollits recentment?
+  <string name="clear_shortcuts_prompt">"\"Voleu esborrar totes les dreceres als suggeriments de cerca escollits recentment?
 
-Per esborrar l\'historial del Navegador, feu servir la configuració del Navegador."</string>
+Per esborrar l'historial del Navegador, feu servir la configuració del Navegador.\""</string>
   <string name="clear_shortcuts_summary">Esborrar les dreceres als suggeriments de cerca escollits recentment</string>
   <string name="common_setting">Configuració general</string>
   <string name="connect_and_retry">Connecteu-vos a Internet i torneu a provar</string>
