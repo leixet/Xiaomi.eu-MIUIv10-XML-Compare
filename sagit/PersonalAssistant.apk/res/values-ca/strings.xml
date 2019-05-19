@@ -293,16 +293,16 @@
   <string name="express_inquiry_history">Historial</string>
   <string name="express_inquiry_history_remark">Comentaris</string>
   <string name="express_inquiry_history_remark_hint">Historial de comentaris</string>
-  <string name="express_inquiry_internal_failure">"S\'ha produït un error. 
-Comproveu el número de seguiment."</string>
+  <string name="express_inquiry_internal_failure">"\"S'ha produït un error. 
+Comproveu el número de seguiment.\""</string>
   <string name="express_inquiry_logistics">Seleccioneu un servei de missatgeria</string>
   <string name="express_inquiry_logistics_prefix">Servei de missatgeria: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Altres</string>
   <string name="express_inquiry_no_history">No hi ha historial</string>
   <string name="express_inquiry_no_result">No hi ha cap resultat</string>
   <string name="express_inquiry_number_empty">Introduïu el número de seguiment.</string>
-  <string name="express_inquiry_number_invalid">"El número consultat no és vàlid.
-Comproveu el número de seguiment."</string>
+  <string name="express_inquiry_number_invalid">"\"El número consultat no és vàlid.
+Comproveu el número de seguiment.\""</string>
   <string name="express_inquiry_provider_info">"Amb la tecnologia de "</string>
   <string name="express_inquiry_serial_number_indication">Número de seguiment</string>
   <string name="express_install_open_locker">Obre</string>
