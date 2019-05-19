@@ -472,8 +472,8 @@
   <string name="second_mms_introduction">Vés al Segon espai</string>
   <string name="second_mms_switch">Canvia</string>
   <string name="secs">segs</string>
-  <string name="security_alert_desc">&lt;font color=\"#7f000000\"&gt;\"El remitent no està en els contactes.
- \"&lt;/font&gt;</string>
+  <string name="security_alert_desc">"&lt;font color=\"#7f000000\"&gt;\"El remitent no està en els contactes.
+ \"&lt;/font&gt;"</string>
   <string name="security_alert_desc_highlight">Informa d\'aquest número</string>
   <string name="security_alert_dialog_desc">Informa d\'aquest número (%s) i missatge enviant-lo a Xiaomi perquè el revisi.</string>
   <string name="security_alert_dialog_title">Informa</string>
@@ -591,8 +591,8 @@
   <string name="type_to_compose_text_enter_to_send">Escriviu el missatge</string>
   <string name="type_to_compose_text_or_leave_blank">Escriviu el missatge o deixi\'l en blanc</string>
   <string name="type_video">vídeo</string>
-  <string name="undelivered_msg_dialog_body">"No es pot enviar aquest missatge.
-Intents realitzats: %s"</string>
+  <string name="undelivered_msg_dialog_body">"\"No es pot enviar aquest missatge.
+Intents realitzats: %s\""</string>
   <string name="undelivered_msg_dialog_title">Missatge no lliurat</string>
   <string name="undelivered_sms_dialog_body">"No s'ha pogut enviar aquest missatge."</string>
   <string name="unknown_num">Número desconegut</string>
