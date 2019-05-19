@@ -111,8 +111,8 @@
   <string name="baby_album_needs_auto_backup_tip">"No es pot desactivar la còpia de seguretat per a l'àlbum de nadó"</string>
   <string name="baby_album_new_photo_remind">Hi ha noves fotos al vostre àlbum de nadó.</string>
   <string name="baby_album_setting_title">Informació del nadó</string>
-  <string name="baby_album_sharer_accept_dialog_msg">"Benvolgut %2$s de %1$s,
-%4$s de %3$s us ha compartit l\'àlbum de %5$s"</string>
+  <string name="baby_album_sharer_accept_dialog_msg">"\"Benvolgut %2$s de %1$s,
+%4$s de %3$s us ha compartit l'àlbum de %5$s\""</string>
   <string name="baby_album_sharer_recommand_face">Afegeix fotos existents de %1$s?</string>
   <string name="baby_album_sharers_page_title">Comparteix-lo amb la família</string>
   <string name="baby_birthday">Aniversari</string>
@@ -469,8 +469,8 @@
   <string name="exit_share_successfully">Heu sortit de %1$s</string>
   <string name="exit_video_play">Surt</string>
   <string name="expand_people">Mostra més persones</string>
-  <string name="face_album_empty">"No hi ha prou fotos per reconèixer persones.
-Feu més fotos als vostres amics!"</string>
+  <string name="face_album_empty">"\"No hi ha prou fotos per reconèixer persones.
+Feu més fotos als vostres amics!\""</string>
   <string name="face_album_empty_syncing">S\'estan sincronitzant les dades. Torneu d\'aquí una estona</string>
   <string name="face_album_empty_syncing_when_connect_wifi">Connecteu-vos a la Wi-Fi per sincronitzar la informació</string>
   <string name="face_album_long_tap_tip">Per seleccionar diverses persones o canviar la configuració del grup, toqueu i mantingueu premuda una foto de perfil</string>
@@ -624,8 +624,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="main_save_error_msg">"No s'ha pogut desar els canvis degut a un error"</string>
   <string name="mark_myself_default_name">Jo</string>
   <string name="mark_myself_suggestion_load_more">"No sóc jo"</string>
-  <string name="mark_myself_suggestion_title">"Seleccioneu fotos amb la vostra cara
-per personalitzar la galeria"</string>
+  <string name="mark_myself_suggestion_title">"\"Seleccioneu fotos amb la vostra cara
+per personalitzar la galeria\""</string>
   <string name="mark_operation_failed">"No s'ha pogut afegir"</string>
   <string name="mark_operation_processing">S\'està processant…</string>
   <string name="mark_operation_succeeded">S\'ha afegit amb èxit</string>
