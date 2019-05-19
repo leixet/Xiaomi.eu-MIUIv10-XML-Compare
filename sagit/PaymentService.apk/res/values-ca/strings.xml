@@ -91,14 +91,14 @@
   <string name="mibi_direct_pay_novalid_method">Opció de pagament no vàlida.</string>
   <string name="mibi_direct_payment_title">Informació de la comanda</string>
   <string name="mibi_enter_failed">Ha fallat l\'apertura</string>
-  <string name="mibi_error_account_changed_summary">"La informació del vostre compte ha canviat.
-Inicieu la sessió un altre cop."</string>
+  <string name="mibi_error_account_changed_summary">"\"La informació del vostre compte ha canviat.
+Inicieu la sessió un altre cop.\""</string>
   <string name="mibi_error_account_changed_title">Ha canviat el compte</string>
-  <string name="mibi_error_account_throtting">"El vostre compte no és segur.
-Contacteu amb el nostre servei al client"</string>
+  <string name="mibi_error_account_throtting">"\"El vostre compte no és segur.
+Contacteu amb el nostre servei al client\""</string>
   <string name="mibi_error_auth_summary">Torneu a iniciar la sessió al vostre compte Mi</string>
-  <string name="mibi_error_cert_date_summary">"Error de la data del certificat.
-Comproveu la vostra data local i torneu a provar."</string>
+  <string name="mibi_error_cert_date_summary">"\"Error de la data del certificat.
+Comproveu la vostra data local i torneu a provar.\""</string>
   <string name="mibi_error_common_summary">Error del sistema. Intenteu-ho més tard.</string>
   <string name="mibi_error_deduct">"No es va poder activar el protocol de pagament automàtic"</string>
   <string name="mibi_error_expired_summary">La vostra comanda ha caducat</string>
@@ -338,10 +338,10 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="passport_change_phone_number">Canvia els números</string>
   <string name="passport_checking_account">S\'està comprovant la contrasenya&#8230;</string>
   <string name="passport_checking_input">S\'està comprovant l\'entrada&#8230;</string>
-  <string name="passport_click_email_to_valid">"
+  <string name="passport_click_email_to_valid">"\"
 
-Per activar el vostre compte, seguiu l\'enllaç
- que li hem enviat a la safata d\'entrada."</string>
+Per activar el vostre compte, seguiu l'enllaç
+ que li hem enviat a la safata d'entrada.\""</string>
   <string name="passport_completed">Finalitza</string>
   <string name="passport_confirm_recycle_account">Sí</string>
   <string name="passport_continue">Continua</string>
