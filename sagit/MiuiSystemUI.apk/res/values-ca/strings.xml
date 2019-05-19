@@ -231,17 +231,17 @@
   <string name="bluetooth_sap_profile_summary_connected">Connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitzar per a l\'accés SIM</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits d\'àudio Bluetooth per mostra</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
-Bits per mostra"</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
+Bits per mostra\""</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Mode de canal d\'àudio Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
-Mode de canal"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
+Mode de canal\""</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Còdec LDAC d\'àudio Bluetooth: Qualitat de reproducció</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccioneu un còdec LDAC d\'àudio Bluetooth:
-Qualitat de reproducció"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"\"Seleccioneu un còdec LDAC d'àudio Bluetooth:
+Qualitat de reproducció\""</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de mostreig d\'àudio Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
-Taxa de mostreig"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
+Taxa de mostreig\""</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Transmissió: %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Còdec d\'àudio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleccioneu un còdec d\'àudio Bluetooth</string>
@@ -288,10 +288,10 @@ Taxa de mostreig"</string>
   <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
   <string name="connected_via_passpoint">Connectat a través de %1$s</string>
   <string name="content_description_menu_button">Menú</string>
-  <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
-Advertiment!! s\'esborraran totes les vostres dades.
+  <string name="convert_to_fbe_warning">"\"Converteix la partició de dades en una criptografia basada en fitxers.
+Advertiment!! s'esborraran totes les vostres dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
-Premeu \'Esborra i converteix&#8230;\' per continuar"</string>
+Premeu 'Esborra i converteix&#8230;' per continuar\""</string>
   <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
   <string name="convert_to_file_encryption_done">El fitxer ja està encriptat</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
@@ -306,9 +306,9 @@ Premeu \'Esborra i converteix&#8230;\' per continuar"</string>
   <string name="data_saver_description">"Per intentar reduir el consum de dades, l'estalvi de dades evita que algunes aplicacions n'enviïn o en rebin en segon pla. Una aplicació que utilitzeu accedirà a les dades, però potser ho farà menys sovint. És a dir, per exemple, que les imatges no es mostraran si no les toqueu."</string>
   <string name="data_saver_enable_button">Activa</string>
   <string name="data_saver_enable_title">Voleu activar l\'estalvi de dades?</string>
-  <string name="data_usage_disabled_dialog">"Ha consumit el límit de dades especificat.
+  <string name="data_usage_disabled_dialog">"\"Ha consumit el límit de dades especificat.
 
-Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</string>
+Si reactiva les dades, pot generar despeses extra amb el seu proveïdor.\""</string>
   <string name="data_usage_disabled_dialog_3g_title">Dades 2G-3G desactivades</string>
   <string name="data_usage_disabled_dialog_4g_title">Dades 4G desactivades</string>
   <string name="data_usage_disabled_dialog_enable">Reactiva les dades</string>
@@ -476,8 +476,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="inactive_apps_title">Aplicacions inactives</string>
   <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
-  <string name="invalid_charger">"Càrrega USB no suportada.
-Utilitza únicament el carregador subministrat."</string>
+  <string name="invalid_charger">"\"Càrrega USB no suportada.
+Utilitza únicament el carregador subministrat.\""</string>
   <string name="invalid_charger_text">Utilitzeu exclusivament el carregador subministrat.</string>
   <string name="invalid_charger_title">No es pot carregar pel USB.</string>
   <string name="keep_screen_on">Mantén-te actiu</string>
@@ -618,18 +618,18 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="monitoring_description_ca_certificate">S\'ha instal·lat una autoritat de certificació en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_managed_profile_ca_certificate">La vostra organització ha instal·lat una autoritat certificadora al vostre perfil de treball. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_managed_profile_named_vpn">El vostre perfil de treball està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
-  <string name="monitoring_description_management">"El vostre dispositiu el gestiona l\'organització.
+  <string name="monitoring_description_management">"\"El vostre dispositiu el gestiona l'organització.
 
-L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
+L'administrador pot supervisar i gestionar la configuració, l'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d'ubicació del dispositiu.
 
-Per obtenir més informació, contacteu amb l\'administrador."</string>
+Per obtenir més informació, contacteu amb l'administrador.\""</string>
   <string name="monitoring_description_management_ca_certificate">L\'organització ha instal·lat una autoritat certificadora en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_management_network_logging">L\'administrador ha activat el registre de xarxa, que supervisa el trànsit al vostre dispositiu.</string>
-  <string name="monitoring_description_named_management">"El vostre dispositiu el gestiona %1$s.
+  <string name="monitoring_description_named_management">"\"El vostre dispositiu el gestiona %1$s.
 
-L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
+L'administrador pot supervisar i gestionar la configuració, l'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d'ubicació del dispositiu.
 
-Per obtenir més informació, contacteu amb l\'administrador."</string>
+Per obtenir més informació, contacteu amb l'administrador.\""</string>
   <string name="monitoring_description_named_vpn">"Esteu connectat a %1$s, que pot controlar l'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web."</string>
   <string name="monitoring_description_personal_profile_named_vpn">El vostre perfil personal està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
   <string name="monitoring_description_two_named_vpns">"Esteu connectat a %1$s i %2$s, que pot controlar l'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web."</string>
@@ -888,10 +888,10 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_clock_date_format_12">E, d de MMM</string>
   <string name="status_bar_clock_date_time_format">H:mm d MMM</string>
-  <string name="status_bar_date_format">"EEEE
-d MMMM"</string>
-  <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
+  <string name="status_bar_date_format">"\"EEEE
+d MMMM\""</string>
+  <string name="status_bar_date_format_12">"\"EEEE
+d MMMM\""</string>
   <string name="status_bar_network_flow_content">"Avui: %1$s   Restant: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Avui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedit del pla: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Límit mensual: %1$s"</string>
@@ -899,8 +899,8 @@ d MMMM"</string>
   <string name="status_bar_network_flow_today">Avui: %1$s</string>
   <string name="status_bar_no_recent_apps">No hi ha aplicacions recents</string>
   <string name="status_bar_notification_inspect_item_title">Informació de l\'aplicació</string>
-  <string name="status_bar_recent_guide_all">"Lliscar amunt per tancar
- Lliscar avall per bloquejar"</string>
+  <string name="status_bar_recent_guide_all">"\"Lliscar amunt per tancar
+ Lliscar avall per bloquejar\""</string>
   <string name="status_bar_recent_guide_bottom">Feu lliscar avall per bloquejar</string>
   <string name="status_bar_recent_guide_top">Feu lliscar amunt per tancar</string>
   <string name="status_bar_recent_inspect_item_title">Informació de l\'aplicació</string>
@@ -994,8 +994,8 @@ d MMMM"</string>
   <string name="usb_audio_disable_routing">Desactiva l\'encaminament d\'àudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactiva l\'encaminament automàtic als perifèrics d\'àudio USB</string>
   <string name="usb_debugging_always">Permet sempre des d\'aquest equip</string>
-  <string name="usb_debugging_message">"La clau RSA d\'aquest equip és:
-%1$s"</string>
+  <string name="usb_debugging_message">"\"La clau RSA d'aquest equip és:
+%1$s\""</string>
   <string name="usb_debugging_title">Permetre depuració USB?</string>
   <string name="usb_device_confirm_prompt">Obrir %1$s al connectar aquest dispositiu USB?</string>
   <string name="usb_device_permission_prompt">Permet a l\'aplicació %1$s accés al dispositiu USB?</string>
