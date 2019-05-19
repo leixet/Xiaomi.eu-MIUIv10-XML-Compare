@@ -27,8 +27,8 @@
   <string name="access_control_app_is_launching">L\'aplicació s\'està iniciant</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Introduïu la contrasenya abans de desbloquejar amb una nova empremta</string>
   <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
-  <string name="access_control_need_password">"%s s\'ha afegit correctament
-"</string>
+  <string name="access_control_need_password">"\"%s s'ha afegit correctament
+\""</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya del bloquejador d\'aplicacions</string>
   <string name="accessibility_gameboosterservice_description">"Activeu-ho per silenciar les trucades entrants de WeChat quan estigueu jugant"</string>
   <string name="action_button_text_100">Optimitza</string>
@@ -215,12 +215,12 @@
   <string name="app_manager_pref_ads">Recomanacions</string>
   <string name="app_manager_reset_app_preferences">Reinicia les preferències de les aplicacions</string>
   <string name="app_manager_reset_app_preferences_button">Reinicia les aplicacions</string>
-  <string name="app_manager_reset_app_preferences_desc">Es reiniciaran totes les preferències de:\n\n
+  <string name="app_manager_reset_app_preferences_desc">"Es reiniciaran totes les preferències de:\n\n
 <li>Aplicacions desactivades</li>\n
- <li>Notificacions d\'aplicacions desactivades</li>\n
+ <li>Notificacions d'aplicacions desactivades</li>\n
  <li>Aplicacions per defecte</li>\n
  <li>Restriccions de dades en segon pla per a aplicacions</li>\n\n
- No es perdran les dades de les aplicacions.</string>
+ No es perdran les dades de les aplicacions."</string>
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_search_prompt">"No s'ha pogut trobar cap resultat? Proveu de mostrar els resultats de totes les aplicacions."</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
@@ -814,8 +814,8 @@
   <string name="gb_xunyou_gift_type_one">1 dia d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_three">3 dies d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_two">2 dies d\'acceleració de Xunyou</string>
-  <string name="gdpr_msg">&lt;Data&gt;<![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
-        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>&lt;/Data&gt;</string>
+  <string name="gdpr_msg">"&lt;Data&gt;<![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
+        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>&lt;/Data&gt;"</string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. La durada de la bateria es reduirà una mica.</string>
@@ -923,9 +923,9 @@
   <string name="legal_workday_invalidate">Dl-Dv (informació de festius caducada)</string>
   <string name="legal_workday_invalidate_message">Toqueu per actualitzar la informació dels festius.</string>
   <string name="legal_workday_message">(Omet els festius)</string>
-  <string name="leisure_usage_dialog_message">"Heu arribat al límit de dades en horari vall.
+  <string name="leisure_usage_dialog_message">"\"Heu arribat al límit de dades en horari vall.
 
-L\'operadora podria carregar-li costos addicionals si feu servir la connexió de dades altra vegada."</string>
+L'operadora podria carregar-li costos addicionals si feu servir la connexió de dades altra vegada.\""</string>
   <string name="leisure_usage_dialog_title">Heu excedit el límit de dades en horari vall, s\'ha desactivat la connexió de dades</string>
   <string name="list_empty_text">Buit</string>
   <string name="load_only_under_wlan">Carrega notícies quan es connecta al Wi-Fi</string>
@@ -1146,39 +1146,39 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="network_connected_exception_title">Comprovació de la xarxa</string>
   <string name="network_control">Veure paràmetres de l\'aplicació</string>
   <string name="network_diagnostics">Comprovació de la xarxa</string>
-  <string name="network_mobile_exception_detail">"El dispositiu no es pot connectar a internet:
+  <string name="network_mobile_exception_detail">"\"El dispositiu no es pot connectar a internet:
 
  1. Assegureu-vos que no heu superat el límit de dades mòbils del pla del vostre operador.
 
  2. Si vostè acaba de aumentar el saldo del seu dispositiu, reinicialitzeu el dispositiu i torneu a provar.
 
- 3. El senyal de la xarxa del vostre operador pot ser feble en la seva ubicació actual."</string>
+ 3. El senyal de la xarxa del vostre operador pot ser feble en la seva ubicació actual.\""</string>
   <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
   <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigueu connectat en itinerància a la xarxa."</string>
-  <string name="network_route_exception_detail">"És possible que hi hagi un problema amb l\'encaminador amb el qual us connecteu:
+  <string name="network_route_exception_detail">"\"És possible que hi hagi un problema amb l'encaminador amb el qual us connecteu:
 
  \"&lt;b&gt;1. Problemes de xarxa Wi-Fi pública&lt;/b&gt;\"
-Si esteu connectats a una xarxa Wi-Fi pública, el número d\'usuaris connectats a aquesta xarxa pot estar alentir-la o generant problemes de connectivitat. Canvieu a una altra xarxa i torneu-ho a provar.
+Si esteu connectats a una xarxa Wi-Fi pública, el número d'usuaris connectats a aquesta xarxa pot estar alentir-la o generant problemes de connectivitat. Canvieu a una altra xarxa i torneu-ho a provar.
 
- \"&lt;b&gt;2. Problemes amb el proveïdor de serveis d\'Internet&lt;/b&gt;\"
-Assegureu-vos que el compte estigui en bon estat amb el vostre proveïdor de serveis d\'Internet.
+ \"&lt;b&gt;2. Problemes amb el proveïdor de serveis d'Internet&lt;/b&gt;\"
+Assegureu-vos que el compte estigui en bon estat amb el vostre proveïdor de serveis d'Internet.
 
- \"&lt;b&gt;3. Problemes del maquinari de l\'encaminador&lt;/b&gt;\"
-Proveu a reiniciar-lo o consulteu la guia de configuració de l\'encaminador.
+ \"&lt;b&gt;3. Problemes del maquinari de l'encaminador&lt;/b&gt;\"
+Proveu a reiniciar-lo o consulteu la guia de configuració de l'encaminador.
 
- \"&lt;b&gt;4. Altres problemes de l\'encaminador&lt;/b&gt;\"
-Llegiu les instruccions que acompanyen l\'encaminador i restaureu-lo a la configuració de fàbrica.
+ \"&lt;b&gt;4. Altres problemes de l'encaminador&lt;/b&gt;\"
+Llegiu les instruccions que acompanyen l'encaminador i restaureu-lo a la configuració de fàbrica.
 
- \"&lt;b&gt;5. Assegureu-vos que l\'encaminador estigui connectat correctament&lt;/b&gt;\"
-Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sospiteu que hi ha un problema amb la connexió a la vostra llar, contacteu amb el vostre proveïdor de serveis d\'Internet."</string>
-  <string name="network_sim_exception_detail">"Hi pot haver un problema amb la targeta SIM:
+ \"&lt;b&gt;5. Assegureu-vos que l'encaminador estigui connectat correctament&lt;/b&gt;\"
+Proveu a fer servir un altre cable Ethernet per connectar l'encaminador. Si sospiteu que hi ha un problema amb la connexió a la vostra llar, contacteu amb el vostre proveïdor de serveis d'Internet.\""</string>
+  <string name="network_sim_exception_detail">"\"Hi pot haver un problema amb la targeta SIM:
 
-  1. Comproveu que el compte està operatiu amb la vostra companyia. Intenteu utilitzar la targeta SIM d\'un amic i mirar si sou capaços de connectar amb normalitat.
+  1. Comproveu que el compte està operatiu amb la vostra companyia. Intenteu utilitzar la targeta SIM d'un amic i mirar si sou capaços de connectar amb normalitat.
 
-  2. Si utilitzeu dues targetes SIM, proveu de canviar a l\'altra targeta i veure si sou capaços de connectar amb normalitat.
+  2. Si utilitzeu dues targetes SIM, proveu de canviar a l'altra targeta i veure si sou capaços de connectar amb normalitat.
 
-  3. Assegureu-vos que la targeta SIM i la ranura SIM del dispositiu no estan malmesos. Comproveu que la targeta SIM que utilitzeu s\'ha introduït correctament a la ranura SIM del dispositiu."</string>
+  3. Assegureu-vos que la targeta SIM i la ranura SIM del dispositiu no estan malmesos. Comproveu que la targeta SIM que utilitzeu s'ha introduït correctament a la ranura SIM del dispositiu.\""</string>
   <string name="network_speed_for_apps_close">Atura-la</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Voleu aturar forçosament aquest aplicació?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"No podeu aturar aplicacions del sistema."</string>
@@ -1728,8 +1728,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="st_confirm_dialog_summary_oversea_call">Activeu-lo per bloquejar totes les trucades entrants de números de telèfon estrangers.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
-  <string name="st_filter_keywords_setting_summary2">\"
-(Utilitzeu una coma per separar diverses paraules clau)\"</string>
+  <string name="st_filter_keywords_setting_summary2">"\"
+(Utilitzeu una coma per separar diverses paraules clau)\""</string>
   <string name="st_filter_keywords_setting_summary3">Es permetrà als missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_group_list_management">Gestiona la llista de bloqueig</string>
   <string name="st_hint_add_head_number">Introduïu el prefix</string>
@@ -1871,9 +1871,9 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="tc_diagnostic_brand_error_notification_title">Tipus de xarxa incorrecte</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultat: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Fet</string>
-  <string name="tc_diagnostic_fragment_default">"Quant al diagnòstic
-1. El dispositiu es connectarà a la xarxa de l\'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts.
-2. Podreu sortir d\'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
+  <string name="tc_diagnostic_fragment_default">"\"Quant al diagnòstic
+1. El dispositiu es connectarà a la xarxa de l'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts.
+2. Podreu sortir d'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla.\""</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toqueu per configurar la ubicació</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicació incorrecta</string>
   <string name="tc_diagnostic_notification_sumarry">Toqueu per veure els resultats</string>
@@ -2056,20 +2056,20 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="traffic_alert_auto_modify_notification_titile">Pla de dades actualitzat</string>
   <string name="traffic_alert_auto_modify_package_summary">"Ajustar automàticament paquet de dades d'acord amb la informació de l'operador"</string>
   <string name="traffic_config_alert_auto_modify">Actualitzar pla de dades automàticament</string>
-  <string name="traffic_config_alert_body">"La comptabilitat del seu operador mostra que ha fet servir %s
-Actualitzar la informació d\'ús de dades?"</string>
-  <string name="traffic_config_alert_body_extra">"
-Ha comprat %1$s de dades addicionals aquest mes. És diferent dels %2$s que ha afegit manualment."</string>
-  <string name="traffic_config_alert_body_extra_notset">"
-Ha comprat %s de dades addicionals aquest mes. Això no es reflecteix en el límit de dades mensual que ha establert manualment."</string>
-  <string name="traffic_config_alert_body_leisure">"
-La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seves dades d\'hora vall aquest mes, això difereix dels %2$s que Vè. ha establert manualment."</string>
-  <string name="traffic_config_alert_body_leisure_notset">"
-La comptabilitat del seu operador mostra que Vè. li queden %s de dades d\'hora vall. Vè. no ha posat un límit per a les dades en hora vall."</string>
-  <string name="traffic_config_alert_body_normal">"
-El màxim ús mensual del vostre pla de dades és de %1$s. No coincideix amb el que heu establert manualment de %2$s."</string>
-  <string name="traffic_config_alert_package">"
-Dades extres en ús"</string>
+  <string name="traffic_config_alert_body">"\"La comptabilitat del seu operador mostra que ha fet servir %s
+Actualitzar la informació d'ús de dades?\""</string>
+  <string name="traffic_config_alert_body_extra">"\"
+Ha comprat %1$s de dades addicionals aquest mes. És diferent dels %2$s que ha afegit manualment.\""</string>
+  <string name="traffic_config_alert_body_extra_notset">"\"
+Ha comprat %s de dades addicionals aquest mes. Això no es reflecteix en el límit de dades mensual que ha establert manualment.\""</string>
+  <string name="traffic_config_alert_body_leisure">"\"
+La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seves dades d'hora vall aquest mes, això difereix dels %2$s que Vè. ha establert manualment.\""</string>
+  <string name="traffic_config_alert_body_leisure_notset">"\"
+La comptabilitat del seu operador mostra que Vè. li queden %s de dades d'hora vall. Vè. no ha posat un límit per a les dades en hora vall.\""</string>
+  <string name="traffic_config_alert_body_normal">"\"
+El màxim ús mensual del vostre pla de dades és de %1$s. No coincideix amb el que heu establert manualment de %2$s.\""</string>
+  <string name="traffic_config_alert_package">"\"
+Dades extres en ús\""</string>
   <string name="traffic_config_alert_setted">Configuració aplicada</string>
   <string name="traffic_config_alert_title">%s correcció</string>
   <string name="traffic_correction_failed">"No es pot obtenir la informació"</string>
