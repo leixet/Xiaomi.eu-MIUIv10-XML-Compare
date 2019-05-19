@@ -49,8 +49,8 @@
   <string name="cit_ac_charger_out">Carregador CA desconnectat</string>
   <string name="cit_accdata_sensor_check_summary">Els valors per les coordenades X, Y, Z han de figurar a continuació</string>
   <string name="cit_accdata_sensor_check_title">Acceleròmetre</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Moveu ràpidament el dispositiu en una direcció. Tot seguit es mostren els valors de les coordenades X, Y, Z. (si el telèfon està en moviment: X representa esquerra/dreta, Y representa davant i darrera, Z representa amunt i avall). 
-Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</string>
+  <string name="cit_accelermeter_sensor_check_summary">"\"Moveu ràpidament el dispositiu en una direcció. Tot seguit es mostren els valors de les coordenades X, Y, Z. (si el telèfon està en moviment: X representa esquerra/dreta, Y representa davant i darrera, Z representa amunt i avall). 
+Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana.\""</string>
   <string name="cit_accelermeter_sensor_check_title">Acceleròmetre</string>
   <string name="cit_apk_signature_failed">la signatura apk HA FALLAT</string>
   <string name="cit_apk_signature_passed">signatura apk CORRECTA</string>
@@ -70,48 +70,48 @@ Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</s
   <string name="cit_audio_lb_frontmic_to_speaker_title">Prova de funcionament del micròfon frontal</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Prova de funcionament del micròfon principal</string>
   <string name="cit_audio_lb_phonecall_title">Simula una trucada de prova</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Prova de funcionament del micròfon posterior. 
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"\"Prova de funcionament del micròfon posterior. 
 
-Gireu el telèfon, parleu al micròfon, hauríeu d\'escoltar la vostra veu per l\'altaveu"</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Prova de funcionament del micròfon frontal. 
+Gireu el telèfon, parleu al micròfon, hauríeu d'escoltar la vostra veu per l'altaveu\""</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"\"Prova de funcionament del micròfon frontal. 
 
-Parleu al micròfon frontal, haureu d\'escoltar la vostra veu per l\'altaveu"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prova de funcionament del micròfon principal. 
+Parleu al micròfon frontal, haureu d'escoltar la vostra veu per l'altaveu\""</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"\"Prova de funcionament del micròfon principal. 
 
-Sostingueu el telèfon com si vostè estigués fent una trucada, parleu pel micròfon principal, ha d\'escoltar la veu amb ressò"</string>
-  <string name="cit_audio_lb_summary_phonecall">"Test de trucada simulada.
+Sostingueu el telèfon com si vostè estigués fent una trucada, parleu pel micròfon principal, ha d'escoltar la veu amb ressò\""</string>
+  <string name="cit_audio_lb_summary_phonecall">"\"Test de trucada simulada.
 
-Sostingui el telèfon com si fes una trucada i parleu al micròfon principal, hauríeu sentir la seva veu amb ressò. Feu la prova en un ambient silenciós"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Prova de funcionament del micròfon posterior. 
+Sostingui el telèfon com si fes una trucada i parleu al micròfon principal, hauríeu sentir la seva veu amb ressò. Feu la prova en un ambient silenciós\""</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"\"Prova de funcionament del micròfon posterior. 
 
-Gireu el telèfon, parleu al micròfon, hauríeu d\'escoltar la vostra veu per l\'altaveu"</string>
+Gireu el telèfon, parleu al micròfon, hauríeu d'escoltar la vostra veu per l'altaveu\""</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Prova de funcionament del micròfon superior</string>
-  <string name="cit_audio_left_caldata">"Dades de calibratge del PA esquerre: 
-"</string>
+  <string name="cit_audio_left_caldata">"\"Dades de calibratge del PA esquerre: 
+\""</string>
   <string name="cit_audio_left_calfail">El calibratge del PA esquerre ha fallat</string>
   <string name="cit_audio_loopback_check_one_title">Prova de funcionament del micròfon receptor principal</string>
-  <string name="cit_audio_loopback_check_summary_first">"Prova de funcionament del micròfon receptor principal
+  <string name="cit_audio_loopback_check_summary_first">"\"Prova de funcionament del micròfon receptor principal
 
-Sostingueu el telèfon com si feu una trucada i parleu al micròfon, hauríeu de sentir la vostra veu pel receptor."</string>
-  <string name="cit_audio_loopback_check_summary_second">"Prova de funcionament de l\'altaveu del micròfon secundari. 
+Sostingueu el telèfon com si feu una trucada i parleu al micròfon, hauríeu de sentir la vostra veu pel receptor.\""</string>
+  <string name="cit_audio_loopback_check_summary_second">"\"Prova de funcionament de l'altaveu del micròfon secundari. 
 
-Gireu el telèfon perquè l\'entrada d\'auriculars quedi cap avall. Parleu en el receptor. Hauríeu de sentir la vostra veu reproduint-se a través de l\'altaveu extern."</string>
+Gireu el telèfon perquè l'entrada d'auriculars quedi cap avall. Parleu en el receptor. Hauríeu de sentir la vostra veu reproduint-se a través de l'altaveu extern.\""</string>
   <string name="cit_audio_loopback_check_two_title">Prova de funcionament del micròfon secundari de l\'altaveu</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Prova de reducció del soroll ambiental</string>
   <string name="cit_audio_loopback_next">Següent</string>
   <string name="cit_audio_loopback_previous">Anterior</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Prova de reducció del soroll ambient 
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"\"Prova de reducció del soroll ambient 
 
-Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfon. Haureu d\'escoltar la vostra veu amb reducció del soroll de fons reproduint-se a través del receptor."</string>
-  <string name="cit_audio_right_caldata">"Dades de calibratge del PA dret: 
-"</string>
+Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfon. Haureu d'escoltar la vostra veu amb reducció del soroll de fons reproduint-se a través del receptor.\""</string>
+  <string name="cit_audio_right_caldata">"\"Dades de calibratge del PA dret: 
+\""</string>
   <string name="cit_audio_right_calfail">El calibratge del PA dret ha fallat</string>
   <string name="cit_aux_camera_action">Ampliar</string>
-  <string name="cit_aux_camera_check_summary">"Instruccions per la prova:
+  <string name="cit_aux_camera_check_summary">"\"Instruccions per la prova:
 
-1. Premeu el botó Zoom per entrar a l\'interfície de la càmera
-2. Premeu el botó de zoom en vista prèvia de la càmera, s\'ampliarà l\'escala
-3. Premeu la icona Fet."</string>
+1. Premeu el botó Zoom per entrar a l'interfície de la càmera
+2. Premeu el botó de zoom en vista prèvia de la càmera, s'ampliarà l'escala
+3. Premeu la icona Fet.\""</string>
   <string name="cit_battery_check_summary">Estadístiques de la bateria del dispositiu</string>
   <string name="cit_battery_check_title">Informació de la bateria</string>
   <string name="cit_battery_temp_fail">La temperatura de la bateria no és normal (valor=%d)</string>
@@ -144,9 +144,9 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_button_light_on"> Llum dels botons encesa</string>
   <string name="cit_calibration_fail">Error de calibratge</string>
   <string name="cit_calibration_pass">Calibratge realitzat</string>
-  <string name="cit_camera_calibration_summary">"Instruccions de la prova: 
+  <string name="cit_camera_calibration_summary">"\"Instruccions de la prova: 
 1.Toqueu el botó de calibratge de sota per iniciar el calibratge OIS.
-2.Hi haurà una etiqueta de calibratge correcte per indicar que l\'ois ha estat calibrat"</string>
+2.Hi haurà una etiqueta de calibratge correcte per indicar que l'ois ha estat calibrat\""</string>
   <string name="cit_camera_sdcard_error">"No es pot prendre fotografia. La targeta SD està plena."</string>
   <string name="cit_charger_plugin_check_summary">En connectar el carregador USB el text «S\'està carregant per USB/CA» hauria d\'aparèixer a continuació.</string>
   <string name="cit_charger_plugin_check_title">Carregador (connecta)</string>
@@ -181,19 +181,19 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_fpc_selftest">AUTO-PROVA</string>
   <string name="cit_fpc_sensor_check_summary">Prova del sensor FPC, premeu el botó i espereu que la informació que passi destacada en verd sigui correcta.</string>
   <string name="cit_fpc_sensor_check_title">Sensor d\'empremta FPC</string>
-  <string name="cit_front_camera_check_summary">"Instruccions de la prova:
+  <string name="cit_front_camera_check_summary">"\"Instruccions de la prova:
  		 
 1.Premeu el botó Càmera que hi ha a sota per entrar a la interfície de Càmera frontal.
-2.Premeu l\'obturador.
+2.Premeu l'obturador.
 3.Premeu la icona de Prova. El sistema desarà la foto automàticament.
-4.La foto que heu fet s\'hauria de mostrar a sota. Toqueu Elimina per finalitzar la prova."</string>
+4.La foto que heu fet s'hauria de mostrar a sota. Toqueu Elimina per finalitzar la prova.\""</string>
   <string name="cit_front_camera_check_title">Càmera frontal</string>
   <string name="cit_get_signature_failed">HA FALLAT la obtenció de la signatura</string>
   <string name="cit_gps_check_summary">La informació corresponent al GPS hauria de mostrar-se a continuació.</string>
   <string name="cit_gps_check_title">GPS</string>
-  <string name="cit_gps_disabled">"El GPS no s\'ha iniciat 
+  <string name="cit_gps_disabled">"\"El GPS no s'ha iniciat 
 
-Toqueu la pantalla per iniciar el GPS&#8230;"</string>
+Toqueu la pantalla per iniciar el GPS&#8230;\""</string>
   <string name="cit_gps_first_fix_time">Hora_fixada: %s</string>
   <string name="cit_gps_location">Ubicació: %s</string>
   <string name="cit_gps_satellite_count">Numero de satèl·lits: %d</string>
@@ -247,13 +247,13 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_light_sensor_check_title">Sensor de llum</string>
   <string name="cit_magnetic_sensor_check_summary">Els valors per X, Y, Z, coordenades haurien d\'aparèixer sota</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnètic</string>
-  <string name="cit_main_camera_check_summary">"Instruccions de la prova:
+  <string name="cit_main_camera_check_summary">"\"Instruccions de la prova:
  		 
 1.Premeu el botó Càmera que hi ha a sota per accedir a la interfície de Càmera posterior
 2.Assegureu-vos que el flaix està activat
-3.Premeu l\'obturador
+3.Premeu l'obturador
 4.Premeu la icona de Prova. El sistema desarà la foto automàticament.
-5.La foto que heu fet s\'hauria de mostrar a sota. Premeu Eliminar per completar la prova."</string>
+5.La foto que heu fet s'hauria de mostrar a sota. Premeu Eliminar per completar la prova.\""</string>
   <string name="cit_main_camera_check_title">Càmera</string>
   <string name="cit_name">Proves de maquinari</string>
   <string name="cit_nfc_check_summary">Poseu la targeta a la part superior posterior del telèfon</string>
@@ -289,8 +289,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_sd_fail">S\'ha produït un error.</string>
   <string name="cit_sd_mount">Munta la targeta SD</string>
   <string name="cit_sd_mount_sucess">S\'ha muntat la targeta SD</string>
-  <string name="cit_sd_mp3_not_existed">"No hi ha cap arxiu «music.mp3» a la targeta SD
-Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pantalla per reproduir-lo."</string>
+  <string name="cit_sd_mp3_not_existed">"\"No hi ha cap arxiu «music.mp3» a la targeta SD
+Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pantalla per reproduir-lo.\""</string>
   <string name="cit_sd_plugged_in">S\'ha detectat una targeta SD, podeu extreure la targeta SD ara</string>
   <string name="cit_sd_plugged_out">S\'ha extret la targeta SD, inseriu la targeta SD ara</string>
   <string name="cit_sd_plugin_check_summary">El text \"S\'ha detectat una targeta SD, extreu la targeta SD ara\" ha d\'aparèixer a sota.</string>
