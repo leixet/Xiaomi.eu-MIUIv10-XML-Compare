@@ -240,12 +240,6 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
   <string name="animator_duration_scale_title">Durada de l\'animació</string>
   <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
   <string name="anti_spam">Llista de bloqueig</string>
-  <string name="aod_mode_summary">Amb la pantalla apagada mostra sempre l\'hora, data i missatges.</string>
-  <string name="aod_mode_time_summary">Programeu l\'hora quan el dispositiu hauria de canviar al mode Sempre actiu</string>
-  <string name="aod_mode_time_title">Programació</string>
-  <string name="aod_mode_title">Sempre engegat</string>
-  <string name="aod_mode_turn_off">Desactivat</string>
-  <string name="aod_mode_turn_on">Activat</string>
   <string name="apn_auth_type">Tipus d\'autenticació</string>
   <string name="apn_auth_type_none">Cap</string>
   <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
