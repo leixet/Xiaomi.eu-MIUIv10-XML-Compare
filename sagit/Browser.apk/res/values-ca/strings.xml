@@ -231,8 +231,11 @@
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
   <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
   <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Previ</string>
+  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="context_menu_add_to_desk_id">Afegeix a la pantalla d\'inici</string>
   <string name="context_menu_orientation_portrait_swap_id">Pantalla V/H</string>
   <string name="contextmenu_add_contact">Afegeix un contacte</string>
@@ -265,6 +268,7 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">"«Creu sempre que alguna cosa meravellosa
 està a punt de passar»"</string>
+  <string name="custom_head_content_pull_down_text">desplegable</string>
   <string name="data_monitor">Monitor d\'ús de dades</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
   <string name="data_traffic_continue">Continua</string>
