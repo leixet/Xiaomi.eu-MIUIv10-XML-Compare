@@ -57,6 +57,7 @@
         <item>10 minuts</item>
         <item>15 minutes</item>
         <item>30 minutes</item>
+        <item>1 hour</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Només aquest esdeveniment</item>
