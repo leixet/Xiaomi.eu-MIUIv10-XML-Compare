@@ -81,6 +81,10 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
