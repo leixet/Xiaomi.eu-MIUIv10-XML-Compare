@@ -38,7 +38,6 @@
   <string name="find_device_error_network">Comproveu la connexió de dades i torneu a provar.</string>
   <string name="find_device_error_server">Alguna cosa va fallar en els nostres servidors.</string>
   <string name="find_device_gdpr_prompt">En activar Cerca el dispositiu, accepteu la nostra Política de privadesa. Si heu de revocar l\'autorització de privacitat, desactiveu aquesta característica.</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">Política de privadesa</string>
   <string name="find_device_operation_failure_rpc">"No s'ha pogut realitzar l'operació a causa de l'error RPC."</string>
   <string name="find_device_send_sms_alert">Si canvieu la targeta SIM s\'enviarà un altre SMS automàticament per reactivar el servei.</string>
   <string name="find_device_service_title">Troba el dispositiu</string>
