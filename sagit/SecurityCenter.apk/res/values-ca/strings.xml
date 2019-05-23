@@ -815,8 +815,8 @@
   <string name="gb_xunyou_gift_type_one">1 dia d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_three">3 dies d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_two">2 dies d\'acceleració de Xunyou</string>
-  <string name="gdpr_msg">"&lt;Data&gt;<![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
-        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>&lt;/Data&gt;"</string>
+  <string name="gdpr_msg">&lt;Data&gt;<![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
+        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>&lt;/Data&gt;</string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. La durada de la bateria es reduirà una mica.</string>
@@ -1730,8 +1730,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="st_confirm_dialog_summary_oversea_call">Activeu-lo per bloquejar totes les trucades entrants de números de telèfon estrangers.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
-  <string name="st_filter_keywords_setting_summary2">"\"
-(Utilitzeu una coma per separar diverses paraules clau)\""</string>
+  <string name="st_filter_keywords_setting_summary2">\"
+(Utilitzeu una coma per separar diverses paraules clau)\"</string>
   <string name="st_filter_keywords_setting_summary3">Es permetrà als missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_group_list_management">Gestiona la llista de bloqueig</string>
   <string name="st_hint_add_head_number">Introduïu el prefix</string>
