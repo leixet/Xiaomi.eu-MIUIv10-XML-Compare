@@ -9,13 +9,13 @@
   <string name="account_failure">Temps de sessió esgotat</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom.\"</string>
   <string name="account_options_sync_title">Sincronitza</string>
-  <string name="account_password_spaces_error">"\"Aquesta contrasenya comença o acaba amb un o més
-        espais en blanc. Molts servidors no admeten contrasenyes amb espais en blanc.\""</string>
-  <string name="account_security_dialog_content_fmt">"\"%s requereix que actualitzi la configuració de
-        seguretat.\""</string>
+  <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més
+        espais en blanc. Molts servidors no admeten contrasenyes amb espais en blanc."</string>
+  <string name="account_security_dialog_content_fmt">"%s requereix que actualitzi la configuració de
+        seguretat."</string>
   <string name="account_security_dialog_title">Actualització de seguretat</string>
-  <string name="account_security_policy_explanation_fmt">"\"El servidor %s requereix que permeti controlar remotament
-        algunes característiques de seguretat en el teu dispositiu Android.\""</string>
+  <string name="account_security_policy_explanation_fmt">"El servidor %s requereix que permeti controlar remotament
+        algunes característiques de seguretat en el teu dispositiu Android."</string>
   <string name="account_security_title">Dispositiu de seguretat</string>
   <string name="account_set_up_change_type_note">Si us cal bescanviar la configuració entre POP3 i IMAP, primer heu d\'eliminar el vostre compte i tornar-lo a crear amb la configuració desitjada.</string>
   <string name="account_setting">Comptes</string>
@@ -35,8 +35,8 @@
   <string name="account_settings_enforced_label">Polítiques aplicades</string>
   <string name="account_settings_enforced_summary">Cap</string>
   <string name="account_settings_incoming_summary">Nom d\'usuari, contrasenya i altres configuracions del servidor entrant</string>
-  <string name="account_settings_login_dialog_content_fmt">"\"El nom d'usuari o la contrasenya per %s són incorrectes.
-        Vols actualitzar ara?\""</string>
+  <string name="account_settings_login_dialog_content_fmt">"El nom d\'usuari o la contrasenya per %s són incorrectes.
+        Vols actualitzar ara?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"El teu login a %s ha fallat; el servidor ha dit: %s ¿voleu actualitzar el seu nom d'usuari i/o contrasenya?"</string>
   <string name="account_settings_login_dialog_title">"\"No s'ha pogut iniciar sessió\" "</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Heu d\'actualitzar el correu manualment per sincronitzar els correus electrònics</string>
@@ -95,14 +95,14 @@
   <string name="account_setup_failed_dlg_auth_message">Nom d\'usuari o contrasenya són incorrectes.</string>
   <string name="account_setup_failed_dlg_bar_title">Formes d\'iniciar sessió a %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
-  <string name="account_setup_failed_dlg_certificate_message_fmt">"\"No es pot connectar segurament amb el servidor.
-(%s)\""</string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
+(%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">El vostre compte està protegit. Verifiqueu aquest dispositiu mitjançant QQ Security o elimineu la protecció.</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edita els detalls</string>
   <string name="account_setup_failed_dlg_error_code">Codi d\'error: %s</string>
   <string name="account_setup_failed_dlg_server_message">"No es pot connectar al servidor."</string>
-  <string name="account_setup_failed_dlg_server_message_fmt">"\"No es pot contactar amb el servidor.
-(%s)\""</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"No es pot contactar amb el servidor.
+(%s)"</string>
   <string name="account_setup_failed_dlg_title">"No s'ha pogut acabar"</string>
   <string name="account_setup_failed_dlg_todo1">Establir compte, com es mostra a continuació o iniciar sessió amb EXCHANGE.</string>
   <string name="account_setup_failed_dlg_todo2">Establir compte, com es mostra a continuació</string>
@@ -411,10 +411,10 @@
   <string name="empty_trash">Buidar paperera</string>
   <string name="empty_trash_dialog_title">Voleu buidar paperera?</string>
   <string name="enable_sync_in_account_settings">Engega en %1$s.</string>
-  <string name="exception_cancel">"\"
+  <string name="exception_cancel">"
         Aquest esdeveniment ha estat cancel·lat 
 		per: 
-%s \""</string>
+%s "</string>
   <string name="exception_updated">Els detalls d\'aquest esdeveniment s\'han canviat per: %s</string>
   <string name="exchange_name">Corporatiu</string>
   <string name="expand_recipient_details">Ampliar detalls del destinatari</string>
@@ -569,40 +569,40 @@
   <string name="mark_unread">Marca com a no llegit</string>
   <string name="me_object_pronun">Jo</string>
   <string name="me_subject_pronun">Jo</string>
-  <string name="meeting_accepted">"\"
+  <string name="meeting_accepted">"
         Acceptat: 
-%s\""</string>
-  <string name="meeting_allday">"\"
+%s"</string>
+  <string name="meeting_allday">"
         Quan: 
 %s (tot el dia)
-    \""</string>
-  <string name="meeting_allday_recurring">"\"
+    "</string>
+  <string name="meeting_allday_recurring">"
         Quan: 
 %s (tot el dia, recurrent)
-    \""</string>
-  <string name="meeting_canceled">"\"
+    "</string>
+  <string name="meeting_canceled">"
         Cancel·lat: 
-%s \""</string>
-  <string name="meeting_declined">"\"
+%s "</string>
+  <string name="meeting_declined">"
         Rebutjat: 
-%s \""</string>
-  <string name="meeting_recurring">"\"
+%s "</string>
+  <string name="meeting_recurring">"
         Quan: 
 %s (recurrent)
-    \""</string>
+    "</string>
   <string name="meeting_responded_failed">Sense resposta</string>
-  <string name="meeting_tentative">"\"
+  <string name="meeting_tentative">"
         Temptatiu: 
-%s \""</string>
-  <string name="meeting_updated">"\"
+%s "</string>
+  <string name="meeting_updated">"
         Actualitzat: 
-%s \""</string>
-  <string name="meeting_when">"\"
+%s "</string>
+  <string name="meeting_when">"
         Quan: 
-%s \""</string>
-  <string name="meeting_where">"\"
+%s "</string>
+  <string name="meeting_where">"
         On: 
-%s \""</string>
+%s "</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Vist recentment</string>
@@ -661,16 +661,16 @@
   <string name="no">No</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
-  <string name="no_bill_discribe">"\"No s'ha pogut trobar cap factura.
-Proveu a canviar a un compte de correu diferent.\""</string>
+  <string name="no_bill_discribe">"No s\'ha pogut trobar cap factura.
+Proveu a canviar a un compte de correu diferent."</string>
   <string name="no_contacts">Buit</string>
   <string name="no_content_in_body">[Sense tema]</string>
   <string name="no_conversations">No hi ha missatges</string>
   <string name="no_filtrable_email_account">No hi ha comptes per filtrar</string>
   <string name="no_mails">Buit</string>
   <string name="no_matched_attachment">Res coincideix amb la seva recerca</string>
-  <string name="no_recognize_describe">"\"No s'han pogut trobar correus electrònics que continguin entrades o reserves. 
-Proveu una safata d'entrada diferent.\""</string>
+  <string name="no_recognize_describe">"No s\'han pogut trobar correus electrònics que continguin entrades o reserves. 
+Proveu una safata d\'entrada diferent."</string>
   <string name="not_subject">(Sense assumpte)</string>
   <string name="not_synced_title">Compte no sincronitzat</string>
   <string name="note_title">Configuració automàtica del correu 139</string>
@@ -735,8 +735,8 @@ Proveu una safata d'entrada diferent.\""</string>
   <string name="password_expire_warning_content_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_dialog_content_fmt">Heu de canviar el PIN o contrasenya de la pantalla de bloqueig aviat, o les dades de %s s\'eliminaran. Voleu canviar-ho ara?</string>
   <string name="password_expire_warning_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
-  <string name="password_expire_warning_ticker_fmt">"\"\"%s\" requereix que canviïs el teu PIN de pantalla de 
-            bloqueig o contrasenya.\""</string>
+  <string name="password_expire_warning_ticker_fmt">"\"%s\" requereix que canviïs el teu PIN de pantalla de 
+            bloqueig o contrasenya."</string>
   <string name="password_expired_content_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant del dispositiu. Podeu restaurar-les en canviar el vostre PIN o contrasenya de bloqueig de pantalla. Voleu fer-ho ara?</string>
   <string name="password_expired_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
@@ -947,10 +947,10 @@ Proveu una safata d'entrada diferent.\""</string>
   <string name="search_txt_size_limit_prompt">La cadena de cerca ha de ser més gran que 3.</string>
   <string name="security_changed_ticker_fmt">El compte «%s» ha canviat la pròpia configuració de seguretat; no es requereix cap acció per part de l\'usuari.</string>
   <string name="security_needed_ticker_fmt">El compte «%s» requereix d\'una actualització de la configuració de seguretat.</string>
-  <string name="security_notification_content_change_title">"\"Han canviat les polítiques de 
-         seguretat\""</string>
-  <string name="security_notification_content_unsupported_title">"\"Les polítiques de seguretat no poden 
-         complir-se\""</string>
+  <string name="security_notification_content_change_title">"Han canviat les polítiques de 
+         seguretat"</string>
+  <string name="security_notification_content_unsupported_title">"Les polítiques de seguretat no poden 
+         complir-se"</string>
   <string name="security_notification_content_update_title">Actualització de seguretat requerida</string>
   <string name="security_unsupported_ticker_fmt">"No es pot sincronitzar el compte «%s» a causa dels requisits de seguretat."</string>
   <string name="see_more_content">Mostra\'n més</string>
@@ -968,8 +968,8 @@ Proveu una safata d'entrada diferent.\""</string>
   <string name="sending_message">Enviant el missatge&#8230;</string>
   <string name="sending_quick_reply">S\'està enviant el correu «%s»</string>
   <string name="sent_folder_selection_title">Seleccioneu la carpeta d\'elements enviats pel servidor %s</string>
-  <string name="ser_resp_err_map_certificate_validator_err">"\"No s'ha pogut validar certificat de servidor
-\u0009 (assegureu-vos si està activat 'Temps de sincronització automàtica' a Característiques)\""</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"No s\'ha pogut validar certificat de servidor
+\u0009 (assegureu-vos si està activat \'Temps de sincronització automàtica\' a Característiques)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Massa intents fallits d\'inici de sessió</string>
   <string name="ser_resp_err_map_landing_too_frequently">Massa intents d\'inici de sessió</string>
   <string name="ser_resp_err_map_mailbox_locked">El compte de correu electrònic està protegit per contrasenya</string>
@@ -993,8 +993,8 @@ Proveu una safata d'entrada diferent.\""</string>
   <string name="signature"> %s</string>
   <string name="signature_black_shark">Enviat des del meu telèfon Blackshark</string>
   <string name="silent_ringtone">Silenciós</string>
-  <string name="single_new_message_notification_big_text">"\"%1$s 
-%2$s\""</string>
+  <string name="single_new_message_notification_big_text">"%1$s 
+%2$s"</string>
   <string name="sms_tip">L\'autenticació ha fallit, comproveu si l\'antivirus intercepta l\'SMS</string>
   <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
   <string name="sort_attachment">Ordena per</string>
@@ -1061,13 +1061,13 @@ Proveu una safata d'entrada diferent.\""</string>
   <string name="translation_technology_support">Suport tècnic proveït per PowerWord</string>
   <string name="trash_folder_selection_title">Seleccioneu la carpeta d\'escombraries del servidor per %s</string>
   <string name="try_exchange_login">Iniciar sessió amb EXCHANGE</string>
-  <string name="turn_auto_sync_on_dialog_body">"\"Els canvis que facis a 
+  <string name="turn_auto_sync_on_dialog_body">"Els canvis que facis a 
     totes les aplicacions i els comptes, no només de Gmail, es sincronitzaran
-	entre el teu %1$s, els seus altres dispositius i el web.\""</string>
+	entre el teu %1$s, els seus altres dispositius i el web."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar la sincronització automàtica?</string>
-  <string name="unbind_dialog_text">"\"No podrà rebre recordatoris després de deixar d'analitzar les factures.
-Voleu aturar-ho?\""</string>
+  <string name="unbind_dialog_text">"No podrà rebre recordatoris després de deixar d\'analitzar les factures.
+Voleu aturar-ho?"</string>
   <string name="undo">Desfer</string>
   <string name="unknow">Desconegut</string>
   <string name="unread_string">conversa no llegida</string>
@@ -1086,8 +1086,8 @@ Voleu aturar-ho?\""</string>
   <string name="version_string">Versió: %s</string>
   <string name="via_domain">mitjançant %1$s</string>
   <string name="view_more_conversations">Veure més converses</string>
-  <string name="wait_for_manual_sync_body">"\"Aquest compte no està configurat per sincronitzar automàticament. 
-Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la configuració de sincronització per configurar la sincronització automàtica d'aquest compte.\""</string>
+  <string name="wait_for_manual_sync_body">\"Aquest compte no està configurat per sincronitzar automàticament. 
+Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la configuració de sincronització per configurar la sincronització automàtica d\'aquest compte.\"</string>
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="webview_logout">Podeu tornar a iniciar la sessió</string>
   <string name="webview_logout_cancel">No ho tornaré a provar</string>
