@@ -366,8 +366,8 @@
   <string name="resource_waiting_download">S\'està esperant</string>
   <string name="resource_waiting_pause">Pausa</string>
   <string name="ringtone_set_success">S\'ha establert amb èxit</string>
-  <string name="sdcard_not_mounted_dialog_message">"\"Inseriu la targeta SD ara.
-\""</string>
+  <string name="sdcard_not_mounted_dialog_message">"Inseriu la targeta SD ara.
+"</string>
   <string name="sdcard_not_mounted_dialog_title">Targeta SD no detectada</string>
   <string name="search_hint_header_text">El més cercat</string>
   <string name="selected_resource_file_invalid">"No es pot utilitzar el fitxer del recurs seleccionat"</string>
