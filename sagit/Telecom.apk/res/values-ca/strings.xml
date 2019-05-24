@@ -102,17 +102,17 @@
   <string name="bluetooth_sap_profile_summary_connected">S\'ha connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitza per l\'accés a la SIM</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits d\'àudio Bluetooth per mostra</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
-Bits per mostra\""</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Bits per mostra"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Mode de canal d\'àudio Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
-Mode de canal\""</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Mode de canal"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Còdec LDAC d\'àudio Bluetooth: Qualitat de reproducció</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"\"Seleccioneu un còdec LDAC d'àudio Bluetooth:
-Qualitat de reproducció\""</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccioneu un còdec LDAC d\'àudio Bluetooth:
+Qualitat de reproducció"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de mostreig d\'àudio Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
-Taxa de mostreig\""</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Taxa de mostreig"</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Transmissió: %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Còdec d\'àudio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleccioneu un còdec d\'àudio Bluetooth</string>
@@ -145,10 +145,10 @@ Taxa de mostreig\""</string>
   <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
   <string name="content_description_menu_button">Menú</string>
-  <string name="convert_to_fbe_warning">"\"Converteix la partició de dades en una criptografia basada en fitxers.
-Compte! S'esborraran totes les dades.
+  <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
+Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
-Per continuar, premeu 'Esborra i converteix&#8230;'.\""</string>
+Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
   <string name="convert_to_file_encryption_done">El fitxer ja està xifrat</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
@@ -428,10 +428,10 @@ Per continuar, premeu 'Esborra i converteix&#8230;'.\""</string>
   <string name="wifi_wapi_as_certificate">Certificat AS</string>
   <string name="wifi_wapi_cert_mode_hand_text">Selecciona el certificat manualment</string>
   <string name="wifi_wapi_certification_dont_exist">Els certificats WAPI no existeixen. Instal·leu-los.</string>
-  <string name="wifi_wapi_fail_to_auth">"\"L'autenticació WAPI ha fallat
-Comproveu la validesa dels certificats\""</string>
-  <string name="wifi_wapi_fail_to_init">"\"No es poden obrir certificats WAPI
-L'emmagatzematge de credencials no es pot activar\""</string>
+  <string name="wifi_wapi_fail_to_auth">"L\'autenticació WAPI ha fallat
+Comproveu la validesa dels certificats"</string>
+  <string name="wifi_wapi_fail_to_init">"No es poden obrir certificats WAPI
+L\'emmagatzematge de credencials no es pot activar"</string>
   <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
   <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
