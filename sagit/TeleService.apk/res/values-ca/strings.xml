@@ -247,17 +247,17 @@
   <string name="bluetooth_sap_profile_summary_connected">S\'ha connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitza per l\'accés a la SIM</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits d\'àudio Bluetooth per mostra</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
-Bits per mostra\""</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Bits per mostra"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Mode de canal d\'àudio Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
-Mode de canal\""</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Mode de canal"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Còdec LDAC d\'àudio Bluetooth: Qualitat de reproducció</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"\"Seleccioneu un còdec LDAC d'àudio Bluetooth:
-Qualitat de reproducció\""</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccioneu un còdec LDAC d\'àudio Bluetooth:
+Qualitat de reproducció"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de mostreig d\'àudio Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"\"Seleccioneu un còdec d'àudio Bluetooth:
-Taxa de mostreig\""</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Taxa de mostreig"</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Transmissió: %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Còdec d\'àudio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleccioneu un còdec d\'àudio Bluetooth</string>
@@ -500,10 +500,10 @@ Taxa de mostreig\""</string>
   <string name="contactUpdateSuccess">Contacte actualitzat a la SIM.</string>
   <string name="contactdeleteFailed">"No s'ha pogut esborrar el contacte de la SIM."</string>
   <string name="contactdeleteSuccess">S\'ha eliminat el contacte de la SIM.</string>
-  <string name="convert_to_fbe_warning">"\"Converteix la partició de dades en una criptografia basada en fitxers.
-Compte! S'esborraran totes les dades.
+  <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
+Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
-Per continuar, premeu 'Esborra i converteix&#8230;'.\""</string>
+Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
   <string name="convert_to_file_encryption_done">El fitxer ja està xifrat</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
@@ -700,10 +700,10 @@ Per continuar, premeu 'Esborra i converteix&#8230;'.\""</string>
   <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
-  <string name="fw_change_failed">"\"No s'ha pogut canviar el número de desviament.
-Contacteu amb el vostre operador si el problema persisteix.\""</string>
-  <string name="fw_get_in_vm_failed">"\"No s'ha pogut recuperar i desar la configuració de l'actual configuració del número de desviament.
-Voleu canviar al nou proveïdor igualment?\""</string>
+  <string name="fw_change_failed">"No s\'ha pogut canviar el número de desviament.
+Contacteu amb el vostre operador si el problema persisteix."</string>
+  <string name="fw_get_in_vm_failed">"No s\'ha pogut recuperar i desar la configuració de l\'actual configuració del número de desviament.
+Voleu canviar al nou proveïdor igualment?"</string>
   <string name="general_news_settings">Notícies generals</string>
   <string name="general_setting">Configuració</string>
   <string name="get_pin2">Introduïu el PIN2</string>
@@ -921,8 +921,8 @@ Voleu canviar al nou proveïdor igualment?\""</string>
   <string name="network_settings_information">Voleu desactivar les dades mòbils?</string>
   <string name="network_settings_next">Següent</string>
   <string name="network_settings_query_failed_message">"No s'han pogut cercar xarxes."</string>
-  <string name="network_settings_select_automatic_hint">"\"No es pot accedir a la xarxa que heu seleccionat.
-S'utilitza en el seu lloc la xarxa preferida.\""</string>
+  <string name="network_settings_select_automatic_hint">"No es pot accedir a la xarxa que heu seleccionat.
+S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="network_settings_title">Xarxes mòbils</string>
   <string name="network_settings_turn_off">Apagat</string>
   <string name="network_settings_warn_message">El vostre dispositiu només es connectarà a les xarxes que seleccioneu manualment.</string>
@@ -977,9 +977,9 @@ S'utilitza en el seu lloc la xarxa preferida.\""</string>
   <string name="ota_activate">Activa</string>
   <string name="ota_call_end">Torna</string>
   <string name="ota_failure">"No s'ha pogut programar el vostre telèfon"</string>
-  <string name="ota_hfa_activation_dialog_message">"\"El telèfon esta activant el vostre servei de dades.
+  <string name="ota_hfa_activation_dialog_message">"El telèfon esta activant el vostre servei de dades.
 
-Pot trigar uns 5 minuts.\""</string>
+Pot trigar uns 5 minuts."</string>
   <string name="ota_hfa_activation_title">Activant…</string>
   <string name="ota_listen">Seguiu les instruccions parlades fins que escolteu que s\'ha completat l\'activació.</string>
   <string name="ota_next">Següent</string>
@@ -993,14 +993,14 @@ Pot trigar uns 5 minuts.\""</string>
   <string name="ota_title_activate">Activació del vostre telèfon</string>
   <string name="ota_title_activate_success">El telèfon està activat. </string>
   <string name="ota_title_problem_with_activation">Problema d\'activació</string>
-  <string name="ota_touch_activate">"\"Es necessita fer una trucada especial per activar el servei del vostre telèfon
+  <string name="ota_touch_activate">"Es necessita fer una trucada especial per activar el servei del vostre telèfon
 
-Després de prémer \"Activa\", escolteu les instruccions subministrades per activar el telèfon.\""</string>
+Després de prémer \"Activa\", escolteu les instruccions subministrades per activar el telèfon."</string>
   <string name="ota_try_again">Torna-ho a provar</string>
-  <string name="ota_unsuccessful">"\"El vostre telèfon no s'ha activat. 
-Us podria caldre trobar una zona amb millor cobertura (prop d'una finestra o a l'exterior).
+  <string name="ota_unsuccessful">"El vostre telèfon no s\'ha activat. 
+Us podria caldre trobar una zona amb millor cobertura (prop d\'una finestra o a l\'exterior).
 
-Torneu a provar-ho o truqueu al servei d'atenció al client per a més opcions.\""</string>
+Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions."</string>
   <string name="other_available_phone_accounts">Altres comptes disponibles</string>
   <string name="other_settings">Altres ajustaments de trucada</string>
   <string name="other_settings_category">Altres</string>
@@ -1042,8 +1042,8 @@ Torneu a provar-ho o truqueu al servei d'atenció al client per a més opcions.\
   <string name="path_telocation_enable_title">Aplicacions del sistema/Telèfon/Ubicació/Mostra ubicació</string>
   <string name="path_turnover_mute_title">Aplicacions de sistema/Telèfon/Configuració de trucades entrants/Passa a mode silenciós</string>
   <string name="path_voicemail_settings">Aplicacions de sistema/Telèfon/Configuració avançada/Configuració de bústia de veu</string>
-  <string name="pause_prompt_str">"\"Enviant tons
-\""</string>
+  <string name="pause_prompt_str">"Enviant tons
+"</string>
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Telèfon públic</string>
   <string name="phoneAppLabel">Telèfon</string>
@@ -1072,8 +1072,8 @@ Torneu a provar-ho o truqueu al servei d'atenció al client per a més opcions.\
   <string name="pin2_error_exception">Error de xarxa o de targeta SIM</string>
   <string name="pin2_invalid">"NMP no s'actualitza perquè el PIN introduït és incorrecte."</string>
   <string name="pin2_invalid_or_name_is_too_long">Heu introduït un PIN incorrecte o el nom que heu introduït és massa llarg.</string>
-  <string name="pin2_lock_warning">"\"
-Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent fallit\""</string>
+  <string name="pin2_lock_warning">"
+Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent fallit"</string>
   <string name="pin2_or_fdn_invalid">"Els NMP no es va actualitzar. El PIN2 era incorrecte o es va rebutjar el número de telèfon."</string>
   <string name="pin2_unblocked">El PIN2 ja no està bloquejat</string>
   <string name="pin_changed">El PIN s\'ha actualitzat</string>
@@ -1383,19 +1383,19 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent 
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
   <string name="third_party_account_summary">Aquest compte l\'utilitza actualment l\'aplicació %s.</string>
   <string name="throttle_current_usage">Volum de dades usat en el període actual</string>
-  <string name="throttle_data_rate_reduced_subtext">"\"S'ha superat el màxim de %1$s
-La transmissió de dades s'ha baixat a %2$d Kb/s\""</string>
+  <string name="throttle_data_rate_reduced_subtext">"S\'ha superat el màxim de %1$s
+La transmissió de dades s\'ha baixat a %2$d Kb/s"</string>
   <string name="throttle_data_usage">Ús de dades</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) de %3$s, el màxim del període</string>
   <string name="throttle_help">Més informació</string>
   <string name="throttle_help_subtext">"Més informació sobre la política d'ús de dades mòbils del vostre operador"</string>
   <string name="throttle_rate">Política de velocitat de dades</string>
   <string name="throttle_rate_subtext">La velocitat de les dades es reduirà a %1$d Kb/s, si es supera la limitació d\'ús</string>
-  <string name="throttle_status_subtext">"\"%1$s (%2$d٪) de %3$s, el màxim per període
-El proper període comença en %4$d dies (%5$s)\""</string>
+  <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s, el màxim per període
+El proper període comença en %4$d dies (%5$s)"</string>
   <string name="throttle_time_frame">Període d\'ús de dades</string>
-  <string name="throttle_time_frame_subtext">"\"%1$d٪ del cicle transcorregut
-El període següent comença en %2$d dies (%3$s)\""</string>
+  <string name="throttle_time_frame_subtext">"%1$d٪ del cicle transcorregut
+El període següent comença en %2$d dies (%3$s)"</string>
   <string name="time_end">Fins</string>
   <string name="time_end_hour">hora límit final</string>
   <string name="time_end_minute">minut límit final</string>
@@ -1464,8 +1464,8 @@ El període següent comença en %2$d dies (%3$s)\""</string>
   <string name="vice_slot_volte_data_switch_prompt">El dispositiu es connectarà a una xarxa de dades mòbils amb la targeta SIM secundària durant les trucades VoLTE en curs. Això pot generar despeses de dades addicionals. Poseu-vos en contacte amb el proveïdor local per obtenir informació sobre el vostre pla de dades.</string>
   <string name="vice_slot_volte_data_switch_summary">Durant les trucades de VoLTE, el dispositiu es connectarà a una xarxa de dades mòbil amb la targeta SIM secundària</string>
   <string name="vice_slot_volte_data_switch_title">Ús de dades mòbils durant les trucades de VoLTE a la targeta SIM secundària</string>
-  <string name="vm_change_failed">"\"No s'ha pogut canviar el número de bústia de veu.
-Contacteu amb el vostre operador si persisteix aquest problema.\""</string>
+  <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
+Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="vm_change_pin_error_invalid">El nou PIN conté caràcters no vàlids.</string>
   <string name="vm_change_pin_error_mismatch">El PIN anterior no coincideix.</string>
   <string name="vm_change_pin_error_system_error">No es pot canviar el PIN</string>
@@ -1513,8 +1513,8 @@ Contacteu amb el vostre operador si persisteix aquest problema.\""</string>
   <string name="vvm_unsupported_message_format">Tipus de missatge no compatible, truqueu a %s per escoltar-lo.</string>
   <string name="wait_for_debugger">Espera el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
-  <string name="wait_prompt_str">"\"Voleu enviar els tons següents?
-\""</string>
+  <string name="wait_prompt_str">"Voleu enviar els tons següents?
+"</string>
   <string name="wapi_all_sel_mode">Seleccioneu un mode</string>
   <string name="wapi_auto_sel_cert_fail">No es pot seleccionar el certificat automàticament. Seleccioneu un certificat de la llista i, a continuació, intenteu connectar-vos.</string>
   <string name="wapi_cert_is_not_exist">No hi ha cap certificat disponible, primer instal·leu el certificat</string>
@@ -1555,10 +1555,10 @@ Contacteu amb el vostre operador si persisteix aquest problema.\""</string>
   <string name="wifi_wapi_as_certificate">Certificat AS</string>
   <string name="wifi_wapi_cert_mode_hand_text">Selecciona el certificat manualment</string>
   <string name="wifi_wapi_certification_dont_exist">Els certificats WAPI no existeixen. Instal·leu-los.</string>
-  <string name="wifi_wapi_fail_to_auth">"\"L'autenticació WAPI ha fallat
-Comproveu la validesa dels certificats\""</string>
-  <string name="wifi_wapi_fail_to_init">"\"No es poden obrir certificats WAPI
-L'emmagatzematge de credencials no es pot activar\""</string>
+  <string name="wifi_wapi_fail_to_auth">"L\'autenticació WAPI ha fallat
+Comproveu la validesa dels certificats"</string>
+  <string name="wifi_wapi_fail_to_init">"No es poden obrir certificats WAPI
+L\'emmagatzematge de credencials no es pot activar"</string>
   <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
   <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
   <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
