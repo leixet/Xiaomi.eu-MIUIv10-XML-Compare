@@ -50,12 +50,12 @@
         <item quantity="one">"Ja heu fet servir %s del límit de dades diàries."</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"\"Ja heu fet servir %s del límit de dades diàries.
+        <item quantity="other">"Ja heu fet servir %s del límit de dades diàries.
 
-Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals.\""</item>
-        <item quantity="one">"\"Ja heu fet servir %s del límit de dades diàries.
+Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</item>
+        <item quantity="one">"Ja heu fet servir %s del límit de dades diàries.
 
-Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals.\""</item>
+Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Cerca %d aplicacions</item>
