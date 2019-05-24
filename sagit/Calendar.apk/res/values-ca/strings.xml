@@ -103,10 +103,10 @@
   <string name="countdown_notify_title">[Countdown]%1$s</string>
   <string name="countdown_secondary_tag">Compte enrere</string>
   <string name="countdown_today">Avui</string>
-  <string name="create_an_account_desc">"\"El Calendari funciona millor amb un compte Mi.
+  <string name="create_an_account_desc">"El Calendari funciona millor amb un compte Mi.
 
 • Accés des de qualsevol navegador
-• Còpia de seguretat dels esdeveniments\""</string>
+• Còpia de seguretat dels esdeveniments"</string>
   <string name="creating_event">S\'ha creat l\'esdeveniment</string>
   <string name="creating_event_with_guest">S\'estan enviant les invitacions…</string>
   <string name="credit">Targeta de crèdit</string>
@@ -444,8 +444,8 @@
   <string name="subscribe_channel_bottom_hint">—— Calendari Mi ——</string>
   <string name="subscribe_channel_footer_desc">Reviseu les subscripcions o cancel·leu-la</string>
   <string name="subscribe_channel_footer_title">Subscrit</string>
-  <string name="subscribe_channel_hint">"\"Subscriviu-vos als serveis que us agraden i rebeu actualitzacions diàries a la pàgina d'inici.
-També podeu afegir recordatoris perquè no us perdeu res important. \""</string>
+  <string name="subscribe_channel_hint">"Subscriviu-vos als serveis que us agraden i rebeu actualitzacions diàries a la pàgina d\'inici.
+També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="subscribe_channel_subscribe">Subscriviu-vos</string>
   <string name="subscribe_channel_subscribing">Suscribir-se</string>
   <string name="subscribe_channel_title">Canal</string>
