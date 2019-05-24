@@ -82,8 +82,8 @@
   <string name="miui_transfer_outbound_title">Sortints</string>
   <string name="no_transfers">L\'historial de transferències està buit.</string>
   <string name="not_exist_file">No hi ha cap fitxer</string>
-  <string name="not_exist_file_desc">"\"El fitxer no existeix. 
-\""</string>
+  <string name="not_exist_file_desc">"El fitxer no existeix. 
+"</string>
   <string name="notification_received">Bluetooth: %1$s rebut</string>
   <string name="notification_received_fail">Bluetooth: No s\'ha rebut el fitxer %1$s</string>
   <string name="notification_receiving">Bluetooth: S\'està rebent %1$s</string>
@@ -128,8 +128,8 @@
   <string name="unknownNumber">Desconegut</string>
   <string name="unknown_device">Dispositiu desconegut</string>
   <string name="unknown_file">Fitxer desconegut</string>
-  <string name="unknown_file_desc">"\"No hi ha cap aplicació per gestionar aquest tipus de fitxer. 
-\""</string>
+  <string name="unknown_file_desc">"No hi ha cap aplicació per gestionar aquest tipus de fitxer. 
+"</string>
   <string name="update_record">Confirma el registre</string>
   <string name="upload_fail_cancel">Tanca</string>
   <string name="upload_fail_line1">"No s'ha enviat el fitxer a \"%1$s\"."</string>
