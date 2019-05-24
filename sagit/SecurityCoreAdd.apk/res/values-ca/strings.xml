@@ -3,10 +3,10 @@
 <resources>
   <string name="Active">Actiu</string>
   <string name="PassWordGuard">Contrasenya del segon espai</string>
-  <string name="PrivacyContactDes1">"\"Els contactes es convertiran en privats.
-Els missatges només apareixeran en el Segon espai.\""</string>
-  <string name="PrivacyContactDes2">"\"Si heu utilitzat missatges privats en el Primer espai,
-aquesta característica s'afegirà al Segon espai automàticament.\""</string>
+  <string name="PrivacyContactDes1">"Els contactes es convertiran en privats.
+Els missatges només apareixeran en el Segon espai."</string>
+  <string name="PrivacyContactDes2">"Si heu utilitzat missatges privats en el Primer espai,
+aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="add_finger_print">Afegeix empremta</string>
   <string name="air_space_created">S\'ha creat l\'espai de treball correctament</string>
   <string name="air_space_deleted">S\'ha eliminat l\'espai de treball correctament</string>
@@ -118,8 +118,8 @@ aquesta característica s'afegirà al Segon espai automàticament.\""</string>
   <string name="green_guard_des3">Controleu les aplicacions instal·lades i restringiu-ne l\'ús</string>
   <string name="green_guard_title2">Mostra la informació d\'ubicació</string>
   <string name="green_guard_title3">Gestiona les aplicacions</string>
-  <string name="guide_contact_sub_title_desc">"\"Els contactes afegits al Segon espai seran privats.
-Els missatges només apareixeran en el Segon espai.\""</string>
+  <string name="guide_contact_sub_title_desc">"Els contactes afegits al Segon espai seran privats.
+Els missatges només apareixeran en el Segon espai."</string>
   <string name="guide_contact_suc_sub_title_desc">Només els contactes privats i els missatges es mostraran en el Segon espai</string>
   <string name="guide_contact_suc_title_desc">Configurat amb èxit</string>
   <string name="guide_contact_title_desc">Mostra els elements privats en el Segon espai?</string>
@@ -127,8 +127,8 @@ Els missatges només apareixeran en el Segon espai.\""</string>
   <string name="guide_setting_guide_title">Gestionar el Segon espai</string>
   <string name="guide_start_ads_text">Un nivell completament nou de seguretat</string>
   <string name="guide_start_text">Dos espais. Un dispositiu.</string>
-  <string name="has_created_second_space">"\"Ara podeu obrir el segon espai.
-Dos espais. Un dispositiu.\""</string>
+  <string name="has_created_second_space">"Ara podeu obrir el segon espai.
+Dos espais. Un dispositiu."</string>
   <string name="hidden_app">Segon espai</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Importar aplicacions</string>
@@ -227,11 +227,11 @@ Dos espais. Un dispositiu.\""</string>
   <string name="scanner_second_space_fingerprint">Escanejar empremta del Segon espai</string>
   <string name="sdcardfs_dialog_message">MIUI 9 té un nou sistema de fitxers. Les dades antigues podrien ser incompatibles amb ell. Per solucionar aquest problema, seguiu els passos per instal·lar una actualització. El dispositiu es reiniciarà dues vegades durant aquesta actualització.</string>
   <string name="sdcardfs_dialog_title">Actualització important</string>
-  <string name="sdcradfs_dialog_in_owner_message">"\"MIUI 9 té un nou sistema de fitxers. Les dades antigues poden ser incompatibles amb ell. Per actualitzar, moveu elements del segon espai, reinicieu el dispositiu i creeu el segon espai de nou.
-Si no s'actualitza, és possible que les aplicacions duals no funcionin correctament. \""</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 té un nou sistema de fitxers. Les dades antigues poden ser incompatibles amb ell. Per actualitzar, moveu elements del segon espai, reinicieu el dispositiu i creeu el segon espai de nou.
+Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
   <string name="sdcradfs_dialog_in_owner_title">Segon espai</string>
-  <string name="sdcradfs_dialog_in_sec_message">"\"Per actualitzar, hauríeu d'eliminar el segon espai i tornar-lo a crear. Moveu les dades del segon espai al primer espai i reinicieu el dispositiu per completar l'actualització.
-Si no s'actualitza, és possible que les aplicacions duals no funcionin correctament. \""</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Per actualitzar, hauríeu d\'eliminar el segon espai i tornar-lo a crear. Moveu les dades del segon espai al primer espai i reinicieu el dispositiu per completar l\'actualització.
+Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
   <string name="sdcradfs_dialog_in_sec_title">Actualització important</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="secondSpace">Segon espai</string>
@@ -367,9 +367,9 @@ Si no s'actualitza, és possible que les aplicacions duals no funcionin correcta
   <string name="xspace_default_guide_notification_main_title">S\'està utilitzant l\'aplicació per defecte</string>
   <string name="xspace_default_guide_notification_xspace_title">S\'està utilitzant aplicacions duals</string>
   <string name="xspace_default_setting_label">Aplicació per defecte</string>
-  <string name="xspace_description">"\"Les aplicacions duals són còpies d'aplicacions que es poden utilitzar per separat amb un compte diferent.
+  <string name="xspace_description">"Les aplicacions duals són còpies d\'aplicacions que es poden utilitzar per separat amb un compte diferent.
 
-Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. En aquests casos, es crea el Marc de Serveis de Google dual.\""</string>
+Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. En aquests casos, es crea el Marc de Serveis de Google dual."</string>
   <string name="xspace_guide_des">Utilitza 2 comptes sense canviar</string>
   <string name="xspace_guide_title">Crear aplicació dual per a %s</string>
   <string name="xspace_header">Aplicacions duals</string>
