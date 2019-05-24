@@ -58,9 +58,9 @@
   <string name="no_more_space">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
   <string name="no_tasks">No hi ha tasques</string>
-  <string name="open_changed_file_message">"\"El fitxer que esteu intentant obrir ha estat modificat. 
-1. Baixeu l'arxiu de nou per actualitzar-lo. 
-2. Pugeu-lo al vostre compte.\""</string>
+  <string name="open_changed_file_message">"El fitxer que esteu intentant obrir ha estat modificat. 
+1. Baixeu l\'arxiu de nou per actualitzar-lo. 
+2. Pugeu-lo al vostre compte."</string>
   <string name="open_changed_file_title">Canvi aplicat.</string>
   <string name="operating">S\'està processant&#8230;</string>
   <string name="operation_cancel">Cancel·la</string>
