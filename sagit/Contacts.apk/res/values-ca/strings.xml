@@ -176,8 +176,8 @@
   <string name="cloud_state_loading">Un moment…</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronitzat amb Mi Cloud</string>
-  <string name="combined_title_and_miprofile_swaped_huge_mode">"«%1$s
-%2$s»"</string>
+  <string name="combined_title_and_miprofile_swaped_huge_mode">«%1$s
+%2$s»</string>
   <string name="composer_failed_to_get_database_infomation">"No s'ha pogut obtenir informació de base de dades."</string>
   <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
   <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
@@ -209,8 +209,8 @@
   <string name="contact_detail_miprofile_accept_fail_toast">"No s'han pogut intercanviar les targetes de contacte"</string>
   <string name="contact_detail_miprofile_accept_success_toast">Targetes de contacte intercanviades</string>
   <string name="contact_detail_miprofile_binded_label">Verificat</string>
-  <string name="contact_detail_miprofile_exchange_closed">"\"No hi ha cap número de telèfon associat amb aquest compte Mi
-Les targetes de contacte estan apagades\""</string>
+  <string name="contact_detail_miprofile_exchange_closed">"No hi ha cap número de telèfon associat amb aquest compte Mi
+Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_miprofile_privacy_settings">Sol·licitar permís per veure</string>
   <string name="contact_detail_miprofile_request">Intercanviar targetes de contacte</string>
   <string name="contact_detail_miprofile_request_fail_toast">"No s'ha pogut enviar la petició"</string>
@@ -338,8 +338,8 @@ Les targetes de contacte estan apagades\""</string>
   <string name="details_list_group_header_other">UN ALTRE</string>
   <string name="device_bluetooth_title">Transferència de contactes</string>
   <string name="device_import_account_dialog_title">Triar un compte</string>
-  <string name="device_import_account_dialog_title_suffix">"\"
-(trobats %1$s contactes)\""</string>
+  <string name="device_import_account_dialog_title_suffix">"
+(trobats %1$s contactes)"</string>
   <string name="device_import_failed_message">"No es pot importar"</string>
   <string name="device_import_local_account">Compte local</string>
   <string name="device_import_message">Important</string>
@@ -382,9 +382,9 @@ Les targetes de contacte estan apagades\""</string>
   <string name="dialog_voicemail_airplane_mode_message">Per trucar al correu de veu, primer desactivar el mode avió.</string>
   <string name="dialog_voicemail_not_ready_message">Per configurar el correu de veu, aneu a Menú &gt; configuració.</string>
   <string name="directory_search_label">Agenda</string>
-  <string name="disclaimer_text">"\"Les pàgines grogues obtenen informació sobre el vostre saldo enviant un SMS. La vostre operadora pot actualitzar aquesta informació amb retard, pel que els números que obtengueu podrien no ser exactes. Si veieu un error, podeu reportar l'SMS de la consulta per ajudar-nos a millorar aquest servei. 
+  <string name="disclaimer_text">"Les pàgines grogues obtenen informació sobre el vostre saldo enviant un SMS. La vostre operadora pot actualitzar aquesta informació amb retard, pel que els números que obtengueu podrien no ser exactes. Si veieu un error, podeu reportar l\'SMS de la consulta per ajudar-nos a millorar aquest servei. 
 
-Per evitar consultes freqüents, actualitzem la informació del saldo una vegada al dia.\""</string>
+Per evitar consultes freqüents, actualitzem la informació del saldo una vegada al dia."</string>
   <string name="disclaimer_title">Renúncia</string>
   <string name="display_all_contacts">Tots els contactes</string>
   <string name="display_more_groups">Més grups&#8230;</string>
@@ -712,7 +712,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dades de contactes utilitzant el compte Mi</string>
   <string name="noContacts">No hi ha contactes</string>
   <string name="noContactsWithPhoneNumbers">No hi ha contactes amb números de telèfon</string>
-  <string name="noFavoritesHelpText">"\"No té cap favorit.
+  <string name="noFavoritesHelpText">"No té cap favorit.
 
 Per afegir un contacte a la llista de favorits:
 
@@ -720,16 +720,16 @@ Per afegir un contacte a la llista de favorits:
 \"&lt;/li&gt;\" 
 \"&lt;li&gt;\"Esculli el contacte que vol marcar com a favorit
 \"&lt;/li&gt;\" 
-\"&lt;li&gt;\"Seleccioneu l'estrella que està a prop del nom del contacte
+\"&lt;li&gt;\"Seleccioneu l\'estrella que està a prop del nom del contacte
 \"&lt;/li&gt;\"
-\""</string>
+"</string>
   <string name="noGroups">No hi ha grups</string>
   <string name="noMatchingContacts">No s\'ha trobat cap coincidència en els contactes.</string>
   <string name="noRecentContacts">No hi ha contactes recents</string>
-  <string name="no_account_prompt">"\"Molta gent treballa millor amb un compte de Google.
+  <string name="no_account_prompt">"Molta gent treballa millor amb un compte de Google.
 
 • Accés des de qualsevol navegador web.
-• Còpia de seguretat dels contactes.\""</string>
+• Còpia de seguretat dels contactes."</string>
   <string name="no_contact_details">No hi ha informació addicional per a aquest contacte.</string>
   <string name="no_contact_in_other_phone">No hi ha contactes detectats</string>
   <string name="no_contacts_dialog_message">"Els contactes poden estar emmagatzemats a la targeta SIM. Intenta importar-los des de la teva targeta SIM a la memòria interna del telèfon i torna a provar."</string>
@@ -928,13 +928,13 @@ Per afegir un contacte a la llista de favorits:
   <string name="remove_blacklist">Desbloca</string>
   <string name="remove_blacklist_dialog_message">Voleu mostrar trucades i missatges des d\'aquest número?</string>
   <string name="remove_blacklist_dialog_title">Voleu desblocar aquest número de telèfon?</string>
-  <string name="remove_duplicate">"\"MIUI t'ajudarà a trobar i combinar contactes duplicats.
+  <string name="remove_duplicate">"MIUI t\'ajudarà a trobar i combinar contactes duplicats.
   
-  Per començar, toqueu la icona de fusió en la part inferior de la pantalla.\""</string>
+  Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
   <string name="report_inquiry_mms">Notifica els SMS</string>
   <string name="restore_nickname">Restaurar</string>
-  <string name="ret_sign">"«
-»"</string>
+  <string name="ret_sign">«
+»</string>
   <string name="returnCall">Tornar la trucada</string>
   <string name="ringLabelsGroup">To de trucada</string>
   <string name="save_photo_progress">Desant foto&#8230;</string>
@@ -1116,11 +1116,11 @@ Per afegir un contacte a la llista de favorits:
   <string name="unknown_details_new_contact">Nou</string>
   <string name="update_sim_contact_photo_toast">"No s'ha pogut definir la foto per als contactes SIM"</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
-  <string name="upgrade_out_of_memory">"\"Els contactes estan sent actualitzats.
+  <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.
 
-El procés d'actualització requereix aproximadament %s MB d'emmagatzematge intern.
+El procés d\'actualització requereix aproximadament %s MB d\'emmagatzematge intern.
 
-Trieu una de les següents opcions: \""</string>
+Trieu una de les següents opcions: "</string>
   <string name="upgrade_out_of_memory_retry">Reintentar actualització</string>
   <string name="upgrade_out_of_memory_uninstall">Desinstal·la aplicacions</string>
   <string name="use_photo_as_primary">Utilitzar aquesta foto</string>
