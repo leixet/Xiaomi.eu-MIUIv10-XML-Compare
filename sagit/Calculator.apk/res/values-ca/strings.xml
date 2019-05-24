@@ -644,10 +644,10 @@
   <string name="word_figure_zheng">整</string>
   <string name="xiaomi_connect_download_manager_fail">"Error en connectar-se al Gestor de baixades. Comproveu l'estat del Gestor de baixades a l'Administrador d'aplicacions."</string>
   <string name="xiaomi_external_storage_unavailable">"L'emmagatzematge no està disponible, comproveu la targeta SD."</string>
-  <string name="xiaomi_update_dialog_message">"\"Presentació de la versió %1$s
-Mida: %2$s\""</string>
-  <string name="xiaomi_update_dialog_message_diff">"\"Presentació de la versió %1$s
-Mida de l'actualització Delta: %2$s\""</string>
+  <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
+Mida: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Presentació de la versió %1$s
+Mida de l\'actualització Delta: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Actualització %1$s!</string>
   <string name="younger_brother">弟弟</string>
   <string name="younger_sister">妹妹</string>
