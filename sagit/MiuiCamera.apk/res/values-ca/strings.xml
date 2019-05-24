@@ -49,8 +49,8 @@
   <string name="accessibility_video_capture_button">Botó de captura de vídeo</string>
   <string name="accessibility_video_pause_button">Botó de pausar vídeo</string>
   <string name="accessibility_zoom_button">Mode zoom</string>
-  <string name="ai_scene_mode_use_hint_text">"\"La càmera IA detecta composicions automàticament
-i optimitza les vostres fotos amb aquesta informació\""</string>
+  <string name="ai_scene_mode_use_hint_text">"La càmera IA detecta composicions automàticament
+i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
   <string name="autozoom_landscape_hint">Fotografiar en mode paisatge per a millor efecte</string>
   <string name="beauty_fragment_tab_name_beauty">Bellesa</string>
@@ -150,15 +150,15 @@ i optimitza les vostres fotos amb aquesta informació\""</string>
   <string name="face_beauty_intelligent_level_3">Alt</string>
   <string name="face_beauty_smart">Auto</string>
   <string name="face_score_info">Puntuació: %.1f</string>
-  <string name="front_camera_hint_text_place">"\"Prendre selfies serà més fàcil
-si gireu el telèfon\""</string>
+  <string name="front_camera_hint_text_place">"Prendre selfies serà més fàcil
+si gireu el telèfon"</string>
   <string name="front_camera_hint_text_rotate">Gireu el telèfon</string>
-  <string name="hine_hht">"\"Amb poca llum, la càmera farà diverses fotos
-i després crearà un tir amb una mínima quantitat de soroll.\""</string>
+  <string name="hine_hht">"Amb poca llum, la càmera farà diverses fotos
+i després crearà un tir amb una mínima quantitat de soroll."</string>
   <string name="hint_device_water_mark">La marca d\'aigua del dispositiu s\'afegirà automàticament.</string>
   <string name="hint_fast_motion">El vídeo que enregistreu es visualitzarà més ràpid.</string>
-  <string name="hint_groupshot">"\"La càmera farà varies fotos
-i les barrejarà per crear-ne una de nova on cadascú quedi millor.\""</string>
+  <string name="hint_groupshot">"La càmera farà varies fotos
+i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="hint_groupshot_beauty">"No es pot fer servir el mode bellesa en fotos grupals"</string>
   <string name="hint_slow_motion">El vídeo que enregistreu es visualitzarà més lent.</string>
   <string name="hunt_dual_water_mark">La marca d\'aigua de la càmera dual s\'afegirà automàticament.</string>
@@ -196,8 +196,8 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor.\""</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
   <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
-  <string name="portrait_mode_use_hint">"\"El mode retrat us ajuda a desenfocar el fons
-amb un cos més clar i un retrat més bonic\""</string>
+  <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
+amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_advance_settings">Configuració addicional</string>
   <string name="pref_ai_detect">Detecció d\'IA</string>
   <string name="pref_audio_focus_entry_front">Davant</string>
