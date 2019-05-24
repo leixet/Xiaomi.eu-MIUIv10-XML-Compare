@@ -20,8 +20,8 @@
   <string name="config_restrict_running_title">Restringeix l\'activitat en segon pla</string>
   <string name="config_restrict_running_warning">Les aplicacions es tancaran en segon pla. Això podria fer que funcionin malament.</string>
   <string name="config_scenario_policies_title">Escenaris</string>
-  <string name="config_suggest_description">"\"Identifica les aplicacions i activitats per mantenir els processos importants actius.
-L'estalvi de bateria tractarà de forma selectiva les aplicacions importants.\""</string>
+  <string name="config_suggest_description">"Identifica les aplicacions i activitats per mantenir els processos importants actius.
+L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</string>
   <string name="config_suggest_suffix_title">Estalvi de bateria (recomanat)</string>
   <string name="confirm">D\'acord</string>
   <string name="current_cloud_addr_is">L\'adreça del servidor de control del núvol és:</string>
