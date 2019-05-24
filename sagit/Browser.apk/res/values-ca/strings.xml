@@ -266,8 +266,8 @@
   <string name="current_version_pad">Tauleta</string>
   <string name="current_version_pc">Escriptori</string>
   <string name="current_version_phone">Telèfon</string>
-  <string name="custom_head_card_text">"«Creu sempre que alguna cosa meravellosa
-està a punt de passar»"</string>
+  <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
+està a punt de passar»</string>
   <string name="custom_head_content_pull_down_text">desplegable</string>
   <string name="data_monitor">Monitor d\'ús de dades</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
@@ -361,8 +361,8 @@ està a punt de passar»"</string>
   <string name="empty_app_name">Altre aplicació</string>
   <string name="empty_bookmark">Buit</string>
   <string name="empty_cloud_tab_login_hint">Cap pestanya en el núvol</string>
-  <string name="empty_cloud_tab_logout_hint">"\"Inicia sessió al Compte Mi
-  les pestanyes obertes en altres dispositius es mostraran aquí\""</string>
+  <string name="empty_cloud_tab_logout_hint">"Inicia sessió al Compte Mi
+  les pestanyes obertes en altres dispositius es mostraran aquí"</string>
   <string name="empty_history_hint">L\'historial és buit</string>
   <string name="empty_snapshot_hint">Buit</string>
   <string name="enable_geolocation_confirm_message">Si desactiveu els serveis d\'ubicació es veuran afectades les recomanacions que rebeu.</string>
@@ -618,9 +618,9 @@ està a punt de passar»"</string>
   <string name="mw_find_previous">Cerca l\'anterior</string>
   <string name="mw_http_post_warning">"La pàgina que esteu cercant va utilitzar la informació que veu introduir. Tornar a aquesta pàgina pot provocar que es repeteixi qualsevol acció que va realitzar. Voleu continuar?"</string>
   <string name="mw_http_post_warning_resend">Continua</string>
-  <string name="mw_js_dialog_before_unload">"\"%s 
+  <string name="mw_js_dialog_before_unload">"%s 
 
-Esteu segur que voleu navegar lluny d'aquesta pàgina?\""</string>
+Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_js_dialog_before_unload_negative_button">Roman en aquesta pàgina</string>
   <string name="mw_js_dialog_before_unload_positive_button">Surt d\'aquesta pàgina</string>
   <string name="mw_js_dialog_before_unload_title">Confirma la navegació</string>
@@ -743,20 +743,20 @@ Esteu segur que voleu navegar lluny d'aquesta pàgina?\""</string>
   <string name="mw_mr_controller_volume_slider">Lliscador de volum</string>
   <string name="mw_mr_system_route_name">Sistema</string>
   <string name="mw_mr_user_route_category_name">Dispositius</string>
-  <string name="mw_new_tab_otr_not_saved">"\"Chrome &lt;em&gt;no desarà&lt;/em&gt; la següent informació:
+  <string name="mw_new_tab_otr_not_saved">"Chrome &lt;em&gt;no desarà&lt;/em&gt; la següent informació:
         &lt;ul&gt;
           &lt;li&gt;Historial de navegació
           &lt;li&gt;Galetes i dades del lloc web
           &lt;li&gt;Informació introduïda en formularis
-        &lt;/ul&gt;\""</string>
+        &lt;/ul&gt;"</string>
   <string name="mw_new_tab_otr_subtitle">Ara podeu navegar de manera privada i altres persones que utilitzin aquest dispositiu no veuran la vostra activitat. No obstant això, es desaran les baixades i els marcadors.</string>
   <string name="mw_new_tab_otr_title">Heu sortit del mode incògnit</string>
-  <string name="mw_new_tab_otr_visible">"\"La vostra activitat &lt;em&gt;podria ser visible&lt;/em&gt; per:
+  <string name="mw_new_tab_otr_visible">"La vostra activitat &lt;em&gt;podria ser visible&lt;/em&gt; per:
         &lt;ul&gt;
           &lt;li&gt;Llocs web que visiteu
           &lt;li&gt;El vostre cap o escola
-          &lt;li&gt;El vostre proveïdor de serveis d'Internet
-        &lt;/ul&gt;\""</string>
+          &lt;li&gt;El vostre proveïdor de serveis d\'Internet
+        &lt;/ul&gt;"</string>
   <string name="mw_no_matches">Cap coincidència</string>
   <string name="mw_notification_category_browser">Navegador</string>
   <string name="mw_notification_category_content_suggestions">Suggeriments de contingut</string>
@@ -797,8 +797,8 @@ Esteu segur que voleu navegar lluny d'aquesta pàgina?\""</string>
   <string name="mw_payments_android_app_error">No es pot obrir l\'aplicació de pagament</string>
   <string name="mw_payments_billing_address_required">Cal l\'adreça de facturació</string>
   <string name="mw_payments_card_and_address_settings">Podeu gestionar les targetes i adreces a la BEGIN_LINKConfiguracióEND_LINK.</string>
-  <string name="mw_payments_card_and_address_settings_signed_in">"Les targetes i adreces provenen de Chrome i del vostre compte de Google
-(%1$s). Podeu gestionar-les a la BEGIN_LINKConfiguracióEND_LINK."</string>
+  <string name="mw_payments_card_and_address_settings_signed_in">Les targetes i adreces provenen de Chrome i del vostre compte de Google
+(%1$s). Podeu gestionar-les a la BEGIN_LINKConfiguracióEND_LINK.</string>
   <string name="mw_payments_card_and_address_settings_signed_out">Les targetes i adreces provenen de Chrome. Podeu gestionar-les a la BEGIN_LINKConfiguracióEND_LINK.</string>
   <string name="mw_payments_card_billing_address_required">Cal l\'adreça de facturació de la targeta</string>
   <string name="mw_payments_card_expiration_invalid_validation_message">Introduïu una data de venciment vàlida</string>
@@ -1180,14 +1180,14 @@ Esteu segur que voleu navegar lluny d'aquesta pàgina?\""</string>
   <string name="share_video">Comparteix el vídeo</string>
   <string name="short_video_description">Canal de vídeo</string>
   <string name="short_video_tip">Mireu! Vídeo divertit</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"\"Recollirem i utilitzarem les vostres dades personals si voleu utilitzar els nostres serveis.
+  <string name="show_check_security_url_check_tip_dialog_description">"Recollirem i utilitzarem les vostres dades personals si voleu utilitzar els nostres serveis.
 A continuació, es detallen les dades que recollirem:
 1. URLs segurs: recollirem les URL dels llocs web que visiteu mentre utilitzeu els nostres serveis.
-2. Dades d'ubicació: accedirem a la vostra informació d'ubicació.
+2. Dades d\'ubicació: accedirem a la vostra informació d\'ubicació.
 Així és com utilitzem les dades que recopilem:
-1. Seguretat: utilitzem les vostres dades quan protegim el vostre dispositiu contra el frau i els virus, així com per motius d'emmagatzematge i còpia de seguretat.
+1. Seguretat: utilitzem les vostres dades quan protegim el vostre dispositiu contra el frau i els virus, així com per motius d\'emmagatzematge i còpia de seguretat.
 2. Contingut: les vostres dades ens ajuden a proporcionar contingut rellevant de notícies localitzat.
-El navegador necessita connectar-se a Internet per treballar normalment. Heu d'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. \""</string>
+El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. "</string>
   <string name="show_security_tip_dialog_title">Política de privadesa</string>
   <string name="sign_and_open">Inicieu sessió i activeu-lo</string>
   <string name="sign_in">Inica sessió</string>
