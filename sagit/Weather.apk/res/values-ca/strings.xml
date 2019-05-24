@@ -80,8 +80,8 @@
   <string name="daily_forecast_add_city_message">Seguiu el temps a %1$s per obtenir una previsió més detallada.</string>
   <string name="daily_forecast_add_city_title">Seguiu el temps a %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="daily_forecast_no_data">"\"No s'ha pogut obtenir la informació meteorològica
-Tireu cap avall per actualitzar o comproveu la configuració de la xarxa\""</string>
+  <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
+Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
   <string name="data_provided_by">Dades proporcionades per</string>
   <string name="edit_city">Edita la ciutat</string>
   <string name="eu_region_version_first_start_network_msg">"En utilitzar aquest producte, accepteu que Xiaomi recopilarà, processarà i utilitzarà informació personal, incloses les coordenades de les ciutats que cerqueu i altres tipus de dades especificades a la nostra política de privadesa. Consulteu la nostra política de privadesa per obtenir informació sobre com recopilem i processem la informació. Si toqueu «D'acord», accepteu la %1$s i %2$s de Xaiomi."</string>
@@ -108,8 +108,8 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa\""</str
   <string name="international_details_uv_index_title">ÍNDEX UV</string>
   <string name="international_details_wind_title">VENT</string>
   <string name="it_is_going_to_rain">"Plourà"</string>
-  <string name="locate_fail_detail_err">"\"No es pot ubicar el dispositiu
-Toqueu la pantalla per afegir una ciutat manualment o moure-la\""</string>
+  <string name="locate_fail_detail_err">"No es pot ubicar el dispositiu
+Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="location_tag">Ubica</string>
   <string name="menu_location">Ubicacions</string>
   <string name="menu_speaker">Difusió de veu</string>
