@@ -94,6 +94,7 @@
   <string name="ad_exit_dialog_exit_btn_name">surt</string>
   <string name="ad_exit_dialog_message">La instal·lació s\'ha completat! Ho voleu obrir ara?</string>
   <string name="ad_exit_dialog_open_btn_name">obrir</string>
+  <string name="ad_exit_dialog_title_name">Confirmació de l\'apertura de l\'aplicació</string>
   <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador d\'anuncis</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
   <string name="adblock_rules_not_updated_toast">"No s'ha pogut actualitzar"</string>
@@ -452,6 +453,7 @@ Si us plau, enviï aquest codi a un tècnic."</string>
   <string name="guide_military_text">militar</string>
   <string name="guide_motor_text">motor</string>
   <string name="guide_politics_text">política</string>
+  <string name="guide_second_optimization_type_sub_title">Xafarderia entretinguda, Clubs militars, les últimes pel·lícules i televisió, Varietat emocional</string>
   <string name="guide_skip">Omet</string>
   <string name="guide_slide_down">Si us plau, llisqueu avall</string>
   <string name="guide_slide_up">Si us plau, llisqueu amunt</string>
