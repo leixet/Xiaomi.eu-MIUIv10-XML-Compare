@@ -294,6 +294,7 @@ està a punt de passar»</string>
   <string name="delete_bookmark_group_warning">Voleu eliminar «%s»? Tots els marcadors d\'aquest grup s\'eliminaran.</string>
   <string name="delete_bookmark_warning">Voleu eliminar el marcador «%s»?</string>
   <string name="delete_download">Elimina</string>
+  <string name="diagnosis_log_send_failed">Ha fallat l\'enviament del registre de diagnòstic.</string>
   <string name="diagnosis_log_sent_format">"S\'ha enviat el registre de diagnosi.
 ID:%s
 Si us plau, enviï aquest codi a un tècnic."</string>
@@ -329,6 +330,7 @@ Si us plau, enviï aquest codi a un tècnic."</string>
   <string name="document_open_message">Per millorar l\'experiència de lectura i garantir la seguretat, utilitzeu la versió personalitzada de WPS</string>
   <string name="document_open_other">Altres aplicacions</string>
   <string name="document_open_title">Obre amb</string>
+  <string name="document_open_txt_message">Per millorar l\'experiència de lectura i garantir la seguretat, utilitzeu la Llibreria</string>
   <string name="document_open_txt_start_read">Comença a llegir</string>
   <string name="dont_remind_again">Recorda aquesta elecció</string>
   <string name="download_btn_select_all">Selecciona-ho tot</string>
@@ -1034,6 +1036,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restaura la ubicació per defecte</string>
   <string name="pref_file_download_default_path_prefix">Ubicació per defecte: %s</string>
   <string name="pref_file_download_save_modify_default_path">Ubicació de les baixades</string>
+  <string name="pref_fling_gesture">Gest de lliscament</string>
   <string name="pref_font_size_category">Mida del text de la pàgina web</string>
   <string name="pref_force_userscalable">Força el zoom</string>
   <string name="pref_force_userscalable_summary">"Anul·la la sol·licitud del lloc web per controlar el comportament del zoom"</string>
@@ -1227,6 +1230,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="small_video_load_failed">Ha fallat la càrrega</string>
   <string name="small_video_loading">S\'està carregant...</string>
   <string name="small_video_main_tab">Recomana</string>
+  <string name="small_video_native_tab">Petit video</string>
   <string name="small_video_net_error">Error de connexió</string>
   <string name="small_video_no_more_date">No hi ha dades</string>
   <string name="snapshot">Local</string>
@@ -1250,6 +1254,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="ssl_untrusted">"El certificat no és d'una autoritat de confiança."</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_close">Tanca</string>
   <string name="storage_internal">Emmagatzematge intern</string>
   <string name="storage_open">Obre</string>
@@ -1288,16 +1293,20 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggestion_express_input_hint_inside">Introduïu el número de seguiment</string>
   <string name="suggestion_express_input_hint_out">Número de seguiment:</string>
   <string name="suggestion_express_title">Seguiment dels vostres paquets</string>
+  <string name="suggestion_hotwords_title_change_button_text">CANVIA MÉS</string>
   <string name="suggestion_hotwords_title_text">Cerques populars</string>
+  <string name="suggestion_input_hitory_clear_text">ESBORRAR</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
   <string name="suggestion_lottery_period">RONDA %s</string>
   <string name="suggestion_more_news">MÉS NOTÍCIES</string>
   <string name="suggestion_more_news_start_title_text">Notícies relacionades</string>
+  <string name="suggestion_sliding_ads_info_mark_text">ANUNCIS</string>
   <string name="suggestion_sliding_item_more_text">VEURE MÉS</string>
   <string name="suggestion_topic_subtitle_hyphen">Enfocament</string>
   <string name="suggestion_translation_more">MOSTRA\'N MÉS</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="switchText">SÍ</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat una intrusió per xarxa. Utilitzeu l'aplicació de Seguretat integrada a MIUI o informeu al vostre operador mòbil."</string>
   <string name="switch_proxy_dialog_title">Intrusió per xarxa</string>
@@ -1314,6 +1323,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="title_notice_push">Activa la tramesa automàtica</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
+  <string name="topic_content_default">tema</string>
   <string name="transfer_prompt_0">Reprodueix el vídeo</string>
   <string name="transfer_restart">Reinicia</string>
   <string name="translation_copy">Copia</string>
@@ -1345,6 +1355,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="v5_deselect_all">Desselecciona-ho tot</string>
   <string name="v5_edit_mode_title_empty">0 seleccionats</string>
   <string name="v5_select_all">Selecciona-ho tot</string>
+  <string name="v7_preference_off">DESACTIVAT</string>
   <string name="version_check_button_checking">Comprovant&#8230;</string>
   <string name="version_check_button_default">Cerca actualitzacions</string>
   <string name="version_check_button_download_failed">Reprèn la baixada</string>
