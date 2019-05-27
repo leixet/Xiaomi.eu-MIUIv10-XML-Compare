@@ -57,12 +57,12 @@
         <item>google</item>
     </string-array>
     <string-array name="pref_fling_gesture_entries">
-        <item>Page back forward</item>
+        <item>Torna o passa la pàgina</item>
         <item>Canvia pestanyes</item>
         <item>Cap</item>
     </string-array>
     <string-array name="pref_fling_gesture_values">
-        <item>back_forward</item>
+        <item>torna_passa</item>
         <item>switch_tabs</item>
         <item>cap</item>
     </string-array>
