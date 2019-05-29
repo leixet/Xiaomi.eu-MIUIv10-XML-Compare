@@ -179,6 +179,7 @@ Assegureu-vos que la memòria USB té prou capacitat abans de començar."</strin
   <string name="flash_drive_restore_btn">Restaura des de la memòria USB</string>
   <string name="flash_drive_search_backup_files">"S\'està cercant la còpia de seguretat USB…
 No canvieu el nom dels fitxers de còpia de seguretat."</string>
+  <string name="gallery_summary">Configuració de la galeria (no inclou les fotos)</string>
   <string name="guarded_mode_dialog_backup_message">"Les còpies de seguretat no estan permeses al mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Estàs al mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"No es pot utilitzar Mi Mover al mode de Convidat."</string>
@@ -623,6 +624,7 @@ Allibereu espai o feu diverses transferències més petites."</string>
   <string name="usb_trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
   <string name="usb_trans_select_data_no_space">"Només resten %s a la vostra unitat USB.
 Allibereu espai o transferiu només elements importants."</string>
+  <string name="user_feedback">Comentaris</string>
   <string name="user_name">ID d\'Apple o correu</string>
   <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
