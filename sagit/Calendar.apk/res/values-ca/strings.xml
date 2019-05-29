@@ -142,6 +142,7 @@
   <string name="date_time_fmt">%s, %s</string>
   <string name="date_today">"(avui)"</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
+  <string name="default_reminder_later_time">Període preestablert pel \"Recorda-m\'ho més tard\"</string>
   <string name="default_reminder_mode">Recordatoris</string>
   <string name="delete_recurring_event_title">Voleu eliminar %s?</string>
   <string name="delete_this_event_title">Voleu eliminar aquest esdeveniment?</string>
@@ -219,6 +220,7 @@
   <string name="event_info_where">On\u0009</string>
   <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">Aquell dia a les %2$s</string>
+  <string name="event_reminder_custom">Personalitzat</string>
   <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
   <string name="event_title">Títol</string>
   <string name="event_view">Mostra l\'esdeveniment</string>
@@ -292,6 +294,7 @@
   <string name="item_num_selected">%1$d seleccionat(s)</string>
   <string name="joke_card_icon_text">%1$s les persones riuen</string>
   <string name="life_assistant_group_title">Assistent de vida</string>
+  <string name="limit_card_set_reminder">设置提醒</string>
   <string name="limit_notification_title">您的爱车今日限行</string>
   <string name="limit_reminder_switch_label">限行提醒</string>
   <string name="limit_reminder_time_label">提醒时间</string>
@@ -384,6 +387,7 @@
   <string name="preferences_default_allday_reminder_title">Hora per defecte del recordatori per tot el dia</string>
   <string name="preferences_default_reminder_default_value">0</string>
   <string name="preferences_default_reminder_dialog">Temps de recordatori per defecte</string>
+  <string name="preferences_default_reminder_later_time_default_value">300000</string>
   <string name="preferences_default_reminder_title">Temps de recordatori per defecte</string>
   <string name="preferences_home_tz_title">Fus horari propi</string>
   <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
@@ -398,9 +402,14 @@
   <string name="recommend_card_adding">添加中</string>
   <string name="refresh">Actualitza</string>
   <string name="refreshing_hint">Un moment…</string>
+  <string name="reminder_later">Recorda-m’ho més tard</string>
+  <string name="reminder_later_notification_time_format">HH:mm</string>
+  <string name="reminder_overdue">Caducat</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_alarm_changed_event">Estableix un recordatori repetitiu</string>
   <string name="repeat_alarm_changed_title">Aquest és un esdeveniment repetitiu. Voleu establir un recordatori?</string>
+  <string name="repeat_alarm_close_title">Aquest és un esdeveniment repetitiu. Voleu desactivar el recordatori d\'alarma?</string>
+  <string name="repeat_alarm_open_title">Aquest és un esdeveniment repetitiu. Voleu establir un recordatori d\'alarma?</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
   <string name="repeat_custom_prompt_daily">cada %1$s</string>
   <string name="repeat_custom_prompt_sentence">L\'esdeveniment es repetirà %1$s</string>
@@ -444,6 +453,12 @@
   <string name="setting_title_about">Quant a</string>
   <string name="setting_title_holiday_display">Mostra els dies festius</string>
   <string name="share_title">Comparteix</string>
+  <string name="shift_card_edit_reminder">设置提醒</string>
+  <string name="shift_card_reminder_day">本轮第%1$d天</string>
+  <string name="shift_card_set_reminder">点击设置倒班提醒</string>
+  <string name="shift_reminder_item_label">第%1$d天</string>
+  <string name="shift_reminder_switch_label">倒班提醒</string>
+  <string name="shift_reminders_label">每轮倒班提醒</string>
   <string name="show_day_view">Mostra el dia</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
   <string name="start_date_calculate">Calcula</string>
@@ -483,6 +498,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="too_long_description">La descripció de l\'esdeveniment és massa llarg</string>
   <string name="too_long_location">La ubicació de l\'esdeveniment és massa llarg</string>
   <string name="too_long_name">El nom és massa llarg</string>
+  <string name="train_event_reminder">Recorda-ho %1$s abans</string>
   <string name="travel_airport">Aeroport</string>
   <string name="travel_carriage_number_text">Cotxe</string>
   <string name="travel_ets_advice">Marxeu cap a %2$s abans de les %1$s.</string>
