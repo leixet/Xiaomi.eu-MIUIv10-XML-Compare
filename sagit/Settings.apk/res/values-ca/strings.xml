@@ -5431,6 +5431,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_option_no_interruptions">Silenci total</string>
   <string name="zen_mode_phone_calls">Trucades</string>
   <string name="zen_mode_reminders">Recordatoris</string>
+  <string name="zen_mode_reminders_title">Permet els recordatoris</string>
   <string name="zen_mode_repeat_callers">Trucades repetides</string>
   <string name="zen_mode_repeat_callers_summary">Permet la trucada si la mateixa persona truca per segon cop dins d\'un període de %d minuts</string>
   <string name="zen_mode_rule_delete_button">Suprimeix</string>
