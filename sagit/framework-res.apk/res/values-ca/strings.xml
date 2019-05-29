@@ -109,6 +109,7 @@ Podeu canviar la característica en Configuració &gt; Accessibilitat."</string>
   <string name="app_not_found">No s\'ha trobat cap aplicació per processar aquesta acció</string>
   <string name="app_running_notification_text">Toqueu per obtenir més informació o per aturar l\'aplicació.</string>
   <string name="app_running_notification_title">%1$s s\'està executant</string>
+  <string name="app_suspended_more_details">Més informació</string>
   <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
   <string name="autofill">Emplenament automàtic</string>
   <string name="autofill_error_cannot_autofill">El contingut no es pot emplenar automàticament</string>
@@ -1259,6 +1260,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="usb_storage_stop_title">Emmagatzematge USB en ús</string>
   <string name="usb_storage_title">USB connectat</string>
   <string name="usb_supplying_notification_title">L\'USB proporciona energia al dispositiu connectat</string>
+  <string name="usb_unsupported_audio_accessory_message">Aquest dispositiu no és compatible amb el telèfon. Premeu per a més informació.</string>
   <string name="use_a_different_app">Utilitza una altra aplicació</string>
   <string name="user_creation_account_exists">Voleu permetre a %1$s crear un usuari nou amb %2$s?</string>
   <string name="user_creation_adding">Voleu permetre a %1$s crear un usuari nou amb %2$s? (Un usuari amb aquest compte ja existeix)?</string>
@@ -1367,4 +1369,5 @@ Voleu tancar-la?"</string>
   <string name="zen_mode_forever">Fins que no ho desactiveu</string>
   <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
   <string name="zen_mode_until">Fins %1$s</string>
+  <string name="zen_upgrade_notification_visd_content">Premeu per a més informació i modificacions.</string>
 </resources>
