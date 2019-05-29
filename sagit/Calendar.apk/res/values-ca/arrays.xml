@@ -39,7 +39,7 @@
     </string-array>
     <string-array name="close_alarm_repeating_labels">
         <item>Només aquest cop</item>
-        <item>Desactiva la repetició de recordatoris</item>
+        <item>Desactiva la repetició del recordatori</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Cap endavant</item>
@@ -106,7 +106,7 @@
     </string-array>
     <string-array name="open_alarm_repeating_labels">
         <item>Només aquest cop</item>
-        <item>Set repeated reminder</item>
+        <item>Estableix la repetició del recordatori</item>
     </string-array>
     <string-array name="pisces_info">
         <item>peixos</item>
@@ -122,6 +122,13 @@
         <item>sempre</item>
         <item>en silenci</item>
         <item>mai</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_later_time_values">
+        <item>300000</item>
+        <item>600000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Regió per defecte</item>
