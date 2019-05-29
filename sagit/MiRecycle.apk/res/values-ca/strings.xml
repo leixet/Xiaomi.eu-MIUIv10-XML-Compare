@@ -16,6 +16,7 @@
   <string name="item_name_rearcamera">Càmera posterior</string>
   <string name="main_overall_test">COMENÇA</string>
   <string name="overall_test">Resultat global</string>
+  <string name="push_ht_content">Més informació sobre el maquinari</string>
   <string name="result_no_fail">Tot va bé</string>
   <string name="title_quote_page">Resultat global</string>
 </resources>
