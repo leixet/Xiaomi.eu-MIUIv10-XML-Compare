@@ -22,6 +22,7 @@
   <string name="abc_toolbar_collapse_description">Replega</string>
   <string name="accessbility_suggestion_dropdown_closed">No hi ha suggeriments disponibles</string>
   <string name="accessibility_add_attendee">Afegeix un participant</string>
+  <string name="accessibility_alarm_remind">Recordatoris d\'alarma</string>
   <string name="accessibility_all_day">Esdeveniment de tot el dia</string>
   <string name="accessibility_pick_start_date">Data d\'inici</string>
   <string name="accessibility_pick_time_zone">Fus horari</string>
@@ -80,6 +81,7 @@
   <string name="can_not_modify_allday_event">"Els esdeveniments de tot el dia no es poden modificar"</string>
   <string name="can_not_modify_event">"No es pot modificar l'esdeveniment"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Els esdeveniments periòdics no es poden modificar"</string>
+  <string name="cancel_reminder_later">Cancel·la el recordatori</string>
   <string name="card_detail_dialog_message">%1$s s\'actualitzarà cada dia. Subscriviu-vos per rebre actualitzacions diàries.</string>
   <string name="card_detail_dialog_negative">Subscriviu-vos més tard</string>
   <string name="card_detail_dialog_positive">Subscriviu-vos ara</string>
@@ -164,6 +166,8 @@
   <string name="edit_event_confirm_message">Voleu descartar els canvis?</string>
   <string name="edit_event_countdown_name_empty_hint">Introduïu el contingut del compte enrere</string>
   <string name="edit_event_countdown_name_hint">Contingut</string>
+  <string name="edit_event_custom_reminder_time_dup">Recordatori personalitzat: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Estableix un recordatori personalitzat</string>
   <string name="edit_event_from_label">Des de</string>
   <string name="edit_event_input_year">Introduïu l\'any</string>
   <string name="edit_event_label">Detalls</string>
@@ -342,6 +346,7 @@
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="new_event_description">Nou</string>
+  <string name="next_alarm_time">Següent recordatori en %1$s</string>
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>
   <string name="no_events_hint">Cap esdeveniment</string>
   <string name="no_network">No hi ha xarxa. Intenteu actualitzar la xarxa de nou :)</string>
@@ -370,9 +375,11 @@
   <string name="pref_title_alarm_remind">Recordatoris d\'alarma</string>
   <string name="pref_title_no_remind">Cap recordatori</string>
   <string name="pref_title_notification_remind">Recordatoris de notificació</string>
+  <string name="preferences_alarms_category_title">Recordatoris d\'alarma</string>
   <string name="preferences_alerts_ringtone_title">So</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibració</string>
   <string name="preferences_alerts_vibrate_title">Vibració i tons de trucada</string>
+  <string name="preferences_allow_remind">Permet els recordatoris</string>
   <string name="preferences_default_allday_reminder_default_value">480</string>
   <string name="preferences_default_allday_reminder_title">Hora per defecte del recordatori per tot el dia</string>
   <string name="preferences_default_reminder_default_value">0</string>
@@ -392,6 +399,8 @@
   <string name="refresh">Actualitza</string>
   <string name="refreshing_hint">Un moment…</string>
   <string name="repeat_activity_label">Repeteix</string>
+  <string name="repeat_alarm_changed_event">Estableix un recordatori repetitiu</string>
+  <string name="repeat_alarm_changed_title">Aquest és un esdeveniment repetitiu. Voleu establir un recordatori?</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
   <string name="repeat_custom_prompt_daily">cada %1$s</string>
   <string name="repeat_custom_prompt_sentence">L\'esdeveniment es repetirà %1$s</string>
