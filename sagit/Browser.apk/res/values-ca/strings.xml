@@ -277,7 +277,7 @@
   <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
 està a punt de passar»</string>
   <string name="custom_head_content_pull_down_text">desplegable</string>
-  <string name="data_monitor">Monitor d\'ús de dades</string>
+  <string name="data_monitor">Recordatori de monitoratge d\'ús de dades</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
   <string name="data_traffic_continue">Continua</string>
   <string name="data_traffic_download_cancel">Cancel·la</string>
