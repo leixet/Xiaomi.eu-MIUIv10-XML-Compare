@@ -491,6 +491,7 @@ Si us plau, enviï aquest codi a un tècnic."</string>
   <string name="js_disable_confirm_message">Si es desactiva JavaScript alguns llocs web es poden visualitzar malament.</string>
   <string name="js_disable_confirm_title">Voleu desactivar JavaScript?</string>
   <string name="keep_queued_download">Manté</string>
+  <string name="load_error_tip">Error de càrrega, cliqueu per tornar-hi</string>
   <string name="loading_dialog_title">S\'està movent…</string>
   <string name="loading_tips">Llisqueu cap avall per actualitzar</string>
   <string name="login_failed_toast">"No s'ha pogut iniciar la sessió, actualitzeu i proveu-ho de nou"</string>
@@ -1091,6 +1092,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_security_show_security_warning">Mostra els avisos de seguretat</string>
   <string name="pref_security_show_security_warning_summary">"Mostra un avís si hi ha un problema amb el certificat d'un lloc"</string>
   <string name="pref_set_homepage_to">Estableix a</string>
+  <string name="pref_tab_restore">Recupera la darrera pàgina oberta en l\'inici</string>
   <string name="pref_ua_string">Cadena d\'agent d\'usuari</string>
   <string name="pref_version_info">Informació de la versió</string>
   <string name="pref_volume_key_action">Desplaça utilitzant els botons de volum</string>
