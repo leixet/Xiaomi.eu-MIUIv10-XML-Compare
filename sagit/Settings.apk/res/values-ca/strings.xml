@@ -2144,6 +2144,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="layout_size_medium_text">Mitjana</string>
   <string name="layout_size_normal_text">Petita</string>
   <string name="layout_size_small_text">Extra petita</string>
+  <string name="learn_more">Més informació</string>
   <string name="led_colors_summary">Notificacions</string>
   <string name="led_frequence_summary">Definició del temps de parpelleig del LED</string>
   <string name="led_pulse_summary">Parpelleig del LED quan es rep una nova notificació</string>
@@ -3044,6 +3045,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_hide_mode_summary">"Estalvieu bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
   <string name="power_hide_mode_title">Administra l\'ús de bateria de les aplicacions</string>
   <string name="power_idle">Telèfon inactiu</string>
+  <string name="power_key_start_enjoy">Més informació sobre Google Assistant</string>
   <string name="power_mgr">Bateria</string>
   <string name="power_mode">Configuració d\'Energia</string>
   <string name="power_mode_balanced_title">Activa el mode Equilibrat</string>
