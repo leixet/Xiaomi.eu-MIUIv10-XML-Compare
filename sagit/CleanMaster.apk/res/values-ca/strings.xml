@@ -356,7 +356,7 @@
   <string name="pref_content_cleanup_white_list_none">Cap</string>
   <string name="pref_summary_auto_clean_and_alert">Programa el netejador perquè s\'executi automàticament</string>
   <string name="pref_summary_auto_update_cleanup_db">Darrera actualització: %s</string>
-  <string name="pref_summary_cleanup_white_list">Eviteu que es netegin les aplicacions seleccionades</string>
+  <string name="pref_summary_cleanup_white_list">Eviteu que les aplicacions seleccionades siguin netejades</string>
   <string name="pref_summary_expand_cache_group">Mostra els detalls de memòria cau automàticament</string>
   <string name="pref_summary_garbage_auto_clean_content">Trieu quins elements es netejaran automàticament</string>
   <string name="pref_summary_garbage_cleanup_check_size">Neteja automàtica quan la paperera arribi a una certa mida</string>
