@@ -9,7 +9,7 @@
   <string name="as_new_device_summary">Elimina les còpies anteriors del Mi Cloud</string>
   <string name="authentication_failed">"No s'ha pogut verificar el compte."</string>
   <string name="back_up_task_in_process">Realitzant còpia de seguretat&#8230;</string>
-  <string name="back_up_task_unfinished">Còpia de seguretat no finalitzada</string>
+  <string name="back_up_task_unfinished">"Còpia de seguretat no finalitzada"</string>
   <string name="backing_up_to_micloud">Realitzant còpia de seguretat&#8230;</string>
   <string name="backup_fail_wifi_needed">"No s'ha pogut fer la còpia de seguretat, es necessita Wi-Fi."</string>
   <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
