@@ -31,7 +31,6 @@
   <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent (%d)</string>
   <string name="call_record_or">" o "</string>
-  <string name="call_record_sample_prefix_miui">Trucada</string>
   <string name="caller_info_name_delimiter">" o "</string>
   <string name="cancel_action">Cancel·la</string>
   <string name="close">Desactivat</string>
