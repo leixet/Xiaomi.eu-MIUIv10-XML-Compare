@@ -364,6 +364,7 @@
   <string name="notification_channel_name">Recordatoris de calendari</string>
   <string name="notification_open_setting_button_exit">No, gràcies</string>
   <string name="notification_open_setting_button_ok">Permet</string>
+  <string name="notification_open_setting_message">"No podreu rebre notificacions dels esdeveniments fins que permeteu que el calendari us enviï notificacions."</string>
   <string name="notification_open_setting_title">Voleu permetre les notificacions del calendari?</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
@@ -383,6 +384,9 @@
   <string name="pref_title_no_remind">Cap recordatori</string>
   <string name="pref_title_notification_remind">Recordatoris de notificació</string>
   <string name="preferences_alarms_category_title">Recordatoris d\'alarma</string>
+  <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
+  <string name="preferences_alarms_sound">So</string>
+  <string name="preferences_alarms_vibrateWhen">Vibra</string>
   <string name="preferences_alerts_ringtone_title">So</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibració</string>
   <string name="preferences_alerts_vibrate_title">Vibració i tons de trucada</string>
@@ -411,6 +415,7 @@
   <string name="reminder_overdue">Caducat</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_alarm_changed_event">Estableix un recordatori repetitiu</string>
+  <string name="repeat_alarm_changed_ony_selected">Només aquest cop</string>
   <string name="repeat_alarm_changed_title">Aquest és un esdeveniment repetitiu. Voleu establir un recordatori?</string>
   <string name="repeat_alarm_close_title">Aquest és un esdeveniment repetitiu. Voleu desactivar el recordatori d\'alarma?</string>
   <string name="repeat_alarm_open_title">Aquest és un esdeveniment repetitiu. Voleu establir un recordatori d\'alarma?</string>
