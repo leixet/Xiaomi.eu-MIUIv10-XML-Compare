@@ -118,6 +118,11 @@
         <item>Només quan el timbre està silenciat</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="prefValues_alerts_popup">
+        <item>cap</item>
+        <item>tots</item>
+        <item>smart</item>
+    </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>sempre</item>
         <item>en silenci</item>
@@ -229,14 +234,14 @@
         <item>primer dissabte</item>
         <item>primer diumenge</item>
         <item>segon dilluns</item>
-        <item>second Tuesday</item>
-        <item>second Wednesday</item>
-        <item>second Thursday</item>
-        <item>second Friday</item>
-        <item>second Saturday</item>
-        <item>second Sunday</item>
-        <item>third Monday</item>
-        <item>third Tuesday</item>
+        <item>segon dimarts</item>
+        <item>segon dimecres</item>
+        <item>segon dijous</item>
+        <item>segon divendres</item>
+        <item>segon dissabte</item>
+        <item>segon diumenge</item>
+        <item>tercer dilluns</item>
+        <item>tercer dimarts</item>
         <item>tercer dimecres</item>
         <item>tercer dijous</item>
         <item>tercer divendres</item>
