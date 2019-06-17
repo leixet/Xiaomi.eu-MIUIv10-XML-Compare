@@ -279,6 +279,7 @@
   <string name="horoscope_card_working">Treball：</string>
   <string name="horoscope_select_activity_label">Seleccioneu l\'horòscop</string>
   <string name="hotel_detail_title">Detalls de l\'hotel</string>
+  <string name="hotel_event_delete_successfully">S\'ha esborrat correctament la reserva d\'hotel</string>
   <string name="huangli_bad_type">Evita</string>
   <string name="huangli_good_type">Jo</string>
   <string name="import_action">Importa</string>
@@ -349,6 +350,7 @@
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
   <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
+  <string name="movie_event_delete_successfully">S\'ha esborrat correctament l\'entrada de cinema</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="new_event_description">Nou</string>
   <string name="next_alarm_time">Següent recordatori en %1$s</string>
@@ -400,6 +402,7 @@
   <string name="preferences_home_tz_title">Fus horari propi</string>
   <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
   <string name="preferences_notification_ringtone_title">So</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI identificarà automàticament els esdeveniments més rellevants</string>
   <string name="preferences_title">Calendari</string>
   <string name="preferences_use_home_tz_descrip">Mostra els calendaris i les hores dels esdeveniments en el vostre propi fus horari quan viatgeu</string>
   <string name="preferences_use_home_tz_title">Utilitza el fus horari propi</string>
