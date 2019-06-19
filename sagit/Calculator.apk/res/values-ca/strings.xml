@@ -306,6 +306,7 @@
   <string name="tax_param_error">Introduïu tarifes d\'assegurança correctes</string>
   <string name="tax_payment_period">Nombre de pagaments</string>
   <string name="tax_rate_provider">Calculat segons les noves regulacions de taxes. Les dades s\'han extret de \"hexun.com\" i \"East Money\".</string>
+  <string name="tax_rate_provider_east_money">Calculat segons les noves regulacions fiscals. Les dades s\'han extret de East Money.</string>
   <string name="tax_result_real_get">Net</string>
   <string name="tax_social_insurance">Seguretat social</string>
   <string name="tax_thershold_foreign">%s (Estrangers)</string>
