@@ -147,7 +147,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut activar troba el dispositiu"</string>
   <string name="micloud_find_device_opened">Troba el dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el vostre dispositiu a %s</string>
-  <string name="micloud_find_device_sms_alert">És possible que es requereixi un SMS sortint per activar aquest servei. El vostre operador us cobrarà per aquest missatge. Quan canvieu la targeta SIM, es pot enviar un missatge automàticament per reactivar aquesta funció.</string>
+  <string name="micloud_find_device_sms_alert">Per activar aquest servei segurament cal enviar un missatge SMS. L\'operadora aplicarà la tarifa contractada. Quan canvieu la targeta SIM, podria ser que per reactivar aquesta funció s\'enviés un missatge automàticament.</string>
   <string name="micloud_find_device_verify_button">Reactiva troba el dispositiu</string>
   <string name="micloud_find_device_verify_close">Desactiva troba el dispositiu</string>
   <string name="micloud_find_device_verify_fail">"No es pot reactivar troba el dispositiu"</string>
