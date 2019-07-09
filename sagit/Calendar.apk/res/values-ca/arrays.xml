@@ -114,7 +114,7 @@
         <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup">
-        <item>Off</item>
+        <item>Desactivat</item>
         <item>En qualsevol cas</item>
         <item>Pels esdeveniments més rellevants</item>
     </string-array>
