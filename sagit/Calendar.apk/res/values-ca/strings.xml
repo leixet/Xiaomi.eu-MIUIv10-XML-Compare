@@ -100,6 +100,7 @@
   <string name="chongsha">Fantasmes</string>
   <string name="clear_net_mock_success">S\'ha esborrat la xarxa simulada correctament</string>
   <string name="close_alarm">Desactiva</string>
+  <string name="content_confirm_close_chinese_calendar">Un cop desactiveu aquesta opció, totes les dates dels vostres esdeveniments indicades en calendari tradicional xinés s\'adaptaran al calendari gregorià. La repetició d\'esdeveniments es definirà en anys i mesos del calendari georgià.</string>
   <string name="copy_email">Copia l\'adreça de correu electrònic</string>
   <string name="copy_number">Copia el número de telèfon</string>
   <string name="countdown_event_title">[Countdown]%1$s</string>
@@ -155,6 +156,7 @@
   <string name="does_not_repeat">Esdeveniment únic</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
+  <string name="dropdown_delete_button_desc">Treu %s dels destinataris</string>
   <string name="edit_date_calculate_days_backward_error_hint">"No es pot calcular cap endavant"</string>
   <string name="edit_date_calculate_days_empty_hint">Introduïu el número de dies</string>
   <string name="edit_date_calculate_days_forward_error_hint">"No es pot calcular cap enrere"</string>
@@ -263,6 +265,8 @@
   <string name="global_action_text_card_manager">Més categories</string>
   <string name="global_cricket_no_match">Avui no hi ha competicions de cricket, podeu revisar els aspectes més destacats de les competicions anteriors o proveu un altre partit. Meravellós esdeveniment, val la pena l\'espera!</string>
   <string name="global_football_no_match">No hi ha programat cap partit de futbol per avui.</string>
+  <string name="great_cold">Fred intens</string>
+  <string name="great_cold_tradition">Fred intens</string>
   <string name="guide_card_close">Tanca</string>
   <string name="guide_card_import">Importació</string>
   <string name="guide_card_primary_text">"Importa els aniversaris dels amics"</string>
