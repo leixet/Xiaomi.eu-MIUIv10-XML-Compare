@@ -523,12 +523,19 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="error_sdcard_access">No es pot accedir a l\'espai del sistema!</string>
   <string name="fod_pressure_sensor_pressure_data_collection">Recollint dades de pressió....</string>
   <string name="fpc_pn_calibration">Captura i emmagatzema la imatge PN</string>
+  <string name="ir_camera_test_summary_capture">"Instruccions de la prova:
+ 		 
+1.Premeu el botó Càmera que hi ha a sota per iniciar la interfície de càmera.
+2.Premeu l\'obturador.
+3.El sistema desarà la foto automàticament desprès de la captura.
+4.La foto que heu fet s\'hauria de mostrar a la pantalla. Premeu Correcte per finalitzar la prova."</string>
   <string name="keyboard">BOTÓ</string>
   <string name="lcminfo">Informació del LCM</string>
   <string name="magnetic_info_hint">Gireu el dispositiu formant un 8</string>
   <string name="mic1_spk_loop">Reprodueix el micro als altaveus</string>
   <string name="micphone_test">MIC i SPK</string>
   <string name="nfc_disable_tip">Activeu la funció NFC</string>
+  <string name="pass">Correcte</string>
   <string name="radio_boy">Veu d\'home</string>
   <string name="radio_gril">Veu de dona</string>
   <string name="radio_info_call_status_label">Estat de la trucada de veu:</string>
@@ -552,6 +559,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="start">Inicia</string>
   <string name="status">Estat</string>
   <string name="status_failed">Ha fallat una o més proves</string>
+  <string name="status_passed">Aprovat</string>
   <string name="status_running">En execució</string>
   <string name="status_text">Estat:</string>
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
