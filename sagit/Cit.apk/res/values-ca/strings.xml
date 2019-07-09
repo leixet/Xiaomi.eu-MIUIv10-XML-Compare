@@ -186,6 +186,12 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_f2_cali_failed">Calibratge fallit, torneu-ho a provar!</string>
   <string name="cit_f2_cali_title">Calibratge de la càmera</string>
   <string name="cit_f2_calibrating">Calibratge en curs...</string>
+  <string name="cit_f2_camera_check_summary">"Instruccions de la prova:
+
+1. Premeu el botó de calibratge.
+2. Sortirà una etiqueta de calibratge finalitzat per indicar que ja s\'ha calibrat la càmera."</string>
+  <string name="cit_f2_capture_fail">Ha fallat la captura, torneu-ho a provar!</string>
+  <string name="cit_f2_capture_success">Cliqueu el botó de calibratge!</string>
   <string name="cit_fail">Ha fallat</string>
   <string name="cit_finger_check_title">Prova d\'empremta (FPC)</string>
   <string name="cit_flash_life_check_summary">Temps estimat de vida del flaix del dispositiu</string>
@@ -507,6 +513,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_wifi_fail_to_scan">"No s'han pogut escanejar les xarxes"</string>
   <string name="cit_wifi_state_refresh">Actualitza</string>
   <string name="cit_yellow_torch_on">Activa el LED groc</string>
+  <string name="display_test_finish">Prova de pantalla completada</string>
   <string name="error_app_internal">Error intern de l\'aplicació</string>
   <string name="error_app_unsupported">Format no suportat</string>
   <string name="error_failed_to_get_data">no s\'han pogut obtenir dades</string>
@@ -534,6 +541,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="radio_info_unknown">No indicat</string>
   <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
+  <string name="screen_cancel">Desactiva</string>
+  <string name="screen_confirm">Activa</string>
   <string name="search_menu_title">Cerca</string>
   <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
