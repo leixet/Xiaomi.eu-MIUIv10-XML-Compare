@@ -341,8 +341,13 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Blanc</item>
+        <item>Negre</item>
+        <item>Auto</item>
+    </string-array>
     <string-array name="countries_names_miui">
-        <item>"Côte d'Ivoire"</item>
+        <item>"Costa d'Ivori"</item>
         <item>Ghana</item>
         <item>Etiòpia</item>
         <item>Algèria</item>
@@ -382,8 +387,8 @@
         <item>Veneçuela</item>
         <item>Costa Rica</item>
         <item>Estats Units</item>
-        <item>Canada</item>
-        <item>United States</item>
+        <item>Canadà</item>
+        <item>Estats Units</item>
         <item>Canadà</item>
         <item>Estats Units</item>
         <item>Estats Units</item>
@@ -496,18 +501,18 @@
         <item>Greece</item>
         <item>United Kingdom</item>
         <item>Serbia</item>
-        <item>Germany</item>
-        <item>Slovakia</item>
-        <item>Belgium</item>
+        <item>Alemanya</item>
+        <item>Eslovàquia</item>
+        <item>Bèlgica</item>
         <item>Romania</item>
-        <item>Hungary</item>
-        <item>Moldova</item>
-        <item>Denmark</item>
-        <item>Ireland</item>
+        <item>Hongria</item>
+        <item>Moldàvia</item>
+        <item>Dinamarca</item>
+        <item>Irlanda</item>
         <item>Gibraltar</item>
-        <item>Finland</item>
-        <item>Isle of Man</item>
-        <item>Turkey</item>
+        <item>Finlàndia</item>
+        <item>Illa de Man</item>
+        <item>Turquia</item>
         <item>Portugal</item>
         <item>Dinamarca</item>
         <item>Irlanda</item>
@@ -520,20 +525,20 @@
         <item>Luxemburg</item>
         <item>Espanya</item>
         <item>Malta</item>
-        <item>Italy</item>
+        <item>Itàlia</item>
         <item></item>
         <item>Rússia</item>
         <item>Noruega</item>
         <item>França</item>
-        <item>Bulgaria</item>
-        <item>Sweden</item>
+        <item>Bulgària</item>
+        <item>Suècia</item>
         <item>Itàlia</item>
         <item></item>
         <item>Bòsnia i Herzegovina</item>
         <item>Ucraïna</item>
-        <item>Poland</item>
-        <item>Croatia</item>
-        <item>Switzerland</item>
+        <item>Polònia</item>
+        <item>Croàcia</item>
+        <item>Suïssa</item>
         <item>Madagascar</item>
         <item>Maldives</item>
         <item>Mauritius</item>
