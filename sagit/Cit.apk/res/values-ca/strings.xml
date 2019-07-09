@@ -167,10 +167,16 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_charger_waiting_out">Desconnecteu el carregador ara</string>
   <string name="cit_def_torch_on_one">Activeu el primer flaix</string>
   <string name="cit_def_torch_on_three">Activeu el tercer flaix</string>
+  <string name="cit_def_torch_on_two">Activeu el segon flaix</string>
+  <string name="cit_diag_chaging_summary">Copia els arxius de registre de les càrregues a la targeta sd</string>
+  <string name="cit_diag_chaging_title">Llegeix el registre de càrrega</string>
+  <string name="cit_diag_chaging_wait">Espereu... Copiant fitxers</string>
   <string name="cit_dial_emergencycall">Trucar al 112</string>
   <string name="cit_display_check_summary">Confirmeu que el fitxer bmp requerit es troba a la targeta SD. Confirmeu que els colors es mostren consistentment a través de tota la pantalla. Assegureu-vos que no hi ha taques fosques ni taques irregulars.</string>
   <string name="cit_display_check_title">Pantalla</string>
   <string name="cit_display_continue">Toqueu la pantalla per començar la prova</string>
+  <string name="cit_display_test_end">Prova finalitzada</string>
+  <string name="cit_display_test_next">Següent</string>
   <string name="cit_emergencycall_check_summary">Premeu el botó Truca al 112 per trucar al 112 i comprovar si està disponible.</string>
   <string name="cit_emergencycall_check_title">Trucada d\'emergència</string>
   <string name="cit_exit_test_summary">Quan sortiu, s\'eliminaran totes les dades de text relacionades.</string>
