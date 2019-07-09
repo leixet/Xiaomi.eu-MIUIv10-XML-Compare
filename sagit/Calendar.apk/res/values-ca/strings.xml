@@ -31,6 +31,7 @@
   <string name="accessibility_sync_cal">Sincronitza el calendari</string>
   <string name="account_and_calendar">Comptes</string>
   <string name="action_bar_return">Retorna</string>
+  <string name="action_label">Torna</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="ad_card_connecting">Connexió</string>
   <string name="ad_card_download_count">%1$s baixades personals</string>
