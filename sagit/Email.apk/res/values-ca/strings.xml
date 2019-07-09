@@ -78,6 +78,7 @@
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
   <string name="account_setup_basics_mi_mail_login_help">És possible que hageu de verificar el vostre compte mitjançant un SMS per rebre correus</string>
   <string name="account_setup_basics_password_label">Introduïu la contrasenya</string>
+  <string name="account_setup_basics_password_label_authcode">Introduïu la contrasenya o el codi de verificació</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">Validant la configuració del servidor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">S\'està validant la configuració SMTP…</string>
