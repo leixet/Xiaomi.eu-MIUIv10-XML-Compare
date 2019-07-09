@@ -88,6 +88,7 @@
   <string name="passport_set_password">Estableix la contrasenya</string>
   <string name="passport_sign_in">Inicia sessió</string>
   <string name="passport_unknow_network_error">S\'ha produït un error de xarxa</string>
+  <string name="passport_user_agreement">Acord d\'usuari</string>
   <string name="passport_user_agreement_prefix">D\'acord amb </string>
   <string name="password_toggle_content_description">Activa/desactiva la visibilitat de la contrasenya</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
