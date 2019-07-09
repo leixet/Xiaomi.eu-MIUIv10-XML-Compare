@@ -1044,7 +1044,15 @@ d MMMM"</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
+  <string name="wapi_password_empty">Introdueix la contrasenya</string>
+  <string name="wapi_password_hex_format_invalid">El format de la contrasenya no és correcte</string>
+  <string name="wapi_password_is_empty">"La contrasenya no pot estar buida"</string>
+  <string name="wapi_password_length_invalid">La contrasenya ha de tenir entre 8 a 64 caràcters de longitud</string>
+  <string name="wapi_password_length_is_max">La contrasenya pot tenir fins 64 caràcters de longitud</string>
+  <string name="wapi_password_length_is_min">La contrasenya ha de tenir un mínim 8 caràcters de longitud</string>
+  <string name="wapi_password_length_is_min_to_max">La contrasenya ha de contenir 8-64 caràcters</string>
   <string name="weather_publish_time">Actualitzat %1$s</string>
+  <string name="wifi_check_password_try_again">Comproveu la contrasenya i torneu-ho a provar</string>
   <string name="wifi_connected_no_internet">Connectat, no hi ha Internet</string>
   <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
   <string name="wifi_disabled_generic">Desactivat</string>
