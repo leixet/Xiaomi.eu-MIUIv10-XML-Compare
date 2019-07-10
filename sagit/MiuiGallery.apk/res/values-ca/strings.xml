@@ -982,7 +982,6 @@ per personalitzar la galeria"</string>
   <string name="slideshow_interval_dialog_title">Introduïu l\'interval</string>
   <string name="slideshow_interval_invalid">L\'interval entre diapositives ha d\'estar entre 3 i 3600 segons</string>
   <string name="slideshow_interval_title">Mostra cada diapositiva durant</string>
-  <string name="slideshow_interval_value">%1$d segons</string>
   <string name="slim_complete">Fet</string>
   <string name="slim_complete_action_title">S\'ha optimitzat amb èxit</string>
   <string name="slim_cost_time_minute">%d min restants</string>
