@@ -83,11 +83,13 @@
   <string name="HIPS_SecurityPrompt_Title">%1$s està intentant de %2$s</string>
   <string name="Su_Package_Forbidden2">"no té accés d'administrador."</string>
   <string name="app_name">Gestor de permisos</string>
-  <string name="background_location_access_reminder_notification_content">Aquesta aplicació pot accedir a la vostra ubicació en qualsevol moment. Premeu per canviar-ho.</string>
+  <string name="background_location_access_reminder_notification_content">Aquesta aplicació pot accedir a la vostra ubicació permanentment. Premeu per canviar-ho.</string>
   <string name="background_location_access_reminder_notification_title">%s ha utilitzat la vostra ubicació</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">realitzar accions desconegudes</string>
   <string name="grant_dialog_button_allow">Permet</string>
+  <string name="grant_dialog_button_allow_always">Permet permanentment</string>
+  <string name="grant_dialog_button_allow_background">Permet permanentment</string>
   <string name="grant_dialog_button_allow_foreground">Només disponible mentre s\'utilitza l\'aplicació</string>
   <string name="grant_dialog_button_deny">Denega</string>
   <string name="grant_dialog_button_deny_background">Manté l\'accés mentre s\'utilitzi</string>
