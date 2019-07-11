@@ -88,7 +88,9 @@
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">realitzar accions desconegudes</string>
   <string name="grant_dialog_button_allow">Permet</string>
+  <string name="grant_dialog_button_allow_foreground">Només disponible mentre s\'utilitza l\'aplicació</string>
   <string name="grant_dialog_button_deny">Denega</string>
+  <string name="grant_dialog_button_deny_background">Manté l\'accés mentre s\'utilitzi</string>
   <string name="location_settings">Configuració d\'ubicació</string>
   <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació per a aquest dispositiu. L\'accés a la ubicació es pot modificar a la configuració d\'ubicació.</string>
   <string name="never_ask_again">"No m'ho tornis a preguntar"</string>
@@ -97,6 +99,7 @@
   <string name="permission_group_title_media_related">Multimèdia</string>
   <string name="permission_group_title_privacy_related">Privadesa</string>
   <string name="permission_group_title_settings_related">Configuració</string>
+  <string name="permission_reminders">Recordatoris de permisos</string>
   <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
   <string name="permission_warning_template_ask">Voleu permetre a %1$s els següents permisos?</string>
   <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
