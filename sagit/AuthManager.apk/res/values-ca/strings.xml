@@ -92,6 +92,7 @@
   <string name="grant_dialog_button_allow_background">Permet permanentment</string>
   <string name="grant_dialog_button_allow_foreground">Només disponible mentre s\'utilitza l\'aplicació</string>
   <string name="grant_dialog_button_deny">Denega</string>
+  <string name="grant_dialog_button_deny_and_dont_ask_again">Refusa &amp; no ho tornis a preguntar</string>
   <string name="grant_dialog_button_deny_background">Manté l\'accés mentre s\'utilitzi</string>
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">Mantén-ho i no ho tornis a preguntar</string>
   <string name="location_settings">Configuració d\'ubicació</string>
