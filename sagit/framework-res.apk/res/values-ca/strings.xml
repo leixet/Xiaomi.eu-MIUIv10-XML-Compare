@@ -1260,7 +1260,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="usb_storage_stop_title">Emmagatzematge USB en ús</string>
   <string name="usb_storage_title">USB connectat</string>
   <string name="usb_supplying_notification_title">L\'USB proporciona energia al dispositiu connectat</string>
-  <string name="usb_unsupported_audio_accessory_message">Aquest dispositiu no és compatible amb el telèfon. Premeu per a més informació.</string>
+  <string name="usb_unsupported_audio_accessory_message">"Aquest dispositiu no és compatible amb el telèfon. Premeu per a més informació."</string>
   <string name="use_a_different_app">Utilitza una altra aplicació</string>
   <string name="user_creation_account_exists">Voleu permetre a %1$s crear un usuari nou amb %2$s?</string>
   <string name="user_creation_adding">Voleu permetre a %1$s crear un usuari nou amb %2$s? (Un usuari amb aquest compte ja existeix)?</string>
