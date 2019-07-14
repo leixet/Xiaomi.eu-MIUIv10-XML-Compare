@@ -100,13 +100,16 @@
   <string name="never_ask_again">"No m'ho tornis a preguntar"</string>
   <string name="ok">D\'acord</string>
   <string name="permgrouprequest_storage_isolated">Voleu permetre a &lt;b&gt;%1$s&lt;/b&gt; accedir a fotos i mèdia del vostre dispositiu?</string>
+  <string name="permission_description_summary_activity_recognition">Les aplicacions amb aquest permís poden accedir a la vostra activitat física: passejades, sortides en bicicleta, recompte de passes i altres</string>
   <string name="permission_description_summary_calendar">Les aplicacions amb aquest permís poden accedir al vostre calendari</string>
   <string name="permission_description_summary_call_log">Les aplicacions amb aquest permís poden llegir i escriure al vostre registre de trucades</string>
   <string name="permission_description_summary_camera">Les aplicacions amb aquest permís poden fer fotografies i enregistrar vídeos</string>
   <string name="permission_description_summary_contacts">Les aplicacions amb aquest permís poden accedir als vostres contactes</string>
   <string name="permission_description_summary_generic">Les aplicacions amb aquest permís poden %1$s</string>
+  <string name="permission_description_summary_location">"Les aplicacions amb aquest permís poden accedir a la ubicació d'aquest dispositiu"</string>
   <string name="permission_description_summary_microphone">Les aplicacions amb aquest permís poden enregistrar àudio</string>
   <string name="permission_description_summary_phone">Les aplicacions amb aquest permís poden fer i gestionar trucades telefòniques</string>
+  <string name="permission_description_summary_sensors">Les aplicacions amb aquest permís poden accedir a dades de sensors dels vostres signes vitals</string>
   <string name="permission_description_summary_sms">Les aplicacions amb aquest permís poden enviar i rebre missatges SMS</string>
   <string name="permission_description_summary_storage">Les aplicacions amb aquest permís poden accedir a fotos, multimèdia i arxius del vostre dispositiu</string>
   <string name="permission_group_title_charges_related">Càrrecs</string>
