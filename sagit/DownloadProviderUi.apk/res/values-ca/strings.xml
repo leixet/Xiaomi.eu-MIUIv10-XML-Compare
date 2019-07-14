@@ -189,6 +189,7 @@
   <string name="high_speed_tryout_speedup_confirm">S\'està preparant per augmentar la velocitat&#8230;</string>
   <string name="high_speed_tryout_time">Període de prova restant: %1$s. Convertiu-vos en un membre Xunlei.</string>
   <string name="hint">Atenció</string>
+  <string name="home_page_new_download_guide">Aquí venen les baixades noves</string>
   <string name="immediately_a_renewal">Renovi el seu subscripció ara</string>
   <string name="info_flow_only_load_wifi">Només es carregarà el contingut mitjançant Wi-Fi</string>
   <string name="info_flow_setting">Configuració</string>
@@ -201,9 +202,11 @@
   <string name="invalid_address">La ruta de fitxer introduïda no és vàlida</string>
   <string name="jump_rank_hint">"Feu una ullada a les classificacions de les baixades d'avui &gt;"</string>
   <string name="keep_queued_download">Mantenir</string>
+  <string name="kilobyteShort">KB</string>
   <string name="load_finish_hint">Podeu continuar veient-lo demà</string>
   <string name="loading">Un moment…</string>
   <string name="media_filter">MITJA</string>
+  <string name="megabyteShort">MB</string>
   <string name="member_cost">Anual</string>
   <string name="menu_all_task_pause">Pausa-ho tot</string>
   <string name="menu_all_task_start">Inicia-ho tot</string>
@@ -270,6 +273,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="pref_summary_no_limit_popup">Il·limitat</string>
   <string name="pref_title_enable_max_bytes_popup">Mostra advertència d\'ús de dades</string>
   <string name="preferences_title">Configuració</string>
+  <string name="privacy_policy">Política de privadesa</string>
   <string name="privacy_tip_cancel">Cancel·la</string>
   <string name="privacy_tip_content">"Voleu utilitzar l'accelerador Xunlei per augmentar la velocitat de baixada? La URL del host de baixades es pujarà al servidor de Xunlei. Els detalls del Compte Mi també es pujaran per comprovar si té alguna subscripció activa a aquest servei."</string>
   <string name="privacy_tip_ok">D\'acord</string>
