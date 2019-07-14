@@ -191,6 +191,7 @@
   <string name="menu_title_pause_all">Pausa-ho tot</string>
   <string name="menu_title_resume_all">Inicia-ho tot</string>
   <string name="menu_title_settings">Configuració</string>
+  <string name="menu_vip_unbind">Desaparella</string>
   <string name="mi_money">Crèdit Mi</string>
   <string name="mi_money_">Crèdit Mi</string>
   <string name="missing_title">&lt;Desconegut&gt;</string>
@@ -209,7 +210,9 @@
   <string name="no_vip_show_info">"Accelera les baixades
 en tots els dispositius a través de Xunlei"</string>
   <string name="notify_disabled_net_by_app">Accés restringit a Internet</string>
+  <string name="notify_install_guide_forward_text">Obre</string>
   <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
+  <string name="notify_install_guide_title">S\'ha instal·lat correctament %s</string>
   <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
   <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
   <string name="one_month">1 mes</string>
@@ -233,6 +236,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="paused_waiting_for_network">A l\'espera de xarxa</string>
   <string name="paused_waiting_to_retry">Esperant per reintentar</string>
   <string name="period_of_validity">Validesa:</string>
+  <string name="petabyteShort">PB</string>
   <string name="pref_download_revert_default">Desa-ho a la ubicació per defecte</string>
   <string name="pref_download_settings_title">S\'ha restringit la baixada amb dades mòbils</string>
   <string name="pref_download_storage_path">Desa-ho a una ubicació personalitzada</string>
@@ -371,6 +375,11 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="task_detail">Tasques</string>
   <string name="task_detail_notfound_confirm">D\'acord</string>
   <string name="task_fail">"No s'ha pogut completar l'operació"</string>
+  <string name="terabyteShort">TB</string>
+  <string name="test_speed">Prova</string>
+  <string name="test_speed_detail">Detalls</string>
+  <string name="test_speed_please">Premeu per mesurar la velocitat...</string>
+  <string name="test_speed_result">Resultats de la prova</string>
   <string name="text_showmore_infoflow">Mostra més fonts</string>
   <string name="third_web_cancel">Cancel·la</string>
   <string name="third_web_confirm">D\'acord</string>
@@ -379,6 +388,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="third_web_filesize">Mida</string>
   <string name="third_web_savepath">Ubicació</string>
   <string name="third_web_title">Baixa</string>
+  <string name="time_consume">Durada</string>
   <string name="title_homepage_infoflow">Actualitzacions recents</string>
   <string name="title_tips">Atenció</string>
   <string name="title_unbind_xunlei">Treure el teu compte Xunlei</string>
