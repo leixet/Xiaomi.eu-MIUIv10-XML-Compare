@@ -107,6 +107,8 @@
   <string name="permission_description_summary_generic">Les aplicacions amb aquest permís poden %1$s</string>
   <string name="permission_description_summary_microphone">Les aplicacions amb aquest permís poden enregistrar àudio</string>
   <string name="permission_description_summary_phone">Les aplicacions amb aquest permís poden fer i gestionar trucades telefòniques</string>
+  <string name="permission_description_summary_sms">Les aplicacions amb aquest permís poden enviar i rebre missatges SMS</string>
+  <string name="permission_description_summary_storage">Les aplicacions amb aquest permís poden accedir a fotos, multimèdia i arxius del vostre dispositiu</string>
   <string name="permission_group_title_charges_related">Càrrecs</string>
   <string name="permission_group_title_media_related">Multimèdia</string>
   <string name="permission_group_title_privacy_related">Privadesa</string>
