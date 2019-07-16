@@ -634,6 +634,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gràfic</item>
         <item>Percentatge</item>
+        <item>Percentage (next to the icon)</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Cap</item>
