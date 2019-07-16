@@ -113,7 +113,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_toast_deny">Inicia sessió amb el vostre compte Mi</string>
   <string name="micloud_confusion_yes">Sí</string>
   <string name="micloud_detail_fail">"No s'ha pogut sincronitzar"</string>
-  <string name="micloud_detail_not_syncable">No es pot sincronitzar</string>
   <string name="micloud_detail_query_error">"No es pot obtenir l'estat de sincronització"</string>
   <string name="micloud_dspt">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
@@ -152,7 +151,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_find_device_verify_close">Desactiva troba el dispositiu</string>
   <string name="micloud_find_device_verify_fail">"No es pot reactivar troba el dispositiu"</string>
   <string name="micloud_find_device_verify_progress">S\'està reactivant troba el dispositiu…</string>
-  <string name="micloud_main_button_set_internet">Configuració</string>
   <string name="micloud_main_head_menu_cloud_backup">Còpia de seguretat de la pantalla d\'inici</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Cerca el dispositiu no es troba disponible al segon espai, podeu utilitzar-lo al primer espai.</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaura els elements suprimits</string>
@@ -163,8 +161,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_main_manual_sync">Sincronitzeu manualment</string>
   <string name="micloud_main_memory_low_title">"No hi ha prou espai"</string>
   <string name="micloud_main_network_error">"No s'ha pogut connectar a la xarxa "</string>
-  <string name="micloud_main_simple_last_sync_time">Hora de la darrera sincronització： %s</string>
-  <string name="micloud_main_simple_off">Sincronització desactivada</string>
   <string name="micloud_main_sync_mode_summary">Sincronitza la majoria d\'elements quan el carregador està connectat i la pantalla aturada</string>
   <string name="micloud_main_sync_mode_title">Sincronització amb estalvi d\'energia</string>
   <string name="micloud_main_wait_charge">Per reprendre la sincronització, carregueu completament el dispositiu.</string>
