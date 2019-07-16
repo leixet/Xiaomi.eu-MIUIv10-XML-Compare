@@ -110,12 +110,12 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="one">S\'ha consumit un %2$d%% de la bateria en el darrer %1$d minut</item>
     </plurals>
     <plurals name="people">
-        <item quantity="one">Baixat per %1$d persona</item>
         <item quantity="other">Baixat per %1$d persones</item>
+        <item quantity="one">Baixat per %1$d persona</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="one">Baixat per %1$d persona</item>
         <item quantity="other">Baixat per %1$d persones</item>
+        <item quantity="one">Baixat per %1$d persona</item>
     </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d persones estan jugant</item>
@@ -326,7 +326,7 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="one">S\'ha registrat %d vegada</item>
     </plurals>
     <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="one">%1$s:</item>
         <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
     </plurals>
 </resources>
