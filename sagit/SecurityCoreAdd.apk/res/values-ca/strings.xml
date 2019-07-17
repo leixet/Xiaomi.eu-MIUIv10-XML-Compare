@@ -21,6 +21,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="can_not_delete_when_calling">"No es poden eliminar espais durant una trucada"</string>
   <string name="can_not_switch_when_calling">"No es pot canviar d'espai durant una trucada"</string>
   <string name="can_not_switch_when_green_kid_active">El canvi al segon espai està restringit pels controls parentals</string>
+  <string name="can_not_switch_when_super_power_active">"No es pot permutar els espais mentre l'estalvi de bateria Ultra estigui activat"</string>
   <string name="cancelClosePassword">"No apagueu"</string>
   <string name="cancel_button">Cancel·la</string>
   <string name="changePassword">Canvieu la contrasenya</string>
