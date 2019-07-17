@@ -474,6 +474,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="inactive_app_active_summary">Aplicació activa. Premeu per desactivar-la.</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No es pot permutar els espais mentre l'estalvi de bateria Ultra estigui activat"</string>
   <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
   <string name="invalid_charger">"Càrrega USB no suportada.
