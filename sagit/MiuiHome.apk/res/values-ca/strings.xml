@@ -306,6 +306,7 @@
   <string name="uninstall_xspace_dialog_title_format">Desinstal·lació de l\'aplicació duplicada \"%s\"</string>
   <string name="unknown_artist_name">Artista desconegut</string>
   <string name="unnamed_folder_name">Carpeta</string>
+  <string name="unstable_dialog_content">"Aquesta és una versió prèvia de la imatge del sistema Android i no està tancada. Utilitzant aquesta imatge del sistema s'aplica l'acord de llicència prèvia de l'SDK d'Android. La imatge prèvia del sistema és una versió inestable, pot incloure errors i defectes que podrien danyar els vostres sistemes, equips i dades. La imatge prèvia del sistema Android no s'ha verificat tant com la versió de fàbrica i podria fer que aquest dispositiu, serveis instal·lats o determinades aplicacions deixin de funcionar."</string>
   <string name="wallpaper">Fons de pantalla</string>
   <string name="wallpaper_auto_change_title">Bloqueja la pantalla</string>
   <string name="wallpaper_failed_message">"No es pot aplicar el fons de pantalla"</string>
