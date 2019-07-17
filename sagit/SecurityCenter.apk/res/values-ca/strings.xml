@@ -1851,6 +1851,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="summary_virus_cloudscan">Puja noms i detalls d\'aplicacions i escanejar utilitzant definicions de virus en línia</string>
   <string name="summary_virus_update">Obtenir les últimes definicions de virus automàticament</string>
   <string name="summary_xiaomi_roaming">0,01 iuans per MB de trànsit de la xarxa internacional.</string>
+  <string name="superpower_dialog_button_disable_dialog">"No ho tornis a mostrar"</string>
+  <string name="superpower_dialog_button_ok">D\'acord</string>
   <string name="support_game_booster_tips">Augmenta la velocitat i millora el rendiment de joc</string>
   <string name="sys_app_prot_cracked_confirm">D\'acord</string>
   <string name="sys_cpu_title">Ús de la CPU</string>
