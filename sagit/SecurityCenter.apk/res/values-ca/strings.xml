@@ -1853,6 +1853,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="summary_xiaomi_roaming">0,01 iuans per MB de trànsit de la xarxa internacional.</string>
   <string name="superpower_dialog_button_disable_dialog">"No ho tornis a mostrar"</string>
   <string name="superpower_dialog_button_ok">D\'acord</string>
+  <string name="superpower_dialog_massage">"L'estalvi de bateria Ultra restringeix la majoria de característiques que consumeixen energia i redueix les funcions del dispositiu fins deixar-ne només les bàsiques (com les trucades, els SMS i la connexió a la xarxa), per allargar al màxim la seva disponibilitat. Voleu activar l'estalvi d'energia Ultra?"</string>
   <string name="support_game_booster_tips">Augmenta la velocitat i millora el rendiment de joc</string>
   <string name="sys_app_prot_cracked_confirm">D\'acord</string>
   <string name="sys_cpu_title">Ús de la CPU</string>
