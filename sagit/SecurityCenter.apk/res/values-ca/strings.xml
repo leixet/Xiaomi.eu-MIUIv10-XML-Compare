@@ -1877,6 +1877,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="superpower_settins_autoleave_summary">Desactiva l\'estalvi de bateria Ultra automàticament quan la bateria arribi al 50% de càrrega</string>
   <string name="superpower_settins_autoleave_title">Desactiva automàticament</string>
   <string name="superpower_settins_other">Configuració addicional</string>
+  <string name="superpower_settins_switch_summary">Restringeix la majoria de característiques que consumeixen energia per fer que les funcions bàsiques (trucades, SMS i aplicacions seleccionades) estiguin disponibles el màxim temps possible</string>
   <string name="support_game_booster_tips">Augmenta la velocitat i millora el rendiment de joc</string>
   <string name="sys_app_prot_cracked_confirm">D\'acord</string>
   <string name="sys_cpu_title">Ús de la CPU</string>
