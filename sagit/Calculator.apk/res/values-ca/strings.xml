@@ -34,6 +34,7 @@
   <string name="chinese_character_younger_brother">弟</string>
   <string name="chinese_character_younger_sister">妹</string>
   <string name="choose_currency">Trieu una moneda</string>
+  <string name="choose_radix">Seleccioneu la base numèrica</string>
   <string name="choose_unit">Trieu una unitat</string>
   <string name="city">Ciutat</string>
   <string name="clear">C</string>
@@ -45,6 +46,7 @@
   <string name="convertion_unit">Convertidor d\'unitats</string>
   <string name="convertion_unit_area">Convertidor d\'àrees</string>
   <string name="convertion_unit_length">Convertidor de longitud</string>
+  <string name="convertion_unit_radix">Base numèrica</string>
   <string name="convertion_unit_temperature">Convertidor de temperatura</string>
   <string name="convertion_unit_time">Convertidor de temps</string>
   <string name="convertion_unit_velocity">Convertidor de velocitat</string>
@@ -144,6 +146,7 @@
   <string name="item_title_dress_size">Talla de roba</string>
   <string name="item_title_length_conversion">Longitud</string>
   <string name="item_title_mortgage">Hipoteca</string>
+  <string name="item_title_radix">Base numèrica</string>
   <string name="item_title_relationship">Termes de parentiu</string>
   <string name="item_title_scientific_calculator">Científica</string>
   <string name="item_title_tax">Impostos</string>
@@ -155,6 +158,12 @@
   <string name="item_title_weight_conversion">Pes</string>
   <string name="leftParen">(</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
+  <string name="letter_a">A</string>
+  <string name="letter_b">B</string>
+  <string name="letter_c">C</string>
+  <string name="letter_d">D</string>
+  <string name="letter_e">E</string>
+  <string name="letter_f">F</string>
   <string name="lg">log</string>
   <string name="lgDesc">logaritme</string>
   <string name="lg_mathematical_value">log</string>
@@ -328,6 +337,8 @@
   <string name="unit_data_default_currency_2">EUR</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
+  <string name="unit_data_default_radix_0">10</string>
+  <string name="unit_data_default_radix_1">2</string>
   <string name="unit_data_default_temperature_0">C</string>
   <string name="unit_data_default_temperature_1">F</string>
   <string name="unit_data_default_time_0">min</string>
