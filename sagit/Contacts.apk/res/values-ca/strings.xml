@@ -1002,6 +1002,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="shortcutContact">Contacte</string>
   <string name="shortcutDialContact">"Marcatge directa"</string>
   <string name="shortcutMessageContact">Missatge directe</string>
+  <string name="shortcut_new_contact_label">Nou contacte</string>
+  <string name="shortcut_scan_label">Escaneja tarja d\'empresa</string>
   <string name="showAllContactsJoinItem">Mostra tots els contactes</string>
   <string name="simContacts_airplaneMode">Per importar els contactes de la targeta SIM, desactivar el mode avió</string>
   <string name="simContacts_empty">No hi ha contactes a la targeta SIM</string>
