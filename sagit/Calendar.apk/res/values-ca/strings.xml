@@ -409,6 +409,7 @@
   <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
   <string name="preferences_notification_ringtone_title">So</string>
   <string name="preferences_popup_alert_smart_summary">MIUI identificarà automàticament els esdeveniments més rellevants</string>
+  <string name="preferences_popup_alert_smart_summary_new">Els esdeveniments temporals són els lligats a una hora exacta</string>
   <string name="preferences_title">Calendari</string>
   <string name="preferences_use_home_tz_descrip">Mostra els calendaris i les hores dels esdeveniments en el vostre propi fus horari quan viatgeu</string>
   <string name="preferences_use_home_tz_title">Utilitza el fus horari propi</string>
