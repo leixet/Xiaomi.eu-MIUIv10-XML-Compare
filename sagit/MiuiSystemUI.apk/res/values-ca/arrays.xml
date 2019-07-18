@@ -186,6 +186,7 @@
         <item>com.xiaomi.gameboosterglobal</item>
         <item>com.google.android.dialer</item>
         <item>com.miui.miservice</item>
+        <item>com.miui.mishare.connectivity</item>
     </string-array>
     <string-array name="config_allowKeyguardPackages">
         <item>com.google.android.apps.messaging</item>
@@ -254,6 +255,8 @@
         <item>edu.okstate.membership</item>
         <item>com.milink.service</item>
         <item>com.xiaomi.account</item>
+        <item>com.zing.zalo</item>
+        <item>com.miui.mishare.connectivity</item>
     </string-array>
     <string-array name="config_canShowBadgePackages">
         <item>com.google.android.apps.messaging</item>
