@@ -17,6 +17,10 @@
         <item quantity="other">%d segons</item>
         <item quantity="one">%d segon</item>
     </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">S\'ha modificat l\'interval de repetició a %d minuts</item>
+        <item quantity="one">S\'ha modificat l\'interval de repetició a %d minut</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Ajorna %d mins</item>
         <item quantity="one">Ajorna %d min</item>
