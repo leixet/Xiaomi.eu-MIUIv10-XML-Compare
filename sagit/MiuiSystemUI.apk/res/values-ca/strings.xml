@@ -543,6 +543,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_indication_charging_time">S\'està carregant (%s fins el màxim)</string>
   <string name="keyguard_indication_charging_time_fast">Càrrega lenta (%s fins el màxim)</string>
   <string name="keyguard_indication_charging_time_slowly">Càrrega lenta (%s fins el màxim)</string>
+  <string name="keyguard_left_view_lock_wallpaper">Cavallets de fons de pantalla</string>
   <string name="keyguard_low_battery">Connecteu el vostre carregador.</string>
   <string name="keyguard_password_enter_password_code">Introduïu la contrasenya per desblocar</string>
   <string name="keyguard_password_enter_pin_password_code">Introduïu el PIN per desbloquejar</string>
@@ -566,6 +567,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
   <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode d\'avió</string>
+  <string name="lock_screen_magazine_default_title">Cavallets de fons de pantalla</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Més</string>
   <string name="lock_screen_no_sim_card_emergency_only">Només trucades d\'emergència</string>
   <string name="lockscreen_access_pattern_area">Àrea del patró.</string>
