@@ -100,6 +100,7 @@
   <string name="open_btn_start">Activa els cavallets de fons de pantalla</string>
   <string name="open_des">Activeu els cavallets de fons de pantalla per tenir diàriament imatges i històries actuals recollides en la vostra pantalla blocada.</string>
   <string name="open_sub_title">Seleccioneu les categories</string>
+  <string name="open_title">Cavallets de fons de pantalla</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_captcha_title">Captcha</string>
   <string name="passport_close">Tanca</string>
@@ -126,6 +127,7 @@
   <string name="save_to_album">Desat a la galeria amb èxit</string>
   <string name="save_to_album_fail">"No s'ha pogut desar"</string>
   <string name="select_package">Seleccioneu una versió</string>
+  <string name="setting_about_item_title">Quant als cavallets de fons de pantalla</string>
   <string name="setting_head">Configuració</string>
   <string name="settings">Configuració</string>
   <string name="share">Comparteix</string>
