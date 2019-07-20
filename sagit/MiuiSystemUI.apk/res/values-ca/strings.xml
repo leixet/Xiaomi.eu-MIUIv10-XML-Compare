@@ -51,10 +51,12 @@
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_divider">Divisor de pantalla dividida</string>
   <string name="accessibility_drag_hint_message">Arrossegueu elements a la part superior de la pantalla</string>
+  <string name="accessibility_enter_lock_wallpaper">Premeu per obrir els cavallets de fons de pantalla</string>
   <string name="accessibility_ethernet_connected">Connectat a Ethernet.</string>
   <string name="accessibility_ethernet_disconnected">Desconnectat d\'Ethernet.</string>
   <string name="accessibility_home">Casa</string>
   <string name="accessibility_ime_switch_button">Canvia el botó de mètode d\'entrada.</string>
+  <string name="accessibility_left_lock_screen_magazine_button">Cavallets de fons de pantalla</string>
   <string name="accessibility_managed_profile">Perfil de feina</string>
   <string name="accessibility_menu">Menú</string>
   <string name="accessibility_no_battery">No hi ha bateria.</string>
@@ -568,6 +570,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode d\'avió</string>
   <string name="lock_screen_magazine_default_title">Cavallets de fons de pantalla</string>
+  <string name="lock_screen_magazine_label">Obre els cavallets de fons de pantalla</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Més</string>
   <string name="lock_screen_no_sim_card_emergency_only">Només trucades d\'emergència</string>
   <string name="lockscreen_access_pattern_area">Àrea del patró.</string>
@@ -688,6 +691,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="oldman_incall_text">Torna a la trucada</string>
   <string name="open_camera_hint_text">Llisqueu a l\'esquerra per obrir la càmera</string>
   <string name="open_extreme_power_save_mode_title">Activa l\'estalvi extrem de bateria</string>
+  <string name="open_lock_screen_magazine_hint_text">Arrossega la icona per obrir els cavallets de fons de pantalla</string>
   <string name="open_remote_center_hint_text">Llisqueu a la dreta per obrir les dreceres</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="phone_hint">Llisqueu des de la icona per fer trucades</string>
