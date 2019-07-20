@@ -46,6 +46,7 @@
   <string name="other_settings_ad_enable_summary">Rebeu anuncis personalitzats segons les dades del comportament</string>
   <string name="other_settings_auto_update">Actualització automàtica</string>
   <string name="other_settings_auto_update_summary">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
+  <string name="other_settings_enhanced_lockscreen">Cavallets de fons de pantalla</string>
   <string name="other_settings_location">Ubicació</string>
   <string name="other_settings_location_summary">Permet a les aplicacions que accedeixin a la ubicació</string>
   <string name="other_settings_upload_debug_log_summary">Les estadístiques d\'ús que ens ajuden a localitzar i resoldre problemes poden contenir informació personal</string>
