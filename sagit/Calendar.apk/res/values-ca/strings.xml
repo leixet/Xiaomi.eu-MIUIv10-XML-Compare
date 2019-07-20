@@ -409,6 +409,7 @@
   <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
   <string name="preferences_notification_ringtone_title">So</string>
   <string name="preferences_popup_alert_smart_summary">MIUI identificarà automàticament els esdeveniments més rellevants</string>
+  <string name="preferences_popup_alert_smart_tips">"Substituïu les notificacions tradicionals per finestres emergents d'alerta per no perdre's els esdeveniments importants. Les finestres emergents no apareixerien si esteu jugant, mirant vídeos a pantalla completa o utilitzant el mode cotxe."</string>
   <string name="preferences_title">Calendari</string>
   <string name="preferences_use_home_tz_descrip">Mostra els calendaris i les hores dels esdeveniments en el vostre propi fus horari quan viatgeu</string>
   <string name="preferences_use_home_tz_title">Utilitza el fus horari propi</string>
