@@ -11,6 +11,7 @@
   <string name="abc_capital_on">ACTIVA</string>
   <string name="abc_searchview_description_submit">Envia la consulta</string>
   <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="about_newest">Els cavallets de fons de pantalla estan actualitzats.</string>
   <string name="add_launch_hint_text">Afegeix una drecera de pantalla d\'inici</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora la versió</string>
   <string name="app_self_upgrade_dlg_negative_btn">Més tard</string>
@@ -25,9 +26,13 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancel_international">Cancel·la</string>
   <string name="cancel_lockscreen">Cancel·la</string>
+  <string name="carousel_declaration_btn_text">Activa els cavallets de fons de pantalla</string>
+  <string name="carousel_declaration_cta_btn_text">Acord i activació</string>
   <string name="carousel_declaration_des">Vegeu llocs bonics i obtingueu sorpreses emocionants amb el carrusel de fons de pantalla</string>
+  <string name="carousel_declaration_des2">Afegiu les vostres imatges als cavallets de fons de pantalla</string>
   <string name="carousel_declaration_des_new">Rebeu diàriament recomanacions personalitzades i trieu imatges i històries actuals recollides en la vostra pantalla blocada.</string>
   <string name="carousel_declaration_title">Subscriviu-vos a meravellosos fons de pantalla</string>
+  <string name="carousel_declaration_title_new">Fons de pantalla actuals cada dia</string>
   <string name="carousel_suggest">Atenció</string>
   <string name="carousel_suggest1">Obtén nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
   <string name="carousel_suggest2">Està activat el carrusel de fons de pantalla?</string>
@@ -52,6 +57,7 @@
   <string name="detail_toast_deny_favor">"No es pot afegir a preferits."</string>
   <string name="detail_toast_dislike_fail">"No s'ha pogut esborrar."</string>
   <string name="dislike">Elimina</string>
+  <string name="explorer_activity_title">Cavallets de fons de pantalla</string>
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="favor_list_no_data">Aquí no hi ha cap element.</string>
   <string name="feed_article_entrance_about">Quant a %s</string>
@@ -64,6 +70,7 @@
   <string name="llks_pop_i_know">Entesos</string>
   <string name="llks_pop_top_des_backup">Lliurat a la vostra pantalla cada dia</string>
   <string name="llks_setting_view_title">Pantalla addicional</string>
+  <string name="llks_tools_gallery_name">Cavallets de fons de pantalla</string>
   <string name="load_hdpicture_complete">S\'ha carregat la imatge original amb èxit</string>
   <string name="lockscreen_h5_back_tv">Enrera</string>
   <string name="lockscreen_h5_close_tv">Desactivat</string>
@@ -73,7 +80,9 @@
   <string name="lockscreen_magazine_system_title">Per defecte</string>
   <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
   <string name="minutes_15">15 minuts</string>
+  <string name="mode_des">Els cavallets de fons de pantalla ja us mostren recomanacions. Arrossegueu la barra lliscant per poder veure els vostres temes seleccionats.</string>
   <string name="more_article">Més articles</string>
+  <string name="need_open_gallery">Activa els cavallets de fons de pantalla</string>
   <string name="no_long_show">"No mostrar de nou"</string>
   <string name="no_networdk">"No s'ha pogut connectar a la xarxa"</string>
   <string name="no_pic_data">"No s'han pogut trobar les imatges"</string>
@@ -81,7 +90,8 @@
   <string name="ok_international">D\'acord</string>
   <string name="ok_lockscreen">D\'acord</string>
   <string name="ok_network">D\'acord</string>
-  <string name="open_des">Activeu els Cavallets de fons de pantalla per tenir diàriament imatges i històries actuals recollides en la vostra pantalla blocada.</string>
+  <string name="open_btn_start">Activa els cavallets de fons de pantalla</string>
+  <string name="open_des">Activeu els cavallets de fons de pantalla per tenir diàriament imatges i històries actuals recollides en la vostra pantalla blocada.</string>
   <string name="open_sub_title">Seleccioneu les categories</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_captcha_title">Captcha</string>
