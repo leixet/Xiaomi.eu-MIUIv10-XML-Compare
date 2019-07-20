@@ -369,6 +369,7 @@
   <string name="pref_title_choose_engine">Definicions</string>
   <string name="pref_title_clean_alert">Neteja automàticament</string>
   <string name="pref_title_cleanup_white_list">Excepcions</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Mostra la drecera a la pantalla d\'inici</string>
   <string name="pref_title_expand_cache_group">Mostra els elements en memòria cau</string>
   <string name="pref_title_garbage_cleanup_check_size">Quantitat màxima de brossa</string>
   <string name="pref_title_garbage_cleanup_check_time">Programa</string>
