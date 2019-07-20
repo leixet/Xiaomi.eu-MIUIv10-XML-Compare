@@ -193,6 +193,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_f2_capture_fail">Ha fallat la captura, torneu-ho a provar!</string>
   <string name="cit_f2_capture_success">Cliqueu el botó de calibratge!</string>
   <string name="cit_fail">Ha fallat</string>
+  <string name="cit_fast_screen_touch_check_title">Prova de validació de toc ràpid de pantalla</string>
   <string name="cit_finger_check_title">Prova d\'empremta (FPC)</string>
   <string name="cit_flash_life_check_summary">Temps estimat de vida del flaix del dispositiu</string>
   <string name="cit_flash_life_check_title">Vida del flaix</string>
@@ -565,6 +566,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
   <string name="title_farr">Prova FAR i FRR</string>
   <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
+  <string name="touch_self">No toqueu la pantalla mentre duri la prova…</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>
   <string name="waiting">S\'està esperant 4 secs.</string>
