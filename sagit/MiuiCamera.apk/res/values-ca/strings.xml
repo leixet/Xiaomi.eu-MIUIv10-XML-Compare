@@ -352,7 +352,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_snap_entry_take_picture">Dispara foto</string>
   <string name="pref_camera_snap_label_take_movie">Vídeo</string>
   <string name="pref_camera_snap_label_take_picture">Foto</string>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode disparar ràpid mentre \"Activa amb els botons de volum\" estigui actiu."</string>
   <string name="pref_camera_sound_title">Sons de càmera</string>
   <string name="pref_camera_square_mode_title">Quadrat</string>
   <string name="pref_camera_stereo_mode_title">Ajust del focus</string>
