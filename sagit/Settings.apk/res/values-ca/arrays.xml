@@ -297,6 +297,7 @@
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Desactiva els còdecs opcionals</item>
+        <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -308,6 +309,7 @@
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Desactiva els còdecs opcionals</item>
+        <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
