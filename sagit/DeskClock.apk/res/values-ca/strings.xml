@@ -102,8 +102,8 @@
   <string name="menu_item_sort_by_gmt_offset">Ordena per hora</string>
   <string name="menu_item_sort_by_name">Ordena pel nom</string>
   <string name="module_download_cancel">No, gràcies</string>
-  <string name="module_download_data_msg">El rellotge necessita connectar-se a Internet per baixar fitxers d\'àudio (20 Mb) per sorolls ambientals i alarmes intel·ligents. Esteu utilitzant dades mòbils ara. Ho voleu permetre?</string>
-  <string name="module_download_data_msg_golbal">El rellotge necessita baixar fitxers d\'àudio (20 Mb) per sorolls ambientals i alarmes intel·ligents. Esteu utilitzant dades mòbils ara. Ho veleu permetre?</string>
+  <string name="module_download_data_msg">Per disposar dels sons d\'alarma MIUI, el rellotge baixarà fitxers d\'àudio. Els sons de les alarmes intel·ligents inclouen la previsió actualitzada del temps. Calen uns 20Mb de dades mòbils. Ho voleu permetre?</string>
+  <string name="module_download_data_msg_golbal">Per disposar de les alarmes intel·ligents cal que el rellotge baixi fitxers d\'àudio. Calen uns 20Mb de dades mòbils. Ho voleu permetre?</string>
   <string name="module_download_fail">"No s'ha pogut baixar cap àudio addicional"</string>
   <string name="module_download_msg">El rellotge necessita connectar-se a Internet per baixar fitxers d\'àudio per a sorolls ambientals i alarmes intel·ligents. Ho voleu permetre?</string>
   <string name="module_download_msg_golbal">El rellotge necessita baixar fitxers d\'àudio per a sorolls ambientals i alarmes intel·ligents. Ho voleu permetre?</string>
