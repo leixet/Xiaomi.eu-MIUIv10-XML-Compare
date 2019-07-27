@@ -29,14 +29,14 @@
   <string name="cancel_lockscreen">Cancel·la</string>
   <string name="carousel_declaration_btn_text">Activa els cavallets de fons de pantalla</string>
   <string name="carousel_declaration_cta_btn_text">Acord i activació</string>
-  <string name="carousel_declaration_des">Vegeu llocs bonics i obtingueu sorpreses emocionants amb els Caballets de fons de pantalla</string>
+  <string name="carousel_declaration_des">Vegeu llocs bonics i obtingueu sorpreses emocionants amb el carrusel de fons de pantalla</string>
   <string name="carousel_declaration_des2">Afegiu les vostres imatges als cavallets de fons de pantalla</string>
   <string name="carousel_declaration_des_new">Rebeu diàriament recomanacions personalitzades i trieu imatges i històries actuals recollides en la vostra pantalla blocada.</string>
   <string name="carousel_declaration_title">Subscriviu-vos a meravellosos fons de pantalla</string>
   <string name="carousel_declaration_title_new">Fons de pantalla actuals cada dia</string>
   <string name="carousel_suggest">Atenció</string>
   <string name="carousel_suggest1">Obtén nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
-  <string name="carousel_suggest2">Està activat el carrusel de fons de pantalla?</string>
+  <string name="carousel_suggest2">Estan activats els Cavallets de fons de pantalla?</string>
   <string name="change_time">Canvia el període</string>
   <string name="comment_pop_cancel">Ara no</string>
   <string name="comment_pop_content">Envieu un comentari si us agraden els cavallets de fons de pantalla!</string>
