@@ -53,7 +53,7 @@
   <string name="delete_timezone_title">Elimina la zona horària</string>
   <string name="dialog_confirm_abort">Voleu descartar els canvis?</string>
   <string name="dialog_message_agree">D\'acord</string>
-  <string name="dialog_message_for_contact_permission">Per fer que les alarmes d\'aniversari estiguin disponibles, el rellotge necessita accedir als vostres contactes. Hi esteu d\'acord?</string>
+  <string name="dialog_message_for_contact_permission">Per disposar de les alarmes d\'aniversari, el rellotge ha d\'accedir als contactes. Hi esteu d\'acord?</string>
   <string name="dialog_message_negative">"No hi estic d'acord"</string>
   <string name="dialog_message_not_remind">"No ho tornis a mostrar"</string>
   <string name="dialog_privacy_content_global">Per a gaudir de serveis personalitzats el Rellotge s\'ha de connectar a internet. També heu de llegir i acceptar la %1$s i l\' %2$s. Hi esteu d\'acord?</string>
