@@ -106,7 +106,7 @@
   <string name="open_guid_des">Aneu a Configuració &gt; Permisos &gt; Altres permisos &gt; Cavallets de fons de pantalla i doneu a l\'aplicació els permisos que demani.</string>
   <string name="open_sub_title">Seleccioneu les categories</string>
   <string name="open_title">Cavallets de fons de pantalla</string>
-  <string name="open_unable">"Els Cavallets de fons de pantalla només funcionen en el blocat de pantalla per defecte de MIUI."</string>
+  <string name="open_unable">"Els Cavallets de fons de pantalla només funcionen en el blocatge de pantalla per defecte de MIUI."</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_captcha_title">Captcha</string>
   <string name="passport_close">Tanca</string>
@@ -135,6 +135,7 @@
   <string name="scribe_title1">Subscriviu-vos als Cavallets de fons de pantalla</string>
   <string name="select_package">Seleccioneu una versió</string>
   <string name="setting_about_item_title">Quant als Cavallets de fons de pantalla</string>
+  <string name="setting_des">Podeu seleccionar les vostres imatges a Configuració &gt; Pantalla de blocatge &amp; contrasenya &gt; Cavallets de fons de pantalla</string>
   <string name="setting_head">Configuració</string>
   <string name="settings">Configuració</string>
   <string name="share">Comparteix</string>
@@ -169,12 +170,13 @@
   <string name="theme_applying">Aplicant&#8230;</string>
   <string name="theme_close_maml">Les imatges dels Cavallets de fons de pantalla substituiran el fons de pantalla quan estigui blocada.</string>
   <string name="theme_des">Aplica el tema per defecte i torna a activar els Cavallets de fons de pantalla.</string>
-  <string name="theme_des_lock_style">Aplica el blocat de pantalla per defecte i torna a activar els Cavallets de fons de pantalla.</string>
+  <string name="theme_des_lock_style">Aplica el blocatge de pantalla per defecte i torna a activar els Cavallets de fons de pantalla.</string>
   <string name="theme_title_lock_style">Canvia a la pantalla de blocatge per defecte</string>
   <string name="theme_title_subscribe">Subscriviu-vos als Cavallets de fons de pantalla</string>
   <string name="time_current">Ara mateix</string>
-  <string name="uninstall_introducation_text_desc">Els Cavallets de fons de pantalla aporten directament a la vostra pantalla de blocat imatges noves i de qualitat. Assegureu-vos que no les voleu abans de desinstal·lar l\'aplicació.</string>
+  <string name="uninstall_introducation_text_desc">Els Cavallets de fons de pantalla aporten directament a la vostra pantalla blocada imatges noves i de qualitat. Assegureu-vos que no les voleu abans de desinstal·lar l\'aplicació.</string>
   <string name="uninstall_introduction_text_title">Quant als Cavallets de fons de pantalla</string>
+  <string name="uninstall_warning_text_desc">"Sense els Cavallets de fons de pantalla no podreu rebre regularment nous fons de pantalla per quan estigui blocada. Altrament, podreu baixar i tornar a instal·lar l'aplicació. Voleu suprimir els Cavallets de fons de pantalla?"</string>
   <string name="uninstall_warning_text_title">Esborrant els Cavallets de fons de pantalla</string>
   <string name="wlan_download">Només Wi-Fi</string>
   <string name="wlan_download_cn">Actualització a través de Wi-Fi</string>
