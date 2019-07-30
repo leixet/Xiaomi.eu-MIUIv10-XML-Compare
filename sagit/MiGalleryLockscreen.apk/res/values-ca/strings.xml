@@ -28,6 +28,7 @@
   <string name="cancel_international">Cancel·la</string>
   <string name="cancel_lockscreen">Cancel·la</string>
   <string name="carousel_declaration_btn_text">Activa els cavallets de fons de pantalla</string>
+  <string name="carousel_declaration_cta">"Els Cavallets de fons de pantalla necessiten accedir a internet per funcionar normalment. Per utilitzar els continguts de la xarxa heu d'acceptar la nostra &lt;a href='%s'&gt;Política de privadesa&lt;/a&gt;. Hi esteu d'acord?"</string>
   <string name="carousel_declaration_cta_btn_text">Acord i activació</string>
   <string name="carousel_declaration_des">Vegeu llocs bonics i obtingueu sorpreses emocionants amb el carrusel de fons de pantalla</string>
   <string name="carousel_declaration_des2">Afegiu les vostres imatges als cavallets de fons de pantalla</string>
@@ -70,9 +71,11 @@
   <string name="feed_article_entrance_about">Quant a %s</string>
   <string name="find_psw">Contrasenya oblidada</string>
   <string name="from_migallerylockscreen">Vénen dels cavallets de fons de pantalla Mi</string>
+  <string name="get_account_no_permission">Permeteu als Cavallets de fons de pantalla l\'accés als comptes d\'aquest dispositiu abans que inicieu la sessió.</string>
   <string name="history_list_no_data">Aquí no hi ha cap element</string>
   <string name="hour_1">Cada hora</string>
   <string name="hour_3">Cada 3 hores</string>
+  <string name="idbct_desc">Configureu els Cavallets de fons de pantalla segons el tipus de xarxa</string>
   <string name="like">Afegeix als preferits</string>
   <string name="liked">Afegit als preferits</string>
   <string name="llks_pop_i_know">Entesos</string>
