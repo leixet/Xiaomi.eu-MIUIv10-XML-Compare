@@ -168,9 +168,12 @@
   <string name="theme_apply_success">S\'ha aplicat amb èxit</string>
   <string name="theme_applying">Aplicant&#8230;</string>
   <string name="theme_close_maml">Les imatges dels Cavallets de fons de pantalla substituiran el fons de pantalla quan estigui blocada.</string>
+  <string name="theme_des">Aplica el tema per defecte i torna a activar els Cavallets de fons de pantalla.</string>
+  <string name="theme_des_lock_style">Aplica el blocat de pantalla per defecte i torna a activar els Cavallets de fons de pantalla.</string>
   <string name="theme_title_lock_style">Canvia a la pantalla de blocatge per defecte</string>
   <string name="theme_title_subscribe">Subscriviu-vos als Cavallets de fons de pantalla</string>
   <string name="time_current">Ara mateix</string>
+  <string name="uninstall_introducation_text_desc">Els Cavallets de fons de pantalla aporten directament a la vostra pantalla de blocat imatges noves i de qualitat. Assegureu-vos que no les voleu abans de desinstal·lar l\'aplicació.</string>
   <string name="uninstall_introduction_text_title">Quant als Cavallets de fons de pantalla</string>
   <string name="uninstall_warning_text_title">Esborrant els Cavallets de fons de pantalla</string>
   <string name="wlan_download">Només Wi-Fi</string>
