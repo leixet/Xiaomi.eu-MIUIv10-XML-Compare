@@ -349,7 +349,6 @@
   <string name="delete_album_failed">"No s'ha pogut eliminar l'àlbum"</string>
   <string name="delete_album_msg_format">Voleu eliminar \"%2$s\" àlbum %1$s%3$s?</string>
   <string name="delete_album_success">Àlbum eliminat</string>
-  <string name="delete_finish_format">%d eliminat</string>
   <string name="delete_from_all_devices_and_cloud">de tots els dispositius i de Mi Cloud</string>
   <string name="delete_from_cloud">Elimina-ho també del núvol</string>
   <string name="delete_from_devices">Tots els dispositius sincronitzats</string>
