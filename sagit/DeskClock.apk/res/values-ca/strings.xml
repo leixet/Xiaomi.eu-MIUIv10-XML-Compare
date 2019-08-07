@@ -36,6 +36,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="channel_name_alarm">Alarma</string>
   <string name="channel_name_timer">Temporitzador</string>
+  <string name="clock_bg_button_setting_summary_common">Seleccioneu el color de la pantalla de fons de l\'aplicació Rellotge</string>
   <string name="clock_bg_button_setting_title">Color del fons</string>
   <string name="close_alarm">Atura l\'alarma</string>
   <string name="common_settings">Configuració</string>
@@ -118,6 +119,7 @@
   <string name="more_settings">Configuració</string>
   <string name="never">Un cop</string>
   <string name="no_alarm_setting">Aquí no hi ha cap alarma</string>
+  <string name="no_worldclock">Aquí no hi ha cap rellotge</string>
   <string name="oneshot_alarm">Elimina-la en aturar-la</string>
   <string name="open_keep_screen">La pantalla es mantindrà encesa</string>
   <string name="pause">Pausa</string>
@@ -196,6 +198,8 @@
   <string name="workday_alarm_clock">Alarma de dia laboral</string>
   <string name="worldclock_empty_text">Sense rellotges</string>
   <string name="worldclock_input_hint_text">Introduïu la ciutat</string>
+  <string name="worldclock_resident_city_text">Segon rellotge: %s</string>
+  <string name="worldclock_resident_city_text_detail">El rellotge dual està activat</string>
   <string name="worldclock_search_city">Trieu una ciutat</string>
   <string name="worldclock_title">Hora</string>
   <string name="worldclock_world_time">Fus horari</string>
