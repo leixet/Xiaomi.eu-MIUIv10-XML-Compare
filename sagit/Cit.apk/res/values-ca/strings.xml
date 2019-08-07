@@ -569,5 +569,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="touch_self">No toqueu la pantalla mentre duri la prova…</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>
+  <string name="unlock">Desbloca</string>
+  <string name="verified_boot_lock">Blocat</string>
+  <string name="verified_boot_unlock">Desblocat</string>
   <string name="waiting">S\'està esperant 4 secs.</string>
 </resources>
