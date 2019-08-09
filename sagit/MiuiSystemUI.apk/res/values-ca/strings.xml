@@ -180,8 +180,6 @@
   <string name="block_notification_content_text">"%1$s notificacions no es mostraran de nou. Podeu canviar això a la configuració."</string>
   <string name="block_notification_desc">"Les notificacions de l'aplicació no es tornaran a mostrar. Podeu canviar això a la configuració."</string>
   <string name="block_notification_text">​​Amaga</string>
-  <string name="block_record_notification_text">Ocultant notificacions de %1$s.</string>
-  <string name="block_record_notification_title">Notificacions ocultes</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connectat a l\'àudio multimèdia</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilitzar per l\'àudio multimèdia</string>
   <string name="bluetooth_connected">Connectat</string>
@@ -348,7 +346,6 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="development_settings_summary">Defineix les opcions per al desenvolupament d\'aplicacions</string>
   <string name="development_settings_title">Opcions del desenvolupador</string>
   <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
-  <string name="disable_notification_summary">Amaga notificacions d\'aplicacions</string>
   <string name="disable_notification_title">Amaga notificacions</string>
   <string name="disable_overlays">Desactiva les superposicions HW</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
@@ -386,7 +383,6 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
-  <string name="expanded_confirm_disable_notification">Amaga</string>
   <string name="expanded_header_battery_charged">Carregada</string>
   <string name="expanded_header_battery_charging">S\'està carregant</string>
   <string name="expanded_header_battery_charging_with_time">%s fins carregar-se</string>
