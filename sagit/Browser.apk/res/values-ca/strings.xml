@@ -660,8 +660,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dades mòbils) Restableix la %s1 configuració de l\'APN %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Comproveu la %s1 configuració del servidor intermediari %s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache">Esborra la memòria cau (%s1Configuració%s2 - Esborra les dades).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Esborra memòria cau i galetes (%s1Configuració%s2 - Esborra dades, la informació del vostre compte es podria perdre).</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Contacteu amb el vostre administrador del sistema.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">"Comproveu l'adreça que heu introduït i proveu a utilitzar la URL correcta."</string>
