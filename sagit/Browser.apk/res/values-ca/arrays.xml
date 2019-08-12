@@ -62,7 +62,7 @@
         <item>Cap</item>
     </string-array>
     <string-array name="pref_fling_gesture_values">
-        <item>torna_passa</item>
+        <item>back_forward</item>
         <item>switch_tabs</item>
         <item>cap</item>
     </string-array>
