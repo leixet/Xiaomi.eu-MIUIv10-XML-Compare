@@ -83,7 +83,7 @@
   <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
   <string name="data_provided_by">Dades subministrades parcialment per</string>
-  <string name="edit_city">Edita la ciutat</string>
+  <string name="edit_city">Gestiona les ciutats</string>
   <string name="eu_region_version_first_start_network_msg">"En utilitzar aquest producte, accepteu que Xiaomi recopilarà, processarà i utilitzarà informació personal, incloses les coordenades de les ciutats que cerqueu i altres tipus de dades especificades a la nostra política de privadesa. Consulteu la nostra política de privadesa per obtenir informació sobre com recopilem i processem la informació. Si toqueu «D'acord», accepteu la %1$s i %2$s de Xaiomi."</string>
   <string name="feedback_overcast">Cobert</string>
   <string name="feedback_result_fail_no_choice">Trieu el temps que veieu</string>
@@ -132,7 +132,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="no_data">Sense dades</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
-  <string name="open">Obre</string>
+  <string name="open">Obre\'l ara</string>
   <string name="open_browser">Obre al navegador</string>
   <string name="open_now">Obre\'l ara</string>
   <string name="other_settings">Altres configuracions</string>
@@ -161,7 +161,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="real_time_sunrise">Sol ixent %1$s</string>
   <string name="real_time_sunset">Ocàs %1$s</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>
-  <string name="realtime_humidity_title">Humitat relativa</string>
+  <string name="realtime_humidity_title">Humitat</string>
   <string name="realtime_temperature_no_data">N/D</string>
   <string name="realtime_wind_default_title">Vent</string>
   <string name="refresh_fail">"No s'ha pogut connectar a la xarxa"</string>
