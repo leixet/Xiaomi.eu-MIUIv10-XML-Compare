@@ -9,6 +9,8 @@ L\'ID del dispositiu ha de ser un IMEI o adreça MAC vàlida. Sense un ID del di
   <string name="explain_send_sms_permission_button">Verifica</string>
   <string name="explain_send_sms_permission_msg">Per activar %s, el servei de Xiaomi enviarà un SMS per verificar el vostre número de telèfon. Se us cobrarà per l\'SMS enviat segons les tarifes de la vostra operadora.</string>
   <string name="explain_send_sms_permission_title">Verifiqueu el vostre número de telèfon</string>
+  <string name="pop_up_allow_notify_dialog">Permet</string>
+  <string name="pop_up_deny_notify_dialog">Denega</string>
   <string name="sync_notification_title_format">Element de sincronització actual: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">Informació de l\'activació XMSF</string>
