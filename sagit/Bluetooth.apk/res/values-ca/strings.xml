@@ -113,7 +113,6 @@
   <string name="permlab_bluetoothWhitelist">Accés a la llista blanca de dispositius Bluetooth.</string>
   <string name="permlab_handoverStatus">Rep transmissions BT.</string>
   <string name="start_server">Inicia el servidor TCP</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_canceled">L\'usuari ha cancel·lat la transferència.</string>
   <string name="status_connection_error">Connexió incorrecta.</string>
   <string name="status_file_error">Error d\'emmagatzematge.</string>
