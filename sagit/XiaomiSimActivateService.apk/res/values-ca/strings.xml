@@ -108,7 +108,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="app_name">Servei d\'activació SIM de Xiaomi</string>
   <string name="error_checking_client">S\'ha produït un error durant l\'activació</string>
   <string name="error_network_io">S\'ha produït un error de xarxa</string>
-  <string name="error_no_send_sms_permission">El servei Xiaomi d\'activació de SIM necessita permís per enviar SMS</string>
+  <string name="error_no_send_sms_permission">El servei d\'activació SIM Xiaomi necessita permís per enviar SMS</string>
   <string name="error_sim_not_in_service">"No es pot activar la targeta SIM. Assegureu-vos que el vostre saldo sigui suficient."</string>
   <string name="explain_send_sms_permission_button">Verifica</string>
   <string name="explain_send_sms_permission_msg">Per activar %s, el servei Framework de Xiaomi enviarà un SMS per verificar el vostre número de telèfon. Se us cobrarà per l\'SMS enviat segons les tarifes de la vostra companyia.</string>
