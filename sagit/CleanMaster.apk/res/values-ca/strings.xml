@@ -64,7 +64,7 @@
   <string name="button_text_backup_uninstall">Primer fes una còpia de seguretat</string>
   <string name="button_text_cancel">Cancel·la</string>
   <string name="button_text_cleanup">Neteja</string>
-  <string name="button_text_delete_from_white_list">Treu</string>
+  <string name="button_text_delete_from_white_list">Suprimeix</string>
   <string name="button_text_delete_pic">Elimina</string>
   <string name="button_text_deselect_all_photos">Desselecciona-ho tot</string>
   <string name="button_text_group_ignore">Ignora</string>
