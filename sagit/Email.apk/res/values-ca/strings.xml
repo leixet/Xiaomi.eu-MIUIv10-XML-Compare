@@ -644,7 +644,6 @@
   <string name="mibill_privacy_policy_title">Gestiona declaracions de correu electrònic</string>
   <string name="min_payment_text">Pagament mínim</string>
   <string name="more_context">Més</string>
-  <string name="more_string">+ %1$s</string>
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
   <string name="mute">Mut</string>
