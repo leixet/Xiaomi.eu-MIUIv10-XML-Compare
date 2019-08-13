@@ -10,10 +10,6 @@
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
   <string name="abc_capital_off">DESACTIVAT</string>
   <string name="abc_capital_on">ACTIVAT</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Neteja la consulta</string>
   <string name="abc_searchview_description_query">Consulta de cerca</string>
@@ -229,13 +225,6 @@
   <string name="comment_max_length">El vostre comentari és massa llarg.</string>
   <string name="comment_menu">Comentari</string>
   <string name="comment_num_description">Número de comentari</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
-  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
-  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Previ</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
