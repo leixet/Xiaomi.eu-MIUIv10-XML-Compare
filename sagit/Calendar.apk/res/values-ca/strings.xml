@@ -262,8 +262,6 @@
   <string name="global_action_text_card_manager">Més categories</string>
   <string name="global_cricket_no_match">Avui no hi ha competicions de cricket, podeu revisar els aspectes més destacats de les competicions anteriors o proveu un altre partit. Meravellós esdeveniment, val la pena l\'espera!</string>
   <string name="global_football_no_match">No hi ha programat cap partit de futbol per avui.</string>
-  <string name="great_cold">Fred intens</string>
-  <string name="great_cold_tradition">Fred intens</string>
   <string name="guide_card_close">Tanca</string>
   <string name="guide_card_import">Importació</string>
   <string name="guide_card_primary_text">"Importa els aniversaris dels amics"</string>
@@ -398,7 +396,6 @@
   <string name="preferences_default_allday_reminder_title">Hora per defecte del recordatori per tot el dia</string>
   <string name="preferences_default_reminder_default_value">0</string>
   <string name="preferences_default_reminder_dialog">Temps de recordatori per defecte</string>
-  <string name="preferences_default_reminder_later_time_default_value">300000</string>
   <string name="preferences_default_reminder_title">Temps de recordatori per defecte</string>
   <string name="preferences_home_tz_title">Fus horari propi</string>
   <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
@@ -416,7 +413,6 @@
   <string name="refresh">Actualitza</string>
   <string name="refreshing_hint">Un moment…</string>
   <string name="reminder_later">Recorda-m’ho més tard</string>
-  <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminder_overdue">Caducat</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_alarm_changed_event">Estableix un recordatori repetitiu</string>
@@ -467,12 +463,6 @@
   <string name="setting_title_about">Quant a</string>
   <string name="setting_title_holiday_display">Mostra els dies festius</string>
   <string name="share_title">Comparteix</string>
-  <string name="shift_card_edit_reminder">设置提醒</string>
-  <string name="shift_card_reminder_day">本轮第%1$d天</string>
-  <string name="shift_card_set_reminder">点击设置倒班提醒</string>
-  <string name="shift_reminder_item_label">第%1$d天</string>
-  <string name="shift_reminder_switch_label">倒班提醒</string>
-  <string name="shift_reminders_label">每轮倒班提醒</string>
   <string name="show_day_view">Mostra el dia</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
   <string name="start_date_calculate">Calcula</string>
