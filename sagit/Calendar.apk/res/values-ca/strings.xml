@@ -299,7 +299,6 @@
   <string name="item_num_selected">%1$d seleccionat(s)</string>
   <string name="joke_card_icon_text">%1$s les persones riuen</string>
   <string name="life_assistant_group_title">Assistent de vida</string>
-  <string name="limit_card_set_reminder">设置提醒</string>
   <string name="limit_notification_title">您的爱车今日限行</string>
   <string name="limit_reminder_switch_label">限行提醒</string>
   <string name="limit_reminder_time_label">提醒时间</string>
