@@ -13,6 +13,10 @@
         <item quantity="other">%d missatges</item>
         <item quantity="one">%d missatge</item>
     </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notes</item>
+        <item quantity="one">%d nota</item>
+    </plurals>
     <plurals name="dirty_image_count">
         <item quantity="other">%d fotos</item>
         <item quantity="one">%d foto</item>
@@ -59,7 +63,7 @@
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">Fa %s minuts</item>
-        <item quantity="one">Fa %s min</item>
+        <item quantity="one">Fa %s minut</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">Fa %s hores</item>
