@@ -37,7 +37,6 @@
   <string name="account_settings_incoming_summary">Nom d\'usuari, contrasenya i altres configuracions del servidor entrant</string>
   <string name="account_settings_login_dialog_content_fmt">"El nom d\'usuari o la contrasenya per %s són incorrectes.
         Vols actualitzar ara?"</string>
-  <string name="account_settings_login_dialog_reason_fmt">"El teu login a %s ha fallat; el servidor ha dit: %s ¿voleu actualitzar el seu nom d'usuari i/o contrasenya?"</string>
   <string name="account_settings_login_dialog_title">"\"No s'ha pogut iniciar sessió\" "</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Heu d\'actualitzar el correu manualment per sincronitzar els correus electrònics</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">"Quan canvieu al mode manual, cal actualitzar manualment per sincronitzar missatges i calendari"</string>
@@ -233,7 +232,6 @@
   <string name="bill_center_setting">Configuració de la facturació</string>
   <string name="bill_center_setting_head">Importa informació d\'aquests comptes</string>
   <string name="bill_cycle_text">Cicle de facturació</string>
-  <string name="bill_list_card_name_fmt">%s | %s</string>
   <string name="bill_list_card_num_fmt">**** **** **** %s</string>
   <string name="bill_remind">Recordatori d\'amortització</string>
   <string name="bill_remind_due">S\'ha de pagar una amortització a %s, toqueu per veureu-ho</string>
@@ -763,7 +761,6 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="permission_tip">La configuració va fallar, permeteu trucades i Sms durant els permisos de configuració</string>
   <string name="phone">telèfon</string>
   <string name="photo_load_failed">"No s'ha pogut carregar la imatge"</string>
-  <string name="photo_view_count">%d de %d</string>
   <string name="please_fill_in_your_mailbox_information2">Ompliu la informació relacionada amb la bústia:</string>
   <string name="pls_parse_bill_discribe">Analitza factures i informació de viatge al vostre correu per rebre recordatoris de pagaments i viatges</string>
   <string name="policy_app_blacklist">Denegar aplicacions especificades</string>
@@ -915,7 +912,6 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="reply">Respon</string>
   <string name="reply_add_bodycontent">Voleu afegiu la resposta al cos del missatge?</string>
   <string name="reply_all">Respon a tots</string>
-  <string name="reply_attribution">En %s, %s va escriure:</string>
   <string name="report_phishing">Denunciar phishing</string>
   <string name="report_rendering_improvement">Pinta bé</string>
   <string name="report_rendering_improvement_desc">Aquest missatge pinta bé.</string>
