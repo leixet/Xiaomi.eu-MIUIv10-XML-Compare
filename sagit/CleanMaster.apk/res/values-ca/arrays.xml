@@ -25,7 +25,7 @@
         <item>Esborra-ho i avisa\'m</item>
     </string-array>
     <string-array name="wechat_sort">
-        <item>Date</item>
+        <item>Data</item>
         <item>Mida</item>
     </string-array>
 </resources>
