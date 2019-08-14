@@ -57,6 +57,7 @@
   <string name="dialog_message_for_contact_permission">Per disposar de les alarmes d\'aniversari, el rellotge ha d\'accedir als contactes. Hi esteu d\'acord?</string>
   <string name="dialog_message_negative">"No hi estic d'acord"</string>
   <string name="dialog_message_not_remind">"No ho tornis a mostrar"</string>
+  <string name="dialog_privacy_content">Per a oferir informació rellevant de les vacances locals, ajustar les alarmes i proporcionar serveis personalitzats el Rellotge s\'ha de connectar a internet. Abans d\'utilitzar el Rellotge heu de llegir i acceptar les %1$s i %2$s nostres. Hi esteu d\'acord?</string>
   <string name="dialog_privacy_content_global">Per a gaudir de serveis personalitzats el Rellotge s\'ha de connectar a internet. També heu de llegir i acceptar la %1$s i l\' %2$s. Hi esteu d\'acord?</string>
   <string name="done">Fet</string>
   <string name="dynamic_alarm_speech">Alarma intel·ligent</string>
