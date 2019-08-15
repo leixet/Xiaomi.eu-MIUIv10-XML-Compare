@@ -891,8 +891,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="start_dreams">Protector de pantalla</string>
   <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
   <string name="status_bar_airplane">Mode d\'avió</string>
-  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-  <string name="status_bar_clock_date_format_12">E, d de MMM</string>
+  <string name="status_bar_clock_date_format">E, d MMM</string>
+  <string name="status_bar_clock_date_format_12">E, d MMM</string>
   <string name="status_bar_clock_date_time_format">H:mm d MMM</string>
   <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
