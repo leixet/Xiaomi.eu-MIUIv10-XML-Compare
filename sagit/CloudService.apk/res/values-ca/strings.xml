@@ -114,7 +114,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_yes">Sí</string>
   <string name="micloud_detail_fail">"No s'ha pogut sincronitzar"</string>
   <string name="micloud_detail_query_error">"No es pot obtenir l'estat de sincronització"</string>
-  <string name="micloud_dspt">"Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,"</string>
+  <string name="micloud_dspt">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
   <string name="micloud_dspt_provision_xms">Utilitza Mi Cloud per sincronitzar les dades.</string>
   <string name="micloud_find_device_close_alert_content">"Si desactiveu aquesta funció, no podreu localitzar el dispositiu en cas que es perdi."</string>
@@ -215,7 +215,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_request_permission_confirm">Ho entenc</string>
   <string name="micloud_request_permission_content">El Mi Cloud necessita permissos per a sincronitzar les dades. Permeteu al Mi Cloud accedir al Calendari, Contactes, Compte Mi, estat de la targeta SIM, historial de trucades i missatges.</string>
   <string name="micloud_request_permission_title">El Mi Cloud necessita permissos</string>
-  <string name="micloud_sec_dspt">i compartir coses amb amics.</string>
   <string name="micloud_setting_antispam_summary">Excepcions per No Molestar i números de telèfon bloquejats.</string>
   <string name="micloud_setting_browser_summary">Marcadors, historial i pestanyes</string>
   <string name="micloud_setting_contact_summary">Informació de contactes i fotos de perfil</string>
