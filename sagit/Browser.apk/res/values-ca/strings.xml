@@ -30,6 +30,7 @@
   <string name="action_menu_current_version">Versió actual</string>
   <string name="action_menu_download">Baixa</string>
   <string name="action_menu_request_desktop_site">Visualitza la versió per a ordinador</string>
+  <string name="action_menu_text_add_shortcut">Afegeix una drecera</string>
   <string name="action_menu_text_bandwidth">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_off">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_on">Estalvi de dades</string>
@@ -73,6 +74,11 @@
   <string name="action_text_theme_and_textsize_change">Ajust de la mida del tipus de lletra i del tema</string>
   <string name="ad_app_download_notification_content">Després de completar la instal·lació, obre la demo tot seguit ~</string>
   <string name="ad_app_download_site_new">NOU</string>
+  <string name="ad_download_continue">Continua</string>
+  <string name="ad_download_downloading">S\'està baixant</string>
+  <string name="ad_download_error">Error</string>
+  <string name="ad_download_immediately">Baixa</string>
+  <string name="ad_download_open">Obre</string>
   <string name="ad_exit_dialog_exit_btn_name">surt</string>
   <string name="ad_exit_dialog_message">La instal·lació s\'ha completat! Ho voleu obrir ara?</string>
   <string name="ad_exit_dialog_open_btn_name">obrir</string>
