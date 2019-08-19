@@ -307,6 +307,7 @@
   <string name="local_owner_account_name">Desat en aquest dispositiu</string>
   <string name="login_failed_toast">"No s'ha pogut iniciar la sessió, actualitzeu i proveu-ho de nou"</string>
   <string name="lunar_date">Data lunar</string>
+  <string name="lunar_to_solar_chinese_calendar">Xinés a gregorià</string>
   <string name="match_select_activity_label">Lligues</string>
   <string name="menu_general_preferences">General</string>
   <string name="menu_reminder_preferences">Recordatoris</string>
@@ -401,6 +402,7 @@
   <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
   <string name="preferences_notification_ringtone_title">So</string>
   <string name="preferences_popup_alert_smart_summary">MIUI identificarà automàticament els esdeveniments més rellevants</string>
+  <string name="preferences_popup_alert_smart_summary_new">Els esdeveniments temporals són els lligats a una hora exacta</string>
   <string name="preferences_popup_alert_smart_tips">"Substituïu les notificacions tradicionals per finestres emergents d'alerta per no perdre's els esdeveniments importants. Les finestres emergents no apareixerien si esteu jugant, mirant vídeos a pantalla completa o utilitzant el mode cotxe."</string>
   <string name="preferences_title">Calendari</string>
   <string name="preferences_use_home_tz_descrip">Mostra els calendaris i les hores dels esdeveniments en el vostre propi fus horari quan viatgeu</string>
@@ -455,6 +457,7 @@
   <string name="setting_about_miui_version">Versió de MIUI:</string>
   <string name="setting_about_summary">Versió: </string>
   <string name="setting_accounts">Comptes de calendari</string>
+  <string name="setting_desc_import_todo">Importa les tasques planificades a Notes</string>
   <string name="setting_features_title">Configuració de les característiques</string>
   <string name="setting_holiday_display_desc">Les targetes dels dies festius es troben sota l\'agenda a la pàgina d\'inici</string>
   <string name="setting_holiday_reminder">Recordatori de dies festius</string>
@@ -462,7 +465,10 @@
   <string name="setting_sms_import">Importa els esdeveniments per SMS</string>
   <string name="setting_title_about">Quant a</string>
   <string name="setting_title_holiday_display">Mostra els dies festius</string>
+  <string name="setting_title_import_todo">Importa tasques</string>
   <string name="share_title">Comparteix</string>
+  <string name="shortcut_new_event">Afegeix un esdeveniment</string>
+  <string name="shortcut_settings">Configuració</string>
   <string name="show_day_view">Mostra el dia</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
   <string name="start_date_calculate">Calcula</string>
@@ -502,7 +508,14 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="too_long_description">La descripció de l\'esdeveniment és massa llarg</string>
   <string name="too_long_location">La ubicació de l\'esdeveniment és massa llarg</string>
   <string name="too_long_name">El nom és massa llarg</string>
+  <string name="train_event_add_arrive_station">Premeu per afegir destí</string>
+  <string name="train_event_arrive">Arriba en %1$s</string>
   <string name="train_event_reminder">Recorda-ho %1$s abans</string>
+  <string name="train_event_station_date_format">dd/MM</string>
+  <string name="train_event_station_header_arrive_time">Arriba</string>
+  <string name="train_event_station_header_depart_time">Surt</string>
+  <string name="train_event_station_header_name">Estació</string>
+  <string name="train_event_station_header_stay_time">Parada</string>
   <string name="travel_airport">Aeroport</string>
   <string name="travel_carriage_number_text">Cotxe</string>
   <string name="travel_ets_advice">Marxeu cap a %2$s abans de les %1$s.</string>
