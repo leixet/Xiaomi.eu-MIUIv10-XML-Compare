@@ -492,6 +492,7 @@ Si us plau, enviï aquest codi a un tècnic."</string>
   <string name="mw_actionbar_share">Comparteix</string>
   <string name="mw_actionbar_textselection_title">Selecció de text</string>
   <string name="mw_actionbar_web_search">Cerca web</string>
+  <string name="mw_add_to_dictionary">Afegeix al diccionari</string>
   <string name="mw_autofill_popup_content_description">S\'està mostrant una finestra emergent d\'emplenament automàtic</string>
   <string name="mw_color_picker_button_black">Negre</string>
   <string name="mw_color_picker_button_blue">Blau</string>
@@ -892,6 +893,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="sdcard_error">Comproveu la vostra targeta SD</string>
   <string name="search">Cerca</string>
   <string name="search_button_text">Vés</string>
+  <string name="search_description">Barra de cerca</string>
   <string name="search_hint">Cerca</string>
   <string name="search_keyword_browser">Navegador</string>
   <string name="search_label">Navegador</string>
@@ -910,6 +912,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="select_download_device">Tria un dispositiu</string>
   <string name="send_comment_button">Envia</string>
   <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
+  <string name="send_startpage">Pàgina inicial</string>
   <string name="sending">S\'està enviant…</string>
   <string name="sequence_bookmark_description">Premeu i mantingueu premut per reordenar els marcadors</string>
   <string name="share_image_text">Mireu lo que he compartit! @MIUI</string>
