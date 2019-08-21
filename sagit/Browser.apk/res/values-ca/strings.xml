@@ -480,6 +480,7 @@ Si us plau, enviï aquest codi a un tècnic."</string>
   <string name="more_description">Menú</string>
   <string name="more_option">Més opcions</string>
   <string name="movie_player_3g_tip_retry">Continua</string>
+  <string name="multi_window_max_tips">El nombre de finestres ha arribat al màxim</string>
   <string name="mw_accessibility_date_picker_month">Mes</string>
   <string name="mw_accessibility_date_picker_week">Setmana</string>
   <string name="mw_accessibility_date_picker_year">Any</string>
@@ -911,6 +912,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="select_dot">Selecciona text</string>
   <string name="select_download_device">Tria un dispositiu</string>
   <string name="send_comment_button">Envia</string>
+  <string name="send_desktop">Pantalla inicial</string>
   <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
   <string name="send_startpage">Pàgina inicial</string>
   <string name="sending">S\'està enviant…</string>
@@ -1026,6 +1028,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="temporary_not_available">no disponible temporalment</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
   <string name="title_notice_push">Activa la tramesa automàtica</string>
+  <string name="toast_feedback">Us reduirà aquest tipus de contingut</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
   <string name="topic_content_default">tema</string>
