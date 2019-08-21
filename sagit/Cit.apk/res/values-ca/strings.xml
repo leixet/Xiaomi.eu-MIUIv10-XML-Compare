@@ -292,6 +292,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_name">Proves de maquinari</string>
   <string name="cit_nfc_check_summary">Poseu la targeta a la part superior posterior del telèfon</string>
   <string name="cit_nfc_check_title">Prova NFC</string>
+  <string name="cit_no_sim_check_summary">Confirmeu que el mòbil no té tarja SIM!</string>
+  <string name="cit_no_sim_check_title">No hi ha cap tarja SIM</string>
   <string name="cit_not_available">"Aquesta prova no està disponible en aquesta versió de MIUI"</string>
   <string name="cit_notificationlight">Llum de notificació</string>
   <string name="cit_notificationlight_off">Llum de notificació desactivada</string>
@@ -308,11 +310,20 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_power_check_title">Indicador de bateria</string>
   <string name="cit_pressure_sensor_check_summary">El valor de la pressió ha d\'aparèixer a sota</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressió</string>
+  <string name="cit_proximity_data_check_summary">"Cobriu el sensor de proximitat (situat a la part superior del telèfon a prop del receptor) amb la mà, després allunyeu-la. Hauria d\'augmentar el valor des de 0,0 a mida que allunyeu la mà del dispositiu. 
+Si es tracta d\'un sensor de proximitat ultrasònic, feu veure que contesteu una trucada durant la validació"</string>
   <string name="cit_proximity_sensor_check_summary">Cobriu el sensor de proximitat (situat a la part superior del telèfon a prop del receptor) amb la mà, després moveu la mà lluny. Hauria d\'augmentar el valor 0,0 en moure la mà més lluny del dispositiu. Durant el calibratge, assegureu-vos que no hi ha res entre el sensor i la mà (p. ex. coberta protectora de pantalla o guants).</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximitat</string>
   <string name="cit_proximity_us_sensitivity">Sensibilitat:</string>
   <string name="cit_proximity_us_summary">Calibratge ultrasònic del sensor de proximitat</string>
   <string name="cit_rear_dual_camera_check_title">Càmera dual posterior</string>
+  <string name="cit_rear_dual_second_camera_check_title">segona càmera dual</string>
+  <string name="cit_rear_sub_camera_check_summary">"Instruccions de la prova:
+ 		 
+1.Premeu el botó Càmera que hi ha a sota per iniciar la interfície de la subcàmera posterior.
+2.Premeu l\'obturador.
+3.El sistema desarà la foto automàticament desprès de la captura
+4.La foto que heu fet s\'hauria de mostrar a la pantalla. Premeu Correcte per finalitzar la prova."</string>
   <string name="cit_rear_sub_camera_check_title">Sub càmera posterior</string>
   <string name="cit_recovery_signature_failed">HA FALLAT la restauració de la signatura</string>
   <string name="cit_recovery_signature_passed">restauració de la signatura CORRECTA</string>
