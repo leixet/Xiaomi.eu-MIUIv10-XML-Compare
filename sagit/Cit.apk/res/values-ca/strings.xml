@@ -272,6 +272,9 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_lcdlight_brightness">Llum de fons</string>
   <string name="cit_lcdlight_brightness_max">MÀX</string>
   <string name="cit_lcdlight_brightness_min">MÍN</string>
+  <string name="cit_led_check_charge_light">led de càrrega</string>
+  <string name="cit_led_check_first_flash_light">primer led de flaix</string>
+  <string name="cit_led_check_second_flash_light">segon led de flaix</string>
   <string name="cit_leds_check_summary">Llum de fons, llum de notificació i llum de flaix (part posterior), han de respondre en prémer el botó corresponent.</string>
   <string name="cit_leds_check_title">Llum de notificació (LED)</string>
   <string name="cit_light_sensor_check_summary">El valor DAC hauria d\'aparèixer sota.</string>
