@@ -529,7 +529,11 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="train_event_arrive_station_saved">S\'ha desat correctament el destí</string>
   <string name="train_event_choose_arrive_station">Seleccioneu el destí</string>
   <string name="train_event_delete_successfully">S\'ha esborrat correctament l\'itinerari de tren</string>
+  <string name="train_event_disclaimer">"Descàrrec: Tota la informació relativa a trens i serveis ve de l'empresa ferroviària. Podeu contactar amb els serveis d'atenció al client de l'empresa ferroviària si teniu qualsevol dubte. La informació ferroviària proporcionada només és de referència. Adreceu-vos a la pàgina web oficial de l'empresa ferroviària per conèixer les darreres correccions i actualitzacions."</string>
+  <string name="train_event_error_toast">"No s'ha pogut pujar la informació"</string>
+  <string name="train_event_error_train_info">"No s'ha pogut comprovar el bitllet"</string>
   <string name="train_event_reminder">Recorda-ho %1$s abans</string>
+  <string name="train_event_service">Serveis ferroviaris</string>
   <string name="train_event_station_date_format">dd/MM</string>
   <string name="train_event_station_header_arrive_time">Arriba</string>
   <string name="train_event_station_header_depart_time">Surt</string>
