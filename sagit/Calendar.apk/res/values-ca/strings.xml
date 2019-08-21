@@ -464,6 +464,9 @@
   <string name="setting_daysoff_no_update">La informació de les festes està actualitzada.</string>
   <string name="setting_daysoff_update">Actualitza la informació de les festes</string>
   <string name="setting_daysoff_update_cta_cancel">Permeteu primer que Calendari es connecti a internet</string>
+  <string name="setting_daysoff_update_net_err">"No s'han pogut buscar actualitzacions. Espereu un o dos minuts i torneu-ho a provar."</string>
+  <string name="setting_daysoff_update_schedule">S\'està actualitzant…</string>
+  <string name="setting_daysoff_update_success">S\'ha actualitzat correctament</string>
   <string name="setting_desc_import_todo">Importa les tasques planificades a Notes</string>
   <string name="setting_features_title">Configuració de les característiques</string>
   <string name="setting_holiday_display_desc">Les targetes dels dies festius es troben sota l\'agenda a la pàgina d\'inici</string>
@@ -475,9 +478,13 @@
   <string name="setting_title_import_todo">Importa tasques</string>
   <string name="share_title">Comparteix</string>
   <string name="shortcut_new_event">Afegeix un esdeveniment</string>
+  <string name="shortcut_next_agenda">L\'esdeveniment següent</string>
   <string name="shortcut_settings">Configuració</string>
   <string name="show_day_view">Mostra el dia</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
+  <string name="solar_lunar_convert_description">Gregorià a xinès tradicional</string>
+  <string name="solar_lunar_convert_tab">Converteix</string>
+  <string name="solar_to_lunar_chinese_calendar">Gregorià a xinès</string>
   <string name="start_date_calculate">Calcula</string>
   <string name="subscribe_card">Subscriviu-vos ara</string>
   <string name="subscribe_card_success">Us heu subscrit amb èxit. Consulteu els detalls a la pàgina d\'inici.</string>
@@ -505,6 +512,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="ticket_card_phase">- el %1$s de</string>
   <string name="time_zone">Fus horari</string>
   <string name="timezone_label">Fus horari</string>
+  <string name="title_confirm_close_chinese_calendar">Desactivació del calendari xinès</string>
   <string name="today">Avui</string>
   <string name="today_at_time_fmt">Avui a les %s</string>
   <string name="today_icon_voice_contentdescription">Torna a avui</string>
@@ -515,8 +523,12 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="too_long_description">La descripció de l\'esdeveniment és massa llarg</string>
   <string name="too_long_location">La ubicació de l\'esdeveniment és massa llarg</string>
   <string name="too_long_name">El nom és massa llarg</string>
+  <string name="train_detail_title">Itinerari de tren</string>
   <string name="train_event_add_arrive_station">Premeu per afegir destí</string>
   <string name="train_event_arrive">Arriba en %1$s</string>
+  <string name="train_event_arrive_station_saved">S\'ha desat correctament el destí</string>
+  <string name="train_event_choose_arrive_station">Seleccioneu el destí</string>
+  <string name="train_event_delete_successfully">S\'ha esborrat correctament l\'itinerari de tren</string>
   <string name="train_event_reminder">Recorda-ho %1$s abans</string>
   <string name="train_event_station_date_format">dd/MM</string>
   <string name="train_event_station_header_arrive_time">Arriba</string>
