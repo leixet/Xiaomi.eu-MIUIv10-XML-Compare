@@ -1086,10 +1086,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_setting_traffic">Estableix manualment</string>
   <string name="menu_sms">Envia el missatge</string>
   <string name="menu_summary_antispam">Bloca trucades i missatges</string>
-  <string name="menu_summary_antispam_2">Trucades i missatges blocats</string>
   <string name="menu_summary_garbage_cleanup">No hi ha brossa</string>
-  <string name="menu_summary_garbage_cleanup_2">Mida de la brossa</string>
-  <string name="menu_summary_garbage_cleanup_3">Neteja la brossa ara</string>
   <string name="menu_summary_networkassistants">Gestioneu el vostre pla de dades</string>
   <string name="menu_summary_power_manager">L\'estalvi de bateria us allarga el temps entre càrregues</string>
   <string name="menu_summary_power_manager_1">Bateria completament carregada</string>
