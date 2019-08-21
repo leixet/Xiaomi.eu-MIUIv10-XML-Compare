@@ -461,6 +461,9 @@
   <string name="setting_about_summary">Versió: </string>
   <string name="setting_accounts">Comptes de calendari</string>
   <string name="setting_chinese_calendar">Calendari xinès</string>
+  <string name="setting_daysoff_no_update">La informació de les festes està actualitzada.</string>
+  <string name="setting_daysoff_update">Actualitza la informació de les festes</string>
+  <string name="setting_daysoff_update_cta_cancel">Permeteu primer que Calendari es connecti a internet</string>
   <string name="setting_desc_import_todo">Importa les tasques planificades a Notes</string>
   <string name="setting_features_title">Configuració de les característiques</string>
   <string name="setting_holiday_display_desc">Les targetes dels dies festius es troben sota l\'agenda a la pàgina d\'inici</string>
