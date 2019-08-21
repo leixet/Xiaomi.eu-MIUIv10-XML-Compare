@@ -7,6 +7,7 @@
   <string name="cert_not_saved">El certificat no està instal·lat.</string>
   <string name="cert_read_error">"No s'ha pogut instal·lar perquè no s'ha pogut llegir el fitxer de certificat."</string>
   <string name="cert_too_large_error">"No s'ha pogut instal·lar perquè el certificat ocupa massa."</string>
+  <string name="certificate_capabilities_warning">Nota: L\'emissor d\'aquest certificat pot revisar tot el tràfic entrant i sortint del dispositiu.</string>
   <string name="credential_info">El paquet conté:</string>
   <string name="credential_name">Nom del certificat:</string>
   <string name="credential_password">Introduïu la contrasenya per extreure els certificats.</string>
