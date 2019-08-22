@@ -524,7 +524,6 @@
   <string name="cpu_usage_process_run_time_little_time">Menys d\'un minut</string>
   <string name="cpu_usage_view_action_btn_text">Toqueu per mostrar-ho</string>
   <string name="create_shortcut">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
-  <string name="cta_dialog_msg">Seguretat necessita connexió a Internet per obtenir actualitzacions, així com accedir a la ubicació per treballar amb normalitat.</string>
   <string name="cta_dialog_title">Connexió a internet</string>
   <string name="cta_settings">Permet la connexió a internet</string>
   <string name="current_network_state_not_need_diagnose">La connexió a internet és normal.</string>
