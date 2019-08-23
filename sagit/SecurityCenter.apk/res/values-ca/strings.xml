@@ -477,6 +477,7 @@
   <string name="card_main_gamebooster_title">Accelerador de velocitat dels jocs</string>
   <string name="card_main_hbassistant_summary">Utilitzeu aquesta eina per agafar els sobres més ràpid</string>
   <string name="card_main_hbassistant_title">Assistent del sobre vermell</string>
+  <string name="card_main_hwtest_title">Proves de maquinari</string>
   <string name="card_main_monthreport_action">Mostra</string>
   <string name="card_main_netcheck_action">Prova</string>
   <string name="card_main_netcheck_summary">Proveu la connexió si teniu problemes de xarxa</string>
