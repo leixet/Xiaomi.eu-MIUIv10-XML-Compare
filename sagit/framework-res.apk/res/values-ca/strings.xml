@@ -941,6 +941,7 @@ per al compte %s"</string>
   <string name="permlab_systemAlertWindow">dibuixar sobre altres aplicacions</string>
   <string name="permlab_transmitIr">transmetre infrarojos</string>
   <string name="permlab_uninstall_shortcut">desinstal·lar dreceres</string>
+  <string name="permlab_useBiometric">utilitza maquinari biomètric</string>
   <string name="permlab_useDataInBackground">utilitzar dades en segon pla</string>
   <string name="permlab_useFingerprint">utilitzar el maquinari d\'empremta</string>
   <string name="permlab_use_sip">realitzar/rebre trucades SIP</string>
