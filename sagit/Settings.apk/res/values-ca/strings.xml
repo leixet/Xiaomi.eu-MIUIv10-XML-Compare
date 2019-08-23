@@ -2092,6 +2092,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_keyboard_and_ime">correcció de text, corregir, so, vibració, automàtic, idioma, gest, suggerir, suggeriment, tema, ofensiu, paraula, tipus, emoji, internacional</string>
   <string name="keywords_location">a prop, ubicació, historial, informes</string>
   <string name="keywords_lockscreen">fer lliscar el dit per desbloquejar, contrasenya, patró, PIN</string>
+  <string name="keywords_model_and_hardware">número de sèrie, versió de maquinari</string>
   <string name="keywords_more_default_sms_app">missatge de text missatges de text missatges missatgeria</string>
   <string name="keywords_more_mobile_networks">mòbil, operador de telefonia mòbil, sense fil, dades, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_reset">restablir, restaurar, fàbrica</string>
