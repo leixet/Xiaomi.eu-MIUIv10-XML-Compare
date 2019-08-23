@@ -483,4 +483,13 @@
         <item>Transparent</item>
         <item>Fons blanc</item>
     </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>dg.</item>
+        <item>dl.</item>
+        <item>dm.</item>
+        <item>dc.</item>
+        <item>dj.</item>
+        <item>dv.</item>
+        <item>ds.</item>
+    </string-array>
 </resources>
