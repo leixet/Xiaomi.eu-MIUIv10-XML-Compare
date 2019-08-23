@@ -15,6 +15,7 @@
   <string name="add_launch_hint_text">Afegeix una drecera de pantalla d\'inici</string>
   <string name="app_name">Cavallets de fons de pantalla Mi</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora la versió</string>
+  <string name="app_self_upgrade_dlg_content">Hi ha una nova versió disponible. Voleu actualitzar ara mateix?</string>
   <string name="app_self_upgrade_dlg_negative_btn">Més tard</string>
   <string name="app_self_upgrade_dlg_postive_btn">Actualitza</string>
   <string name="app_self_upgrade_dlg_title">Actualització de l\'app</string>
@@ -134,6 +135,7 @@
   <string name="save_to_album_fail">"No s'ha pogut desar"</string>
   <string name="scribe_title1">Subscriviu-vos als Cavallets de fons de pantalla</string>
   <string name="select_package">Seleccioneu una versió</string>
+  <string name="setting_about_item_des">Versió</string>
   <string name="setting_about_item_title">Quant als Cavallets de fons de pantalla</string>
   <string name="setting_des">Podeu seleccionar les vostres imatges a Configuració &gt; Pantalla de blocatge &amp; contrasenya &gt; Cavallets de fons de pantalla</string>
   <string name="setting_head">Configuració</string>
