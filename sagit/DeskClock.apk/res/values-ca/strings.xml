@@ -35,6 +35,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="channel_name_alarm">Alarma</string>
   <string name="channel_name_timer">Temporitzador</string>
+  <string name="check_voice_assist_app_version">Actualitzeu MI AI a la seva darrera versió.</string>
   <string name="clock_bg_button_setting_summary_common">Seleccioneu el color de la pantalla de fons de l\'aplicació Rellotge</string>
   <string name="clock_bg_button_setting_title">Color del fons</string>
   <string name="close_alarm">Atura l\'alarma</string>
