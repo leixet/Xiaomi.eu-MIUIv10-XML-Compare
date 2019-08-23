@@ -132,6 +132,7 @@
   <string name="silence_mode">Mode silenci</string>
   <string name="sim_added_reboot_confirm">Reinicia</string>
   <string name="sim_added_reboot_title">La targeta SIM s\'activarà després que es reiniciï el dispositiu.</string>
+  <string name="sim_lock_non_ais_msg">"La vostra tarja SIM no té totes les funcionalitats en aquest mòbil perquè no s'acompleixen els termes i condicions de la vostra subscripció. Si teniu dubtes o us cal més informació en aquest tema, poseu-vos en contacte amb un centre de servei Xiaomi o amb la botiga que us ha venut els productes."</string>
   <string name="softap_notifif_summary">%d connectat</string>
   <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
   <string name="standard">Silenci</string>
