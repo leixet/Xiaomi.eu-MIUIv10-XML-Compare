@@ -8,6 +8,8 @@
   <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="btn_check_back">Enrere</string>
   <string name="device_resolution">Resolució</string>
+  <string name="dialog_content_stop">"Voleu aturar les proves de maquinari abans no acabin?"</string>
+  <string name="hardware_detection">Proves de maquinari</string>
   <string name="item_name_rearcamera">Càmera posterior</string>
   <string name="main_overall_test">COMENÇA</string>
   <string name="overall_test">Resultat global</string>
