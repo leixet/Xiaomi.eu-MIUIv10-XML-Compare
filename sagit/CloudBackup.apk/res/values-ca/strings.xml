@@ -176,5 +176,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="title_alert_restore_error">"No s'ha pogut restaurar"</string>
   <string name="total_space">Espai total: %s</string>
   <string name="try_again">Toqueu per provar-ho de nou</string>
+  <string name="unsupported_home">Actualitzeu a l\'última versió de MIUI.</string>
   <string name="wait_icon_download">S\'estan baixant les icones de les aplicacions</string>
 </resources>
