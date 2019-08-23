@@ -5,5 +5,6 @@
   <string name="catch_full_log_item_title_dump_heap">S\'està alentint</string>
   <string name="catch_full_log_start_dump_hprof">Genera el registre d\'alentiments</string>
   <string name="catch_full_log_submit_directly">Envia</string>
+  <string name="err_type_hardware">Maquinari</string>
   <string name="feedback_submitting">S\'està enviant</string>
 </resources>
