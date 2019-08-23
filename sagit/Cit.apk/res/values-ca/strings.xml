@@ -158,7 +158,10 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_camera_calibration_summary">"Instruccions de la prova: 
 1.Toqueu el botó de calibratge de sota per iniciar el calibratge OIS.
 2.Hi haurà una etiqueta de calibratge correcte per indicar que l\'ois ha estat calibrat"</string>
+  <string name="cit_camera_fast_check_title">Verificació ràpida de la càmera</string>
   <string name="cit_camera_sdcard_error">"No es pot prendre fotografia. La targeta SD està plena."</string>
+  <string name="cit_charger_check_title">Verificació del carregador</string>
+  <string name="cit_charger_in">Carregador connectat</string>
   <string name="cit_charger_plugin_check_summary">En connectar el carregador USB el text «S\'està carregant per USB/CA» hauria d\'aparèixer a continuació.</string>
   <string name="cit_charger_plugin_check_title">Carregador (connecta)</string>
   <string name="cit_charger_plugout_check_summary">En desconnectar el carregador USB el text «El carregador USB/CA s\'ha desconnectat» hauria d\'aparèixer a continuació.</string>
@@ -330,6 +333,9 @@ Si es tracta d\'un sensor de proximitat ultrasònic, feu veure que contesteu una
   <string name="cit_reset_check_summary">Aquesta prova reiniciarà el dispositiu. Es perdran totes les dades de la prova anterior.</string>
   <string name="cit_reset_check_title">Prova de reinici</string>
   <string name="cit_reset_test">Prova</string>
+  <string name="cit_rgb_check_blue_light">RGB blau</string>
+  <string name="cit_rgb_check_green_light">RGB verd</string>
+  <string name="cit_rgb_check_red_light">RGB vermell</string>
   <string name="cit_sar_sensor_check_summary">Els valors per als canals del sensor sar han d\'aparèixer a continuació, cobriu el botó del telèfon, si les dades han canviat, funciona correctament, no realitzeu el calibratge amb el cable USB connectat!</string>
   <string name="cit_sd_fail">S\'ha produït un error.</string>
   <string name="cit_sd_mount">Munta la targeta SD</string>
