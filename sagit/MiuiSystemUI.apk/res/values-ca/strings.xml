@@ -937,6 +937,7 @@ d MMMM"</string>
   <string name="structure_face_data_introduction_next">Continua</string>
   <string name="structure_face_data_introduction_title">Captura dades facials 3D</string>
   <string name="structure_face_data_manage_delete_msg">Esborra dades facials 3D</string>
+  <string name="structure_face_hardware_abnormal_btn">D\'acord</string>
   <string name="structure_face_unlock_model_dialog_notenable">No, gràcies</string>
   <string name="structure_face_unlock_model_other">Altres</string>
   <string name="structure_face_unlock_model_other_msg_2d">Reconeixement 2D</string>
