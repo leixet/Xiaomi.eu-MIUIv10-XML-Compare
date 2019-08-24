@@ -839,6 +839,7 @@ Comproveu el número de seguiment."</string>
   <string name="time_just_now">Ara mateix</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
+  <string name="timeline_headline">Programats</string>
   <string name="toast_function_remove_not_allowed">Heu d\'afegir com a mínim 1 drecera</string>
   <string name="total_month_desc_text">Aquest mes</string>
   <string name="total_today_desc_text">Avui</string>
