@@ -665,6 +665,8 @@
   <string name="empty_title_root_apps">Cap aplicació té accés root</string>
   <string name="enable_network">Primer activa la xarxa</string>
   <string name="every_day">Cada dia</string>
+  <string name="ew_guide_tips_1">"Rebreu una notificació i un avís sonor dels propers terratrèmols previstos"</string>
+  <string name="ew_main_open_tips">"Aquesta funció us avisarà amb un so dels terratrèmols previstos. També rebreu informació dels serveis d'emergències quan hagi finalitzat l'emergència."</string>
   <string name="examination_score_100">Tot es veu bé!</string>
   <string name="examination_score_60_0">Escaneja-ho ara</string>
   <string name="examination_score_80_100">Es poden optimitzar alguns elements</string>
