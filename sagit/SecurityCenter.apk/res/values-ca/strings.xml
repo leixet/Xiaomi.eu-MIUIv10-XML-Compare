@@ -185,6 +185,7 @@
   <string name="app_manager_factory_reset_dlg_title">Voleu desinstal·lar les actualitzacions?</string>
   <string name="app_manager_force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
+  <string name="app_manager_full_screen_title">Mode de pantalla completa</string>
   <string name="app_manager_globel_other_perm_title">Altres permisos</string>
   <string name="app_manager_globel_perm_summary">Gestioneu els permisos relacionats amb la ubicació, l\'emmagatzematge, el telèfon, els missatges i els contactes.</string>
   <string name="app_manager_globel_perm_title">Permisos de l\'aplicació</string>
@@ -243,6 +244,13 @@
   <string name="app_name_na">Ús de dades</string>
   <string name="app_name_securitycenter">Seguretat</string>
   <string name="app_not_installed_toast">"L'aplicació no està instal·lada al dispositiu."</string>
+  <string name="app_permission_use_group_camera">Càmera</string>
+  <string name="app_permission_use_group_camera_des">Utilitza la càmera</string>
+  <string name="app_permission_use_group_contact">Contactes</string>
+  <string name="app_permission_use_group_contact_des">Llegeix i afegeix informació dels contactes</string>
+  <string name="app_permission_use_group_location">Informació de la ubicació</string>
+  <string name="app_permission_use_group_location_des">Ubicació aproximada i acurada</string>
+  <string name="app_permission_use_group_mic">Micròfon</string>
   <string name="app_usage_never">No utilitzada mai</string>
   <string name="app_usage_recently">Utilitzada recentment</string>
   <string name="app_version">Versió:</string>
