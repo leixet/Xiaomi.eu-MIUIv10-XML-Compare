@@ -38,6 +38,16 @@
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="app_usage_never">No utilitzada recentment</string>
   <string name="app_usage_recently">Utilitzada recentment</string>
+  <string name="appcleaner_g_earlier">Abans</string>
+  <string name="appcleaner_g_image_sum_title_chat_wechat">Envia imatges</string>
+  <string name="appcleaner_g_image_sum_title_make_wechat">Imatges</string>
+  <string name="appcleaner_g_image_sum_title_save_wechat">Imatges desades</string>
+  <string name="appcleaner_g_last_month">Darrer mes</string>
+  <string name="appcleaner_g_this_month">Aquest mes</string>
+  <string name="appcleaner_g_video_sum_title_chat_wechat">Envia vídeos</string>
+  <string name="appcleaner_g_video_sum_title_make_wechat">Vídeos</string>
+  <string name="appcleaner_g_video_sum_title_save_wechat">Vídeos desats</string>
+  <string name="appcleaner_wechat_scanning_trash">Paperera</string>
   <string name="apps_sort_type_item_size">Mida</string>
   <string name="apps_sort_type_item_time">Usats sovint</string>
   <string name="apps_sort_type_title">Ordena</string>
