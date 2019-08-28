@@ -309,6 +309,7 @@
   <string name="auto_back_booster">Atura l\'acceleració</string>
   <string name="auto_booster_suc">S\'ha accelerat amb èxit</string>
   <string name="auto_clean_close">Les neteges automàtiques estan desactivades</string>
+  <string name="auto_data_back_booster">L\'accelerador de la velocitat dels jocs està inactiu. S\'han restablert les característiques de comunicació.</string>
   <string name="auto_handle_title">GENERAL</string>
   <string name="auto_import_games">Poseu tots els vostres jocs en un sol lloc</string>
   <string name="auto_task_condition_choose_battery_level_down">Quan la bateria arriba a un cert nivell</string>
@@ -376,6 +377,7 @@
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Segon pla %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
+  <string name="banner_red_money_assist_button">Activa</string>
   <string name="battery_capacity_title">Capacitat de la bateria</string>
   <string name="battery_charge_estimating">S\'està calculant…</string>
   <string name="battery_charge_full">Carregat</string>
@@ -396,6 +398,7 @@
   <string name="battery_health_title_text">Salut de la bateria</string>
   <string name="battery_health_voltage_text">Voltatge de la bateria</string>
   <string name="battery_history_activity_title">Historial</string>
+  <string name="battery_statistics_activity_title">Estadístiques d\'ús de bateria</string>
   <string name="battery_stats_charging_label">Endollat</string>
   <string name="battery_stats_gps_on_label">GPS actiu</string>
   <string name="battery_stats_on_battery">%1$s en bateria</string>
@@ -451,8 +454,10 @@
   <string name="btn_text_quick_save_power">Refreda</string>
   <string name="btn_text_quick_scan">Escaneja</string>
   <string name="btn_text_stop">Atura</string>
+  <string name="button_background_connection">Permet</string>
   <string name="button_block_calls_from_cantacts">Desbloca</string>
   <string name="button_block_calls_from_strangers">Desbloca</string>
+  <string name="button_do_not_disturb">Desactiva</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
   <string name="button_text_clear">Esborra</string>
@@ -692,7 +697,25 @@
   <string name="empty_title_root_apps">Cap aplicació té accés root</string>
   <string name="enable_network">Primer activa la xarxa</string>
   <string name="every_day">Cada dia</string>
+  <string name="ew_alert_earthquake_distance">"Sou a %s km de l'epicentre"</string>
+  <string name="ew_app_name">Advertiment de terratrèmol</string>
+  <string name="ew_app_name_exercise">Advertiment de terratrèmol (Demostració)</string>
+  <string name="ew_button_confirm">D\'acord</string>
+  <string name="ew_button_exit">"Es desacord"</string>
   <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"Aquesta funció permet l\'avís de terratrèmols. Rebreu notificacions i una alarma sonora sobre els terratrèmols previstos. Us indicarà el refugi més proper, trucar al telèfon d\'emergència assignat i disposar de la targeta sanitària. &amp;lt;br&amp;gt;Protegirem la informació personal segons les lleis de protecció de dades. &amp;lt;br&amp;gt;Heu d\'acceptar els permisos per poder disposar d\'informació personal: &amp;lt;br&amp;gt;&amp;#8226; Informació del lloc: &amp;lt;br&amp;gt;Per saber on sou i informar amb precisió dels avisos de terratrèmols. &amp;lt;br&amp;gt;Si no hi esteu d\'acord i no voleu compartir aquesta informació personal, no podreu utilitzar aquest servei. Podeu activar o desactivar-ho sempre que vulgueu. &amp;lt;br&amp;gt;Heu de llegir i acceptar &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; abans d\'activar aquesta funció.\"&lt;/Data&gt;</string>
+  <string name="ew_close">Desactiva l\'alerta</string>
+  <string name="ew_emergency_allergy">Al·lèrgies</string>
+  <string name="ew_emergency_basic_info">Informació bàsica</string>
+  <string name="ew_emergency_birthday">Data de naixement</string>
+  <string name="ew_emergency_blood_type">Grup sanguini</string>
+  <string name="ew_emergency_choose">Selecciona</string>
+  <string name="ew_emergency_delete_all">Esborra tota la informació mèdica</string>
+  <string name="ew_emergency_delete_text">Voleu esborrar ara mateix tota la informació mèdica?</string>
+  <string name="ew_emergency_delete_title">Esborra</string>
+  <string name="ew_emergency_detail_info">Detalls</string>
+  <string name="ew_emergency_edit_text">Edita</string>
+  <string name="ew_emergency_edit_title">Tarja sanitària</string>
+  <string name="ew_emergency_input_allergy">Llista les vostres al·lèrgies</string>
   <string name="ew_guide_tips_1">"Rebreu una notificació i un avís sonor dels propers terratrèmols previstos"</string>
   <string name="ew_main_open_tips">"Aquesta funció us avisarà amb un so dels terratrèmols previstos. També rebreu informació dels serveis d'emergències quan hagi finalitzat l'emergència."</string>
   <string name="examination_score_100">Tot es veu bé!</string>
