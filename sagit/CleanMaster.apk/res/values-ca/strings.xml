@@ -392,7 +392,6 @@
   <string name="privacy_search_desc">Historial de cerques</string>
   <string name="privacy_search_type">Cerca de Google</string>
   <string name="promotion">Anunci</string>
-  <string name="qq_cache_files">Memòria cau QQ</string>
   <string name="qq_clean">Netejador QQ</string>
   <string name="qq_clean_exit_confirm_msg">Voleu aturar l\'anàlisi i sortir?</string>
   <string name="qq_clean_finish_summary">S\'han eliminat els fitxers seleccionats amb èxit</string>
@@ -496,7 +495,6 @@
   <string name="unlike">No, gràcies</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Escaneig de seguretat</string>
-  <string name="wechat_cache_files">Memòria cau del WeChat</string>
   <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>
   <string name="wechat_chat_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>
   <string name="wechat_chat_data_type_chat">Historial de xat</string>
@@ -531,9 +529,7 @@
   <string name="wechat_qq_celan_tab_image">Imatges</string>
   <string name="wechat_qq_celan_tab_video">Vídeos</string>
   <string name="wechat_qq_celan_tab_voice">Missatges de veu</string>
-  <string name="wechat_qq_chat_files">Historial de xat</string>
   <string name="wechat_qq_deep_clean_button_text">Neteja intensiva</string>
-  <string name="wechat_qq_normal_files">Paperera</string>
   <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="whatsapp_clean_exit_confirm_ok">Atura</string>
   <string name="whatsapp_clean_exit_confirm_title">Voleu aturar l\'anàlisi?</string>
