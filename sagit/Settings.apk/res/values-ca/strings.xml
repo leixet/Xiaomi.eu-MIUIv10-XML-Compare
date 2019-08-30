@@ -2156,6 +2156,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="line_breaking_summary">Optimitza els salts de línia del paràgraf</string>
   <string name="line_breaking_title">Optimitza el text</string>
   <string name="link_speed_label">Velocitat de l\'enllaç:</string>
+  <string name="link_turbo_settings_all_app_display_loading">Un moment…</string>
+  <string name="link_turbo_usage_state_today">Avui</string>
+  <string name="link_turbo_usage_state_today_total">Avui</string>
   <string name="list_bg_header_text">"Si restringiu la connexió de fons, les noves aplicacions no podran connectar-se a Internet en segon pla després d'instal·lar-les. És possible que no puguin rebre missatges o baixar contingut després d'això."</string>
   <string name="list_empty_text">Buida</string>
   <string name="loading_notification_apps">S\'estan carregant les aplicacions...</string>
@@ -5106,6 +5109,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_ip_settings_menu_cancel">Cancel·la</string>
   <string name="wifi_ip_settings_menu_save">Desa</string>
   <string name="wifi_limit_optimizations_summary">Limita la bateria utilitzada pel Wi-Fi</string>
+  <string name="wifi_link_turbo_app_settings_title">Selecció d\'aplicacions</string>
+  <string name="wifi_link_turbo_on">Activat</string>
   <string name="wifi_menu_advanced">Avançat</string>
   <string name="wifi_menu_configure">Configuració</string>
   <string name="wifi_menu_connect">Connecta a la xarxa</string>
