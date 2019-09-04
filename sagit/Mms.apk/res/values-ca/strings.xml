@@ -327,7 +327,6 @@
   <string name="nosend_message">"No l'envieu"</string>
   <string name="notification_failed_multiple">"%s missatges no poden ser enviats"</string>
   <string name="notification_failed_multiple_title">Missatge no enviat</string>
-  <string name="notification_multiple">%s missatges sense llegir</string>
   <string name="notification_multiple_title">Nous missatges</string>
   <string name="number_add_hint">Introduïu el número de telèfon</string>
   <string name="open_audio_record_panel">Obriu el tauler per enregistrar àudio</string>
