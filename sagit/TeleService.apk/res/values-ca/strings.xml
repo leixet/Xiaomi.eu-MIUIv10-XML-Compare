@@ -1443,7 +1443,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="turn_off_dual_4g_failed">"No s'ha pogut desactivar el 4G dual."</string>
   <string name="turn_on_dual_4g_failed">"No s'ha pogut activar el 4G dual."</string>
   <string name="turnover_mute_summary">Quan el telèfon estigui en un lloc pla pantalla amunt, poseu-la cap avall per silenciar les trucades i aturar la vibració i la llum intermitent de notificació.</string>
-  <string name="turnover_mute_title">Gira per silenciar la trucada</string>
+  <string name="turnover_mute_title">Silencia la trucada girant</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>
   <string name="updating_fdn_contact">S\'està actualitzant el número de marcatge predefinit&#8230;</string>
