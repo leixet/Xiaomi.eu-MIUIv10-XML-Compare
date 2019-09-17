@@ -1442,7 +1442,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_option_title">Mode TTY</string>
   <string name="turn_off_dual_4g_failed">"No s'ha pogut desactivar el 4G dual."</string>
   <string name="turn_on_dual_4g_failed">"No s'ha pogut activar el 4G dual."</string>
-  <string name="turnover_mute_summary">Quan el telèfon està en una superfície horitzontal amb la pantalla cap amunt, torneu-lo a fer per silenciar les trucades.</string>
+  <string name="turnover_mute_summary">Quan el telèfon estigui en un lloc pla pantalla amunt, poseu-la cap avall per silenciar les trucades i aturar la vibració i la llum intermitent de notificació.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>
