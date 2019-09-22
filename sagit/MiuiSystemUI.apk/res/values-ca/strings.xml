@@ -988,6 +988,7 @@ d MMMM"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma per defecte</string>
+  <string name="tuner_doze_always_on">Sempre actiu</string>
   <string name="un_important_notifications">Notificacions no importants</string>
   <string name="unimportant_desc">Totes les notificacions no importants apareixeran en una carpeta separada.</string>
   <string name="unimportant_title">No important</string>
@@ -1081,4 +1082,5 @@ d MMMM"</string>
   <string name="wireless_charge_reset_device">La càrrega és lenta. Reviseu la posició del vostre dispositiu.</string>
   <string name="wireless_charge_reset_device_detail">Comproveu que la posició del vostre dispositiu a la base de càrrega és correcta</string>
   <string name="wireless_charge_stop">S\'ha aturat la càrrega sense fils</string>
+  <string name="zen_mode_duration_always_prompt_title">Demana-m\'ho cada vegada</string>
 </resources>
