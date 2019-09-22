@@ -810,6 +810,11 @@
         <item>Comprova només contingut DRM</item>
         <item>Comprova sempre</item>
     </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>sempre</item>
+    </string-array>
     <string-array name="led_color_entries">
         <item>Blau</item>
         <item>Vermell</item>
