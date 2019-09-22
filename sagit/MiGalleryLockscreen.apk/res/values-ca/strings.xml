@@ -77,6 +77,7 @@
   <string name="hour_1">Cada hora</string>
   <string name="hour_3">Cada 3 hores</string>
   <string name="idbct_desc">Configureu els Cavallets de fons de pantalla segons el tipus de xarxa</string>
+  <string name="idbct_opt_high_def_desc_text">Baixa sempre imatges HD</string>
   <string name="like">Afegeix als preferits</string>
   <string name="liked">Afegit als preferits</string>
   <string name="llks_pop_i_know">Entesos</string>
