@@ -435,4 +435,5 @@ L\'emmagatzematge de credencials no es pot activar"</string>
   <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
   <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
+  <string name="zen_mode_duration_always_prompt_title">Demana-m\'ho cada vegada</string>
 </resources>
