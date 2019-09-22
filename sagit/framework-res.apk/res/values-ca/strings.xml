@@ -1289,8 +1289,8 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="vpn_lockdown_config">Toqueu per configurar</string>
   <string name="vpn_lockdown_connected">VPN sempre activa connectada</string>
   <string name="vpn_lockdown_connecting">S\'està connectant a una VPN sempre activa…</string>
-  <string name="vpn_lockdown_disconnected">VPN sempre activa desconnectada</string>
-  <string name="vpn_lockdown_error">"Error a la VPN sempre connectada"</string>
+  <string name="vpn_lockdown_disconnected">S\'ha desconnectat de la VPN permanent</string>
+  <string name="vpn_lockdown_error">"No s'ha pogut connectar amb la VPN permanent"</string>
   <string name="vpn_text">Toqueu per administrar la xarxa.</string>
   <string name="vpn_text_long">Connectat a %s. Toqueu per administrar la xarxa.</string>
   <string name="vpn_title">VPN activada</string>
