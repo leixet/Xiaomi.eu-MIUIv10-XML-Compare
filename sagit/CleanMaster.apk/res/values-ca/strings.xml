@@ -424,6 +424,7 @@
   <string name="sc_allow_network_dialog_message">Permet que aquesta aplicació es connecti a internet per rebre actualitzacions?</string>
   <string name="scanning">S\'està escanejant&#8230;</string>
   <string name="search_history">Historial de cerques</string>
+  <string name="security_center_slogan">Seguretat. Sempre vigilant.</string>
   <string name="see_more">Més</string>
   <string name="set_immediately">Aplica</string>
   <string name="seton_immediately">Activa</string>
