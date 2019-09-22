@@ -33,7 +33,7 @@
         <item>Mai</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
+        <item>sempre</item>
         <item>en silenci</item>
         <item>mai</item>
     </string-array>
