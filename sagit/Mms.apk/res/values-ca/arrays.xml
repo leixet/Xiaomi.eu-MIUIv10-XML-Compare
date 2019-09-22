@@ -37,6 +37,26 @@
         <item>en silenci</item>
         <item>mai</item>
     </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>No ho confirmis mai i envia-ho sempre com un enllaç SMS</item>
+        <item>Never ask and never send as SMS Link</item>
+        <item>Pregunta-ho sempre</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>No ho confirmis mai i envia-ho sempre com un SMS</item>
+        <item>Never ask and never send as SMS</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>pregunta-ho sempre</item>
+        <item>never resize</item>
+        <item>always resize a selected option which is then stored as default value</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>pregunta-ho sempre</item>
+        <item>never resize</item>
+        <item>always resize a selected option which is then stored as default value</item>
+    </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
         <item>Missatge Mi</item>
