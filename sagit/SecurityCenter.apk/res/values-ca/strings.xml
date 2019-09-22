@@ -1669,6 +1669,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="section_title_clear_acc">Memòria cau</string>
   <string name="section_title_security_defend">Seguretat</string>
   <string name="section_title_system">Sistema</string>
+  <string name="security_center_slogan">Manteniu el vostre dispositiu àgil i segur</string>
   <string name="security_scan_optimizing">S\'està optimitzant…</string>
   <string name="see_detail">Detalls</string>
   <string name="set_applock_password">Estableix una contrasenya</string>
