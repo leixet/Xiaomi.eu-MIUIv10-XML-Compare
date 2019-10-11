@@ -109,6 +109,7 @@
   <string name="accessibility_remove_notification">Esborra notificació.</string>
   <string name="accessibility_ringer_silent">Timbre en silenci.</string>
   <string name="accessibility_ringer_vibrate">Vibració.</string>
+  <string name="accessibility_rotation_lock_on_landscape">La pantalla està bloquejada en orientació horitzontal.</string>
   <string name="accessibility_search_light">Cerca</string>
   <string name="accessibility_search_scanner">Escàner</string>
   <string name="accessibility_settings">Configuració</string>
@@ -410,6 +411,9 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="face_data_input_cancel_msg">"No s'han pogut afegir les dades de la cara"</string>
   <string name="face_data_input_msg">Col·loqueu la cara dins del marc</string>
   <string name="face_data_input_ok">Fet</string>
+  <string name="face_data_input_ok_msg">Activeu la pantalla per desbocar el dispositiu utilitzant les vostres dades facials.</string>
+  <string name="face_data_input_ok_msg_angle">"Desblocatge del dispositiu amb la vostra cara quan la pantalla estigui activada.
+(Enregistra les vostres dades facials incloent tots els angles que calguin.)​"</string>
   <string name="face_data_input_structure_title">Dades 3D de la cara</string>
   <string name="face_data_input_title">Captura de dades facials</string>
   <string name="face_data_introduction_next">Següent</string>
@@ -423,10 +427,13 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="face_unlock_be_on_the_screen">Enfoqueu el dispositiu envers la vostra cara</string>
   <string name="face_unlock_by_notification_screen_on_msg">Podeu desblocar el dispositiu amb el reconeixement facial quan la pantalla s\'il·lumina amb les notificacions entrants. Aquesta opció pot fer que la bateria duri menys.</string>
   <string name="face_unlock_check_failed">"No se us ha pogut reconèixer"</string>
+  <string name="face_unlock_close_screen">Apropeu-vos a la pantalla</string>
   <string name="face_unlock_not_found">"No se us ha pogut reconèixer"</string>
   <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
   <string name="face_unlock_reenter_content">L\'algorisme de desbloqueig facial s\'està actualitzant. Premeu per tornar a enregistrar dades facials.</string>
   <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
+  <string name="face_unlock_success_show_message_dialog_title">Notificacions a la pantalla de blocatge</string>
+  <string name="face_unlock_success_show_message_toast">Les notificacions es mostraran en la pantalla de blocatge</string>
   <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
   <string name="float_incall_ignore">Ignorar</string>
@@ -567,6 +574,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode d\'avió</string>
   <string name="lock_screen_magazine_default_title">Cavallets de fons de pantalla</string>
+  <string name="lock_screen_magazine_global_button_text">Més</string>
   <string name="lock_screen_magazine_label">Obre els Cavallets de fons de pantalla</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Més</string>
   <string name="lock_screen_no_sim_card_emergency_only">Només trucades d\'emergència</string>
@@ -989,6 +997,7 @@ d MMMM"</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma per defecte</string>
   <string name="tuner_doze_always_on">Sempre actiu</string>
+  <string name="tuner_lock_screen">Pantalla de blocatge</string>
   <string name="un_important_notifications">Notificacions no importants</string>
   <string name="unimportant_desc">Totes les notificacions no importants apareixeran en una carpeta separada.</string>
   <string name="unimportant_title">No important</string>
