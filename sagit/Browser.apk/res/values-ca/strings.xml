@@ -182,6 +182,7 @@
   <string name="cancle_sync_cloud_tabs">Cancel·la la sincronització</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
   <string name="cast_video">Emet el vídeo</string>
+  <string name="channel_complete">Completat</string>
   <string name="channel_edit">Edita</string>
   <string name="channel_more_description">Cliqueu per afegir un canal</string>
   <string name="channel_more_title">Més canal</string>
