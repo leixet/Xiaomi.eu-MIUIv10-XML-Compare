@@ -2238,8 +2238,10 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_profile_wipe_warning_content_password">Si torneu a introduir una contrasenya incorrecta, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_content_pattern">Si torneu a introduir un patró incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_content_pin">Si torneu a introduir un PIN incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
+  <string name="lock_screen_display_category_name">Pantalla de blocatge</string>
   <string name="lock_screen_intro_skip_dialog_text">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones utilitzin el telèfon si el perdeu o el roben.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones facin servir el telèfon si el perdeu, el roben o se n\'esborra el contingut.</string>
+  <string name="lock_screen_intro_skip_title">Voleu ometre la pantalla de blocatge?</string>
   <string name="lock_screen_notifications_interstitial_message">Quan el dispositiu està bloquejat, com voleu que es mostrin les notificacions?</string>
   <string name="lock_screen_notifications_interstitial_message_profile">Com voleu que es mostrin les notificacions quan el dispositiu està bloquejat?</string>
   <string name="lock_screen_notifications_interstitial_title">Notificacions</string>
@@ -2250,6 +2252,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_summary_show">Mostra totes les notificacions i els seu contingut</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notificacions laborals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
+  <string name="lock_screen_settings_title">Pantalla de blocatge</string>
   <string name="lock_screen_signature_summary">La signatura es mostrarà a la pantalla de bloqueig</string>
   <string name="lock_screen_signature_title">Signatura de la pantalla de bloqueig</string>
   <string name="lock_screen_unlock_show">Omet la pantalla de bloqueig</string>
@@ -2362,6 +2365,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_checking_password">S\'està comprovant&#8230;</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
+  <string name="lockscreen_label">Pantalla de blocatge</string>
   <string name="lockscreen_magazine">Carrusel de fons de pantalla</string>
   <string name="lockscreen_magazine_summary">Carrusel de fons de pantalla d\'alta qualitat</string>
   <string name="lockscreen_magazine_title">Tipus de fons de pantalla</string>
@@ -3535,6 +3539,7 @@ Per fer-ho:
   <string name="screen_resolution_title">Resolució de pantalla</string>
   <string name="screen_resolution_ultrahigh_format">Molt alta (%1$s)</string>
   <string name="screen_saturation">Saturació de color</string>
+  <string name="screen_settings">Pantalla de blocatge</string>
   <string name="screen_shot">Fes una captura de pantalla</string>
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
@@ -4548,6 +4553,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_disable_frp_warning_title_profile">Voleu suprimir la protecció del perfil?</string>
   <string name="unlock_disable_lock_pin_summary">Desactiva el PIN</string>
   <string name="unlock_disable_lock_title">Desactiva la pantalla de bloqueig</string>
+  <string name="unlock_mode_title">Blocatge de pantalla</string>
   <string name="unlock_set_do_later_title">Ara no</string>
   <string name="unlock_set_enter_system">Omet la pantalla de bloqueig</string>
   <string name="unlock_set_enter_system_summary">En sortir de repòs vés a la pàgina d\'inici</string>
