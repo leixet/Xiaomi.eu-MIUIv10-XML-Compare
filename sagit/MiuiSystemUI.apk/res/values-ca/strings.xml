@@ -614,6 +614,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="miui_ringer_standard">Silenciós</string>
   <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
   <string name="miui_ringer_total">No molesteu</string>
+  <string name="miui_ringer_total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
   <string name="miui_toast_zen_dnd_to_off">Els sons i la vibració han tornat a la normalitat</string>
   <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
