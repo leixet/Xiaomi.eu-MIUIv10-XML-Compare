@@ -1092,6 +1092,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="video_download_unknown_name">Nom desconegut</string>
   <string name="video_download_unknown_size">Mida desconeguda</string>
   <string name="video_download_unsupport">No suportat</string>
+  <string name="video_download_wait_for_network">S\'està esperant la xarxa</string>
   <string name="video_download_wait_for_wifi">S\'està esperant una Wi-Fi</string>
   <string name="video_downloaded_group">Baixats</string>
   <string name="video_downloading_group">S\'està baixant</string>
@@ -1119,6 +1120,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="video_unknown_duration">Durada desconeguda</string>
   <string name="view_certificate">Mostra el certificat</string>
   <string name="view_document_downloaded_files">Mostra els fitxers baixats a Baixades</string>
+  <string name="vo_info_flow_debug_title">dades de depuració</string>
   <string name="voice_check_network">Comproveu la connexió i torneu-ho a provar</string>
   <string name="voice_close_description">Tanca</string>
   <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
