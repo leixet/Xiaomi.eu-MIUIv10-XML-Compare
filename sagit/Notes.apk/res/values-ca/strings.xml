@@ -190,6 +190,9 @@
   <string name="todo_module_name">Tasques</string>
   <string name="todo_notify_alarm_title">Recordatoris de tasques</string>
   <string name="todo_search_hint">Cerca de tasques</string>
+  <string name="todo_user_guide_tip1">Benvinguts a la gestió de tasques!</string>
+  <string name="todo_user_guide_tip3">Per editar una tasca escrita només l\'heu de prémer.</string>
+  <string name="todo_user_guide_tip4">"No us oblideu de creau un enllaç a la pantalla principal per la gestió de les tasques."</string>
   <string name="toolbar_check_description">Afegeix casella de selecció</string>
   <string name="toolbar_delete_description">Elimina aquesta nota</string>
   <string name="toolbar_gallery_description">Afegeix imatge</string>
