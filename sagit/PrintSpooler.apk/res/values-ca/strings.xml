@@ -8,6 +8,7 @@
   <string name="app_label">Gestor de cues d\'impressió</string>
   <string name="blocked_notification_title_template">S\'ha bloquejat la impressora %1$s</string>
   <string name="cancel">Cancel·la</string>
+  <string name="cancel_print">Cancel·la la tasca</string>
   <string name="cancelling_notification_title_template">S\'està cancel·lant %1$s</string>
   <string name="cannot_add_printer">No es poden afegir impressores</string>
   <string name="collapse_handle">Amaga la llista</string>
