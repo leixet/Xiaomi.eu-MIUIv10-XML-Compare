@@ -1963,6 +1963,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="system_application">Aplicacions del Sistema</string>
+  <string name="system_permission_declare_analytics_declare">"Gràcies per inscriure-os en el nostre Programa de satisfacció d'usuaris. El vostre dispositiu necessita estar connectat a internet per a que aquesta característica funcioni correctament. També se us demana que doneu els permisos indicats més avall per permetre'ns recollir dades que ens ajudin a millorar els nostres productes i serveis. Les dades es recopilen només amb propòsits estadístics. No podrem utilitzar-les per identificar-vos personalment."</string>
+  <string name="system_permission_declare_no_say_no_analytics">"Si no voleu donar aquests permisos us podeu donar de baixa a Configuració &gt; Configuració addicional &gt; Privadesa &gt; Programa de satisfacció d'usuaris."</string>
   <string name="tab_blacklist">Llista de bloqueig</string>
   <string name="tab_block_log_unKnowNumber">Número privat</string>
   <string name="tab_call">Trucades</string>
