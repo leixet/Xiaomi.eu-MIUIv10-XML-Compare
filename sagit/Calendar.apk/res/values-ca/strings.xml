@@ -424,11 +424,14 @@
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_alarm_changed_credit_event">Recorda sempre els pagaments de targes de crèdit</string>
   <string name="repeat_alarm_changed_event">Estableix un recordatori repetitiu</string>
-  <string name="repeat_alarm_changed_flight_event">Recorda sempre els pagaments de vols</string>
+  <string name="repeat_alarm_changed_flight_event">Recorda sempre els vols</string>
   <string name="repeat_alarm_changed_gas_event">Recorda sempre els pagaments de gas</string>
-  <string name="repeat_alarm_changed_hotel_event">Recorda sempre els pagaments d\'hotels</string>
+  <string name="repeat_alarm_changed_hotel_event">Recorda sempre els hotels</string>
+  <string name="repeat_alarm_changed_loan_event">Recorda sempre l\'amortització de préstecs</string>
+  <string name="repeat_alarm_changed_movie_event">Recorda sempre les pel·lícules</string>
   <string name="repeat_alarm_changed_ony_selected">Només aquest cop</string>
   <string name="repeat_alarm_changed_title">Aquest és un esdeveniment repetitiu. Voleu establir un recordatori?</string>
+  <string name="repeat_alarm_changed_train_event">Recorda sempre els trens</string>
   <string name="repeat_alarm_close_title">Aquest és un esdeveniment repetitiu. Voleu desactivar el recordatori d\'alarma?</string>
   <string name="repeat_alarm_open_title">Aquest és un esdeveniment repetitiu. Voleu establir un recordatori d\'alarma?</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
