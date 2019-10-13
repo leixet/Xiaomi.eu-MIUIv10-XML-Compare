@@ -799,6 +799,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="recents_app_info_button_label">Informació de l\'aplicació</string>
   <string name="recents_caption_resize">Selecciona el disseny de la tasca nova</string>
+  <string name="recents_dimiss_task">Esborra</string>
   <string name="recents_drag_hint_message">Arrossegueu elements aquí</string>
   <string name="recents_empty_message">No hi ha cap element recent</string>
   <string name="recents_empty_message_dismissed_all">"Heu eliminat tots els elements"</string>
@@ -813,6 +814,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Divideix horitzontalment</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Divideix verticalment</string>
   <string name="recents_stack_action_button_label">Suprimeix-ho tot</string>
+  <string name="recents_task_screening">En emissió</string>
   <string name="recents_title_garbage_cleanup">Netejador</string>
   <string name="recents_title_security_scan">Escaneig de seguretat</string>
   <string name="reject_call">Rebutjar trucada</string>
