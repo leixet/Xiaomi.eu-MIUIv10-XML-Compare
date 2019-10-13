@@ -1025,6 +1025,7 @@ per al compte %s"</string>
   <string name="reboot_to_update_prepare">S\'està preparant per a l\'actualització…</string>
   <string name="reboot_to_update_reboot">S\'està reiniciant…</string>
   <string name="reboot_to_update_title">Actualització del sistema Android</string>
+  <string name="recent_tasks_title">Tasques recents</string>
   <string name="redo">Refés</string>
   <string name="region_picker_section_all">Totes les regions</string>
   <string name="relationTypeAssistant">Assistent</string>
