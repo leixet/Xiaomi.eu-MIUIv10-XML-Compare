@@ -177,6 +177,9 @@
   <string name="toast_reach_text_limit_attachment">"No es pot adjuntar documents perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_checkbox">"No es pot afegir la casella de selecció perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_truncate">Aquesta nota és massa llarga. S\'ha retallat text del final perquè hi càpiga.</string>
+  <string name="todo_edit_text_hint">Introduïu la descripció de la tasca</string>
+  <string name="todo_menu_add_description">Afegeix una tasca</string>
+  <string name="todo_module_name">Tasques</string>
   <string name="toolbar_check_description">Afegeix casella de selecció</string>
   <string name="toolbar_delete_description">Elimina aquesta nota</string>
   <string name="toolbar_gallery_description">Afegeix imatge</string>
