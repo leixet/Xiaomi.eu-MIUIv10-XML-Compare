@@ -860,6 +860,7 @@
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
   <string name="gamebox_dnd">No molesteu</string>
   <string name="gamebox_qq_not_find">Instal·leu QQ i torneu-ho a provar.</string>
+  <string name="gamebox_recent_task_expand_fail">"Les aplicacions que funcionen amb dreceres no estan instal·lades"</string>
   <string name="gamebox_type_close">"No ho mostris"</string>
   <string name="gamebox_type_float">Drecera fixa</string>
   <string name="gamebox_type_gesture">Llisca per mostrar</string>
