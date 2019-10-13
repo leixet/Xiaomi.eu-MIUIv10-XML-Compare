@@ -163,6 +163,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="restore_init_description">Comença la restauració</string>
   <string name="restore_task_cancelling">S\'està cancel·lant…</string>
   <string name="restore_task_in_process">S\'està restaurant…</string>
+  <string name="restore_task_unfinished">"No s'ha pogut restaurar"</string>
   <string name="restore_unfinished">S\'està restaurant, torneu-ho a provar més tard</string>
   <string name="restoring_file_title_no_progress">Restaurar arxius…</string>
   <string name="restoring_settings">Restaurant la configuració…</string>
