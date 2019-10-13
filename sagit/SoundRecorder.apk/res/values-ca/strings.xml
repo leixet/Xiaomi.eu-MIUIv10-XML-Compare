@@ -86,6 +86,7 @@
   <string name="recognition_error_format">El format d\'àudio no és vàlid</string>
   <string name="recognition_error_internal">Error intern</string>
   <string name="recognition_error_stopped">Reconeixement aturat</string>
+  <string name="recognition_process_dialog_title">Tasques en curs</string>
   <string name="recognition_status_downloading">"S'està baixant"</string>
   <string name="record">Grava</string>
   <string name="record_back_pressed_hint">Per aturar la gravació, toqueu «Enrere» un altre cop</string>
