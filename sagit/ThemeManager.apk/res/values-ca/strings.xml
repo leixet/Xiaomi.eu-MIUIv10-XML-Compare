@@ -143,6 +143,7 @@
   <string name="lockscreen_wallpaper">Bloqueja la pantalla</string>
   <string name="lockstyle_personal_settings">Personalitza</string>
   <string name="mi_wallpaper">Fons de pantalla MIUI</string>
+  <string name="miuishare_mini_program_title">Reviseu el fons de pantalla que he trobat!</string>
   <string name="multi_sim_ringtone_settings_dialog_message">El to de trucada s\'aplica a les dues targetes SIM.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">D\'acord</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"No tornis a mostrar-ho"</string>
