@@ -33,6 +33,8 @@
   <string name="close">Desactivat</string>
   <string name="config_camera_component">com.android.camera/com.android.camera.Camera</string>
   <string name="configure_input_methods">Configura els mètodes d\'entrada</string>
+  <string name="confirm_cancel_task_files">Voleu cancel·lar l\'enviament de fitxers a %1$s?</string>
+  <string name="confirm_cancel_task_images">Voleu cancel·lar l\'enviament d\'imatges a %1$s?</string>
   <string name="copy">Copia</string>
   <string name="cut">Retalla</string>
   <string name="default_name">Per defecte</string>
