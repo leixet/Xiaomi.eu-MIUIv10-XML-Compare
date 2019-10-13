@@ -20,6 +20,7 @@
   <string name="all_terms">%1$s i %2$s</string>
   <string name="call_folder_name">Notes de trucada</string>
   <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
+  <string name="check_in_todo_app">Mostra les tasques</string>
   <string name="cloud_service_state_open_reminder">Activeu la sincronització amb Mi Cloud per sincronitzar notes.</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
   <string name="date_time_picker_alarm_reminder">Alarma</string>
@@ -62,6 +63,7 @@
   <string name="error_send_empty_note_to_weibo">"No es pot enviar una nota buida a Weibo"</string>
   <string name="error_unsupport_content">Aquesta nota inclou contingut incompatible, premeu aquí per actualitzar l\'aplicació</string>
   <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja és a la pantalla d\'inici</string>
+  <string name="exceed_todo_text_limitation">La descripció de la tasca és massa llarga.</string>
   <string name="folder_exist">Ja existeix una carpeta amb el mateix nom</string>
   <string name="folder_operation_delete">Suprimeix</string>
   <string name="folder_operation_rename">Reanomena</string>
@@ -96,6 +98,8 @@
   <string name="menu_source">De: %1$s</string>
   <string name="menu_stick">Fixa</string>
   <string name="menu_title_select_folder">Seleccionar carpeta</string>
+  <string name="menu_todo_hide_finished_todo">Amaga les tasques finalitzades</string>
+  <string name="menu_todo_show_finished_todo">Mostra les tasques finalitzades</string>
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Alliberar</string>
   <string name="not_now">Ara no</string>
@@ -177,9 +181,15 @@
   <string name="toast_reach_text_limit_attachment">"No es pot adjuntar documents perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_checkbox">"No es pot afegir la casella de selecció perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_truncate">Aquesta nota és massa llarga. S\'ha retallat text del final perquè hi càpiga.</string>
+  <string name="todo_alert_title_delete">Esborra les tasques finalitzades</string>
+  <string name="todo_audio_default_content">"[Tasca oral] "</string>
+  <string name="todo_edit_audio_hint">Expliqueu la vostra tasca</string>
   <string name="todo_edit_text_hint">Introduïu la descripció de la tasca</string>
+  <string name="todo_menu_add_audio_description">Afegeix una tasca oral</string>
   <string name="todo_menu_add_description">Afegeix una tasca</string>
   <string name="todo_module_name">Tasques</string>
+  <string name="todo_notify_alarm_title">Recordatoris de tasques</string>
+  <string name="todo_search_hint">Cerca de tasques</string>
   <string name="toolbar_check_description">Afegeix casella de selecció</string>
   <string name="toolbar_delete_description">Elimina aquesta nota</string>
   <string name="toolbar_gallery_description">Afegeix imatge</string>
