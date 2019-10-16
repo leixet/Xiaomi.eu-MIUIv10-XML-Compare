@@ -1297,6 +1297,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="decline_remote_bugreport_action">Rebutja-ho</string>
+  <string name="defalut_launcher_title">Pantalla inicial predeterminada</string>
   <string name="default_admin_support_msg">Aquesta acció s\'ha desactivat. Per obtenir més informació, contacteu amb l\'administrador de l\'organització.</string>
   <string name="default_app">(Per defecte)</string>
   <string name="default_apps_title">Per defecte</string>
@@ -1307,6 +1308,9 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="default_for_work">Per defecte per a la feina</string>
   <string name="default_input_method">Trieu el teclat per defecte</string>
   <string name="default_keyboard_layout">Per defecte</string>
+  <string name="default_launcher_set_jeejen_message">Premeu el botó Inici per configurar Jeejen</string>
+  <string name="default_launcher_set_system_message">Premeu el botó Inici per restablir la interfície inicial predeterminada</string>
+  <string name="default_launcher_title">Interfície inicial predeterminada</string>
   <string name="default_map_app_title">Aplicació de mapes</string>
   <string name="default_notification_assistant">Assistent de notificacions</string>
   <string name="default_rule_name">Temporitzador 1</string>
@@ -1963,6 +1967,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="high_power_system">L\'optimització de la bateria no és disponible</string>
   <string name="history_details_title">Detalls de l\'historial</string>
   <string name="home">Pàgina d\'inici de configuració</string>
+  <string name="home_app">Interfície inicial</string>
   <string name="home_key">Pàgina d\'inici</string>
   <string name="home_work_profile_not_supported">"No admet el perfil de feina"</string>
   <string name="http_invoke_app">Aplicacions web</string>
@@ -2133,6 +2138,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="launch_google_search">Obre Google Assistant</string>
   <string name="launch_recents">Executa recents</string>
   <string name="launch_voice_assistant">Obre l\'assistent de veu</string>
+  <string name="launcher_icon">Icones</string>
   <string name="launcher_title">Pantalla d\'inici</string>
   <string name="launching_cit">S\'està iniciant CIT</string>
   <string name="launching_pho">S\'està iniciant informació del telèfon, espereu-vos.</string>
