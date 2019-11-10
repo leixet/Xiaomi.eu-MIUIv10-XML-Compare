@@ -296,13 +296,13 @@
         <item>Optimitzat per a la qualitat de la connexió</item>
         <item>Equilibrat entre la qualitat de l\'àudio i la de la connexió</item>
         <item>Optimitzat per a la qualitat de l\'àudio</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>Millor opció (Ràtio de compressió automàtica)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Optimitzat per a la qualitat de la connexió (400kbps)</item>
         <item>Equilibrat entre la qualitat de l\'àudio i la de la connexió (500/560kbps)</item>
         <item>Optimitzat per a la qualitat de l\'àudio (900kbps)</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>Millor opció (Ràtio de compressió automàtica)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -327,8 +327,8 @@
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Desactiva els còdecs opcionals</item>
-        <item>Enable optional codecs</item>
-        <item>Disable optional codecs</item>
+        <item>Activa còdecs opcionals</item>
+        <item>Desactiva còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (per defecte)</item>
