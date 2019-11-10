@@ -292,6 +292,18 @@
         <item>Latència mitjana (150~200ms)</item>
         <item>Latència llarga (300~500ms)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimitzat per a la qualitat de la connexió</item>
+        <item>Equilibrat entre la qualitat de l\'àudio i la de la connexió</item>
+        <item>Optimitzat per a la qualitat de l\'àudio</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimitzat per a la qualitat de la connexió (400kbps)</item>
+        <item>Equilibrat entre la qualitat de l\'àudio i la de la connexió (500/560kbps)</item>
+        <item>Optimitzat per a la qualitat de l\'àudio (900kbps)</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Utilitza la selecció del sistema (per defecte)</item>
         <item>44.1 kHz</item>
