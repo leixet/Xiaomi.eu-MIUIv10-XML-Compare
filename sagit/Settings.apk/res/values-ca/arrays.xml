@@ -7,13 +7,13 @@
     </string-array>
     <string-array name="ai_key_item_name">
         <item>Talk to Google Assistant</item>
-        <item>Open Google search</item>
+        <item>Obre la cerca de Google</item>
         <item>Obre la càmera posterior</item>
-        <item>Open front camera</item>
-        <item>Open previous app</item>
-        <item>Turn on flashlight</item>
-        <item>Turn on Reading mode</item>
-        <item>None</item>
+        <item>Obre la càmera frontal</item>
+        <item>Obre l\'aplicació anterior</item>
+        <item>Activa el flaix</item>
+        <item>Activa el mode de lectura</item>
+        <item>Cap</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Cada dia</item>
@@ -50,6 +50,11 @@
         <item>Emmagatzematge intern del dispositiu</item>
         <item>Targeta SD extraïble</item>
         <item>Deixa decidir-ho al sistema</item>
+    </string-array>
+    <string-array name="app_install_location_values">
+        <item>dispositiu</item>
+        <item>sdcard</item>
+        <item>auto</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Ubicació</item>
@@ -240,6 +245,14 @@
         <item>IS95B</item>
         <item>IS95A</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Mode d\'alta qualitat (per defecte)</item>
+        <item>Mode de baixa latència</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Mode d\'alta qualitat (per defecte)</item>
+        <item>Mode de baixa latència</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Utilitza la selecció del sistema (per defecte)</item>
         <item>16 bits/mostra</item>
@@ -273,6 +286,11 @@
         <item>Qualitat d\'àudio i connexió equilibrada (660kbps/606kbps)</item>
         <item>Optimitzat per a la qualitat de la connexió (330kbps/303kbps)</item>
         <item>Millor esforç (velocitat de bits adaptativa)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Latència curta (50~100ms)</item>
+        <item>Latència mitjana (150~200ms)</item>
+        <item>Latència llarga (300~500ms)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Utilitza la selecció del sistema (per defecte)</item>
