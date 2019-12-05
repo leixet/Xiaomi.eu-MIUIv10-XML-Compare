@@ -263,6 +263,7 @@
   <string name="msglist_release_to_more">Deixeu anar per veure\'n més</string>
   <string name="multimedia_message">Missatge multimèdia</string>
   <string name="multimedia_notification">Notificació de missatge multimèdia</string>
+  <string name="mx_activate_allow_notice">Podria ser necessari enviar un SMS per activar els serveis gratuïts de text i veu. El vostre proveïdor us cobraria aquest missatge. A més, quan s\'utilitzi aquesta funció caldrà una petit consum de dades per comprovar que l\'altre usuari està connectat. Hi esteu d\'acord?</string>
   <string name="mx_activate_dlg_title">Activació de Missatge Mi</string>
   <string name="mx_activate_dlg_title_ex">Activació de Massatges i Veu Mi</string>
   <string name="mx_activate_error_malformed_info">Heu de reactivar Missatge Mi.</string>
