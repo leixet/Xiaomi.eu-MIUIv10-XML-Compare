@@ -370,6 +370,7 @@
   <string name="disable_auto_upload_tip">Les fotos noves i les eliminades no se sincronitzaran amb Mi Cloud. Aquest àlbum es mourà a altres àlbums.</string>
   <string name="disable_auto_upload_title">Desactiva la sincronització amb Mi Cloud</string>
   <string name="do_not_remind_me">"No ho tornis a mostrar"</string>
+  <string name="document_provider_guide_step_3">3. Premeu el botó del menú lateral.</string>
   <string name="double_tap_to_higher_definition">Toqueu dues vegades novament per la vista prèvia en HD</string>
   <string name="download_canceled">Baixada cancel·lada</string>
   <string name="download_error_format">"No s'ha pogut baixar %s"</string>
