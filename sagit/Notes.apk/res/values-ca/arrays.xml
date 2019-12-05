@@ -38,6 +38,6 @@
     </string-array>
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Notes de veu</item>
-        <item>You can create voice notes now. Just tap the icon, record your voice, and save the audio file inside the note.</item>
+        <item>Ara podeu crear notes de veu. Premeu la icona, enregistreu la vostra veu i deseu el fitxer d\'àudio dins la nota.</item>
     </string-array>
 </resources>
