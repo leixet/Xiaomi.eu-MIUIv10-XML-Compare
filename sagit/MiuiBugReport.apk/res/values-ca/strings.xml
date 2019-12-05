@@ -7,5 +7,6 @@
   <string name="catch_full_log_submit_directly">Envia</string>
   <string name="err_type_hardware">Maquinari</string>
   <string name="feedback_submitting">S\'està enviant</string>
+  <string name="michat_return_to_outside">Surt</string>
   <string name="screen_lock">Blocatge de pantalla</string>
 </resources>
