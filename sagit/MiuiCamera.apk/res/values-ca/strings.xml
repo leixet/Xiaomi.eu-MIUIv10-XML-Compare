@@ -493,4 +493,5 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Assolit el límit de mida.</string>
   <string name="wait">Un moment…</string>
+  <string name="wideselfie_rotate_slowly">Gireu lentament el telèfon de costat</string>
 </resources>
