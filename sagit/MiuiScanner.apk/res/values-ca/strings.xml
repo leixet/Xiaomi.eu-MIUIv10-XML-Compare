@@ -13,6 +13,8 @@
   <string name="back">Enrere</string>
   <string name="barcode_into_rectangle">Centreu el codi dins del marc</string>
   <string name="birthday">Aniversari:</string>
+  <string name="business_card_title">Col·loqueu la vostra tarja comercial dins el marc</string>
+  <string name="business_card_with_qr_code">Col·loqueu la vostra tarja comercial o codi QR dins el marc</string>
   <string name="camera_error_title">Error de la càmera</string>
   <string name="cancel">Cancel·la</string>
   <string name="choose_picture">Seleccioneu una imatge amb codi QR</string>
