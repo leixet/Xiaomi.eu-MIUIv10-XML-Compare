@@ -767,6 +767,7 @@ Comproveu el número de seguiment."</string>
   <string name="setting_stock_brief_list">Informació diària</string>
   <string name="setting_switch_toast_close">"Els pagaments no es registren"</string>
   <string name="setting_switch_toast_open">Els pagaments es registren</string>
+  <string name="setting_title_resident_function">Característiques permanents</string>
   <string name="settings">Configuració</string>
   <string name="settings_subtitle">Rep notificacions després d\'afegir alguna cosa als preferits</string>
   <string name="settings_title">Notifica sobre l\'addició als preferits</string>
