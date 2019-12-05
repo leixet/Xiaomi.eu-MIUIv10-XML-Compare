@@ -283,6 +283,7 @@
   <string name="status_installing">S\'està instal·lant</string>
   <string name="status_paused">En pausa</string>
   <string name="status_pending">Pendent</string>
+  <string name="system_shortcuts_more_operation">Informació de l\'aplicació</string>
   <string name="title_jeejen">Pantalla d\'inici Jeejen</string>
   <string name="title_select_live_folder">Seleccioneu una carpeta</string>
   <string name="title_select_shortcut">Seleccioneu una drecera</string>
