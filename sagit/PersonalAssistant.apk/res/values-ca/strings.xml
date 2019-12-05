@@ -42,6 +42,7 @@
   <string name="alipay_sdk_payed_show_paycode">Mostra el codi</string>
   <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
   <string name="alipay_sdk_tiemout">La sessió ha expirat. Torneu-la a iniciar.</string>
+  <string name="all_function_title">Totes les dreceres</string>
   <string name="already">Completat:</string>
   <string name="app_label">Cofre d\'aplicacions</string>
   <string name="apps">Suggeriments d\'aplicacions</string>
@@ -705,6 +706,7 @@ Comproveu el número de seguiment."</string>
   <string name="search_setting_description">Títols als favorits</string>
   <string name="search_tip">S\'està cercant…</string>
   <string name="security">Seguretat</string>
+  <string name="selected_shortcuts_title">Funcionalitats</string>
   <string name="send_action_title">Afegeix als preferits</string>
   <string name="service_unavailiable">Comproveu la connexió de xarxa i torneu-ho a provar</string>
   <string name="setting_address">Afegiu llocs freqüents</string>
