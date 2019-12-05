@@ -912,6 +912,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="security_warnings_confirm_message">Apagant aquesta característica es poden crear riscos de seguretat.</string>
   <string name="select_dot">Selecciona text</string>
   <string name="select_download_device">Tria un dispositiu</string>
+  <string name="send_bookmark">Adreça d\'interès</string>
   <string name="send_comment_button">Envia</string>
   <string name="send_desktop">Pantalla inicial</string>
   <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
