@@ -116,6 +116,7 @@
   <string name="passport_empty_user_name">"El nom d'usuari no pot estar buit"</string>
   <string name="passport_error_phone_error">El número de telèfon no és vàlid</string>
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid</string>
+  <string name="passport_international_phone_password_login_tip">(Els usuaris de fora la Xina hauríeu de introduir el número de telèfon en el següent format: + codi telefònic nacional número de telèfon, p. e. +34 817282982)</string>
   <string name="passport_log_detail">Mostra el registre detallat</string>
   <string name="passport_privacy_policy">Política de privadesa</string>
   <string name="passport_reload_ph_ticket">Tornar a enviar</string>
