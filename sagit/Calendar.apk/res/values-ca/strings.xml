@@ -543,6 +543,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="train_event_arrive_station_saved">S\'ha desat correctament el destí</string>
   <string name="train_event_choose_arrive_station">Seleccioneu el destí</string>
   <string name="train_event_delete_successfully">S\'ha esborrat correctament l\'itinerari de tren</string>
+  <string name="train_event_depart">Surt a les %1$s</string>
   <string name="train_event_disclaimer">"Descàrrec: Tota la informació relativa a trens i serveis ve de l'empresa ferroviària. Podeu contactar amb els serveis d'atenció al client de l'empresa ferroviària si teniu qualsevol dubte. La informació ferroviària proporcionada només és de referència. Adreceu-vos a la pàgina web oficial de l'empresa ferroviària per conèixer les darreres correccions i actualitzacions."</string>
   <string name="train_event_error_toast">"No s'ha pogut pujar la informació"</string>
   <string name="train_event_error_train_info">"No s'ha pogut comprovar el bitllet"</string>
@@ -590,6 +591,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="widget_get_weather_info">Obtén la informació meteorològica &gt;</string>
   <string name="widget_no_events">No hi ha esdeveniments</string>
   <string name="widget_select_style">Seleccioneu un estil</string>
+  <string name="work_day_default_banner_title">Que tingueu un dia profitós!</string>
   <string name="work_day_indication">:(</string>
   <string name="wuxing">Cinc</string>
   <string name="xiaomi_calendar_display_name">Calendari del compte Mi</string>
