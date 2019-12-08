@@ -233,6 +233,7 @@
   <string name="eq_preset_hint">Nom valor per defecte</string>
   <string name="eq_preset_select">Trieu una configuració per defecte</string>
   <string name="equalizer">Equalitzador</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="expired">Ha vençut</string>
   <string name="fail_to_fetch_payment_page_url">"No s'ha pogut obtenir la informació de pagament"</string>
   <string name="fail_to_play">"No es pot reproduir la cançó"</string>
