@@ -6111,6 +6111,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_api_test">API de Wi-Fi</string>
   <string name="wifi_ask_disable">%s vol desactivar la Wi-Fi</string>
   <string name="wifi_ask_enable">%s vol activar la Wi-Fi</string>
+  <string name="wifi_assistant_switch_data">Utilitza dades mòbils</string>
   <string name="wifi_auto_connect">Connexió automàtica</string>
   <string name="wifi_available_title">Connexió amb Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Utilitza només les xarxes amb una bona connexió a Internet</string>
