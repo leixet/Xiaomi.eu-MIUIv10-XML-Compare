@@ -184,6 +184,7 @@
   <string name="cast_video">Emet el vídeo</string>
   <string name="channel_complete">Completat</string>
   <string name="channel_edit">Edita</string>
+  <string name="channel_header_description">Cliqueu a dins, manteniu premut per editar</string>
   <string name="channel_more_description">Cliqueu per afegir un canal</string>
   <string name="channel_more_title">Més canal</string>
   <string name="check_security_tip_privacy_policy">Política de privadesa</string>
