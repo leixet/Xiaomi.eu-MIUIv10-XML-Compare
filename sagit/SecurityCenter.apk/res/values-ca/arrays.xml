@@ -24,10 +24,10 @@
         <item>"Aquest mes: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Ahir (dades)"</item>
-        <item>"Avui (dades)"</item>
-        <item>"El mes passat (dades)"</item>
-        <item>"Aquest mes (dades)"</item>
+        <item>"Ahir (dades mòbils) "</item>
+        <item>"Avui (dades mòbils) "</item>
+        <item>"El mes passat (dades mòbils) "</item>
+        <item>"Aquest mes (dades mòbils) "</item>
         <item>"Wi-Fi ahir"</item>
         <item>"Wi-Fi avui"</item>
         <item>"Wi-Fi el mes passat"</item>
