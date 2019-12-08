@@ -194,6 +194,7 @@ utilitzat %s"</string>
   <string name="data_usage_limit_snoozed_body">"Límit superat a %s."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límit de dades mòbils superat</string>
   <string name="data_usage_mobile_limit_title">S\'ha arribat al límit de dades mòbils</string>
+  <string name="data_usage_rapid_title">Ús de dades mòbils elevat</string>
   <string name="data_usage_restricted_body">Toqueu per eliminar la restricció.</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
   <string name="data_usage_warning_body">"Toqueu per veure l'ús i la configuració."</string>
@@ -673,6 +674,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_channel_device_admin">Administració del dispositiu</string>
   <string name="notification_channel_emergency_callback">Mode de devolució de trucada d\'emergència</string>
   <string name="notification_channel_foreground_service">Aplicacions que s\'executen en segon pla</string>
+  <string name="notification_channel_mobile_data_status">Estat de les dades mòbils</string>
   <string name="notification_channel_network_alert">Alertes</string>
   <string name="notification_channel_network_alerts">Alertes de xarxa</string>
   <string name="notification_channel_network_available">Xarxa disponible</string>
