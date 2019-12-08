@@ -252,7 +252,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="admin_support_more_info">Més detalls</string>
   <string name="advanced_apps">Avançat</string>
   <string name="advanced_battery_graph_subtext">L\'estimació de la bateria es basa en l\'ús del dispositiu</string>
-  <string name="advanced_battery_title">Ús avançat de la bateria</string>
+  <string name="advanced_battery_title">Consum de bateria</string>
   <string name="advanced_section_header">Avançat</string>
   <string name="advanced_security_title">Avançat</string>
   <string name="advanced_settings">Configuració addicional</string>
@@ -6191,6 +6191,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_eap_domain">Domini</string>
   <string name="wifi_eap_identity">Identitat</string>
   <string name="wifi_eap_method">Mètode EAP</string>
+  <string name="wifi_eap_options_advanced">Opcions avançades</string>
   <string name="wifi_eap_sim_simcard">Tria la SIM</string>
   <string name="wifi_eap_user_cert">Certificat d\'usuari</string>
   <string name="wifi_empty_list_user_restricted">"No teniu permís per a canviar aquesta xarxa."</string>
