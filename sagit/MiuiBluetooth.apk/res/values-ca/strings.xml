@@ -20,6 +20,7 @@
   <string name="bluetooth_search_for_devices">Cercar dispositius</string>
   <string name="device_picker">Configuració del Bluetooth</string>
   <string name="disconnect">Desvincula</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="goto_package">Obre %1$s</string>
   <string name="install_package">Instal·leu %1$s per a tenir més funcions</string>
   <string name="mi_band_vibrate_alarm">Vibra quan soni l\'alarma</string>
