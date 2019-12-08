@@ -126,7 +126,9 @@
   <string name="additional_gsm_call_settings_with_label">Configuració addicional (%s)</string>
   <string name="administrative_disable">Administratiu deshabilitat</string>
   <string name="administrative_enable">Administratiu habilitat</string>
+  <string name="advanced_options_title">Avançat</string>
   <string name="advanced_settings">Paràmetres opcionals</string>
+  <string name="advanced_settings_container">contenidor de configuracions avançades</string>
   <string name="advanced_settings_hide">▷ Toqueu per ocultar-ho tot</string>
   <string name="advanced_settings_show">▷ Toqueu per mostrar-ho tot</string>
   <string name="advertisements_disable">Anuncis desactivats</string>
@@ -666,6 +668,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="eo_enable">Oportunitats de feina activades</string>
   <string name="error_updating_title">Error de configuració de trucada</string>
   <string name="exception_error">Error de xarxa o de targeta SIM.</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="external_source_trusted">Permès</string>
   <string name="external_source_untrusted">No permès</string>
   <string name="failedToImportSingleContactMsg">Error en importar el contacte</string>
