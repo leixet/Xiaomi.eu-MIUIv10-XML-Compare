@@ -753,9 +753,9 @@
         <item>Defineix el cicle d\'ús...</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Avui (dades)"</item>
-        <item>"Aquest mes (dades)"</item>
-        <item>"Darrer mes (dades)"</item>
+        <item>"Avui (dades mòbils) "</item>
+        <item>"Aquest mes (dades mòbils) "</item>
+        <item>"El mes passat (dades mòbils) "</item>
         <item>"Wi-Fi d'avui"</item>
         <item>"Wi-Fi d'aquest mes"</item>
         <item>"Wi-Fi del darrer mes"</item>
