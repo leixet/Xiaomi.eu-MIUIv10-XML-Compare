@@ -9,5 +9,6 @@
   <string name="tts_install_data_title">Instal·la dades de veu</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
+  <string name="wifi_remembered">Desada</string>
   <string name="wifi_wapi_certification_dont_exist">No hi han certificats WAPI. Si us plau, instal·leu-los.</string>
 </resources>
