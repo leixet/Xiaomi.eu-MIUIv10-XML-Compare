@@ -425,6 +425,7 @@
   <string name="prvate_contact">Contactes privats</string>
   <string name="quick_reply">Respon</string>
   <string name="rate_limit_surpassed">D\'acord</string>
+  <string name="rcs_remember_my_choice">Recorda la meva elecció</string>
   <string name="received_at_time">Rebut a les: %1s</string>
   <string name="received_label">"Rebut: "</string>
   <string name="recipient_label">"Destinatari: "</string>
