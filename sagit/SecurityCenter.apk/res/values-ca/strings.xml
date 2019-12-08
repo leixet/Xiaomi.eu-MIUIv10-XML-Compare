@@ -240,6 +240,7 @@
   <string name="app_manager_unstall_application">Desinstal·la</string>
   <string name="app_managere_not_have_app">Buit</string>
   <string name="app_manger_des_separator">",\u0020"</string>
+  <string name="app_mobile">Dades mòbils</string>
   <string name="app_name">Bloquejador d\'aplicacions</string>
   <string name="app_name_na">Ús de dades</string>
   <string name="app_name_securitycenter">Seguretat</string>
@@ -853,6 +854,7 @@
   <string name="game_bootser_tab_settings">Configuració de l\'accelerador</string>
   <string name="game_more_improve">Restringeix l\'activitat en segon pla i la velocitat de baixada per estalviar bateria i ample de banda per jugar</string>
   <string name="game_setting">Configuració del joc</string>
+  <string name="game_video_net_data">Dades mòbils</string>
   <string name="gamebooster_lowbattery_notification_summary">Carregueu el dispositiu abans de desactivar-lo.</string>
   <string name="gamebooster_lowbattery_notification_title">La bateria està per sota del 5%%</string>
   <string name="gamebooster_main_activity_back">Enrere</string>
@@ -2197,6 +2199,7 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
   <string name="traffic_setting_fragment_button2_text">Desa</string>
   <string name="traffic_setting_fragment_city">Ciutat</string>
+  <string name="traffic_setting_fragment_daily_summary">Les dades mòbils s\'actualitzen diàriament</string>
   <string name="traffic_setting_fragment_daily_title">Pla de dades diari</string>
   <string name="traffic_setting_fragment_default">Trieu</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"No tornar a mostrar"</string>
