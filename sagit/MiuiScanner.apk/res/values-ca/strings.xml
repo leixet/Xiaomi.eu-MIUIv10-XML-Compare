@@ -103,6 +103,7 @@
   <string name="secure_access_web_url">Vés al lloc web</string>
   <string name="see_app_details">Mostra els detalls de l\'aplicació</string>
   <string name="setting_choose_every_time">Pregunta-ho sempre</string>
+  <string name="setting_use_last_choose">Mantén la tria anterior</string>
   <string name="shopping_searching">S\'està cercant&#8230;</string>
   <string name="shopping_title">Feu una foto del producte</string>
   <string name="shopping_vendor_info">Amb tecnologia de Taobao</string>
