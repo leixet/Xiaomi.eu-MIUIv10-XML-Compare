@@ -35,6 +35,7 @@
   <string name="already_download">S\'està baixant&#8230;</string>
   <string name="already_download_btn">S\'està baixant&#8230;</string>
   <string name="already_favorited">Ja està als preferits</string>
+  <string name="always_use_metered">Utilitza sempre dades mòbils</string>
   <string name="app_label">Baixades</string>
   <string name="app_permission_confirm">Entesos</string>
   <string name="app_permission_optional">Permisos opcionals</string>
