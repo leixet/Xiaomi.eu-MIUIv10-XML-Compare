@@ -3,6 +3,7 @@
 <resources>
   <string name="abc_searchview_description_submit">Envia la consulta</string>
   <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="mobile_data_always_on">Dades mòbils sempre actives</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu necessàries per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·la dades de veu</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
