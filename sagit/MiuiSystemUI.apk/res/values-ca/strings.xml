@@ -384,6 +384,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="expanded_header_battery_charged">Carregada</string>
   <string name="expanded_header_battery_charging">S\'està carregant</string>
   <string name="expanded_header_battery_charging_with_time">%s fins carregar-se</string>
