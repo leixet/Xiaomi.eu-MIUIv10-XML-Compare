@@ -202,6 +202,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enabled_by_admin">Opció activada per l\'administrador</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="external_source_trusted">Permès</string>
   <string name="external_source_untrusted">No permès</string>
   <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
