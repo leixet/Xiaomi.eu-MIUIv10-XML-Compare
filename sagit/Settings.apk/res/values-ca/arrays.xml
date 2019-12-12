@@ -1252,6 +1252,11 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Al mig</item>
         <item>Alt</item>
     </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Gràfic</item>
+        <item>Percentatge (dins la icona)</item>
+        <item>Percentage (next to the icon in the Notification shade)</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Preferentment amb Wi-Fi</item>
         <item>Preferentment amb dades mòbils</item>
