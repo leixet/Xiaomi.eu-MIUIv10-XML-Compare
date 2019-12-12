@@ -164,7 +164,11 @@
   <string name="battery_info_status_full">Plena</string>
   <string name="battery_info_status_not_charging">"No s'està carregant"</string>
   <string name="battery_info_status_unknown">Desconegut</string>
+  <string name="battery_low_button_not_open_power_save">Ara no</string>
+  <string name="battery_low_button_open_power_save">Activa</string>
   <string name="battery_low_percent_format">%d%% restant</string>
+  <string name="battery_low_percent_format_save_mode_closed">Queda menys del %d%% de bateria. Carregueu el vostre dispositiu.</string>
+  <string name="battery_low_percent_format_save_mode_open">Queda menys del %d%% de bateria disponible. Activeu Estalvi de bateria per reduir el consum.</string>
   <string name="battery_low_percent_format_saver_started">Queda %s. L\'estalvi de bateria està activat.</string>
   <string name="battery_low_title">Connecteu el carregador</string>
   <string name="battery_low_why">Configuració</string>
