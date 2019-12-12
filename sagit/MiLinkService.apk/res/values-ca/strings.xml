@@ -14,4 +14,11 @@
   <string name="help_page_text_05">Pas 1</string>
   <string name="help_page_text_08">Pas 2</string>
   <string name="help_page_text_11">Pas 3</string>
+  <string name="notification_show_more">Mostra més funcionalitats</string>
+  <string name="private_protect">Protecció de la privadesa</string>
+  <string name="status_bar_in_casting">En emissió</string>
+  <string name="tile_label">Emissió de la pantalla</string>
+  <string name="toast_guide_show_more">Més informació</string>
+  <string name="toast_guide_title">Explora noves característiques</string>
+  <string name="toast_msg_for_multi_window">Aquesta funcionalitat no està disponible en el mode de pantalla dual</string>
 </resources>
