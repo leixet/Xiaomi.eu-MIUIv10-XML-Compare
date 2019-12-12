@@ -1388,6 +1388,11 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="password_type_underline">&lt;u&gt;Canvia la contrasenya&lt;/u&gt;</string>
   <string name="password_xspace_forget_pattern_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="pc_activity_title">Optimitza la bateria</string>
+  <string name="pc_battery_detail_curve_reference_now">Ara</string>
+  <string name="pc_battery_history_battery_detail_menu_item">Detalls</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Classificació</string>
+  <string name="pc_battery_history_rank_mha_menu_item">Microampers per hora</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Percentatge</string>
   <string name="pc_install_manager">Instal·lació a través d\'USB</string>
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
   <string name="per_month_pkg_traffic_settings">Establir límit de dades</string>
@@ -1406,6 +1411,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="permit_running_network">Dades en segon pla</string>
   <string name="person_hotpot">Punt d\'accés mòbil</string>
   <string name="phone">Telèfon</string>
+  <string name="phone_manage_electric_title">Bateria</string>
   <string name="pkg_traffic">Estableix límit d\'ús de dades</string>
   <string name="pm_auto_start_by_other">Inici desencadenat</string>
   <string name="pm_auto_start_by_other_app">\"Permetre a l\'aplicació iniciï altres apps</string>
@@ -1434,6 +1440,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_list_item_deep_save_title">Configuració avançada</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
+  <string name="power_center_power_save_title_text">Estalvi de bateria</string>
   <string name="power_center_repeat">Repeteix</string>
   <string name="power_center_scan_item_title_GPS">Ajust de la precisió del GPS</string>
   <string name="power_center_scan_item_title_abnormal">Problemes amb la bateria</string>
@@ -1445,6 +1452,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_scan_result_safe">No s\'ha detectat cap problema de bateria</string>
   <string name="power_center_state_off">Desactivat</string>
   <string name="power_center_state_on">Activat</string>
+  <string name="power_center_super_save_title_text">Estalvi extrem de bateria</string>
   <string name="power_center_time_to_boot">Hora d\'encesa</string>
   <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
   <string name="power_center_title">Ús de bateria</string>
@@ -1457,6 +1465,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
+  <string name="power_dialog_super_save_title">Estalvi extrem de bateria</string>
   <string name="power_idle">Telèfon inactiu</string>
   <string name="power_optimize_auto_catagory_title">Problemes amb la bateria</string>
   <string name="power_optimize_battery_save_idea">Optimitza la bateria</string>
@@ -1473,6 +1482,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_optimize_save_mode_not_opened">Estalvi de bateria desactivat</string>
   <string name="power_optimize_save_on_lockscreen">Estalvia energia quan el dispositiu està bloquejat</string>
   <string name="power_phone">Trucades de veu</string>
+  <string name="power_save_mode">Estalvi de bateria</string>
   <string name="power_save_mode_auto_exit_summary">Apaga quan la bateria estigui al 60% o totalment carregada</string>
   <string name="power_save_mode_auto_exit_title">Apaga quan estigui carregada</string>
   <string name="power_save_mode_close_warn_text">L\'estalvi de bateria restringeix l\'activitat en segon pla i la sincronització. Si decidiu utilitzar-lo quan el dispositiu està carregat, algunes característiques podrien no funcionar correctament. Voleu mantenir l\'estalvi de bateria actiu quan el dispositiu ja estigui carregat?</string>
@@ -1484,10 +1494,13 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_save_mode_summary">Monitoritza els processos en segon pla i desactiva la sincronització.</string>
   <string name="power_save_on_time_end_time_summary_na">Fins</string>
   <string name="power_save_on_time_start_time_summary_na">Des de</string>
+  <string name="power_save_settings">Configuració de la bateria</string>
   <string name="power_save_started_summary_text">"L'estalvi de bateria està activat. Això minva l'activitat en segon pla de les aplicacions, atura sincronitzacions i minimitza animacions del sistema."</string>
   <string name="power_save_summary_text">"Activeu l'estalvi de bateria per reduir l'activitat de fons de les aplicacions, aturar la sincronització, i reduir al mínim les animacions del sistema."</string>
   <string name="power_save_title_text">Estalvi de bateria</string>
   <string name="power_screen">Pantalla</string>
+  <string name="power_setting_background_app_save_title">Estalvi de bateria en segon pla</string>
+  <string name="power_setting_power_save_summary_text">Optimitza la configuració del sistema per estalviar bateria</string>
   <string name="power_settings_category_title">Indicador de bateria</string>
   <string name="power_settings_lock_screen_saver_title">Configuració de la pantalla de blocatge</string>
   <string name="power_settings_number">Percentatge</string>
