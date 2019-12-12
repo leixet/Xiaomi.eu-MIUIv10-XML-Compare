@@ -171,6 +171,7 @@
   <string name="battery_low_percent_format_save_mode_open">Queda menys del %d%% de bateria disponible. Activeu Estalvi de bateria per reduir el consum.</string>
   <string name="battery_low_percent_format_saver_started">Queda %s. L\'estalvi de bateria està activat.</string>
   <string name="battery_low_title">Connecteu el carregador</string>
+  <string name="battery_low_title_power_save">Estalvi de bateria</string>
   <string name="battery_low_why">Configuració</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_panel_title">Consum de bateria</string>
