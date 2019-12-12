@@ -350,6 +350,8 @@ utilitzat %s"</string>
   <string name="forward_intent_to_work">"Esteu utilitzant aquesta aplicació en el vostre perfil de treball"</string>
   <string name="gadget_host_error_inflating">"No s'ha pogut afegir el giny."</string>
   <string name="global_action_assist">Ajuda</string>
+  <string name="global_action_battery_saver_off_status">Estalvi de bateria està activat</string>
+  <string name="global_action_battery_saver_on_status">Estalvi de bateria està desactivat</string>
   <string name="global_action_bug_report">Informe d\'error</string>
   <string name="global_action_emergency">Emergència</string>
   <string name="global_action_lock">Bloqueig de pantalla</string>
@@ -358,6 +360,7 @@ utilitzat %s"</string>
   <string name="global_action_settings">Configuració</string>
   <string name="global_action_silent_mode_off_status">El so està activat</string>
   <string name="global_action_silent_mode_on_status">El so està desactivat</string>
+  <string name="global_action_toggle_battery_saver">Estalvi de bateria</string>
   <string name="global_action_toggle_silent_mode">Mode silenci</string>
   <string name="global_action_voice_assist">Assistent de veu</string>
   <string name="global_actions">Opcions del telèfon</string>
