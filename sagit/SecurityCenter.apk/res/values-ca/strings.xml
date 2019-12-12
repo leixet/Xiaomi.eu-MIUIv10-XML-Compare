@@ -944,6 +944,7 @@
   <string name="handle_title_network">Seguretat del Wi-Fi</string>
   <string name="handle_title_pay_env">Entorn de pagament</string>
   <string name="handle_title_privacy">Privadesa i seguretat</string>
+  <string name="handle_title_system">Consum de bateria del sistema</string>
   <string name="hide_mode_app_background_setting_text">Estalvi de bateria de les apps</string>
   <string name="hide_mode_summary_text">"Gestioneu l'activitat en segon pla de les aplicacions per estalviar bateria"</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
@@ -1280,6 +1281,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="note_list_none">La llista és buida</string>
   <string name="note_sms_none">Sense missatges</string>
   <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Premeu per resoldre el problema</string>
   <string name="notification_exit_power_save_mode">Desactiva l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_mask_summary">"Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions"</string>
@@ -1394,6 +1396,10 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="pc_battery_history_rank_mha_menu_item">Microampers per hora</string>
   <string name="pc_battery_history_rank_percent_menu_item">Percentatge</string>
   <string name="pc_install_manager">Instal·lació a través d\'USB</string>
+  <string name="pc_search_keywords_battery">Bateria</string>
+  <string name="pc_search_keywords_battery_save">Estalvi de bateria</string>
+  <string name="pc_search_keywords_battery_use">Consum de bateria</string>
+  <string name="pc_statistics_battery_use_title">Consum de bateria</string>
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
   <string name="per_month_pkg_traffic_settings">Establir límit de dades</string>
   <string name="percent_text_formatted">%s%%</string>
@@ -1501,6 +1507,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_screen">Pantalla</string>
   <string name="power_setting_background_app_save_title">Estalvi de bateria en segon pla</string>
   <string name="power_setting_power_save_summary_text">Optimitza la configuració del sistema per estalviar bateria</string>
+  <string name="power_setting_super_save_summary_text">Limita la majoria de lfuncions del sistema per estalviar bateria</string>
   <string name="power_settings_category_title">Indicador de bateria</string>
   <string name="power_settings_lock_screen_saver_title">Configuració de la pantalla de blocatge</string>
   <string name="power_settings_number">Percentatge</string>
