@@ -37,6 +37,10 @@
         <item quantity="other">%d aplicacions tenen autorització d\'inici automàtic</item>
         <item quantity="one">%d aplicació te autorització d\'inici automàtic</item>
     </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item quantity="other">S\'han restringit %1$d aplicacions</item>
+        <item quantity="one">S\'ha restringit %1$d aplicació</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicacions es poden connectar a la xarxa</item>
         <item quantity="one">%d aplicació es pot connectar a la xarxa</item>
@@ -189,6 +193,10 @@
         <item quantity="other">S\'han concedit %d permisos</item>
         <item quantity="one">S\'ha concedit %d permís</item>
     </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Aplicacions que esgoten la bateria</item>
+        <item quantity="one">%1$s està esgotant la bateria</item>
+    </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d tasques d\'impressió</item>
         <item quantity="one">1 tasca d\'impressió</item>
@@ -196,6 +204,10 @@
     <plurals name="print_settings_summary">
         <item quantity="other">%1$d serveis d\'impressió activats</item>
         <item quantity="one">1 servei d\'impressió activat</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">S\'està limitant el consum de bateria a %1$d aplicacions</item>
+        <item quantity="one">S\'està limitant el consum de bateria a %1$d aplicació</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d autoritzacions addicionals</item>
