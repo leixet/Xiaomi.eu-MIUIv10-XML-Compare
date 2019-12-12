@@ -214,7 +214,7 @@
         <item>Gràfic</item>
         <item>Percentatge</item>
         <item>Barra superior</item>
-        <item>Top bar</item>
+        <item>Barra superior</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
@@ -962,7 +962,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gràfic</item>
         <item>Percentatge</item>
-        <item>Percentage (next to the icon)</item>
+        <item>Percentatge (al costat de la icona)</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Cap</item>
@@ -1255,7 +1255,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Gràfic</item>
         <item>Percentatge (dins la icona)</item>
-        <item>Percentage (next to the icon in the Notification shade)</item>
+        <item>Percentatge (al costat de la icona en l\'àrea de notificacions)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Preferentment amb Wi-Fi</item>
