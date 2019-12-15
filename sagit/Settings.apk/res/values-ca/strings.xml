@@ -1518,8 +1518,8 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="dangerous_option_hint_title">Funció d\'alt risc habilitada</string>
   <string name="dangerous_option_switch_title">Avisa sobre les funcions d’alt risc</string>
   <string name="dark_color_mode">Mode fosc</string>
-  <string name="dark_color_summary_lcd">"Utilitza una paleta de colors més fosca per als fons de sistema i aplicacions compatibles. El mode fosc us pot ajudar a alleujar la tensió dels ulls quan utilitzeu el dispositiu a les fosques."</string>
-  <string name="dark_color_summary_oled">Utilitza una paleta de colors més fosca per als fons de sistema i aplicacions compatibles. El mode fosc redueix el consum d’energia i ajuda a alleujar la tensió ocular.</string>
+  <string name="dark_color_summary_lcd">"Utilitza una paleta de colors més foscs en els fons de pantalla del sistema i d'aplicacions compatibles. El mode Fosc us pot ajudar a reduir l'esforç visual en utilitzar el vostre dispositiu a les fosques."</string>
+  <string name="dark_color_summary_oled">Utilitza una paleta de colors més foscs en els fons de pantalla del sistema i d\'aplicacions compatibles. El mode Fosc redueix el consum energètic i redueix l\'esforç visual.</string>
   <string name="dark_ui_mode">Mode nocturn</string>
   <string name="dark_ui_mode_title">Configura el mode nocturn</string>
   <string name="dashboard_title">Configuració</string>
