@@ -140,6 +140,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="particulate_matter_exceeded">Alta</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Molt alta</string>
+  <string name="permission_device_introduce">Per reconèixer la identificació de dispositiu basada en el model de dispositiu i l\'IMEI, i proporcionar serveis localitzats en funció de les preferències d\'idioma</string>
   <string name="policy_settings">Termes i condicions</string>
   <string name="precipitation_degree_five">tempesta</string>
   <string name="precipitation_degree_four">intensa</string>
