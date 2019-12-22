@@ -390,6 +390,8 @@
   <string name="downloading_title">S\'estan baixant fotos del Mi Cloud</string>
   <string name="edit_baby_info">Veure informació del nadó</string>
   <string name="email_picker_title">Afegeix un correu compartit</string>
+  <string name="empty_description_conditions">Recorda les coses importants</string>
+  <string name="empty_description_no_cards">Recorda les coses importants</string>
   <string name="empty_query_text_msg">"No sé que cercar…"</string>
   <string name="empty_recommend_back">Enrere</string>
   <string name="empty_recommend_face_page_view">No hi ha més recomanacions</string>
