@@ -849,6 +849,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permgrouplab_sensors">Sensors corporals</string>
   <string name="permgrouplab_storage">Emmagatzematge</string>
   <string name="permission">Permisos</string>
+  <string name="permission_remember_choice">Recorda-la</string>
   <string name="permission_request_notification_title">Permís sol·licitat</string>
   <string name="permission_request_notification_with_subtitle">"Permís sol·licitat
 per al compte %s"</string>
