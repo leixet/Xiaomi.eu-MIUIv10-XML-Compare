@@ -475,6 +475,7 @@ Taxa de mostreig"</string>
   <string name="close_profile">Tanca</string>
   <string name="close_volte">Desactiva VoLTE</string>
   <string name="cloud_antispam_title">Identifica números desconeguts</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">"No es pot modificar les preferències de xarxa mentre s'utilitza Mi Roaming"</string>
   <string name="cmcc_ut_data_enable_prompt">Aquest servei requereix connexió de dades mòbils. Engegueu-lo per continuar.</string>
   <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
   <string name="config_default_data_sim">Configuració</string>
@@ -1145,6 +1146,8 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="preferred_network_type_pref_entries_only_3g">Només 3G</string>
   <string name="preferred_network_type_title">Tipus de xarxa preferit</string>
   <string name="preferred_phone_account">Compte de trucades preferit</string>
+  <string name="preferred_wificall_roaming_title">Preferències d\'itinerància</string>
+  <string name="preferred_wificall_title">Preferències de xarxa</string>
   <string name="private_num">Número privat</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
   <string name="prompt_to_turnoff_volte_when_failed">"Els serveis de VoLTE no estan disponibles. Desactiveu VoLTE per fer una trucada."</string>
