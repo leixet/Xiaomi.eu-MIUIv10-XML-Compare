@@ -5748,6 +5748,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="usb_msd_title">Dispositiu d\'emmagatzematge massiu</string>
   <string name="usb_mtp_summary">Permet la transferència de fitxers multimèdia a Windows o utilitzant la transferència de fitxers Android en Mac (vegeu www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Dispositiu multimèdia (MTP)</string>
+  <string name="usb_preference">Preferències d\'USB</string>
   <string name="usb_ptp_summary">Permet la transferència de fotos utilitzant programari de la càmera i de fitxers que no siguin compatibles amb MPT</string>
   <string name="usb_ptp_title">Càmera (PTP)</string>
   <string name="usb_summary_MIDI">Ús del dispositiu com a MIDI</string>
