@@ -13,4 +13,5 @@
   <string name="passport_use_generated_pwd_title">Recordeu la vostra contrasenya</string>
   <string name="plus_one_submit_dialog_not_show_again">Mantén la preferència</string>
   <string name="screen_lock">Blocatge de pantalla</string>
+  <string name="tab_title_preferences">Configuració</string>
 </resources>
