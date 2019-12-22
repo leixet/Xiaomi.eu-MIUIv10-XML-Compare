@@ -385,6 +385,7 @@
   <string name="passenger">Passatger</string>
   <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
+  <string name="phone_num">Telèfon</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
   <string name="pref_reminder_time">Moment de recordatori</string>
   <string name="pref_title_alarm_remind">Recordatoris d\'alarma</string>
@@ -424,6 +425,7 @@
   <string name="reminder_overdue">Caducat</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_alarm_changed_credit_event">Recorda sempre els pagaments de targes de crèdit</string>
+  <string name="repeat_alarm_changed_electricity_event">Recorda sempre les factures d’electricitat</string>
   <string name="repeat_alarm_changed_event">Estableix un recordatori repetitiu</string>
   <string name="repeat_alarm_changed_flight_event">Recorda sempre els vols</string>
   <string name="repeat_alarm_changed_gas_event">Recorda sempre els pagaments de gas</string>
