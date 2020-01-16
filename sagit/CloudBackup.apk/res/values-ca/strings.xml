@@ -120,6 +120,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="home_restore_error">"No s'ha pogut restaurar la pantalla d'inici"</string>
   <string name="lack_of_storage">No hi ha prou espai d\'emmagatzematge</string>
   <string name="latest_backup_time_loading">S\'està carregant&#8230;</string>
+  <string name="load_backup_failed">"No s'ha pogut pujar les còpies de seguretat"</string>
   <string name="managespace_delete_backup">Elimina</string>
   <string name="menu_item_managespace">Gestiona l\'espai</string>
   <string name="menu_item_sort">Ordena per</string>
