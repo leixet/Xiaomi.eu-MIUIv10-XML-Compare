@@ -544,6 +544,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="error_sdcard_access">No es pot accedir a l\'espai del sistema!</string>
   <string name="fod_pressure_sensor_pressure_data_collection">Recollint dades de pressió....</string>
   <string name="fpc_pn_calibration">Captura i emmagatzema la imatge PN</string>
+  <string name="hint">podria trigar una estona, tingueu paciència.</string>
   <string name="ir_camera_test_summary_capture">"Instruccions de la prova:
  		 
 1.Premeu el botó Càmera que hi ha a sota per iniciar la interfície de càmera.
