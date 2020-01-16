@@ -11,6 +11,7 @@
   <string name="abc_capital_on">ACTIVA</string>
   <string name="abc_searchview_description_submit">Envia la consulta</string>
   <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="about_download_fail">"No s'ha pogut baixar"</string>
   <string name="about_newest">Els Cavallets de fons de pantalla estan actualitzats.</string>
   <string name="add_launch_hint_text">Afegeix una drecera de pantalla d\'inici</string>
   <string name="app_name">Cavallets de fons de pantalla Mi</string>
@@ -50,7 +51,9 @@
   <string name="current_network_invalid">Cal que primer us connecteu a la xarxa</string>
   <string name="current_no_more_pictures">"Això és tot per ara"</string>
   <string name="current_permission_network_denied">Permetre al carrusel de fons de pantalla accedir a la xarxa</string>
+  <string name="cw_add_tip_fail">"No s'ha pogut afegir"</string>
   <string name="cw_album_no_right">Permet als Cavallets de fons de pantalla d\'accedir a la galeria</string>
+  <string name="cw_del_tip_fail">"No s'ha pogut esborrar"</string>
   <string name="cw_permission_tip">Permet als Cavallets de fons de pantalla d\'accedir a l\'emmagatzemament a Configuració &gt; Configuració de l\'aplicació.</string>
   <string name="day">Una vegada al dia</string>
   <string name="declaration">Obtenir nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
