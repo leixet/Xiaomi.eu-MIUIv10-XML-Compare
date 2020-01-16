@@ -128,6 +128,7 @@
   <string name="extended_storage_file_can_not_open">"No es pot obrir el fitxer. Copieu el fitxer a l'emmagatzematge intern."</string>
   <string name="extract">Extreure</string>
   <string name="fail_to_create_folder_unknown">"No es pot crear la carpeta"</string>
+  <string name="failed_obtain_permissions">"No s'ha pogut obtenir els permisos"</string>
   <string name="favorite_photo">Fotos</string>
   <string name="favorite_ringtone">Tons de trucada</string>
   <string name="favorite_screen_cap">Captures de pantalla</string>
