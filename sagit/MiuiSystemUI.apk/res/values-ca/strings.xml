@@ -37,7 +37,7 @@
   <string name="accessibility_clear_all">Esborra totes les notificacions.</string>
   <string name="accessibility_data_one_bar">Dades 1 barra.</string>
   <string name="accessibility_data_saver_off">L\'estalvi de dades està inactiu</string>
-  <string name="accessibility_data_saver_on">L\'estalvi de dades està actiu</string>
+  <string name="accessibility_data_saver_on">L\'estalvi de dades està activat</string>
   <string name="accessibility_data_signal_full">Senyal de dades màxima.</string>
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
