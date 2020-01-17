@@ -36,7 +36,9 @@
   <string name="privacy_declare_dialog_title">Condicions del servei</string>
   <string name="privacy_prompt_traffic_purchase_message">"Per obtenir més informació sobre les opcions de compra de dades, es xifraran i es pujaran als servidors de Mi el vostre número de telèfon i els detalls de l'operador."</string>
   <string name="share">Comparteix</string>
+  <string name="superpower_exit_hint">S\'està aturant l\'estalvi de bateria Ultra…</string>
   <string name="superpower_progress_battery_last">%s disponible</string>
+  <string name="superpower_settings">Estalvi de bateria Ultra</string>
   <string name="title_share_link">URL de compartició</string>
   <string name="usage_sorted_loading_text">Un moment…</string>
   <string name="xunyou_pay_webview">Serveis Xunyou</string>
