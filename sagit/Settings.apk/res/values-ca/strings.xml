@@ -694,6 +694,7 @@ Per restringir l’aplicació, activeu primer l’optimització de la bateria."<
   <string name="battery_saver_off_scheduled_summary">S’activarà a les %1$s</string>
   <string name="battery_saver_off_summary">Apagat / %1$s</string>
   <string name="battery_saver_on_summary">Engegat / %1$s</string>
+  <string name="battery_saver_seekbar_title">A les %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Activa</string>
   <string name="battery_saver_turn_on_automatically_never">Mai</string>
   <string name="battery_saver_turn_on_automatically_pct">si la bateria està en %1$s</string>
