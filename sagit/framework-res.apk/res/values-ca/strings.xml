@@ -135,6 +135,7 @@ Podeu canviar la característica en Configuració &gt; Accessibilitat."</string>
   <string name="battery_saver_description">\"Per ajudar a ampliar la durada de la bateria, l\'estalvi de bateria redueix el funcionament del dispositiu i limita la vibració, el servei d\'ubicació i la majoria de les dades de fons. El correu electrònic, la missatgeria i les altres aplicacions que utilitzen la sincronització podrien no actualitzar-se fins que les obriu.
 
 L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carregant.\"</string>
+  <string name="battery_saver_description_with_learn_more">Per allargar la durada de la bateria, el mode d\'estalvi de bateria desactiva algunes funcions i restringeix aplicacions. &lt;annotation id=\"url\"&gt;Més informació\"&lt;/annotation&gt;</string>
   <string name="beforeOneMonthDurationPast">Abans de fa 1 mes</string>
   <string name="bluetooth_a2dp_audio_route_name">Àudio Bluetooth</string>
   <string name="browse">Navegador</string>
