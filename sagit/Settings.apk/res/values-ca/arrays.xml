@@ -1246,6 +1246,12 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>S\'ha esgotat el temps. S\'està reintentant…</item>
         <item>Dispositiu connectat</item>
     </string-array>
+    <string-array name="when_to_start_screensaver_values">
+        <item>while_charging_only</item>
+        <item>while_docked_only</item>
+        <item>either_charging_or_docked</item>
+        <item>mai</item>
+    </string-array>
     <string-array name="whetstone_level_entries">
         <item>Apagat</item>
         <item>Baixa</item>
