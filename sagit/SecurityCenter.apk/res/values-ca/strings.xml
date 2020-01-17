@@ -946,6 +946,7 @@
   <string name="handle_title_privacy">Privadesa i seguretat</string>
   <string name="handle_title_system">Consum de bateria del sistema</string>
   <string name="hide_mode_app_background_setting_text">Estalvi de bateria de les apps</string>
+  <string name="hide_mode_result_summary_text">Ajusteu la configuració d\'estalvi de bateria per cada aplicació</string>
   <string name="hide_mode_summary_text">"Gestioneu l'activitat en segon pla de les aplicacions per estalviar bateria"</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="hint_antispam_mode_edit">Mode personalitzat</string>
@@ -1436,6 +1437,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
   <string name="power_center_back">Enrere</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
+  <string name="power_center_dialog_msg_bottom">Podeu allargar la durada de la bateria fins a %1$dh %2$dm. Voleu activar l\'estalvi de bateria?</string>
+  <string name="power_center_dialog_msg_top">Amb l\'estalvi de bateria activat, MIUI farà les següents optimitzacions:</string>
   <string name="power_center_hints_scan_danger_result">Podeu corregir ara mateix problemes de bateria</string>
   <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
   <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
@@ -1471,6 +1474,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
+  <string name="power_dialog_super_save_msg">"L'estalvi de bateria Ultra restringeix la majoria de característiques que consumeixen energia i redueix les funcions del dispositiu fins deixar-ne només les bàsiques (com les trucades, els SMS i la connexió a la xarxa), allargant al màxim la seva disponibilitat. Voleu activar l'estalvi d'energia Ultra?"</string>
   <string name="power_dialog_super_save_title">Estalvi extrem de bateria</string>
   <string name="power_idle">Telèfon inactiu</string>
   <string name="power_optimize_auto_catagory_title">Problemes amb la bateria</string>
